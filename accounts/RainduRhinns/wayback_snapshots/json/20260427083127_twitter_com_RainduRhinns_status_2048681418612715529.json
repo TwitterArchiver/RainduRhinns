@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2048448069788905666",
+    "created_at": "2026-04-27T08:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048681418612715529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048681418612715529",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048448069788905666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2048448069788905666",
+        "created_at": "2026-04-27T08:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048681418612715529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048681418612715529",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048448069788905666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "2048448069788905666",
+        "created_at": "2026-04-26T17:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048448069788905666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048448069788905666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 927,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是，女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 895,
+          "like_count": 4209,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "仅供研究使用。\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "vacue138950"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "shsh548866"
+              },
+              {
+                "end": 53,
+                "start": 39,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 1071,
+          "like_count": 19601,
+          "listed_count": 6,
+          "media_count": 403,
+          "tweet_count": 11064
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

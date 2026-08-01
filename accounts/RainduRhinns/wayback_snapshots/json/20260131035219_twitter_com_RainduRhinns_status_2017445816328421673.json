@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2017445816328421673",
+    "created_at": "2026-01-31T03:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T04:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017445816328421673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taikongjile000…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/taikongjile000/status/2017444072265539599",
+          "start": 3,
+          "url": "https://t.co/IPhFL7W5XB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017445816328421673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017444072265539599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人 https://t.co/IPhFL7W5XB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2017445816328421673",
+        "created_at": "2026-01-31T03:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017445816328421673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taikongjile000…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/taikongjile000/status/2017444072265539599",
+              "start": 3,
+              "url": "https://t.co/IPhFL7W5XB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017445816328421673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017444072265539599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人 https://t.co/IPhFL7W5XB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2017444072265539599",
+        "created_at": "2026-01-31T03:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T04:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017444072265539599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017444072265539599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说中推会不会存在一种人，键政、炒币、卖淫、药娘等中推特色全占的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 881,
+          "like_count": 3693,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 160,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

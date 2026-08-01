@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+          "id": "1557696986668707842",
+          "name": "Household Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graphic Design",
+          "id": "1046580793848418305",
+          "name": "Graphic design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1228032306784305152",
+          "name": "Interior design"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278016095144665089",
+          "name": "At home"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1965779687986344003",
+    "created_at": "2025-09-10T14:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T15:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965779687986344003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blueicesama/st…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/blueicesama/status/1965698689575653593",
+          "start": 158,
+          "url": "https://t.co/NtFlp4YkRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965779687986344003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965698689575653593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也不多要求\n一周时间 \n我能当性奴 能打扫卫生 \n能代写作业 代肝游戏 代做毕设限数学CS文史哲社科\n能带宠物遛弯铲屎 能做饭\n从鞭打滴蜡到通下水修热水器拼装宜家家具能做数学题\n不包机酒不包吃住也行 我可以睡门外\n一台iPhone17ProMax 512GB\n不包ac+也可以 充电器和盒子您自己留着也行\n求包养 https://t.co/NtFlp4YkRi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1965779687986344003",
+        "created_at": "2025-09-10T14:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965779687986344003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blueicesama/st…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/blueicesama/status/1965698689575653593",
+              "start": 158,
+              "url": "https://t.co/NtFlp4YkRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965779687986344003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965698689575653593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也不多要求\n一周时间 \n我能当性奴 能打扫卫生 \n能代写作业 代肝游戏 代做毕设限数学CS文史哲社科\n能带宠物遛弯铲屎 能做饭\n从鞭打滴蜡到通下水修热水器拼装宜家家具能做数学题\n不包机酒不包吃住也行 我可以睡门外\n一台iPhone17ProMax 512GB\n不包ac+也可以 充电器和盒子您自己留着也行\n求包养 https://t.co/NtFlp4YkRi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737474298934161409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to household durables and non-durables, home remodeling, interior design, furniture",
+              "id": "1557696986668707842",
+              "name": "Household Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graphic Design",
+              "id": "1046580793848418305",
+              "name": "Graphic design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1228032306784305152",
+              "name": "Interior design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278016095144665089",
+              "name": "At home"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1965698689575653593",
+        "created_at": "2025-09-10T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965698689575653593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965698689575653593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3218,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我也不多要求\n一周时间 \n我能当性奴 能打扫卫生 \n能代写作业 代肝游戏 代做毕设（限平面设计\n能带宠物遛弯铲屎 能做饭\n从鞭打喝尿滴蜡到到通下水修热水器拼装宜家家具\n除了不能做数学题\n不包机酒不包吃住也行 我可以睡门外\n一台iPhone17ProMax 512GB\n不包ac+也可以 充电器和盒子您自己留着也行\n求包养"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 712,
+          "like_count": 2826,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 875
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/furry/Apple全肯定bot/铁道/mc/大连/美术生/中文·日本語·EN/杂学·碎碎念·生活账/PPP党/三倍厚袜/网蓝/里@blueicesamaQWQ⚠️不扩空号·关注不代表本人立场/可爱小狐狸@ri_si16512/小狗@OoxizeoO/老公@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 79,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "OoxizeoO"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1953842532942483704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5588,
+          "following_count": 2995,
+          "like_count": 31491,
+          "listed_count": 8,
+          "media_count": 690,
+          "tweet_count": 6326
+        },
+        "username": "blueicesama",
+        "verified": true
+      }
+    ]
+  }
+}

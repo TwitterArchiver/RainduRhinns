@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1974817525042127060",
+    "created_at": "2025-10-06T20:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975304072866767073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 24,
+          "id": "1965393379224944645",
+          "start": 12,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975304072866767073",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975289777785294974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @hagishigure CIECAM系统硬伤还挺大的，一开始错误的以为存在“单频光”可以作为原色进行颜色匹配实验，拿650nm(R)530nm(G)R460nm(B)作三原色，导致色品不均匀数值不切合不方便计算的结构畸性，后来CAM叠加了五次线性变换来解决数据结构畸型的问题，不断地优化导致使用运算起来又极度复杂，由波长编码色相开始一错到底"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-06T20:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975304072866767073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 24,
+              "id": "1965393379224944645",
+              "start": 12,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975304072866767073",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975289777785294974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @hagishigure CIECAM系统硬伤还挺大的，一开始错误的以为存在“单频光”可以作为原色进行颜色匹配实验，拿650nm(R)530nm(G)R460nm(B)作三原色，导致色品不均匀数值不切合不方便计算的结构畸性，后来CAM叠加了五次线性变换来解决数据结构畸型的问题，不断地优化导致使用运算起来又极度复杂，由波长编码色相开始一错到底"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-06T19:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975289777785294974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 26,
+              "id": "1965393379224944645",
+              "start": 14,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PDF | Many observers see geometric visual hallucinations after taking hallucinogens such as LSD, cannabis, mescaline or psilocybin; on viewing bright... | Find, read and cite all the research you need on ResearchGate",
+              "display_url": "researchgate.net/publication/11…",
+              "end": 56,
+              "expanded_url": "https://www.researchgate.net/publication/11500666_What_Geometric_Visual_Hallucinations_Tell_Us_about_the_Visual_Cortex",
+              "images": [
+                {
+                  "height": 1367,
+                  "url": "https://pbs.twimg.com/news_img/1975289782084476928/5km8cnno?format=png&name=orig",
+                  "width": 850
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1975289782084476928/5km8cnno?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "(PDF) What Geometric Visual Hallucinations Tell Us about the Visual Cortex",
+              "unwound_url": "https://www.researchgate.net/publication/11500666_What_Geometric_Visual_Hallucinations_Tell_Us_about_the_Visual_Cortex",
+              "url": "https://t.co/EtRZu3x1cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975289777785294974",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975064122430738551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @hagishigure 相关的研究有https://t.co/EtRZu3x1cJ和CIECAM等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 760,
+          "like_count": 2895,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1115
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 30,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 64
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 85,
+          "like_count": 1593,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 283
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

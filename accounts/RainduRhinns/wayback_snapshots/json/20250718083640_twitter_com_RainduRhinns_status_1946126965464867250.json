@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946126952789643264",
+        "3_1946126952802172929",
+        "3_1946126952810606593",
+        "3_1946126952785498112"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1946126965464867250",
+    "created_at": "2025-07-18T08:36:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946126965464867250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRet4ec9GL",
+          "end": 33,
+          "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+          "media_key": "3_1946126952789643264",
+          "start": 10,
+          "url": "https://t.co/XRet4ec9GL"
+        },
+        {
+          "display_url": "pic.x.com/XRet4ec9GL",
+          "end": 33,
+          "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+          "media_key": "3_1946126952802172929",
+          "start": 10,
+          "url": "https://t.co/XRet4ec9GL"
+        },
+        {
+          "display_url": "pic.x.com/XRet4ec9GL",
+          "end": 33,
+          "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+          "media_key": "3_1946126952810606593",
+          "start": 10,
+          "url": "https://t.co/XRet4ec9GL"
+        },
+        {
+          "display_url": "pic.x.com/XRet4ec9GL",
+          "end": 33,
+          "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+          "media_key": "3_1946126952785498112",
+          "start": 10,
+          "url": "https://t.co/XRet4ec9GL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946126965464867250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 18,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱长发男tv导致的 https://t.co/XRet4ec9GL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1946126952789643264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIIJwzXEAA8xG_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1946126952802172929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIIJw2WQAEHCYi.jpg",
+        "width": 758
+      },
+      {
+        "height": 472,
+        "media_key": "3_1946126952810606593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIIJw4W8AEXTlA.jpg",
+        "width": 1024
+      },
+      {
+        "height": 965,
+        "media_key": "3_1946126952785498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIIJwyX0AAPCds.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946126952789643264",
+            "3_1946126952802172929",
+            "3_1946126952810606593",
+            "3_1946126952785498112"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1946126965464867250",
+        "created_at": "2025-07-18T08:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946126965464867250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRet4ec9GL",
+              "end": 33,
+              "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+              "media_key": "3_1946126952789643264",
+              "start": 10,
+              "url": "https://t.co/XRet4ec9GL"
+            },
+            {
+              "display_url": "pic.x.com/XRet4ec9GL",
+              "end": 33,
+              "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+              "media_key": "3_1946126952802172929",
+              "start": 10,
+              "url": "https://t.co/XRet4ec9GL"
+            },
+            {
+              "display_url": "pic.x.com/XRet4ec9GL",
+              "end": 33,
+              "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+              "media_key": "3_1946126952810606593",
+              "start": 10,
+              "url": "https://t.co/XRet4ec9GL"
+            },
+            {
+              "display_url": "pic.x.com/XRet4ec9GL",
+              "end": 33,
+              "expanded_url": "https://x.com/RainduRhinns/status/1946126965464867250/photo/1",
+              "media_key": "3_1946126952785498112",
+              "start": 10,
+              "url": "https://t.co/XRet4ec9GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946126965464867250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱长发男tv导致的 https://t.co/XRet4ec9GL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 620,
+          "like_count": 2520,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 432
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

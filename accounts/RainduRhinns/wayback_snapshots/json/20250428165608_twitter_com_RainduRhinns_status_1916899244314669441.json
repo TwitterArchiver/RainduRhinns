@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916027409373233152"
+      ],
+      "media_source_tweet_id": [
+        "1916027413416579499"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1916899244314669441",
+    "created_at": "2025-04-28T16:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T17:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916899244314669441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816193669864775684",
+          "start": 3,
+          "username": "CD12031206"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTbGGuE0fZ",
+          "end": 51,
+          "expanded_url": "https://x.com/CD12031206/status/1916027413416579499/photo/1",
+          "media_key": "3_1916027409373233152",
+          "start": 28,
+          "url": "https://t.co/xTbGGuE0fZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916899244314669441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916027413416579499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CD12031206: 刚醒，怎么屁股痛痛的🥺 https://t.co/xTbGGuE0fZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916899244314669441].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916899244314669441",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916899244314669441"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916027409373233152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpcYxvuagAAfYry.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916027409373233152"
+          ]
+        },
+        "author_id": "1816193669864775684",
+        "conversation_id": "1916027413416579499",
+        "created_at": "2025-04-26T07:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T08:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916027413416579499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTbGGuE0fZ",
+              "end": 35,
+              "expanded_url": "https://x.com/CD12031206/status/1916027413416579499/photo/1",
+              "media_key": "3_1916027409373233152",
+              "start": 12,
+              "url": "https://t.co/xTbGGuE0fZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916027413416579499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7732,
+          "like_count": 275,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "刚醒，怎么屁股痛痛的🥺 https://t.co/xTbGGuE0fZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 508,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 319
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T19:28:18.000Z",
+        "description": "永远19/杭州/furry/含糖💊/\n❤️@YenoChen/小号:@CaskCd10616",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "YenoChen"
+              },
+              {
+                "end": 46,
+                "start": 34,
+                "username": "CaskCd10616"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/cdyuzh…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/cdyuzhu.bsky.social",
+                "start": 0,
+                "url": "https://t.co/84xUfi1Gk5"
+              }
+            ]
+          }
+        },
+        "id": "1816193669864775684",
+        "name": "CD PX-Sherry、🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816193839092359175/lYgnjdae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 367,
+          "like_count": 7429,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/84xUfi1Gk5",
+        "username": "CD12031206",
+        "verified": false
+      }
+    ]
+  }
+}

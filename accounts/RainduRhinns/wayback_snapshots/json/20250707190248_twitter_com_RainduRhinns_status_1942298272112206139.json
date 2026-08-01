@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "1942263626943062451",
+    "created_at": "2025-07-07T19:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T20:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942298272112206139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1205748134892032000",
+          "start": 0,
+          "username": "Liquid_Pomelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942298272112206139",
+    "in_reply_to_user_id": "1205748134892032000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942263626943062451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liquid_Pomelo 指哪种意义上的furry本身呢，柑橘学界对furry研究主要还是Media studies/Community studies的吧，很多还是Fans Community studies的方法，谈具有共同的欲望对象作为一种范式或属性 如何/为何 依赖/作用 于 Homosocial这种比较多 好像就没什么人谈\"Furry本身\"是什么和它有没有什么认识论价值…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "1942263626943062451",
+        "created_at": "2025-07-07T19:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942298272112206139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1205748134892032000",
+              "start": 0,
+              "username": "Liquid_Pomelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942298272112206139",
+        "in_reply_to_user_id": "1205748134892032000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942263626943062451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liquid_Pomelo 指哪种意义上的furry本身呢，柑橘学界对furry研究主要还是Media studies/Community studies的吧，很多还是Fans Community studies的方法，谈具有共同的欲望对象作为一种范式或属性 如何/为何 依赖/作用 于 Homosocial这种比较多 好像就没什么人谈\"Furry本身\"是什么和它有没有什么认识论价值…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205748134892032000",
+        "conversation_id": "1942263626943062451",
+        "created_at": "2025-07-07T16:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942263626943062451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942263626943062451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发表重要讲话：furry本身并不意味着ontological的转变，其重点是创造了新的关系（胡言乱语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 605,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 386
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-14T07:15:41.000Z",
+        "description": "Queer🌈 可以叫我柚子w 讓世界變得冒犯一點/不適請及時退出 Major in Linguistics, Chinese writings & Philology. 🐺Un seul ou plusieurs loups? in an open relationship.",
+        "id": "1205748134892032000",
+        "name": "西柚",
+        "pinned_tweet_id": "1822914979151925622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942179659958943744/75iNnEtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10801,
+          "following_count": 3216,
+          "like_count": 9391,
+          "listed_count": 15,
+          "media_count": 637,
+          "tweet_count": 4061
+        },
+        "username": "Liquid_Pomelo",
+        "verified": false
+      }
+    ]
+  }
+}

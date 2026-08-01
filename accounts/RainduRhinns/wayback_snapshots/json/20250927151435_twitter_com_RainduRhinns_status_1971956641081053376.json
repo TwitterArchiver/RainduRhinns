@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1971949797432340708",
+    "created_at": "2025-09-27T15:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T16:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971956641081053376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971956641081053376",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971949797432340708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi 原po真是挺幽默的，既没谈论任何认识认识论可推理性，也没有以此引出怀疑论问题，然后又要说一句“这样的人在中世纪可能也是把人送上火刑架的人” 没有任何设置任何实质概念然后凭空上价值了，把人送上火刑架难道违背神学吗？和神学是不是“真的，人相不相信去神学有什么关系….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1971949797432340708",
+        "created_at": "2025-09-27T15:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T16:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971956641081053376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971956641081053376",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971949797432340708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi 原po真是挺幽默的，既没谈论任何认识认识论可推理性，也没有以此引出怀疑论问题，然后又要说一句“这样的人在中世纪可能也是把人送上火刑架的人” 没有任何设置任何实质概念然后凭空上价值了，把人送上火刑架难道违背神学吗？和神学是不是“真的，人相不相信去神学有什么关系….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "1971949797432340708",
+        "created_at": "2025-09-27T14:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T15:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971949797432340708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Azkawayi/statu…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/Azkawayi/status/1971924477023003111",
+              "start": 121,
+              "url": "https://t.co/R15DiXhP0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971949797432340708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971924477023003111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为可以自由选择的信和无神论是羸弱的，倒是无从选择、不得不的信或无神论（可能并没有那么强）才是有神的工作或者别的miracle的。\n承认自己有罪或许可以选/狡辩，关键是是否真的有罪这不是可在认知上挑选的。总会有人工作在神学领域但是并不相信 https://t.co/R15DiXhP0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 740,
+          "like_count": 2869,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1033
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "骂我先骂@natsutooi | 现在最大的成分是网哲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "natsutooi"
+              }
+            ]
+          }
+        },
+        "id": "1185431906436804608",
+        "name": "OverwhelmWiki",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 903,
+          "like_count": 48686,
+          "listed_count": 3,
+          "media_count": 1066,
+          "tweet_count": 22955
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

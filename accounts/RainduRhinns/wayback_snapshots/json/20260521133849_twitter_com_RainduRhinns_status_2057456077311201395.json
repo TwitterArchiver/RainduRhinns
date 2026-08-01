@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2057456077311201395",
+    "created_at": "2026-05-21T13:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057456077311201395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040658907253837824",
+          "start": 3,
+          "username": "RAISON1121_"
+        },
+        {
+          "end": 30,
+          "id": "1811843582229381123",
+          "start": 17,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057456077311201395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056737847856799783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RAISON1121_: @RainduRhinns 少年停止od佛在救你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2057456077311201395",
+        "created_at": "2026-05-21T13:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057456077311201395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040658907253837824",
+              "start": 3,
+              "username": "RAISON1121_"
+            },
+            {
+              "end": 30,
+              "id": "1811843582229381123",
+              "start": 17,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057456077311201395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056737847856799783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RAISON1121_: @RainduRhinns 少年停止od佛在救你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040658907253837824",
+        "conversation_id": "2009678167712358901",
+        "created_at": "2026-05-19T14:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056737847856799783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056737847856799783",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009678167712358901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 少年停止od佛在救你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 910,
+          "like_count": 4457,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2540
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T05:14:06.000Z",
+        "description": "魔镜啊魔镜谁是世上最漂亮的男孩",
+        "id": "2040658907253837824",
+        "location": "无🚪但是求求你给点喵",
+        "name": "Rais(on)",
+        "pinned_tweet_id": "2048281290399760503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048816437897379840/xZLzBZUD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 566,
+          "like_count": 568,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 102
+        },
+        "username": "RAISON1121_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960008006126780416",
+        "3_1960008006147735552"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1960008053300093248",
+    "created_at": "2025-08-25T15:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T16:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960008053300093248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrI9ZirOqb",
+          "end": 66,
+          "expanded_url": "https://x.com/RainduRhinns/status/1960008053300093248/photo/1",
+          "media_key": "3_1960008006126780416",
+          "start": 43,
+          "url": "https://t.co/NrI9ZirOqb"
+        },
+        {
+          "display_url": "pic.x.com/NrI9ZirOqb",
+          "end": 66,
+          "expanded_url": "https://x.com/RainduRhinns/status/1960008053300093248/photo/1",
+          "media_key": "3_1960008006147735552",
+          "start": 43,
+          "url": "https://t.co/NrI9ZirOqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960008053300093248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在只有一个人的雪山草甸上一边美猎弓打猎一边吸毒一边骑马下山跟牧民赛马真是爽到要昏迷了 https://t.co/NrI9ZirOqb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1960008006126780416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNY5aIbwAAcLrQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1960008006147735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNY5aNbgAAEGZX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960008006126780416",
+            "3_1960008006147735552"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1960008053300093248",
+        "created_at": "2025-08-25T15:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960008053300093248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrI9ZirOqb",
+              "end": 66,
+              "expanded_url": "https://x.com/RainduRhinns/status/1960008053300093248/photo/1",
+              "media_key": "3_1960008006126780416",
+              "start": 43,
+              "url": "https://t.co/NrI9ZirOqb"
+            },
+            {
+              "display_url": "pic.x.com/NrI9ZirOqb",
+              "end": 66,
+              "expanded_url": "https://x.com/RainduRhinns/status/1960008053300093248/photo/1",
+              "media_key": "3_1960008006147735552",
+              "start": 43,
+              "url": "https://t.co/NrI9ZirOqb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960008053300093248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在只有一个人的雪山草甸上一边美猎弓打猎一边吸毒一边骑马下山跟牧民赛马真是爽到要昏迷了 https://t.co/NrI9ZirOqb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 678,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 735
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

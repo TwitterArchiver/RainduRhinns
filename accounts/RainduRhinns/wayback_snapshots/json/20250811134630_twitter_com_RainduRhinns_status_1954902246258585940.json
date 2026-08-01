@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1954902246258585940",
+    "created_at": "2025-08-11T13:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T14:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954902246258585940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864316660997632000",
+          "start": 3,
+          "username": "Ka1ubee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954902246258585940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870667626852262317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ka1ubee: 很久以前，一个Sub人鱼爱上了邻国的Sub王子，为了追求爱情，他用滨州与字母巫婆交换魔法外套⁽¹⁾，变成了Dom。\n然而，王子嫌弃他没有那方面的能力，找了别的主人。Sub人鱼不忍杀死王子换回自己的嗨⁽²⁾，最终化身为柏拉图Dom，成为了字母圈的传说。…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954902246258585940].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954902246258585940",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954902246258585940"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3206,
+        "media_key": "3_1870667622309883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfXySpCa8AAOefT.jpg",
+        "width": 2572
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1870667622783885312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfXySqzboAAWnhg.jpg",
+        "width": 2690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870667622309883904",
+            "3_1870667622783885312"
+          ]
+        },
+        "author_id": "1864316660997632000",
+        "conversation_id": "1870667626852262317",
+        "created_at": "2024-12-22T03:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T04:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870667626852262317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5WstV97LQ",
+              "end": 169,
+              "expanded_url": "https://x.com/Ka1ubee/status/1870667626852262317/photo/1",
+              "media_key": "3_1870667622309883904",
+              "start": 146,
+              "url": "https://t.co/d5WstV97LQ"
+            },
+            {
+              "display_url": "pic.x.com/d5WstV97LQ",
+              "end": 169,
+              "expanded_url": "https://x.com/Ka1ubee/status/1870667626852262317/photo/1",
+              "media_key": "3_1870667622783885312",
+              "start": 146,
+              "url": "https://t.co/d5WstV97LQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870667626852262317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很久以前，一个Sub人鱼爱上了邻国的Sub王子，为了追求爱情，他用滨州与字母巫婆交换魔法外套⁽¹⁾，变成了Dom。\n然而，王子嫌弃他没有那方面的能力，找了别的主人。Sub人鱼不忍杀死王子换回自己的嗨⁽²⁾，最终化身为柏拉图Dom，成为了字母圈的传说。\n此事在《安徒生同话》中亦有记载⁽³⁾。\n\n[1]图一：可以让人变成Dom的魔法外套（代价是失去牛子）\n[2]图二：得知自己永远无法要回牛子后黯然神伤的Sub人鱼\n[3]Andersen. (1837). 《小M人鱼》, 又译《嗨的酷儿》."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8679,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "很久以前，一个Sub人鱼爱上了邻国的Sub王子，为了追求爱情，他用滨州与字母巫婆交换魔法外套⁽¹⁾，变成了Dom。\n然而，王子嫌弃他没有那方面的能力，找了别的主人。Sub人鱼不忍杀死王子换回自己的嗨⁽²⁾，最终化身为柏拉图Dom，成为了字母圈的传说。\n此事在《安徒生同话》中亦有记载⁽³⁾。 https://t.co/d5WstV97LQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 658,
+          "like_count": 2712,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 650
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:31:55.000Z",
+        "description": "可以叫我咔噜\nISTJ | 长居日本 | CN・JP・EN\n点赞转发喵！点赞转发谢谢喵！",
+        "id": "1864316660997632000",
+        "location": "被窝里",
+        "name": "Kalu★",
+        "pinned_tweet_id": "1864335737665278448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909519058657329156/YjYiky3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4065,
+          "following_count": 142,
+          "like_count": 4024,
+          "listed_count": 19,
+          "media_count": 198,
+          "tweet_count": 1306
+        },
+        "username": "Ka1ubee",
+        "verified": false
+      }
+    ]
+  }
+}

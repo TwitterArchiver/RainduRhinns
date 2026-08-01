@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1959649692939067740",
+    "created_at": "2025-08-24T16:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T17:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959649692939067740"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959649692939067740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有些人是单纯不知道世界没有纯粹的合作和纯粹的反抗就像没有纯粹的感情和纯粹的利用，有些人是缺乏对自己之外的阶层族群的基于基本德性的认识，当然对于他们的社会来说也没有动机去体认。汉人支黑们显然多数是后者，叫你的中国人同胞们支那的时候说你们是汉族不然不更让土共发明的中华民族洗脑包成立？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1959649692939067740",
+        "created_at": "2025-08-24T16:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T17:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959649692939067740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959649692939067740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些人是单纯不知道世界没有纯粹的合作和纯粹的反抗就像没有纯粹的感情和纯粹的利用，有些人是缺乏对自己之外的阶层族群的基于基本德性的认识，当然对于他们的社会来说也没有动机去体认。汉人支黑们显然多数是后者，叫你的中国人同胞们支那的时候说你们是汉族不然不更让土共发明的中华民族洗脑包成立？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 674,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 724
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

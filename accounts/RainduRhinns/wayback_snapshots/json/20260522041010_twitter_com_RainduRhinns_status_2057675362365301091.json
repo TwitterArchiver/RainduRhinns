@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2057675362365301091",
+    "created_at": "2026-05-22T04:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057675362365301091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057675362365301091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057652878526013731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 更有趣的是你的情绪价值也是拉满了\n 就有家长排队求虐\n\n当年豫章师院被曝光殴打学员，被关停后若干个家长组队起来集体拉横幅抗议“学校关闭了我们的孩子怎办？”\n \n似乎丝毫不觉得自己的孩子被虐待伤害，是一件值得注意的事情，反而是跪在地上求吴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057652867553800192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5AYZGbsAAgcsz.jpg",
+        "width": 917
+      },
+      {
+        "height": 510,
+        "media_key": "3_2057652874189107200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5AYx0acAAUYxe.jpg",
+        "width": 671
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2057675362365301091",
+        "created_at": "2026-05-22T04:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057675362365301091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057675362365301091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057652878526013731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 更有趣的是你的情绪价值也是拉满了\n 就有家长排队求虐\n\n当年豫章师院被曝光殴打学员，被关停后若干个家长组队起来集体拉横幅抗议“学校关闭了我们的孩子怎办？”\n \n似乎丝毫不觉得自己的孩子被虐待伤害，是一件值得注意的事情，反而是跪在地上求吴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057652867553800192",
+            "3_2057652874189107200"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2057652878526013731",
+        "created_at": "2026-05-22T02:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057652878526013731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3RctlJcmT",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057652878526013731/photo/1",
+              "media_key": "3_2057652867553800192",
+              "start": 139,
+              "url": "https://t.co/x3RctlJcmT"
+            },
+            {
+              "display_url": "pic.x.com/x3RctlJcmT",
+              "end": 162,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2057652878526013731/photo/1",
+              "media_key": "3_2057652874189107200",
+              "start": 139,
+              "url": "https://t.co/x3RctlJcmT"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2057632155543757057",
+              "start": 163,
+              "url": "https://t.co/71uoTF1FNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057652878526013731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1377,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057632155543757057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更有趣的是你的情绪价值也是拉满了\n 就有家长排队求虐\n\n当年豫章师院被曝光殴打学员，被关停后若干个家长组队起来集体拉横幅抗议“学校关闭了我们的孩子怎办？”\n \n似乎丝毫不觉得自己的孩子被虐待伤害，是一件值得注意的事情，反而是跪在地上求吴军豹再把自己的孩子送进去继续被强奸虐待。 https://t.co/x3RctlJcmT https://t.co/71uoTF1FNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 910,
+          "like_count": 4448,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5235,
+          "following_count": 2913,
+          "like_count": 2884,
+          "listed_count": 18,
+          "media_count": 419,
+          "tweet_count": 2828
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

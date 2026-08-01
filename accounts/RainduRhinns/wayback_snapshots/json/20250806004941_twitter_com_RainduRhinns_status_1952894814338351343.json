@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946257531401347075"
+      ],
+      "media_source_tweet_id": [
+        "1946257550015668329"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1952894814338351343",
+    "created_at": "2025-08-06T00:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T01:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952894814338351343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 15,
+          "tag": "羅小黒戦記2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1389055305527414784",
+          "start": 3,
+          "username": "chun_baii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZsOjifx5f",
+          "end": 46,
+          "expanded_url": "https://x.com/chun_baii/status/1946257550015668329/photo/1",
+          "media_key": "3_1946257531401347075",
+          "start": 23,
+          "url": "https://t.co/AZsOjifx5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952894814338351343",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946257550015668329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chun_baii: #羅小黒戦記2 https://t.co/AZsOjifx5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1437,
+        "media_key": "3_1946257531401347075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJ-6cCbIAMT1sh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946257531401347075"
+          ],
+          "media_source_tweet_id": [
+            "1946257550015668329"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1952894814338351343",
+        "created_at": "2025-08-06T00:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952894814338351343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "羅小黒戦記2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1389055305527414784",
+              "start": 3,
+              "username": "chun_baii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZsOjifx5f",
+              "end": 46,
+              "expanded_url": "https://x.com/chun_baii/status/1946257550015668329/photo/1",
+              "media_key": "3_1946257531401347075",
+              "start": 23,
+              "url": "https://t.co/AZsOjifx5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952894814338351343",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946257550015668329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chun_baii: #羅小黒戦記2 https://t.co/AZsOjifx5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946257531401347075"
+          ]
+        },
+        "author_id": "1389055305527414784",
+        "conversation_id": "1946257550015668329",
+        "created_at": "2025-07-18T17:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T18:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946257550015668329"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "羅小黒戦記2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZsOjifx5f",
+              "end": 31,
+              "expanded_url": "https://x.com/chun_baii/status/1946257550015668329/photo/1",
+              "media_key": "3_1946257531401347075",
+              "start": 8,
+              "url": "https://t.co/AZsOjifx5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946257550015668329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7418,
+          "like_count": 311,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "#羅小黒戦記2 https://t.co/AZsOjifx5f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 644,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 569
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-03T03:14:18.000Z",
+        "description": "=醇柏 18↑ | 中文 | 什么都吃一口 | 请不要把我画的CP图当做你们现实生活中的任何一个人，更不要代入你们自己，我会拉黑💀",
+        "id": "1389055305527414784",
+        "name": "醇柏_",
+        "pinned_tweet_id": "1921616582637228090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932637222601428993/DjCHR8Zn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13601,
+          "following_count": 593,
+          "like_count": 5261,
+          "listed_count": 63,
+          "media_count": 479,
+          "tweet_count": 2384
+        },
+        "username": "chun_baii",
+        "verified": false
+      }
+    ]
+  }
+}

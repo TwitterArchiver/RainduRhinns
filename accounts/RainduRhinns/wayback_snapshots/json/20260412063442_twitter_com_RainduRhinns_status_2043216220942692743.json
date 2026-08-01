@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2043216220942692743",
+    "created_at": "2026-04-12T06:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043216220942692743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaaaamtxt/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aaaaamtxt/status/2043189124442869929",
+          "start": 4,
+          "url": "https://t.co/O67BpjSqDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043216220942692743",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043189124442869929",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好似喵 https://t.co/O67BpjSqDn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2043216220942692743",
+        "created_at": "2026-04-12T06:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043216220942692743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaaaamtxt/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aaaaamtxt/status/2043189124442869929",
+              "start": 4,
+              "url": "https://t.co/O67BpjSqDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043216220942692743",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043189124442869929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好似喵 https://t.co/O67BpjSqDn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228546301572173825",
+        "conversation_id": "2043189124442869929",
+        "created_at": "2026-04-12T04:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T05:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043189124442869929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043189124442869929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5047,
+          "like_count": 91,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️⚠️⚠️警告⚠️⚠️⚠️\n必须很遗憾的告诉您一件事🤚\n中推od圈知名od人chicken（董晗）先生，现已极大概率被塞里斯警方控制，我们怀疑其账号同样处于警方的控制当中。\n请勿继续相信并回应其在各种平台发布的文本。\n大难当前，共克时艰。\n愿我们在没有黑暗的地方相见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 895,
+          "like_count": 4106,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T05:07:27.000Z",
+        "description": "这里*****，可以叫我星星星星星/坐标厦门/非二元性别生理双性/无性别主义/重度恋痛/嗑药od自残/会互fo一些同属性的宝宝/出厂日期04.7/主坑prsk/+墙内需过🚪59r/过🚪可同城约见面一起玩/❤️@ayameeii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 104,
+                "username": "ayameeii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaaaamtxt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaaaamtxt",
+                "start": 0,
+                "url": "https://t.co/WjhB4pS4f2"
+              }
+            ]
+          }
+        },
+        "id": "1228546301572173825",
+        "name": "*****🍥（互联网的救赎天使）",
+        "pinned_tweet_id": "2031380325709103481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034974104538030089/YeDmGLD6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 843,
+          "like_count": 32633,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 6446
+        },
+        "url": "https://t.co/WjhB4pS4f2",
+        "username": "AAAAAMTxT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910344435344539648"
+      ],
+      "media_source_tweet_id": [
+        "1910344440604213505"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1910595230836850811",
+    "created_at": "2025-04-11T07:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910595230836850811"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "ヒフミ"
+        },
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "Hifumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825574763093438465",
+          "start": 3,
+          "username": "hheum_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/29RvrP5GvI",
+          "end": 56,
+          "expanded_url": "https://x.com/hheum_/status/1910344440604213505/photo/1",
+          "media_key": "3_1910344435344539648",
+          "start": 33,
+          "url": "https://t.co/29RvrP5GvI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910595230836850811",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910344440604213505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hheum_: #ブルアカ #ヒフミ #Hifumi 🪽 https://t.co/29RvrP5GvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910344435344539648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoLoJHtbAAATyUw.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910344435344539648"
+          ],
+          "media_source_tweet_id": [
+            "1910344440604213505"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1910595230836850811",
+        "created_at": "2025-04-11T07:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T08:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910595230836850811"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "ヒフミ"
+            },
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "Hifumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825574763093438465",
+              "start": 3,
+              "username": "hheum_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29RvrP5GvI",
+              "end": 56,
+              "expanded_url": "https://x.com/hheum_/status/1910344440604213505/photo/1",
+              "media_key": "3_1910344435344539648",
+              "start": 33,
+              "url": "https://t.co/29RvrP5GvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910595230836850811",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910344440604213505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hheum_: #ブルアカ #ヒフミ #Hifumi 🪽 https://t.co/29RvrP5GvI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910344435344539648"
+          ]
+        },
+        "author_id": "1825574763093438465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1910344440604213505",
+        "created_at": "2025-04-10T14:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910344440604213505"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "ヒフミ"
+            },
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "Hifumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29RvrP5GvI",
+              "end": 44,
+              "expanded_url": "https://x.com/hheum_/status/1910344440604213505/photo/1",
+              "media_key": "3_1910344435344539648",
+              "start": 21,
+              "url": "https://t.co/29RvrP5GvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910344440604213505",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 10379,
+          "like_count": 925,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "#ブルアカ #ヒフミ #Hifumi 🪽 https://t.co/29RvrP5GvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 494,
+          "like_count": 1879,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 305
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-19T16:45:31.000Z",
+        "description": "남부권",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/hheum",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/hheum",
+                "start": 0,
+                "url": "https://t.co/TJMUL79Bz6"
+              }
+            ]
+          }
+        },
+        "id": "1825574763093438465",
+        "location": "헌헌 블루아카 호요",
+        "name": "근굼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825576547618803713/-Su8sgHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 89,
+          "like_count": 901,
+          "listed_count": 11,
+          "media_count": 37,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/TJMUL79Bz6",
+        "username": "hheum_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1963854357557825661",
+    "created_at": "2025-09-06T03:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T04:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964166251972026399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1956722348935221248",
+          "start": 0,
+          "username": "overdose_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964166251972026399",
+    "in_reply_to_user_id": "1956722348935221248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964125923457761751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_dxm 很屌但是视幻比身幻触幻强太多了很不平衡很难去引导综合体验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1963854357557825661",
+        "created_at": "2025-09-06T03:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964166251972026399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1956722348935221248",
+              "start": 0,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964166251972026399",
+        "in_reply_to_user_id": "1956722348935221248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964125923457761751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_dxm 很屌但是视幻比身幻触幻强太多了很不平衡很难去引导综合体验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956722348935221248",
+        "conversation_id": "1963854357557825661",
+        "created_at": "2025-09-06T00:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T01:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964125923457761751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964125923457761751",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963854357557825661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 4-ACO-DMT呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 696,
+          "like_count": 2781,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 828
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "本账号为科普账号，娱乐账号请看: @N_N_DET\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "N_N_DET"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 52,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 29,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 314,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

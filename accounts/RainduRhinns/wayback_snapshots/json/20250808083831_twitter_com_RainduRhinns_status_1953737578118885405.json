@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953118887924387929",
+    "created_at": "2025-08-08T08:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T09:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953737578118885405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 27,
+          "id": "1659962043460354050",
+          "start": 17,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 44,
+          "id": "1272405078683430913",
+          "start": 28,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 61,
+          "id": "1741993395910811648",
+          "start": 45,
+          "username": "AnIncandescence"
+        },
+        {
+          "end": 76,
+          "id": "1879395690230738944",
+          "start": 62,
+          "username": "6thCuteK1tten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953737578118885405",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953736374957543572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @SalviaSWC @PaitangOfficial @AnIncandescence @6thCuteK1tten 氯胺酮行笑气包不行的，临床麻醉案例很多，这种情况不如用氙气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953118887924387929",
+        "created_at": "2025-08-08T08:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953737578118885405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 27,
+              "id": "1659962043460354050",
+              "start": 17,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 44,
+              "id": "1272405078683430913",
+              "start": 28,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 61,
+              "id": "1741993395910811648",
+              "start": 45,
+              "username": "AnIncandescence"
+            },
+            {
+              "end": 76,
+              "id": "1879395690230738944",
+              "start": 62,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953737578118885405",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953736374957543572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @SalviaSWC @PaitangOfficial @AnIncandescence @6thCuteK1tten 氯胺酮行笑气包不行的，临床麻醉案例很多，这种情况不如用氙气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "1953118887924387929",
+        "created_at": "2025-08-08T08:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T09:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953736374957543572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 27,
+              "id": "1272405078683430913",
+              "start": 11,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 44,
+              "id": "1741993395910811648",
+              "start": 28,
+              "username": "AnIncandescence"
+            },
+            {
+              "end": 59,
+              "id": "1879395690230738944",
+              "start": 45,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953736374957543572",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953735957145882789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @PaitangOfficial @AnIncandescence @6thCuteK1tten 效果并不强，锐性疼痛照样压不住\n直接往创口上倒一支利多卡因比吸笑气好用不少(还能顺便洗伤口)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 654,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 600
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "幽灵狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨長白山香煙與粉色魔爪愛好者 丨無政治傾向/尊重所有人 /超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推慎fo @HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 141,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "Turn around....(∞_눈)",
+        "name": "霊狐製作所–公式ツイッター🏳️‍⚧️🧬",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 623,
+          "like_count": 5656,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1754
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 387,
+          "like_count": 5694,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\nいつもさみしいから絡み増やしたい遠慮なく絡みきて！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1953721420837732620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926133014615973888/2PZOG3cM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9262,
+          "following_count": 494,
+          "like_count": 7486,
+          "listed_count": 24,
+          "media_count": 1520,
+          "tweet_count": 12709
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/MuEKSg4tIS"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 197,
+          "like_count": 9809,
+          "listed_count": 1,
+          "media_count": 717,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓒𝓸𝓬𝓪𝓲𝓷𝓮™｜🍧好闺蜜:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/zAEKkueaV9"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1945776404764696633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943325043074961408/QeU1S_yU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 435,
+          "like_count": 8353,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/zAEKkueaV9",
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

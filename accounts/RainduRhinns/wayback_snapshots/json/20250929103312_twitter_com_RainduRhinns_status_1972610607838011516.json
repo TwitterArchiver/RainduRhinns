@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1971959207860793729",
+    "created_at": "2025-09-29T10:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T11:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972610607838011516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1311911312708915200",
+          "start": 0,
+          "username": "mongdziao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972610607838011516",
+    "in_reply_to_user_id": "1311911312708915200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972291510608744811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mongdziao 妥拉哲学和当代犹太宗教哲学本来也不承认任何形式的 -非先验 的知识，特别是在上世纪出现海德格尔和卡尔巴特对 激进正统 Radical orthodoxy 的影响后的犹太教哲学。如果承认艾克哈特大师和中世神秘主义意义上的Kabbalah,那么柏拉图主义取代先验一元怀疑论是必然。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1971959207860793729",
+        "created_at": "2025-09-29T10:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972610607838011516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1311911312708915200",
+              "start": 0,
+              "username": "mongdziao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972610607838011516",
+        "in_reply_to_user_id": "1311911312708915200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972291510608744811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mongdziao 妥拉哲学和当代犹太宗教哲学本来也不承认任何形式的 -非先验 的知识，特别是在上世纪出现海德格尔和卡尔巴特对 激进正统 Radical orthodoxy 的影响后的犹太教哲学。如果承认艾克哈特大师和中世神秘主义意义上的Kabbalah,那么柏拉图主义取代先验一元怀疑论是必然。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311911312708915200",
+        "conversation_id": "1971959207860793729",
+        "created_at": "2025-09-28T13:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T14:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972291510608744811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972291510608744811",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971959207860793729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 「神學」至今本來就已是基督教借着以色列的名義用自己話語權偷換到trinity&amp;彌賽亞哲學的名詞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 740,
+          "like_count": 2871,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1045
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T06:10:27.000Z",
+        "description": "是迷幻小蘑菇｜泰國手術陪護｜ה׳ אלקינו ה׳ אחד｜@noadiahmeeden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "noadiahmeeden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noadiah.com",
+                "end": 23,
+                "expanded_url": "http://noadiah.com",
+                "start": 0,
+                "url": "https://t.co/OmX5q4YLMw"
+              }
+            ]
+          }
+        },
+        "id": "1311911312708915200",
+        "location": "Am Yisrael Chai",
+        "name": "Mông-dziao מון-זיאו",
+        "pinned_tweet_id": "1966013414125482165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945841993591980032/pFvRGvBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 267,
+          "like_count": 10512,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/OmX5q4YLMw",
+        "username": "mongdziao",
+        "verified": false
+      }
+    ]
+  }
+}

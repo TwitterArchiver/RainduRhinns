@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2014625587734966724",
+    "created_at": "2026-01-25T00:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T01:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015224233136390329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015224233136390329",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015125432702808302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 其实MAOI的普遍忌口没那么严重，我自己正常吃饭体检都挺正常的，主要是对少数严重的个体太严重…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2014625587734966724",
+        "created_at": "2026-01-25T00:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015224233136390329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015224233136390329",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015125432702808302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 其实MAOI的普遍忌口没那么严重，我自己正常吃饭体检都挺正常的，主要是对少数严重的个体太严重…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2014625587734966724",
+        "created_at": "2026-01-24T18:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015125432702808302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015125432702808302",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014625587734966724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 对于没吃过maoi的人可能是有点治疗意义，但是也就局限于那点“地”了🥲\n吃这俩都一堆忌口，唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 879,
+          "like_count": 3652,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1933
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 如临深渊，如履薄冰 | 需要互fo可以私信",
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 650,
+          "like_count": 2300,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 707
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

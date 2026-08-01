@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1966459663756443911",
+    "created_at": "2025-09-14T05:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967097675339493475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967097675339493475",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966531889608511909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 理论上是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1966459663756443911",
+        "created_at": "2025-09-14T05:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967097675339493475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967097675339493475",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966531889608511909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 理论上是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "1966459663756443911",
+        "created_at": "2025-09-12T15:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966531889608511909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966531889608511909",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966459663756443911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 按照这种反馈，对于极少有清明梦体验但实际上有控梦练习的人而言，可否作为一个booster使用呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 718,
+          "like_count": 2818,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 898
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Depression & Anxiety disorder | 如临深渊，如履薄冰",
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958507712863748096/S-wkxVNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 104,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 117
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

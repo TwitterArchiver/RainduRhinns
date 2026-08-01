@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Spa and Medical Spa",
+          "id": "855066047157649408",
+          "name": "Spas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Spa Bathing",
+          "id": "855073024814469120",
+          "name": "Spa Bathing"
+        }
+      }
+    ],
+    "conversation_id": "1953115932227936405",
+    "created_at": "2025-08-06T15:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T16:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953115932227936405"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1953115932227936405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2-FMA+5Meo-MIPT游离碱 感觉很好啊 有MDMA那种温泉迪斯科球晒暖灯的感觉 还没有MDMA视觉上太亮太晕的问题 不过快感接管感官太多单纯是泡温泉的愉悦 感官临界点和开发点太少 不能用来创作和感受 可玩性一般 就是纯爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "1953115932227936405",
+        "created_at": "2025-08-06T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953115932227936405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953115932227936405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2-FMA+5Meo-MIPT游离碱 感觉很好啊 有MDMA那种温泉迪斯科球晒暖灯的感觉 还没有MDMA视觉上太亮太晕的问题 不过快感接管感官太多单纯是泡温泉的愉悦 感官临界点和开发点太少 不能用来创作和感受 可玩性一般 就是纯爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 645,
+          "like_count": 2661,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 571
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

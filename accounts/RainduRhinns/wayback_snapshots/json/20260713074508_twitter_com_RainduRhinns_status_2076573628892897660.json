@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076244147036721152",
+        "3_2076244147061866496"
+      ],
+      "media_source_tweet_id": [
+        "2076244157782544564",
+        "2076244157782544564"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "2076573628892897660",
+    "created_at": "2026-07-13T07:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076573628892897660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1691524376687230976",
+          "start": 3,
+          "username": "PsychoMinTank"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GdCU9MbnYl",
+          "end": 51,
+          "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+          "media_key": "3_2076244147036721152",
+          "start": 28,
+          "url": "https://t.co/GdCU9MbnYl"
+        },
+        {
+          "display_url": "pic.x.com/GdCU9MbnYl",
+          "end": 51,
+          "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+          "media_key": "3_2076244147061866496",
+          "start": 28,
+          "url": "https://t.co/GdCU9MbnYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076573628892897660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076244157782544564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PsychoMinTank: 今天是粉色的捏🌸 https://t.co/GdCU9MbnYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2076244147036721152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBNDSMbkAAUz2p.jpg",
+        "width": 2969
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2076244147061866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBNDSSbQAAqEvy.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076244147036721152",
+            "3_2076244147061866496"
+          ],
+          "media_source_tweet_id": [
+            "2076244157782544564",
+            "2076244157782544564"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "2076573628892897660",
+        "created_at": "2026-07-13T07:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076573628892897660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1691524376687230976",
+              "start": 3,
+              "username": "PsychoMinTank"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdCU9MbnYl",
+              "end": 51,
+              "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+              "media_key": "3_2076244147036721152",
+              "start": 28,
+              "url": "https://t.co/GdCU9MbnYl"
+            },
+            {
+              "display_url": "pic.x.com/GdCU9MbnYl",
+              "end": 51,
+              "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+              "media_key": "3_2076244147061866496",
+              "start": 28,
+              "url": "https://t.co/GdCU9MbnYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076573628892897660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076244157782544564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PsychoMinTank: 今天是粉色的捏🌸 https://t.co/GdCU9MbnYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076244147036721152",
+            "3_2076244147061866496"
+          ]
+        },
+        "author_id": "1691524376687230976",
+        "conversation_id": "2076244157782544564",
+        "created_at": "2026-07-12T09:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076244157782544564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GdCU9MbnYl",
+              "end": 32,
+              "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+              "media_key": "3_2076244147036721152",
+              "start": 9,
+              "url": "https://t.co/GdCU9MbnYl"
+            },
+            {
+              "display_url": "pic.x.com/GdCU9MbnYl",
+              "end": 32,
+              "expanded_url": "https://x.com/PsychoMinTank/status/2076244157782544564/photo/1",
+              "media_key": "3_2076244147061866496",
+              "start": 9,
+              "url": "https://t.co/GdCU9MbnYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076244157782544564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 19994,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天是粉色的捏🌸 https://t.co/GdCU9MbnYl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 903,
+          "like_count": 4515,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2572
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T18:57:19.000Z",
+        "description": "No wonder he sacrificed. 請忽略我腐爛的軀殼。",
+        "id": "1691524376687230976",
+        "name": "呐伊_Narcicarus",
+        "pinned_tweet_id": "1770800036126794124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691524809187028992/5enlB7lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 883,
+          "like_count": 8955,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "PsychoMinTank",
+        "verified": false
+      }
+    ]
+  }
+}

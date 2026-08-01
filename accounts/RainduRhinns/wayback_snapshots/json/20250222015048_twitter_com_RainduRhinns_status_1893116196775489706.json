@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890648972441882624"
+      ],
+      "media_source_tweet_id": [
+        "1890648981304177101"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1893116196775489706",
+    "created_at": "2025-02-22T01:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T02:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893116196775489706"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 46,
+          "tag": "可爱の男孩子"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "正太"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "奶0"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611066546977181726",
+          "start": 3,
+          "username": "Da142857niel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EgZrEYV2sh",
+          "end": 85,
+          "expanded_url": "https://x.com/Da142857niel/status/1890648981304177101/photo/1",
+          "media_key": "3_1890648972441882624",
+          "start": 62,
+          "url": "https://t.co/EgZrEYV2sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893116196775489706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890648981304177101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Da142857niel: 弟弟已经乖乖戴上项圈跪好了嘿嘿，哥哥要对我做什么了嘛～\n#可爱の男孩子 #正太 #奶0 https://t.co/EgZrEYV2sh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893116196775489706].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893116196775489706",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893116196775489706"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 538,
+        "media_key": "3_1890648972441882624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjzvOS1bEAAV7FK.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890648972441882624"
+          ]
+        },
+        "author_id": "1611066546977181726",
+        "conversation_id": "1890648981304177101",
+        "created_at": "2025-02-15T06:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T07:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890648981304177101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "正太"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "奶0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgZrEYV2sh",
+              "end": 67,
+              "expanded_url": "https://x.com/Da142857niel/status/1890648981304177101/photo/1",
+              "media_key": "3_1890648972441882624",
+              "start": 44,
+              "url": "https://t.co/EgZrEYV2sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890648981304177101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 22726,
+          "like_count": 335,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "弟弟已经乖乖戴上项圈跪好了嘿嘿，哥哥要对我做什么了嘛～\n#可爱の男孩子 #正太 #奶0 https://t.co/EgZrEYV2sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot 男德用户！",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 432,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 190
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T18:26:18.000Z",
+        "description": "168/45/0.5/38码jio合法正太，出（yw也可以定制）/中文OK English OK 日本语OKL（G） BTQ/不加人/回关请私信（不100%）欢迎私信聊天～2038467664",
+        "id": "1611066546977181726",
+        "location": "台灣/廣州/深圳/廈門/成都/杭州/蘇州/上海……",
+        "name": "岁岁",
+        "pinned_tweet_id": "1887359630919254367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832044588426506240/32to73JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15334,
+          "following_count": 619,
+          "like_count": 436,
+          "listed_count": 37,
+          "media_count": 85,
+          "tweet_count": 269
+        },
+        "username": "Da142857niel",
+        "verified": false
+      }
+    ]
+  }
+}

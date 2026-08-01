@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917780012968861696"
+      ],
+      "media_source_tweet_id": [
+        "1917780018899607683"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1918015569405620318",
+    "created_at": "2025-05-01T18:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T19:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918015569405620318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1394223427",
+          "start": 3,
+          "username": "manuhamu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FiiXnVtCuQ",
+          "end": 42,
+          "expanded_url": "https://x.com/manuhamu/status/1917780018899607683/photo/1",
+          "media_key": "3_1917780012968861696",
+          "start": 19,
+          "url": "https://t.co/FiiXnVtCuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918015569405620318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 503
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917780018899607683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manuhamu: みまもり https://t.co/FiiXnVtCuQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917780012968861696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp1Sws5aYAAoiDo.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917780012968861696"
+          ],
+          "media_source_tweet_id": [
+            "1917780018899607683"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918015569405620318",
+        "created_at": "2025-05-01T18:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T19:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918015569405620318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1394223427",
+              "start": 3,
+              "username": "manuhamu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiiXnVtCuQ",
+              "end": 42,
+              "expanded_url": "https://x.com/manuhamu/status/1917780018899607683/photo/1",
+              "media_key": "3_1917780012968861696",
+              "start": 19,
+              "url": "https://t.co/FiiXnVtCuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918015569405620318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917780018899607683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manuhamu: みまもり https://t.co/FiiXnVtCuQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917780012968861696"
+          ]
+        },
+        "author_id": "1394223427",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917780018899607683",
+        "created_at": "2025-05-01T03:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T04:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917780018899607683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FiiXnVtCuQ",
+              "end": 28,
+              "expanded_url": "https://x.com/manuhamu/status/1917780018899607683/photo/1",
+              "media_key": "3_1917780012968861696",
+              "start": 5,
+              "url": "https://t.co/FiiXnVtCuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917780018899607683",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 80002,
+          "like_count": 5622,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 503
+        },
+        "reply_settings": "everyone",
+        "text": "みまもり https://t.co/FiiXnVtCuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 507,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 322
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-01T09:34:08.000Z",
+        "description": "好きな絵を描きます。絵本『よるにおばけと』『はるってなんか』（ミシマ社）https://t.co/B9xdrrR4O2　作品集『風の中』（パイ インターナショナル）https://t.co/VEdD1whdim　発売中です！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mishimasha.com/books/97849112…",
+                "end": 59,
+                "expanded_url": "https://mishimasha.com/books/9784911226162/",
+                "start": 36,
+                "url": "https://t.co/B9xdrrR4O2"
+              },
+              {
+                "display_url": "pie.co.jp/book/i/5765/",
+                "end": 105,
+                "expanded_url": "http://pie.co.jp/book/i/5765/",
+                "start": 82,
+                "url": "https://t.co/VEdD1whdim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minami-no-shima.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://minami-no-shima.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/xAgXU3C5c9"
+              }
+            ]
+          }
+        },
+        "id": "1394223427",
+        "location": "ンキッャヒ",
+        "name": "みなはむ",
+        "pinned_tweet_id": "1917596343968883169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692331778718220288/2HqIiial_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215218,
+          "following_count": 1237,
+          "like_count": 29943,
+          "listed_count": 1905,
+          "media_count": 4121,
+          "tweet_count": 42696
+        },
+        "url": "https://t.co/xAgXU3C5c9",
+        "username": "manuhamu",
+        "verified": false
+      }
+    ]
+  }
+}

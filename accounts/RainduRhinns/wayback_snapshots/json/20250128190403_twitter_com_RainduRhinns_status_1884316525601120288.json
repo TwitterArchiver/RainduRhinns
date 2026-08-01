@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1884285857382981704",
+    "created_at": "2025-01-28T19:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T20:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884316525601120288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1616094487499141121",
+          "start": 0,
+          "username": "ChaoX1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884316525601120288",
+    "in_reply_to_user_id": "1616094487499141121",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884285857382981704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChaoX1220 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1884285857382981704",
+        "created_at": "2025-01-28T19:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T20:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884316525601120288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1616094487499141121",
+              "start": 0,
+              "username": "ChaoX1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884316525601120288",
+        "in_reply_to_user_id": "1616094487499141121",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884285857382981704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChaoX1220 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884285839053840384"
+          ]
+        },
+        "author_id": "1616094487499141121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1884285857382981704",
+        "created_at": "2025-01-28T17:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884285857382981704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ha80BuzyOZ",
+              "end": 41,
+              "expanded_url": "https://x.com/ChaoX1220/status/1884285857382981704/video/1",
+              "media_key": "7_1884285839053840384",
+              "start": 18,
+              "url": "https://t.co/ha80BuzyOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884285857382981704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 615,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐，路过的都来把🥛赏给我吧！ https://t.co/ha80BuzyOZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 409,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 134
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T15:27:29.000Z",
+        "description": "/正太控/femboy/随时可能会失联（他可能是xnh/可能会女装\n需要避雷请及时屏蔽\nChinese/English\nANOTHER ACCOUNT:@AsaEN8\n不提供无偿聊骚服务",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 76,
+                "username": "AsaEN8"
+              }
+            ]
+          }
+        },
+        "id": "1616094487499141121",
+        "location": "小安的衣橱",
+        "name": "Asaen🏳️‍🌈",
+        "pinned_tweet_id": "1870856490095087966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812052676886048768/0mI8wBFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5649,
+          "following_count": 910,
+          "like_count": 18059,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 2144
+        },
+        "username": "ChaoX1220",
+        "verified": false
+      }
+    ]
+  }
+}

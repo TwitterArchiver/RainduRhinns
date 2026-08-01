@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941875120303128577",
+        "3_1941875119829241856",
+        "3_1941875125072125954"
+      ],
+      "media_source_tweet_id": [
+        "1941875130566848949",
+        "1941875130566848949",
+        "1941875130566848949"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1941948639573602355",
+    "created_at": "2025-07-06T19:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T20:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941948639573602355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1861114841588490240",
+          "start": 3,
+          "username": "guaiguaishao0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mt36eNLZym",
+          "end": 48,
+          "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+          "media_key": "3_1941875120303128577",
+          "start": 25,
+          "url": "https://t.co/mt36eNLZym"
+        },
+        {
+          "display_url": "pic.x.com/mt36eNLZym",
+          "end": 48,
+          "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+          "media_key": "3_1941875119829241856",
+          "start": 25,
+          "url": "https://t.co/mt36eNLZym"
+        },
+        {
+          "display_url": "pic.x.com/mt36eNLZym",
+          "end": 48,
+          "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+          "media_key": "3_1941875125072125954",
+          "start": 25,
+          "url": "https://t.co/mt36eNLZym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941948639573602355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941875130566848949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guaiguaishao0: 我没招了😢 https://t.co/mt36eNLZym"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941948639573602355].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941948639573602355",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941948639573602355"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1941875120303128577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLtIifWQAEVz8i.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1941875119829241856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLtIguXUAAgpAo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1941875125072125954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvLtI0QXYAIgpUP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941875120303128577",
+            "3_1941875119829241856",
+            "3_1941875125072125954"
+          ]
+        },
+        "author_id": "1861114841588490240",
+        "conversation_id": "1941875130566848949",
+        "created_at": "2025-07-06T15:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T16:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941875130566848949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt36eNLZym",
+              "end": 29,
+              "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+              "media_key": "3_1941875120303128577",
+              "start": 6,
+              "url": "https://t.co/mt36eNLZym"
+            },
+            {
+              "display_url": "pic.x.com/mt36eNLZym",
+              "end": 29,
+              "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+              "media_key": "3_1941875119829241856",
+              "start": 6,
+              "url": "https://t.co/mt36eNLZym"
+            },
+            {
+              "display_url": "pic.x.com/mt36eNLZym",
+              "end": 29,
+              "expanded_url": "https://x.com/guaiguaishao0/status/1941875130566848949/photo/1",
+              "media_key": "3_1941875125072125954",
+              "start": 6,
+              "url": "https://t.co/mt36eNLZym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941875130566848949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 874,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我没招了😢 https://t.co/mt36eNLZym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 603,
+          "like_count": 2361,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 373
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T18:29:02.000Z",
+        "description": "这里是怪怪（六代目）老朋友眼熟的请点一下关注啦谢谢 小蝴蝶同名 找金主中…（或者对象？）投喂52=企鹅好友位 \n@guaiguaixh（小号防走丢）\n海外平台发布内容不要转发到国内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "guaiguaixh"
+              }
+            ]
+          }
+        },
+        "id": "1861114841588490240",
+        "name": "怪怪",
+        "pinned_tweet_id": "1909664877192658994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905507104057950217/XWLu2fVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 127,
+          "like_count": 845,
+          "listed_count": 13,
+          "media_count": 88,
+          "tweet_count": 342
+        },
+        "username": "guaiguaishao0",
+        "verified": false
+      }
+    ]
+  }
+}

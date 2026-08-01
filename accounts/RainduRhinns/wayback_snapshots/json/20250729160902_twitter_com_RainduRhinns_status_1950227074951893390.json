@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950227017888395264",
+        "3_1950227017896775687",
+        "3_1950227017825452032",
+        "3_1950227017863221255"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1950227074951893390",
+    "created_at": "2025-07-29T16:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T17:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950227074951893390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "sciencedirect.com/science/articl…",
+          "end": 28,
+          "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0166223619302164",
+          "start": 5,
+          "unwound_url": "https://www.sciencedirect.com/science/article/pii/S0166223619302164",
+          "url": "https://t.co/6Eqzte7VoP"
+        },
+        {
+          "display_url": "pic.x.com/FsmiWyJEUM",
+          "end": 194,
+          "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+          "media_key": "3_1950227017888395264",
+          "start": 171,
+          "url": "https://t.co/FsmiWyJEUM"
+        },
+        {
+          "display_url": "pic.x.com/FsmiWyJEUM",
+          "end": 194,
+          "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+          "media_key": "3_1950227017896775687",
+          "start": 171,
+          "url": "https://t.co/FsmiWyJEUM"
+        },
+        {
+          "display_url": "pic.x.com/FsmiWyJEUM",
+          "end": 194,
+          "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+          "media_key": "3_1950227017825452032",
+          "start": 171,
+          "url": "https://t.co/FsmiWyJEUM"
+        },
+        {
+          "display_url": "pic.x.com/FsmiWyJEUM",
+          "end": 194,
+          "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+          "media_key": "3_1950227017863221255",
+          "start": 171,
+          "url": "https://t.co/FsmiWyJEUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950227074951893390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有趣的研究https://t.co/6Eqzte7VoP\n氯胺酮的麻醉效果可以造成意识孤岛这类对意识假说提供重要模型的症状，提到一项早期fMRI研究报告在对一名患有Rasmussen’s syndrome的儿童接受左半球脑切开术后，断路左半球出现了令人惊讶且无法解释的任务相关血氧水平依赖性 (BOLD)\n联想到同样作为NMDA麻醉剂的氙气 https://t.co/FsmiWyJEUM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_1950227017888395264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCZI9ibcAA82CP.jpg",
+        "width": 497
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950227017896775687",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCZI9kbUAcgmSm.jpg",
+        "width": 1064
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950227017825452032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCZI9TbAAAFNYL.jpg",
+        "width": 1171
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950227017863221255",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxCZI9cbUAc6njO.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950227017888395264",
+            "3_1950227017896775687",
+            "3_1950227017825452032",
+            "3_1950227017863221255"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950227074951893390",
+        "created_at": "2025-07-29T16:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T17:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950227074951893390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "sciencedirect.com/science/articl…",
+              "end": 28,
+              "expanded_url": "https://www.sciencedirect.com/science/article/pii/S0166223619302164",
+              "start": 5,
+              "unwound_url": "https://www.sciencedirect.com/science/article/pii/S0166223619302164",
+              "url": "https://t.co/6Eqzte7VoP"
+            },
+            {
+              "display_url": "pic.x.com/FsmiWyJEUM",
+              "end": 194,
+              "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+              "media_key": "3_1950227017888395264",
+              "start": 171,
+              "url": "https://t.co/FsmiWyJEUM"
+            },
+            {
+              "display_url": "pic.x.com/FsmiWyJEUM",
+              "end": 194,
+              "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+              "media_key": "3_1950227017896775687",
+              "start": 171,
+              "url": "https://t.co/FsmiWyJEUM"
+            },
+            {
+              "display_url": "pic.x.com/FsmiWyJEUM",
+              "end": 194,
+              "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+              "media_key": "3_1950227017825452032",
+              "start": 171,
+              "url": "https://t.co/FsmiWyJEUM"
+            },
+            {
+              "display_url": "pic.x.com/FsmiWyJEUM",
+              "end": 194,
+              "expanded_url": "https://x.com/RainduRhinns/status/1950227074951893390/photo/1",
+              "media_key": "3_1950227017863221255",
+              "start": 171,
+              "url": "https://t.co/FsmiWyJEUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950227074951893390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有趣的研究https://t.co/6Eqzte7VoP\n氯胺酮的麻醉效果可以造成意识孤岛这类对意识假说提供重要模型的症状，提到一项早期fMRI研究报告在对一名患有Rasmussen’s syndrome的儿童接受左半球脑切开术后，断路左半球出现了令人惊讶且无法解释的任务相关血氧水平依赖性 (BOLD)\n联想到同样作为NMDA麻醉剂的氙气 https://t.co/FsmiWyJEUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 638,
+          "like_count": 2602,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 489
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

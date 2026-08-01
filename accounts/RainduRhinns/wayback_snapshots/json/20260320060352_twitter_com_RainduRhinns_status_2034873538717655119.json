@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2034873538717655119",
+    "created_at": "2026-03-20T06:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034873538717655119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usrbinmix/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/usrbinmix/status/2034324941064348005",
+          "start": 13,
+          "url": "https://t.co/jr12XMTLrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034873538717655119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034324941064348005",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "劳NLP甚至没有出现难绷 https://t.co/jr12XMTLrG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2034873538717655119",
+        "created_at": "2026-03-20T06:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034873538717655119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usrbinmix/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/usrbinmix/status/2034324941064348005",
+              "start": 13,
+              "url": "https://t.co/jr12XMTLrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034873538717655119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034324941064348005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "劳NLP甚至没有出现难绷 https://t.co/jr12XMTLrG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527959105792405509",
+        "conversation_id": "2034324941064348005",
+        "created_at": "2026-03-18T17:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034324941064348005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034324941064348005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 141123,
+          "like_count": 956,
+          "quote_count": 22,
+          "reply_count": 48,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "你们搞大模型的就是码奸，你们已经害死前端兄弟了，还要害死后端兄弟，测试兄弟，运维兄弟，害死网安兄弟，害死ic兄弟，最后害死自己害死全人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 888,
+          "like_count": 3939,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2113
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T10:27:50.000Z",
+        "description": "Naïve software developer, FOSS enthusiast, anime fan, CTF player for fun and undergraduate in cryptography. | 开源恐怖分子，傻卵二次元，编程苦手。| CN/EN (B1)/DE (A1) 本當下手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mnixry",
+                "end": 23,
+                "expanded_url": "https://github.com/mnixry",
+                "start": 0,
+                "url": "https://t.co/jlNEzwLLDj"
+              }
+            ]
+          }
+        },
+        "id": "1527959105792405509",
+        "location": "::1",
+        "name": "dmesg -w | grep mixdev",
+        "pinned_tweet_id": "1756744927554474444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728430619133104128/xm0C7lhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 363,
+          "like_count": 17913,
+          "listed_count": 11,
+          "media_count": 434,
+          "tweet_count": 2655
+        },
+        "url": "https://t.co/jlNEzwLLDj",
+        "username": "usrbinmix",
+        "verified": false
+      }
+    ]
+  }
+}

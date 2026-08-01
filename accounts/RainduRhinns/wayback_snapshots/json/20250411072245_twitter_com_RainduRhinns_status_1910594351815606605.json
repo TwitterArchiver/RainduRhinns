@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910539241584771072"
+      ],
+      "media_source_tweet_id": [
+        "1910539245111869490"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1910594351815606605",
+    "created_at": "2025-04-11T07:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T08:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910594351815606605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616094487499141121",
+          "start": 3,
+          "username": "ChaoX1220"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8aK4NwTSv",
+          "end": 58,
+          "expanded_url": "https://x.com/ChaoX1220/status/1910539245111869490/photo/1",
+          "media_key": "3_1910539241584771072",
+          "start": 35,
+          "url": "https://t.co/Y8aK4NwTSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910594351815606605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910539245111869490",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChaoX1220: 拖着的那个小带子我不知道该系在腰上（） https://t.co/Y8aK4NwTSv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910594351815606605].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910594351815606605",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910594351815606605"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_1910539241584771072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOZUVgawAAdkuS.jpg",
+        "width": 1615
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910539241584771072"
+          ]
+        },
+        "author_id": "1616094487499141121",
+        "conversation_id": "1910539245111869490",
+        "created_at": "2025-04-11T03:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T04:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910539245111869490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8aK4NwTSv",
+              "end": 43,
+              "expanded_url": "https://x.com/ChaoX1220/status/1910539245111869490/photo/1",
+              "media_key": "3_1910539241584771072",
+              "start": 20,
+              "url": "https://t.co/Y8aK4NwTSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910539245111869490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 656,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "拖着的那个小带子我不知道该系在腰上（） https://t.co/Y8aK4NwTSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 494,
+          "like_count": 1871,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 303
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T15:27:29.000Z",
+        "description": "我不是很爱聊天   里账@AsaEN8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 12,
+                "username": "AsaEN8"
+              }
+            ]
+          }
+        },
+        "id": "1616094487499141121",
+        "location": "小安的衣橱",
+        "name": "Asaen🏳️‍🌈",
+        "pinned_tweet_id": "1904932859133256133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812052676886048768/0mI8wBFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6568,
+          "following_count": 1071,
+          "like_count": 20345,
+          "listed_count": 15,
+          "media_count": 656,
+          "tweet_count": 2620
+        },
+        "username": "ChaoX1220",
+        "verified": false
+      }
+    ]
+  }
+}

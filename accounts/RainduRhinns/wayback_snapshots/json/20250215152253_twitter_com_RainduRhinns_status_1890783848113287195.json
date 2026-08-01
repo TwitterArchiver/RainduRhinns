@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1890402102520020992",
+        "3_1890402102545117184"
+      ],
+      "media_source_tweet_id": [
+        "1890402108278452254",
+        "1890402108278452254"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1890783848113287195",
+    "created_at": "2025-02-15T15:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T16:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890783848113287195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526785825601511424",
+          "start": 3,
+          "username": "HaiLiDou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OAFs8Amaco",
+          "end": 49,
+          "expanded_url": "https://x.com/HaiLiDou/status/1890402108278452254/photo/1",
+          "media_key": "3_1890402102520020992",
+          "start": 26,
+          "url": "https://t.co/OAFs8Amaco"
+        },
+        {
+          "display_url": "pic.x.com/OAFs8Amaco",
+          "end": 49,
+          "expanded_url": "https://x.com/HaiLiDou/status/1890402108278452254/photo/1",
+          "media_key": "3_1890402102545117184",
+          "start": 26,
+          "url": "https://t.co/OAFs8Amaco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890783848113287195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890402108278452254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaiLiDou: sp的屁股回复的不错嘛 https://t.co/OAFs8Amaco"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890783848113287195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890783848113287195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890783848113287195"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2879,
+        "media_key": "3_1890402102520020992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwOsktbgAAyftd.jpg",
+        "width": 3621
+      },
+      {
+        "height": 2703,
+        "media_key": "3_1890402102545117184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjwOskzacAAcO8n.jpg",
+        "width": 3845
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890402102520020992",
+            "3_1890402102545117184"
+          ]
+        },
+        "author_id": "1526785825601511424",
+        "conversation_id": "1890402108278452254",
+        "created_at": "2025-02-14T14:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T15:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890402108278452254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OAFs8Amaco",
+              "end": 35,
+              "expanded_url": "https://x.com/HaiLiDou/status/1890402108278452254/photo/1",
+              "media_key": "3_1890402102520020992",
+              "start": 12,
+              "url": "https://t.co/OAFs8Amaco"
+            },
+            {
+              "display_url": "pic.x.com/OAFs8Amaco",
+              "end": 35,
+              "expanded_url": "https://x.com/HaiLiDou/status/1890402108278452254/photo/1",
+              "media_key": "3_1890402102545117184",
+              "start": 12,
+              "url": "https://t.co/OAFs8Amaco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890402108278452254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1938,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sp的屁股回复的不错嘛 https://t.co/OAFs8Amaco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 422,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 177
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T04:45:00.000Z",
+        "description": "这个号发自己的图🔞    Furry  \nXP是：  NTR/sp/球袜/白丝/校服/大腿\n⭕防走丢@ShiTangDou     ⭕私信请保持礼貌交流（问约不回🚫）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "ShiTangDou"
+              }
+            ]
+          }
+        },
+        "id": "1526785825601511424",
+        "location": "中国",
+        "name": "兜的小卖铺",
+        "pinned_tweet_id": "1869423601818198524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890430337664319488/GrwpmfIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5677,
+          "following_count": 200,
+          "like_count": 3587,
+          "listed_count": 18,
+          "media_count": 116,
+          "tweet_count": 191
+        },
+        "username": "HaiLiDou",
+        "verified": false
+      }
+    ]
+  }
+}

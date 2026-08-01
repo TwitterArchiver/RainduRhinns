@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917221872225472512",
+        "3_1917221872581951488",
+        "3_1917221872921669632",
+        "3_1917221872258936832"
+      ],
+      "media_source_tweet_id": [
+        "1917221919214236022",
+        "1917221919214236022",
+        "1917221919214236022",
+        "1917221919214236022"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1918021670578864350",
+    "created_at": "2025-05-01T19:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T20:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918021670578864350"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "正太"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "男孩子"
+        },
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "屁股"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "双丁"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "足控"
+        },
+        {
+          "end": 110,
+          "start": 105,
+          "tag": "足控福利"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758566725627568128",
+          "start": 3,
+          "username": "Abyteowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Jb8iz6aqw",
+          "end": 134,
+          "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+          "media_key": "3_1917221872225472512",
+          "start": 111,
+          "url": "https://t.co/2Jb8iz6aqw"
+        },
+        {
+          "display_url": "pic.x.com/2Jb8iz6aqw",
+          "end": 134,
+          "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+          "media_key": "3_1917221872581951488",
+          "start": 111,
+          "url": "https://t.co/2Jb8iz6aqw"
+        },
+        {
+          "display_url": "pic.x.com/2Jb8iz6aqw",
+          "end": 134,
+          "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+          "media_key": "3_1917221872921669632",
+          "start": 111,
+          "url": "https://t.co/2Jb8iz6aqw"
+        },
+        {
+          "display_url": "pic.x.com/2Jb8iz6aqw",
+          "end": 134,
+          "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+          "media_key": "3_1917221872258936832",
+          "start": 111,
+          "url": "https://t.co/2Jb8iz6aqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918021670578864350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917221919214236022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Abyteowo: 放学路上有个大哥哥送我新内裤穿，\n还说给他拍穿好的照片就给我买皮肤。\n可是这个内裤为什么后面只有两条带子\n好奇怪哦……\n\n#正太 #男孩子 #可爱的男孩子 #屁股 #双丁 \n#足控 #足控福利 https://t.co/2Jb8iz6aqw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1918021670578864350].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1918021670578864350",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918021670578864350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1917221872225472512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptXIomb0AAfRG6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1074,
+        "media_key": "3_1917221872581951488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptXIp7bQAAH4UI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1016,
+        "media_key": "3_1917221872921669632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptXIrMa8AAJOVx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1102,
+        "media_key": "3_1917221872258936832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptXIouacAAhuTD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917221872225472512",
+            "3_1917221872581951488",
+            "3_1917221872921669632",
+            "3_1917221872258936832"
+          ]
+        },
+        "author_id": "1758566725627568128",
+        "conversation_id": "1917221919214236022",
+        "created_at": "2025-04-29T14:18:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:18:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917221919214236022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "正太"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "男孩子"
+            },
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "屁股"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "双丁"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "足控"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "足控福利"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Jb8iz6aqw",
+              "end": 120,
+              "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+              "media_key": "3_1917221872225472512",
+              "start": 97,
+              "url": "https://t.co/2Jb8iz6aqw"
+            },
+            {
+              "display_url": "pic.x.com/2Jb8iz6aqw",
+              "end": 120,
+              "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+              "media_key": "3_1917221872581951488",
+              "start": 97,
+              "url": "https://t.co/2Jb8iz6aqw"
+            },
+            {
+              "display_url": "pic.x.com/2Jb8iz6aqw",
+              "end": 120,
+              "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+              "media_key": "3_1917221872921669632",
+              "start": 97,
+              "url": "https://t.co/2Jb8iz6aqw"
+            },
+            {
+              "display_url": "pic.x.com/2Jb8iz6aqw",
+              "end": 120,
+              "expanded_url": "https://x.com/Abyteowo/status/1917221919214236022/photo/1",
+              "media_key": "3_1917221872258936832",
+              "start": 97,
+              "url": "https://t.co/2Jb8iz6aqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917221919214236022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7486,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "放学路上有个大哥哥送我新内裤穿，\n还说给他拍穿好的照片就给我买皮肤。\n可是这个内裤为什么后面只有两条带子\n好奇怪哦……\n\n#正太 #男孩子 #可爱的男孩子 #屁股 #双丁 \n#足控 #足控福利 https://t.co/2Jb8iz6aqw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 507,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 323
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T18:59:25.000Z",
+        "description": "感谢关注 这里是渊汐 170/65 0.5偏0 （理想型160/60）平时会分享一些自己觉得拍的不错的照片 里面会有🔞内容，请选择观看 要购买图包视频可加3811686450（加不上的话加3963369497） 还在上学 不线下不接定制，原味只接钞 福瑞控 兽（正）太控 足控",
+        "id": "1758566725627568128",
+        "location": "猫猫王国",
+        "name": "渊汐（咬人版）",
+        "pinned_tweet_id": "1913601315139424280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916157302346027008/SDPpnC5B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5920,
+          "following_count": 359,
+          "like_count": 4941,
+          "listed_count": 15,
+          "media_count": 233,
+          "tweet_count": 1320
+        },
+        "username": "Abyteowo",
+        "verified": false
+      }
+    ]
+  }
+}

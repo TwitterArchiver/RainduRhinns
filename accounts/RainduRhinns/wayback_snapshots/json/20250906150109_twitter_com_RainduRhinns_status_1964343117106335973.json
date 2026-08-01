@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1964194877027340416",
+    "created_at": "2025-09-06T15:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T16:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964343117106335973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        },
+        {
+          "end": 32,
+          "id": "1573863666000224256",
+          "start": 17,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964343117106335973",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964194877027340416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence @Futuristic2007 但这个不怎么猛…还没γ羟基丁酸强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1934,
+        "media_key": "3_1964194868538068995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I404DbUAMLPMA.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1983,
+        "media_key": "3_1964194868550647808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I404GbQAAnKim.jpg",
+        "width": 1155
+      },
+      {
+        "height": 1983,
+        "media_key": "3_1964194868554797057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I404HakAEpLeU.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1964194877027340416",
+        "created_at": "2025-09-06T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964343117106335973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            },
+            {
+              "end": 32,
+              "id": "1573863666000224256",
+              "start": 17,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964343117106335973",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964194877027340416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence @Futuristic2007 但这个不怎么猛…还没γ羟基丁酸强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964194868538068995",
+            "3_1964194868550647808",
+            "3_1964194868554797057"
+          ]
+        },
+        "author_id": "1741993395910811648",
+        "conversation_id": "1964194877027340416",
+        "created_at": "2025-09-06T05:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964194877027340416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfW8SDIOYK",
+              "end": 100,
+              "expanded_url": "https://x.com/AnIncandescence/status/1964194877027340416/photo/1",
+              "media_key": "3_1964194868538068995",
+              "start": 77,
+              "url": "https://t.co/KfW8SDIOYK"
+            },
+            {
+              "display_url": "pic.x.com/KfW8SDIOYK",
+              "end": 100,
+              "expanded_url": "https://x.com/AnIncandescence/status/1964194877027340416/photo/1",
+              "media_key": "3_1964194868550647808",
+              "start": 77,
+              "url": "https://t.co/KfW8SDIOYK"
+            },
+            {
+              "display_url": "pic.x.com/KfW8SDIOYK",
+              "end": 100,
+              "expanded_url": "https://x.com/AnIncandescence/status/1964194877027340416/photo/1",
+              "media_key": "3_1964194868554797057",
+              "start": 77,
+              "url": "https://t.co/KfW8SDIOYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964194877027340416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1131,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "作用于GABA，快速缓解抑郁的口服新型药物Zuranolone（商品名Zurzuvae），今年7月列管。。什么时候国内可以上市啊😭我活着的时候还能见到吗 https://t.co/KfW8SDIOYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 701,
+          "like_count": 2796,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 840
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescence",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence",
+                "start": 0,
+                "url": "https://t.co/MuEKSg4tIS"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1944465960406245490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947176726292725760/VAZ0WSeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 203,
+          "like_count": 10372,
+          "listed_count": 3,
+          "media_count": 766,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/MuEKSg4tIS",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "26届高三牲😭/dser/最近很幸福✨/希望大家也都可以找到自己热爱的事情并过上充实的生活哦❤️/永远是中推圈的过客🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/1950931607126409236",
+                "start": 0,
+                "url": "https://t.co/cyq7oi76TX"
+              }
+            ]
+          }
+        },
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1963841232087478503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915598098606546945/Hm_FVz3k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 632,
+          "like_count": 128350,
+          "listed_count": 4,
+          "media_count": 1061,
+          "tweet_count": 24174
+        },
+        "url": "https://t.co/cyq7oi76TX",
+        "username": "Futuristic2007",
+        "verified": true
+      }
+    ]
+  }
+}

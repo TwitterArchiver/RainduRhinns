@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868391272068886528",
+        "3_1868391271896944640"
+      ],
+      "media_source_tweet_id": [
+        "1868391276359598194",
+        "1868391276359598194"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1869637506565898247",
+    "created_at": "2024-12-19T06:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T07:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869637506565898247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1861114841588490240",
+          "start": 3,
+          "username": "guaiguaishao0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEYxLHQ5UM",
+          "end": 68,
+          "expanded_url": "https://x.com/guaiguaishao0/status/1868391276359598194/photo/1",
+          "media_key": "3_1868391272068886528",
+          "start": 45,
+          "url": "https://t.co/GEYxLHQ5UM"
+        },
+        {
+          "display_url": "pic.x.com/GEYxLHQ5UM",
+          "end": 68,
+          "expanded_url": "https://x.com/guaiguaishao0/status/1868391276359598194/photo/1",
+          "media_key": "3_1868391271896944640",
+          "start": 45,
+          "url": "https://t.co/GEYxLHQ5UM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869637506565898247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868391276359598194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guaiguaishao0: 感觉第一张显腿好粗（第二张手里的是控制拍照的按钮） https://t.co/GEYxLHQ5UM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1869637506565898247].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1869637506565898247",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1869637506565898247"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1299,
+        "media_key": "3_1868391272068886528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge3b9nkbMAAx0I8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1074,
+        "media_key": "3_1868391271896944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge3b9m7bkAAZ3XK.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868391272068886528",
+            "3_1868391271896944640"
+          ]
+        },
+        "author_id": "1861114841588490240",
+        "conversation_id": "1868391276359598194",
+        "created_at": "2024-12-15T20:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T21:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868391276359598194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEYxLHQ5UM",
+              "end": 49,
+              "expanded_url": "https://x.com/guaiguaishao0/status/1868391276359598194/photo/1",
+              "media_key": "3_1868391272068886528",
+              "start": 26,
+              "url": "https://t.co/GEYxLHQ5UM"
+            },
+            {
+              "display_url": "pic.x.com/GEYxLHQ5UM",
+              "end": 49,
+              "expanded_url": "https://x.com/guaiguaishao0/status/1868391276359598194/photo/1",
+              "media_key": "3_1868391271896944640",
+              "start": 26,
+              "url": "https://t.co/GEYxLHQ5UM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868391276359598194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2837,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "感觉第一张显腿好粗（第二张手里的是控制拍照的按钮） https://t.co/GEYxLHQ5UM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 339,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T18:29:02.000Z",
+        "description": "这里是怪怪（六代目）上个号始终没有坚持下去3000粉不是我的极限。我会努力更新大家爱看的内容老朋友眼熟的请点一下关注啦谢谢\n目前在郑州推主可贴贴",
+        "id": "1861114841588490240",
+        "name": "怪怪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861116588403105793/wRsPYPAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 56,
+          "like_count": 109,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 52
+        },
+        "username": "guaiguaishao0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1978719387239465017",
+    "created_at": "2025-10-16T08:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T09:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978740441613820392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886700873684017154",
+          "start": 0,
+          "username": "aa6498863446077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978740441613820392",
+    "in_reply_to_user_id": "1886700873684017154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978739203434303748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa6498863446077 2C前体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1978719387239465017",
+        "created_at": "2025-10-16T08:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978740441613820392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886700873684017154",
+              "start": 0,
+              "username": "aa6498863446077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978740441613820392",
+        "in_reply_to_user_id": "1886700873684017154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978739203434303748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa6498863446077 2C前体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886700873684017154",
+        "conversation_id": "1978719387239465017",
+        "created_at": "2025-10-16T08:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978739203434303748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978739203434303748",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978719387239465017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 效果类似pea吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 762,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1272
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T08:58:52.000Z",
+        "description": "",
+        "id": "1886700873684017154",
+        "name": "aa",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 222,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "aa6498863446077",
+        "verified": false
+      }
+    ]
+  }
+}

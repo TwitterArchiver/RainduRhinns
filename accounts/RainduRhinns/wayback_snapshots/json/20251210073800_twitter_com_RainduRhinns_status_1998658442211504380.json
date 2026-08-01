@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1998658442211504380",
+    "created_at": "2025-12-10T07:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998658442211504380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 182,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1998411996438630436",
+          "start": 159,
+          "url": "https://t.co/QRDCd8b9Sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998658442211504380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998411996438630436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2012年前有个澳大利亚人史蒂文斯帕利维耶罗在中国拥有价值数百万美元的MDP2P 也就是MDMA最简单的前体之一 那时至今中国MDMA仍通过改变前体出口海外 后来由于MDP2P被禁他便委托中国一家实验室将其转化为其他物质剩下的故事大家都知道了 这个故事后来成为了Pills Of God 这本书讲化学家与政策斗智斗勇 https://t.co/QRDCd8b9Sh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998658442211504380",
+        "created_at": "2025-12-10T07:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998658442211504380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1998411996438630436",
+              "start": 159,
+              "url": "https://t.co/QRDCd8b9Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998658442211504380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998411996438630436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2012年前有个澳大利亚人史蒂文斯帕利维耶罗在中国拥有价值数百万美元的MDP2P 也就是MDMA最简单的前体之一 那时至今中国MDMA仍通过改变前体出口海外 后来由于MDP2P被禁他便委托中国一家实验室将其转化为其他物质剩下的故事大家都知道了 这个故事后来成为了Pills Of God 这本书讲化学家与政策斗智斗勇 https://t.co/QRDCd8b9Sh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998411996438630436",
+        "created_at": "2025-12-09T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998411996438630436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yowamushi12072…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yowamushi120720/status/1997325058512146542",
+              "start": 145,
+              "url": "https://t.co/vVjD1j5bkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998411996438630436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2798,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997325058512146542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得单纯是现在OD圈的这些人年龄都太小了,中国玩致幻剂为主的RC冷门物质圈都存在至少十几年了甚至还有玩成人生好友的,不知道有没有人知道以前豆瓣还有交流论坛…寻求药物滥用的人终究会和追求新奇体验的人分化成不同的群体,或许在某个生活阶段他们在动机上重叠了,但如果是五年后,或者只是一年后呢？ https://t.co/vVjD1j5bkb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 849,
+          "like_count": 3379,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1599
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

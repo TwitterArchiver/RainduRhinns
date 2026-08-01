@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900908405222768640",
+        "3_1900908405205995520"
+      ],
+      "media_source_tweet_id": [
+        "1900908416773877812",
+        "1900908416773877812"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1901522317928185868",
+    "created_at": "2025-03-17T06:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T07:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901522317928185868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893957576632811520",
+          "start": 3,
+          "username": "zimobubu"
+        },
+        {
+          "end": 31,
+          "id": "1878697376535416833",
+          "start": 20,
+          "username": "yunyunya05"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqILOVQdKg",
+          "end": 55,
+          "expanded_url": "https://x.com/zimobubu/status/1900908416773877812/photo/1",
+          "media_key": "3_1900908405222768640",
+          "start": 32,
+          "url": "https://t.co/tqILOVQdKg"
+        },
+        {
+          "display_url": "pic.x.com/tqILOVQdKg",
+          "end": 55,
+          "expanded_url": "https://x.com/zimobubu/status/1900908416773877812/photo/1",
+          "media_key": "3_1900908405205995520",
+          "start": 32,
+          "url": "https://t.co/tqILOVQdKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901522317928185868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900908416773877812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zimobubu: 战败了嘛  @yunyunya05 https://t.co/tqILOVQdKg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1901522317928185868].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1901522317928185868",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1901522317928185868"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1900908405222768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFiH4PbgAA6ClE.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1900908405205995520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmFiH4LbkAAwdRj.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900908405222768640",
+            "3_1900908405205995520"
+          ]
+        },
+        "author_id": "1893957576632811520",
+        "conversation_id": "1900908416773877812",
+        "created_at": "2025-03-15T13:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900908416773877812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878697376535416833",
+              "start": 6,
+              "username": "yunyunya05"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqILOVQdKg",
+              "end": 41,
+              "expanded_url": "https://x.com/zimobubu/status/1900908416773877812/photo/1",
+              "media_key": "3_1900908405222768640",
+              "start": 18,
+              "url": "https://t.co/tqILOVQdKg"
+            },
+            {
+              "display_url": "pic.x.com/tqILOVQdKg",
+              "end": 41,
+              "expanded_url": "https://x.com/zimobubu/status/1900908416773877812/photo/1",
+              "media_key": "3_1900908405205995520",
+              "start": 18,
+              "url": "https://t.co/tqILOVQdKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900908416773877812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9092,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "战败了嘛  @yunyunya05 https://t.co/tqILOVQdKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 465,
+          "like_count": 1679,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 271
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T09:34:18.000Z",
+        "description": "是小布布捏😽 | bsky同名 | 已成年(合法) | 常驻西安 | 0/174cm/56kg/39码 | 🉑出视频/定制/原味 | 🉑线下面基 | xp是sp和sm | 交友qq🐧 1449881064 | 看官老爷看的开心～😈",
+        "id": "1893957576632811520",
+        "name": "布布糕",
+        "pinned_tweet_id": "1896221291029631090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893957704139612160/sxahyoXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3148,
+          "following_count": 102,
+          "like_count": 74,
+          "listed_count": 16,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "username": "zimobubu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T06:55:48.000Z",
+        "description": "是云云吖（喵喵机二代）｜合法成年正太 xp是sm，圣水｜坐标：西安｜扩列q3989233557｜接定制视频图片，出售视频哦～｜企鹅群是：799503943",
+        "id": "1878697376535416833",
+        "name": "云云吖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881230308311535616/uW5xL8ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 71,
+          "like_count": 43,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 157
+        },
+        "username": "yunyunya05",
+        "verified": false
+      }
+    ]
+  }
+}

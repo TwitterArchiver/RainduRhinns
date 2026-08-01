@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1970728844798943521",
+    "created_at": "2025-09-24T17:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T18:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970898007924339171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970898007924339171",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970897874876760108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 含混。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1970728844798943521",
+        "created_at": "2025-09-24T17:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970898007924339171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970898007924339171",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970897874876760108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 含混。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1970728844798943521",
+        "created_at": "2025-09-24T17:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970897874876760108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970897874876760108",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970728844798943521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 但是“解离剂” 类药物能不能建立导致DPD和DID的直接医学作用尤未可知吧，如果考察dissociation的使用又是心理研究首先提出定义，而后作为隐喻和范式泛化到其他相关语境里，大家接受了范式后才开始经典的靠效果给药物分类了，溯源下去是语言问题的糊涂帐或者说精神医学词汇何种程度上可以按受喻态一直"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 738,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1012
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖INTP野生水母‖里推：@不告诉你！ ‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 146,
+                "start": 133,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "8時、officeで摩卡あじ🪼诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 306,
+          "like_count": 31992,
+          "listed_count": 1,
+          "media_count": 1080,
+          "tweet_count": 8252
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

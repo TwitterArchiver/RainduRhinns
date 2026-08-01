@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964936859693596672"
+      ],
+      "media_source_tweet_id": [
+        "1964937140535693322"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1965658270875664437",
+    "created_at": "2025-09-10T06:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T07:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965658270875664437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1805020675541004288",
+          "start": 3,
+          "username": "gmgshmtcbn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjIskeRQjl",
+          "end": 39,
+          "expanded_url": "https://x.com/gmgshmtcbn/status/1964937140535693322/photo/1",
+          "media_key": "3_1964936859693596672",
+          "start": 16,
+          "url": "https://t.co/EjIskeRQjl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965658270875664437",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964937140535693322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gmgshmtcbn: https://t.co/EjIskeRQjl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965658270875664437].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965658270875664437",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965658270875664437"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1964936859693596672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TbqcgbwAA5SxK.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964936859693596672"
+          ]
+        },
+        "author_id": "1805020675541004288",
+        "conversation_id": "1964937140535693322",
+        "created_at": "2025-09-08T06:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T07:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964937140535693322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjIskeRQjl",
+              "end": 23,
+              "expanded_url": "https://x.com/gmgshmtcbn/status/1964937140535693322/photo/1",
+              "media_key": "3_1964936859693596672",
+              "start": 0,
+              "url": "https://t.co/EjIskeRQjl"
+            },
+            {
+              "display_url": "x.com/gmgshmtcbn/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gmgshmtcbn/status/1957417335742218319",
+              "start": 24,
+              "url": "https://t.co/mJdVYBW3Uu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964937140535693322",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 6738,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957417335742218319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EjIskeRQjl https://t.co/mJdVYBW3Uu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 712,
+          "like_count": 2823,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 869
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T23:30:49.000Z",
+        "description": "🔞雑多■ do not repost or use my works■自我@naeuripriv■",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "naeuripriv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/107412064",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107412064",
+                "start": 0,
+                "url": "https://t.co/Kuy1OXUQYH"
+              }
+            ]
+          }
+        },
+        "id": "1805020675541004288",
+        "name": "苗売🐝",
+        "pinned_tweet_id": "1956682514619347228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964852254131073024/ZWdmLDLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15025,
+          "following_count": 136,
+          "like_count": 2855,
+          "listed_count": 80,
+          "media_count": 14,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/Kuy1OXUQYH",
+        "username": "gmgshmtcbn",
+        "verified": true
+      }
+    ]
+  }
+}

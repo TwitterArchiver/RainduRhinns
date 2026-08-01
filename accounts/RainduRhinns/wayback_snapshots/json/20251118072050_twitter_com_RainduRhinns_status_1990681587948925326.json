@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1990681587948925326",
+    "created_at": "2025-11-18T07:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T08:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990681587948925326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/coiloffaraday/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/coiloffaraday/status/1982113326541984100",
+          "start": 32,
+          "url": "https://t.co/haE8txl9Tr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990681587948925326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982113326541984100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麻麻的刚觉得鸡哥长得还挺可爱的就看见这个逼人偷我的图发小红书😅 https://t.co/haE8txl9Tr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982113315535945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Hhjw0XgAAw1x-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1990681587948925326",
+        "created_at": "2025-11-18T07:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T08:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990681587948925326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coiloffaraday/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/coiloffaraday/status/1982113326541984100",
+              "start": 32,
+              "url": "https://t.co/haE8txl9Tr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990681587948925326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982113326541984100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻麻的刚觉得鸡哥长得还挺可爱的就看见这个逼人偷我的图发小红书😅 https://t.co/haE8txl9Tr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982113315535945728"
+          ]
+        },
+        "author_id": "1355178308460187653",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982113326541984100",
+        "created_at": "2025-10-25T15:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T16:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982113326541984100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDoKJAXJEe",
+              "end": 31,
+              "expanded_url": "https://x.com/CoilofFaraday/status/1982113326541984100/photo/1",
+              "media_key": "3_1982113315535945728",
+              "start": 8,
+              "url": "https://t.co/JDoKJAXJEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982113326541984100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4508,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥你要干啥😁 https://t.co/JDoKJAXJEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 830,
+          "like_count": 3203,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987410658934358016/69Dk5ABQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 511,
+          "like_count": 444,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

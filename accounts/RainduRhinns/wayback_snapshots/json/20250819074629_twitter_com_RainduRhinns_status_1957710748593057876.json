@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1957710748593057876",
+    "created_at": "2025-08-19T07:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T08:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957710748593057876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kwanalexc/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kwanalexc/status/1795110703415656935",
+          "start": 5,
+          "url": "https://t.co/qNbA5aSFtz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957710748593057876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795110703415656935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好玩 https://t.co/qNbA5aSFtz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 615,
+        "media_key": "3_1795110694817234944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOmDqoEWAAAZb9N.jpg",
+        "width": 919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1957710748593057876",
+        "created_at": "2025-08-19T07:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957710748593057876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kwanalexc/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kwanalexc/status/1795110703415656935",
+              "start": 5,
+              "url": "https://t.co/qNbA5aSFtz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957710748593057876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795110703415656935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好玩 https://t.co/qNbA5aSFtz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1795110694817234944"
+          ]
+        },
+        "author_id": "2174463928",
+        "conversation_id": "1795110201877581941",
+        "created_at": "2024-05-27T15:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T16:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795110703415656935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 122,
+              "normalized_text": "psilocybin",
+              "probability": 0.6043,
+              "start": 113,
+              "type": "Other"
+            },
+            {
+              "end": 184,
+              "normalized_text": "HT2A",
+              "probability": 0.532,
+              "start": 181,
+              "type": "Other"
+            },
+            {
+              "end": 199,
+              "normalized_text": "MDMA",
+              "probability": 0.5994,
+              "start": 196,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfndGrCD0N",
+              "end": 283,
+              "expanded_url": "https://x.com/kwanalexc/status/1795110703415656935/photo/1",
+              "media_key": "3_1795110694817234944",
+              "start": 260,
+              "url": "https://t.co/EfndGrCD0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795110703415656935",
+        "in_reply_to_user_id": "2174463928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 651,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795110480266023327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Here, to evaluate whether c-Fos signals can be used to screen drugs, we had to test a larger panel of compounds: psilocybin, ketamine, 5-MeO-DMT, 6-fluoro-DET (non-hallucinogenic 5-HT2A agonist), MDMA, acute fluoxetine, chronic fluoxetine, and saline vehicle. https://t.co/EfndGrCD0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 667,
+          "like_count": 2768,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 696
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-09T13:06:18.000Z",
+        "description": "Professor at @CornellBME. Studying the neurobiology of psychiatric #drugs including #ketamine and #psychedelics.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 67,
+                "tag": "drugs"
+              },
+              {
+                "end": 93,
+                "start": 84,
+                "tag": "ketamine"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "tag": "psychedelics"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "CornellBME"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alexkwanlab.org",
+                "end": 23,
+                "expanded_url": "http://alexkwanlab.org",
+                "start": 0,
+                "url": "https://t.co/vPrGeW4VrV"
+              }
+            ]
+          }
+        },
+        "id": "2174463928",
+        "location": "Ithaca, NY",
+        "name": "Alex Kwan 關進晞",
+        "pinned_tweet_id": "1951335252909228491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752074430224764929/vhbsIiBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5814,
+          "following_count": 2292,
+          "like_count": 43517,
+          "listed_count": 69,
+          "media_count": 472,
+          "tweet_count": 3898
+        },
+        "url": "https://t.co/vPrGeW4VrV",
+        "username": "kwanalexc",
+        "verified": false
+      }
+    ]
+  }
+}

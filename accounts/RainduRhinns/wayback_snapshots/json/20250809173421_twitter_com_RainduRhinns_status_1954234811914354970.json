@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950932206932893696",
+        "3_1950932238478270464"
+      ],
+      "media_source_tweet_id": [
+        "1950932242416763273",
+        "1950932242416763273"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1954234811914354970",
+    "created_at": "2025-08-09T17:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T18:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954234811914354970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893496606890303493",
+          "start": 3,
+          "username": "shinra_2677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wBDGE3FsPG",
+          "end": 44,
+          "expanded_url": "https://x.com/shinra_2677/status/1950932242416763273/photo/1",
+          "media_key": "3_1950932206932893696",
+          "start": 21,
+          "url": "https://t.co/wBDGE3FsPG"
+        },
+        {
+          "display_url": "pic.x.com/wBDGE3FsPG",
+          "end": 44,
+          "expanded_url": "https://x.com/shinra_2677/status/1950932242416763273/photo/1",
+          "media_key": "3_1950932238478270464",
+          "start": 21,
+          "url": "https://t.co/wBDGE3FsPG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954234811914354970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950932242416763273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinra_2677: 看看脚 https://t.co/wBDGE3FsPG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954234811914354970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954234811914354970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954234811914354970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950932206932893696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMagXcaoAAgl69.jpg",
+        "width": 1522
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950932238478270464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMaiM9a4AAp65k.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950932206932893696",
+            "3_1950932238478270464"
+          ]
+        },
+        "author_id": "1893496606890303493",
+        "conversation_id": "1950932242416763273",
+        "created_at": "2025-07-31T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950932242416763273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wBDGE3FsPG",
+              "end": 27,
+              "expanded_url": "https://x.com/shinra_2677/status/1950932242416763273/photo/1",
+              "media_key": "3_1950932206932893696",
+              "start": 4,
+              "url": "https://t.co/wBDGE3FsPG"
+            },
+            {
+              "display_url": "pic.x.com/wBDGE3FsPG",
+              "end": 27,
+              "expanded_url": "https://x.com/shinra_2677/status/1950932242416763273/photo/1",
+              "media_key": "3_1950932238478270464",
+              "start": 4,
+              "url": "https://t.co/wBDGE3FsPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950932242416763273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 599,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看看脚 https://t.co/wBDGE3FsPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 656,
+          "like_count": 2714,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 627
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T03:02:35.000Z",
+        "description": "|🔞🌈|oc人|单身|正太控|麻中蓬单推|2X-0.5|超级社恐|不键政|推止于推|欢迎扩列|ff14鸟区|",
+        "id": "1893496606890303493",
+        "location": "广东",
+        "name": "蓬🌴",
+        "pinned_tweet_id": "1951857916371247270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945039782234456064/f0pJ0_Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 232,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 122
+        },
+        "username": "shinra_2677",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972717335908851712"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1972717345476067540",
+    "created_at": "2025-09-29T17:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T18:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972717345476067540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "plato.stanford.edu/entries/embodi",
+          "end": 168,
+          "expanded_url": "http://plato.stanford.edu/entries/embodi",
+          "start": 145,
+          "status": 404,
+          "unwound_url": "https://plato.stanford.edu/entries/embodi",
+          "url": "https://t.co/MXN4cmBNHQ"
+        },
+        {
+          "display_url": "pic.x.com/9ZR7gCBRh5",
+          "end": 195,
+          "expanded_url": "https://x.com/RainduRhinns/status/1972717345476067540/photo/1",
+          "media_key": "3_1972717335908851712",
+          "start": 172,
+          "url": "https://t.co/9ZR7gCBRh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972717345476067540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得不说对致幻剂的使用让我在哲学和意识科学理论的立场上更倾向于Embodied Cognition Theory/具身认知智能。特别是人们对于哪些物质“有身体层面的效果”常没有共识，但对于哪些物质“没有身体层面的效果”，人们往往有共识。\nSEP词条中的Embodied Cognition\nhttps://t.co/MXN4cmBNHQ... https://t.co/9ZR7gCBRh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972717335908851712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2B_9xEaIAAlU07.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972717335908851712"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1972717345476067540",
+        "created_at": "2025-09-29T17:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T18:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972717345476067540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "plato.stanford.edu/entries/embodi",
+              "end": 168,
+              "expanded_url": "http://plato.stanford.edu/entries/embodi",
+              "start": 145,
+              "status": 404,
+              "unwound_url": "https://plato.stanford.edu/entries/embodi",
+              "url": "https://t.co/MXN4cmBNHQ"
+            },
+            {
+              "display_url": "pic.x.com/9ZR7gCBRh5",
+              "end": 195,
+              "expanded_url": "https://x.com/RainduRhinns/status/1972717345476067540/photo/1",
+              "media_key": "3_1972717335908851712",
+              "start": 172,
+              "url": "https://t.co/9ZR7gCBRh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972717345476067540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得不说对致幻剂的使用让我在哲学和意识科学理论的立场上更倾向于Embodied Cognition Theory/具身认知智能。特别是人们对于哪些物质“有身体层面的效果”常没有共识，但对于哪些物质“没有身体层面的效果”，人们往往有共识。\nSEP词条中的Embodied Cognition\nhttps://t.co/MXN4cmBNHQ... https://t.co/9ZR7gCBRh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 739,
+          "like_count": 2873,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1050
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

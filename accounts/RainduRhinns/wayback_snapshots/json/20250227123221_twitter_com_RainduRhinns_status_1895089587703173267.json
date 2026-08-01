@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886640646540419073",
+        "3_1886640646498484224",
+        "3_1886640646494281728"
+      ],
+      "media_source_tweet_id": [
+        "1886640660201247103",
+        "1886640660201247103",
+        "1886640660201247103"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1895089587703173267",
+    "created_at": "2025-02-27T12:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T13:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895089587703173267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1799366944883343360",
+          "start": 3,
+          "username": "Rabbitfoot0502"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcSZ2tBXXL",
+          "end": 51,
+          "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+          "media_key": "3_1886640646540419073",
+          "start": 28,
+          "url": "https://t.co/OcSZ2tBXXL"
+        },
+        {
+          "display_url": "pic.x.com/OcSZ2tBXXL",
+          "end": 51,
+          "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+          "media_key": "3_1886640646498484224",
+          "start": 28,
+          "url": "https://t.co/OcSZ2tBXXL"
+        },
+        {
+          "display_url": "pic.x.com/OcSZ2tBXXL",
+          "end": 51,
+          "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+          "media_key": "3_1886640646494281728",
+          "start": 28,
+          "url": "https://t.co/OcSZ2tBXXL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895089587703173267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886640660201247103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbitfoot0502: 还是白丝小兔！ https://t.co/OcSZ2tBXXL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895089587703173267].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895089587703173267",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895089587703173267"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1262,
+        "media_key": "3_1886640646540419073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6xrBPa4AEbl8q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1450,
+        "media_key": "3_1886640646498484224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6xrBFbAAAWBoz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1268,
+        "media_key": "3_1886640646494281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi6xrBEa4AAKmco.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886640646540419073",
+            "3_1886640646498484224",
+            "3_1886640646494281728"
+          ]
+        },
+        "author_id": "1799366944883343360",
+        "conversation_id": "1886640660201247103",
+        "created_at": "2025-02-04T04:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886640660201247103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcSZ2tBXXL",
+              "end": 31,
+              "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+              "media_key": "3_1886640646540419073",
+              "start": 8,
+              "url": "https://t.co/OcSZ2tBXXL"
+            },
+            {
+              "display_url": "pic.x.com/OcSZ2tBXXL",
+              "end": 31,
+              "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+              "media_key": "3_1886640646498484224",
+              "start": 8,
+              "url": "https://t.co/OcSZ2tBXXL"
+            },
+            {
+              "display_url": "pic.x.com/OcSZ2tBXXL",
+              "end": 31,
+              "expanded_url": "https://x.com/Rabbitfoot0502/status/1886640660201247103/photo/1",
+              "media_key": "3_1886640646494281728",
+              "start": 8,
+              "url": "https://t.co/OcSZ2tBXXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886640660201247103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4384,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "还是白丝小兔！ https://t.co/OcSZ2tBXXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 445,
+          "like_count": 1502,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 222
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T09:04:54.000Z",
+        "description": "一代兔于5283粉坠机🐰@rabbitfoot05 168/55 infp 已成年🔞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "rabbitfoot05"
+              }
+            ]
+          }
+        },
+        "id": "1799366944883343360",
+        "name": "🐰！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799368435702583297/6llGcBF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2049,
+          "following_count": 130,
+          "like_count": 49,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 108
+        },
+        "username": "Rabbitfoot0502",
+        "verified": false
+      }
+    ]
+  }
+}

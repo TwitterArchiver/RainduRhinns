@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962878904634679297",
+        "3_1962878904647188480"
+      ],
+      "media_source_tweet_id": [
+        "1962878915892084932",
+        "1962878915892084932"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1965372809389256864",
+    "created_at": "2025-09-09T11:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965372809389256864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766520708325339136",
+          "start": 3,
+          "username": "sirinohana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VQyoQPqBsj",
+          "end": 90,
+          "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+          "media_key": "3_1962878904634679297",
+          "start": 67,
+          "url": "https://t.co/VQyoQPqBsj"
+        },
+        {
+          "display_url": "pic.x.com/VQyoQPqBsj",
+          "end": 90,
+          "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+          "media_key": "3_1962878904647188480",
+          "start": 67,
+          "url": "https://t.co/VQyoQPqBsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965372809389256864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962878915892084932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sirinohana: 自分で見惚れることのできる写真こそ自撮りが持つ芸術性。美しく残し、何度も自分に惚れ直す。自賛の賜物。 https://t.co/VQyoQPqBsj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_1962878904634679297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2L9sfboAEmIWy.jpg",
+        "width": 1444
+      },
+      {
+        "height": 962,
+        "media_key": "3_1962878904647188480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2L9siagAAh4Pq.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962878904634679297",
+            "3_1962878904647188480"
+          ],
+          "media_source_tweet_id": [
+            "1962878915892084932",
+            "1962878915892084932"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1965372809389256864",
+        "created_at": "2025-09-09T11:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965372809389256864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766520708325339136",
+              "start": 3,
+              "username": "sirinohana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQyoQPqBsj",
+              "end": 90,
+              "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+              "media_key": "3_1962878904634679297",
+              "start": 67,
+              "url": "https://t.co/VQyoQPqBsj"
+            },
+            {
+              "display_url": "pic.x.com/VQyoQPqBsj",
+              "end": 90,
+              "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+              "media_key": "3_1962878904647188480",
+              "start": 67,
+              "url": "https://t.co/VQyoQPqBsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965372809389256864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962878915892084932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sirinohana: 自分で見惚れることのできる写真こそ自撮りが持つ芸術性。美しく残し、何度も自分に惚れ直す。自賛の賜物。 https://t.co/VQyoQPqBsj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962878904634679297",
+            "3_1962878904647188480"
+          ]
+        },
+        "author_id": "1766520708325339136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1962878915892084932",
+        "created_at": "2025-09-02T14:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962878915892084932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VQyoQPqBsj",
+              "end": 74,
+              "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+              "media_key": "3_1962878904634679297",
+              "start": 51,
+              "url": "https://t.co/VQyoQPqBsj"
+            },
+            {
+              "display_url": "pic.x.com/VQyoQPqBsj",
+              "end": 74,
+              "expanded_url": "https://x.com/sirinohana/status/1962878915892084932/photo/1",
+              "media_key": "3_1962878904647188480",
+              "start": 51,
+              "url": "https://t.co/VQyoQPqBsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962878915892084932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 27054,
+          "like_count": 1375,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "自分で見惚れることのできる写真こそ自撮りが持つ芸術性。美しく残し、何度も自分に惚れ直す。自賛の賜物。 https://t.co/VQyoQPqBsj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 709,
+          "like_count": 2816,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 861
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T17:45:43.000Z",
+        "description": "物書き。小説『花を吐かせて魅せて』『人魚のチャフチャス』発売中(電子書籍)。noteにてエッセイを執筆。文学、美学、少年美、自愛。【ゲーム用垢 : @f_rog6】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 74,
+                "username": "f_rog6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/onude_",
+                "end": 23,
+                "expanded_url": "https://note.com/onude_",
+                "start": 0,
+                "url": "https://t.co/1zwjkKcWyL"
+              }
+            ]
+          }
+        },
+        "id": "1766520708325339136",
+        "name": "菊山宰",
+        "pinned_tweet_id": "1962074915928223925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962504804447764480/UHGFJFDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 141,
+          "like_count": 2769,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/1zwjkKcWyL",
+        "username": "sirinohana",
+        "verified": false
+      }
+    ]
+  }
+}

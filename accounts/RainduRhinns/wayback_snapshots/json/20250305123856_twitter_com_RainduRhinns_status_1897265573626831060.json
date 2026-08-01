@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896940498545463296"
+      ],
+      "media_source_tweet_id": [
+        "1896940503700287567"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1897265573626831060",
+    "created_at": "2025-03-05T12:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T13:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897265573626831060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591295586229424128",
+          "start": 3,
+          "username": "chips7120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPbx6Jg09f",
+          "end": 62,
+          "expanded_url": "https://x.com/chips7120/status/1896940503700287567/photo/1",
+          "media_key": "3_1896940498545463296",
+          "start": 39,
+          "url": "https://t.co/jPbx6Jg09f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897265573626831060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896940503700287567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chips7120: 美味しいよー♪♪(,,&gt;ω&lt;,,) https://t.co/jPbx6Jg09f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897265573626831060].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897265573626831060",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897265573626831060"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_1896940498545463296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlNJVT_a0AAaPT5.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896940498545463296"
+          ]
+        },
+        "author_id": "1591295586229424128",
+        "conversation_id": "1896940503700287567",
+        "created_at": "2025-03-04T15:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T16:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896940503700287567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPbx6Jg09f",
+              "end": 47,
+              "expanded_url": "https://x.com/chips7120/status/1896940503700287567/photo/1",
+              "media_key": "3_1896940498545463296",
+              "start": 24,
+              "url": "https://t.co/jPbx6Jg09f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896940503700287567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3504,
+          "like_count": 311,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "美味しいよー♪♪(,,&gt;ω&lt;,,) https://t.co/jPbx6Jg09f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 454,
+          "like_count": 1597,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 250
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-12T05:03:40.000Z",
+        "description": "たくさん可愛がってください！！ 可愛くなりたい！",
+        "id": "1591295586229424128",
+        "location": "写真はイメージだからね！",
+        "name": "名無し🍐",
+        "pinned_tweet_id": "1775534272230863035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780972600803708929/gTzlNkpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11998,
+          "following_count": 122,
+          "like_count": 1712,
+          "listed_count": 18,
+          "media_count": 201,
+          "tweet_count": 5901
+        },
+        "username": "chips7120",
+        "verified": true
+      }
+    ]
+  }
+}

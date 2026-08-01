@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1992551618303476077",
+    "created_at": "2025-11-25T18:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T19:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993379319658492317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 33,
+          "id": "1313383273079345152",
+          "start": 17,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993379319658492317",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993369834781131011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 @ValeriaEulabeia 多多保重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1992551618303476077",
+        "created_at": "2025-11-25T18:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T19:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993379319658492317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 33,
+              "id": "1313383273079345152",
+              "start": 17,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993379319658492317",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993369834781131011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 @ValeriaEulabeia 多多保重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "1992551618303476077",
+        "created_at": "2025-11-25T17:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T18:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993369834781131011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 38,
+              "id": "1313383273079345152",
+              "start": 22,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993369834781131011",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993369131723505710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 不收😁😁\n之前被@ValeriaEulabeia带着一群跨性别造谣诈骗\n收割流量还有借着名头圈钱\n导致有ptsd\n这其实也就是我至今也不肯打开自己收款渠道得根源问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 840,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 1118,
+          "like_count": 903,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 1466
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1982343054469243077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991732097313304576/zO2_W3jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6811,
+          "following_count": 3694,
+          "like_count": 143789,
+          "listed_count": 17,
+          "media_count": 2401,
+          "tweet_count": 22062
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1967242456191430861",
+    "created_at": "2025-09-14T15:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T16:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967242456191430861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ronbupdates/st…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/ronbupdates/status/1966506737852129360",
+          "start": 63,
+          "url": "https://t.co/2nLYbhPugd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967242456191430861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966506737852129360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "联合中左翼党派和共产党长期占国会绝对多数女最高法法官促成尼泊尔同性婚姻合法化还出任女总理给我干北欧来了这还是亚洲吗我真嫉妒了 https://t.co/2nLYbhPugd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_1966506731892346880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0pvdCLbkAAOxLe.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1967242456191430861",
+        "created_at": "2025-09-14T15:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T16:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967242456191430861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ronbupdates/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/ronbupdates/status/1966506737852129360",
+              "start": 63,
+              "url": "https://t.co/2nLYbhPugd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967242456191430861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966506737852129360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联合中左翼党派和共产党长期占国会绝对多数女最高法法官促成尼泊尔同性婚姻合法化还出任女总理给我干北欧来了这还是亚洲吗我真嫉妒了 https://t.co/2nLYbhPugd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966506731892346880"
+          ]
+        },
+        "author_id": "3141875413",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1966506737852129360",
+        "created_at": "2025-09-12T14:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966506737852129360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sushila Karki",
+              "probability": 0.7886,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Nepal",
+              "probability": 0.7887,
+              "start": 84,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APvjqI0omG",
+              "end": 184,
+              "expanded_url": "https://x.com/RONBupdates/status/1966506737852129360/photo/1",
+              "media_key": "3_1966506731892346880",
+              "start": 161,
+              "url": "https://t.co/APvjqI0omG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966506737852129360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 130018,
+          "like_count": 2883,
+          "quote_count": 158,
+          "reply_count": 66,
+          "retweet_count": 540
+        },
+        "reply_settings": "everyone",
+        "text": "Big Breaking: Sushila Karki will be the new Prime Minister of Interim Government of Nepal, as per today's discussion with the President! More details to follow! https://t.co/APvjqI0omG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 719,
+          "like_count": 2824,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 913
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-06T12:30:55.000Z",
+        "description": "Official 𝕏 Account of Routine of Nepal Banda aka RONB. We update about latest news,stories, events etc. Send us content at: content.ronb@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ronbpost.com",
+                "end": 23,
+                "expanded_url": "http://ronbpost.com",
+                "start": 0,
+                "url": "https://t.co/l4TRpJtBM7"
+              }
+            ]
+          }
+        },
+        "id": "3141875413",
+        "location": "Australia",
+        "name": "Routine of Nepal banda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410983637391069187/bxoCUxj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097650,
+          "following_count": 0,
+          "like_count": 1602,
+          "listed_count": 189,
+          "media_count": 36446,
+          "tweet_count": 49194
+        },
+        "url": "https://t.co/l4TRpJtBM7",
+        "username": "RONBupdates",
+        "verified": true
+      }
+    ]
+  }
+}

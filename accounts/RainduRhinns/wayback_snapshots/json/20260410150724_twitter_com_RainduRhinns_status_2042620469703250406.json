@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042620459364352000"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "2042620469703250406",
+    "created_at": "2026-04-10T15:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042620469703250406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyPW1RDBom",
+          "end": 167,
+          "expanded_url": "https://x.com/RainduRhinns/status/2042620469703250406/photo/1",
+          "media_key": "3_2042620459364352000",
+          "start": 144,
+          "url": "https://t.co/MyPW1RDBom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042620469703250406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一本对毒品的公共政策/医学社会学很有用的书，主线讲AMA如何从民间医生行会发展到可以影响联邦药物政策的利益关系复杂的利益共同体，看似反官僚政治实际又利用民意与联邦共谋，副线是美国社会对drug的社会观念是如何被控制和利用的，为什么惩罚性司法被恢复性治疗取代不仅仅是“什么更科学”的复杂性 https://t.co/MyPW1RDBom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2042620459364352000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjYfEtbgAAAR72.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042620459364352000"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2042620469703250406",
+        "created_at": "2026-04-10T15:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042620469703250406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyPW1RDBom",
+              "end": 167,
+              "expanded_url": "https://x.com/RainduRhinns/status/2042620469703250406/photo/1",
+              "media_key": "3_2042620459364352000",
+              "start": 144,
+              "url": "https://t.co/MyPW1RDBom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042620469703250406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一本对毒品的公共政策/医学社会学很有用的书，主线讲AMA如何从民间医生行会发展到可以影响联邦药物政策的利益关系复杂的利益共同体，看似反官僚政治实际又利用民意与联邦共谋，副线是美国社会对drug的社会观念是如何被控制和利用的，为什么惩罚性司法被恢复性治疗取代不仅仅是“什么更科学”的复杂性 https://t.co/MyPW1RDBom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 896,
+          "like_count": 4106,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

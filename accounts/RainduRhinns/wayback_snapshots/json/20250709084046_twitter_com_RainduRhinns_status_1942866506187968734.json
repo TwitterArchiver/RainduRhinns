@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941686307660414976"
+      ],
+      "media_source_tweet_id": [
+        "1941686310214979757"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942866506187968734",
+    "created_at": "2025-07-09T08:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T09:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942866506187968734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "767170819",
+          "start": 3,
+          "username": "enkorechan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZnfuPbmMqD",
+          "end": 39,
+          "expanded_url": "https://x.com/enkorechan/status/1941686310214979757/photo/1",
+          "media_key": "3_1941686307660414976",
+          "start": 16,
+          "url": "https://t.co/ZnfuPbmMqD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942866506187968734",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941686310214979757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @enkorechan: https://t.co/ZnfuPbmMqD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1941686307660414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJBaMlWwAAjePh.jpg",
+        "width": 1010
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941686307660414976"
+          ],
+          "media_source_tweet_id": [
+            "1941686310214979757"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1942866506187968734",
+        "created_at": "2025-07-09T08:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T09:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942866506187968734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "767170819",
+              "start": 3,
+              "username": "enkorechan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnfuPbmMqD",
+              "end": 39,
+              "expanded_url": "https://x.com/enkorechan/status/1941686310214979757/photo/1",
+              "media_key": "3_1941686307660414976",
+              "start": 16,
+              "url": "https://t.co/ZnfuPbmMqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942866506187968734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941686310214979757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @enkorechan: https://t.co/ZnfuPbmMqD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941686307660414976"
+          ]
+        },
+        "author_id": "767170819",
+        "conversation_id": "1941686310214979757",
+        "created_at": "2025-07-06T02:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T03:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941686310214979757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnfuPbmMqD",
+              "end": 23,
+              "expanded_url": "https://x.com/enkorechan/status/1941686310214979757/photo/1",
+              "media_key": "3_1941686307660414976",
+              "start": 0,
+              "url": "https://t.co/ZnfuPbmMqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941686310214979757",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2097,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZnfuPbmMqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 610,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 391
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-19T08:07:06.000Z",
+        "description": "清水推主/有对象@zzc_whn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "zzc_whn"
+              }
+            ]
+          }
+        },
+        "id": "767170819",
+        "name": "猫村",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905592344931704832/tKVsAXrN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 207,
+          "like_count": 1834,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 533
+        },
+        "username": "enkorechan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1950534355689890065",
+    "created_at": "2025-07-30T17:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T18:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950609317369110612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14557260",
+          "start": 0,
+          "username": "moviejunkie"
+        },
+        {
+          "end": 29,
+          "id": "1714100357582770176",
+          "start": 13,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950609317369110612",
+    "in_reply_to_user_id": "14557260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950534355689890065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moviejunkie @YesterdayBigcat 湖南人纯是支中支"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1950534349692321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGwqBubwAAJLwi.jpg",
+        "width": 888
+      },
+      {
+        "height": 559,
+        "media_key": "3_1950534347569893376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGwp50aEAAodvo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950534355689890065",
+        "created_at": "2025-07-30T17:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T18:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950609317369110612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14557260",
+              "start": 0,
+              "username": "moviejunkie"
+            },
+            {
+              "end": 29,
+              "id": "1714100357582770176",
+              "start": 13,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950609317369110612",
+        "in_reply_to_user_id": "14557260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950534355689890065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moviejunkie @YesterdayBigcat 湖南人纯是支中支"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950534349692321792",
+            "3_1950534347569893376"
+          ]
+        },
+        "author_id": "14557260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950534355689890065",
+        "created_at": "2025-07-30T12:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T13:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950534355689890065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWNdGa6q9P",
+              "end": 101,
+              "expanded_url": "https://x.com/moviejunkie/status/1950534355689890065/photo/1",
+              "media_key": "3_1950534349692321792",
+              "start": 78,
+              "url": "https://t.co/DWNdGa6q9P"
+            },
+            {
+              "display_url": "pic.x.com/DWNdGa6q9P",
+              "end": 101,
+              "expanded_url": "https://x.com/moviejunkie/status/1950534355689890065/photo/1",
+              "media_key": "3_1950534347569893376",
+              "start": 78,
+              "url": "https://t.co/DWNdGa6q9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950534355689890065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1266,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "贵阳警察真的值得锦旗了，看看7/28贵阳狗车事件同时发生的湖南株洲狗车，警察质问志愿者:你们不吃狗肉吗? 中国吃了两千年狗肉。然后掩护狗肉贩子把狗全部打死 https://t.co/DWNdGa6q9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 639,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 495
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-27T11:34:49.000Z",
+        "description": "爱国者勿关。为安全起见，会拉黑可疑锁推用户；会批量拉黑（难免误伤）",
+        "id": "14557260",
+        "name": "aTraveller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836331379573108736/ifISIiWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6084,
+          "following_count": 657,
+          "like_count": 92606,
+          "listed_count": 24,
+          "media_count": 7066,
+          "tweet_count": 40570
+        },
+        "username": "moviejunkie",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "投稿邮箱：bigorangecat2023@gmail.com  网站：https://t.co/sjVzTO5I9e Bluesky：https://t.co/EzcQnr1Z3N Youtube：https://t.co/3eDbFqUsGZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 59,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 36,
+                "url": "https://t.co/sjVzTO5I9e"
+              },
+              {
+                "display_url": "yesterdaynews.bsky.social",
+                "end": 91,
+                "expanded_url": "http://yesterdaynews.bsky.social",
+                "start": 68,
+                "url": "https://t.co/EzcQnr1Z3N"
+              },
+              {
+                "display_url": "youtube.com/@YesterdayBigc…",
+                "end": 123,
+                "expanded_url": "https://www.youtube.com/@YesterdayBigcat",
+                "start": 100,
+                "url": "https://t.co/3eDbFqUsGZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO5I9e"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "1833745989309501904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110592,
+          "following_count": 399,
+          "like_count": 626,
+          "listed_count": 493,
+          "media_count": 2543,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/sjVzTO5I9e",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

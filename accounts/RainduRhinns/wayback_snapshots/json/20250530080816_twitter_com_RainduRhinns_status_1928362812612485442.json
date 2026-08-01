@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923938870757912576",
+        "3_1923938876445388800"
+      ],
+      "media_source_tweet_id": [
+        "1923938880425951737",
+        "1923938880425951737"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1928362812612485442",
+    "created_at": "2025-05-30T08:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T09:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928362812612485442"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "正太"
+        },
+        {
+          "end": 50,
+          "start": 47,
+          "tag": "弟弟"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "大屁股"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "可爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898302818202832896",
+          "start": 3,
+          "username": "chiliwwQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y5Ydu8ktNw",
+          "end": 83,
+          "expanded_url": "https://x.com/chiliwwQAQ/status/1923938880425951737/photo/1",
+          "media_key": "3_1923938870757912576",
+          "start": 60,
+          "url": "https://t.co/Y5Ydu8ktNw"
+        },
+        {
+          "display_url": "pic.x.com/Y5Ydu8ktNw",
+          "end": 83,
+          "expanded_url": "https://x.com/chiliwwQAQ/status/1923938880425951737/photo/1",
+          "media_key": "3_1923938876445388800",
+          "start": 60,
+          "url": "https://t.co/Y5Ydu8ktNw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928362812612485442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923938880425951737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiliwwQAQ: 今天就勉为其难下厨给杂鱼哥哥吃叭~看什么看！（踩脸） #正太 #弟弟 #大屁股 #可爱 https://t.co/Y5Ydu8ktNw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928362812612485442].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928362812612485442",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928362812612485442"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1659,
+        "media_key": "3_1923938870757912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrM0NaEXcAAMYYI.jpg",
+        "width": 2043
+      },
+      {
+        "height": 1763,
+        "media_key": "3_1923938876445388800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrM0NvQXcAAhMUj.jpg",
+        "width": 1463
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923938870757912576",
+            "3_1923938876445388800"
+          ]
+        },
+        "author_id": "1898302818202832896",
+        "conversation_id": "1923938880425951737",
+        "created_at": "2025-05-18T03:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T04:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923938880425951737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 27,
+              "tag": "正太"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "弟弟"
+            },
+            {
+              "end": 39,
+              "start": 35,
+              "tag": "大屁股"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "可爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y5Ydu8ktNw",
+              "end": 67,
+              "expanded_url": "https://x.com/chiliwwQAQ/status/1923938880425951737/photo/1",
+              "media_key": "3_1923938870757912576",
+              "start": 44,
+              "url": "https://t.co/Y5Ydu8ktNw"
+            },
+            {
+              "display_url": "pic.x.com/Y5Ydu8ktNw",
+              "end": 67,
+              "expanded_url": "https://x.com/chiliwwQAQ/status/1923938880425951737/photo/1",
+              "media_key": "3_1923938876445388800",
+              "start": 44,
+              "url": "https://t.co/Y5Ydu8ktNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923938880425951737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 18533,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天就勉为其难下厨给杂鱼哥哥吃叭~看什么看！（踩脸） #正太 #弟弟 #大屁股 #可爱 https://t.co/Y5Ydu8ktNw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 550,
+          "like_count": 2260,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 358
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:20:54.000Z",
+        "description": "回归了呜呜呜，感谢橘橘🍊哇！！！\n咳咳合法瑟瑟正太呀！上学也会时不时掉落瑟瑟，欢迎大家找我瑟瑟哦！！在广东哦！私信已关！聊天➕Q群863117498",
+        "id": "1898302818202832896",
+        "location": "广东",
+        "name": "ww（烦躁版）",
+        "pinned_tweet_id": "1903878199999922552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901168171044007938/nLVq-vOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 167,
+          "like_count": 1129,
+          "listed_count": 6,
+          "media_count": 36,
+          "tweet_count": 431
+        },
+        "username": "chiliwwQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

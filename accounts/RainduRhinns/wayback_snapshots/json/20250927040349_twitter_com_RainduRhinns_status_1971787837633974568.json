@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1971787837633974568",
+    "created_at": "2025-09-27T04:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971787837633974568"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Musk",
+          "probability": 0.489,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1709393467871461376",
+          "start": 3,
+          "username": "xenocosmography"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971787837633974568",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971751140422570482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xenocosmography: Musk renaming this platform 'X,' which not only has several definite pre-existing meanings, but even means anything wh…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1971787837633974568",
+        "created_at": "2025-09-27T04:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971787837633974568"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Musk",
+              "probability": 0.489,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1709393467871461376",
+              "start": 3,
+              "username": "xenocosmography"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971787837633974568",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971751140422570482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xenocosmography: Musk renaming this platform 'X,' which not only has several definite pre-existing meanings, but even means anything wh…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709393467871461376",
+        "conversation_id": "1971751140422570482",
+        "created_at": "2025-09-27T01:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T02:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971751140422570482"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Musk",
+              "probability": 0.5669,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971751140422570482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5684,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Musk renaming this platform 'X,' which not only has several definite pre-existing meanings, but even means anything whatsoever unspecified in general, and is thus already quite densely semantically occupied, or taken, is among the greatest examples of autistic genius in history."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 741,
+          "like_count": 2867,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1030
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T02:23:01.000Z",
+        "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerophilosophy.substack.com",
+                "end": 60,
+                "expanded_url": "http://zerophilosophy.substack.com",
+                "start": 37,
+                "url": "https://t.co/zYwV8LwOQg"
+              }
+            ]
+          }
+        },
+        "id": "1709393467871461376",
+        "name": "Xenocosmography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709394184837451776/4xkaiTS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37120,
+          "following_count": 667,
+          "like_count": 81305,
+          "listed_count": 216,
+          "media_count": 117,
+          "tweet_count": 13672
+        },
+        "username": "xenocosmography",
+        "verified": true
+      }
+    ]
+  }
+}

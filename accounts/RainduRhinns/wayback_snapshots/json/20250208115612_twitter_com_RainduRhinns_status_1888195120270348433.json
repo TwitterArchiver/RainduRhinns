@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1888195120270348433",
+    "created_at": "2025-02-08T11:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T12:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888195120270348433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/puppyysj/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/puppyysj/status/1873617794245517593",
+          "start": 12,
+          "url": "https://t.co/FplJjhvXAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888195120270348433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873617794245517593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看嗯了没有小男孩驯我🥲 https://t.co/FplJjhvXAG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1873617794245517593].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1873617794245517593",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873617794245517593"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1888195120270348433",
+        "created_at": "2025-02-08T11:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T12:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888195120270348433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puppyysj/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/puppyysj/status/1873617794245517593",
+              "start": 12,
+              "url": "https://t.co/FplJjhvXAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888195120270348433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873617794245517593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看嗯了没有小男孩驯我🥲 https://t.co/FplJjhvXAG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 420,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 160
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

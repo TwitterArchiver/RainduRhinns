@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994359334277644288",
+        "3_1994359334269333504",
+        "3_1994359334298599424"
+      ],
+      "media_source_tweet_id": [
+        "1994359489198543260",
+        "1994359489198543260",
+        "1994359489198543260"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1994685177046733001",
+    "created_at": "2025-11-29T08:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994685177046733001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874165923835502595",
+          "start": 3,
+          "username": "sanchin333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YnZshDnw3D",
+          "end": 45,
+          "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+          "media_key": "3_1994359334277644288",
+          "start": 22,
+          "url": "https://t.co/YnZshDnw3D"
+        },
+        {
+          "display_url": "pic.x.com/YnZshDnw3D",
+          "end": 45,
+          "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+          "media_key": "3_1994359334269333504",
+          "start": 22,
+          "url": "https://t.co/YnZshDnw3D"
+        },
+        {
+          "display_url": "pic.x.com/YnZshDnw3D",
+          "end": 45,
+          "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+          "media_key": "3_1994359334298599424",
+          "start": 22,
+          "url": "https://t.co/YnZshDnw3D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994685177046733001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994359489198543260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanchin333: 腹泻式发图 https://t.co/YnZshDnw3D"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994685177046733001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994685177046733001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994685177046733001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_1994359334277644288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61jP3oagAAkIaK.jpg",
+        "width": 1881
+      },
+      {
+        "height": 1325,
+        "media_key": "3_1994359334269333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61jP3mbsAAFajN.jpg",
+        "width": 1590
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1994359334298599424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61jP3taQAAZ4-3.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994359334277644288",
+            "3_1994359334269333504",
+            "3_1994359334298599424"
+          ]
+        },
+        "author_id": "1874165923835502595",
+        "conversation_id": "1994359489198543260",
+        "created_at": "2025-11-28T10:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994359489198543260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnZshDnw3D",
+              "end": 29,
+              "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+              "media_key": "3_1994359334277644288",
+              "start": 6,
+              "url": "https://t.co/YnZshDnw3D"
+            },
+            {
+              "display_url": "pic.x.com/YnZshDnw3D",
+              "end": 29,
+              "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+              "media_key": "3_1994359334269333504",
+              "start": 6,
+              "url": "https://t.co/YnZshDnw3D"
+            },
+            {
+              "display_url": "pic.x.com/YnZshDnw3D",
+              "end": 29,
+              "expanded_url": "https://x.com/sanchin333/status/1994359489198543260/photo/1",
+              "media_key": "3_1994359334298599424",
+              "start": 6,
+              "url": "https://t.co/YnZshDnw3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994359489198543260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1366,
+          "like_count": 103,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "腹泻式发图 https://t.co/YnZshDnw3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 847,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1521
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T18:49:26.000Z",
+        "description": "NSFW⚠️Follow with caution！",
+        "id": "1874165923835502595",
+        "name": "仐",
+        "pinned_tweet_id": "1968338778705326365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874166105973153794/eUdaepKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 30,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 189
+        },
+        "username": "sanchin333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1996621617506693259",
+    "created_at": "2025-12-04T16:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T17:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996621617506693259"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "JNeurosci",
+          "probability": 0.711,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "Martina",
+          "probability": 0.6641,
+          "start": 65,
+          "type": "Other"
+        },
+        {
+          "end": 84,
+          "normalized_text": "Costanza",
+          "probability": 0.6997,
+          "start": 77,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "Anterior Insula",
+          "probability": 0.8083,
+          "start": 106,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "JNeurosci"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4735675768",
+          "start": 3,
+          "username": "SfNJournals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996621617506693259",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995862747792163135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SfNJournals: #JNeurosci | Using a neurostimulation approach, Martina and Costanza show that the right Anterior Insula supports both Int…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_1995862744461877248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7K6l3AWIAAuv6q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1996621617506693259",
+        "created_at": "2025-12-04T16:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T17:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996621617506693259"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "JNeurosci",
+              "probability": 0.711,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Martina",
+              "probability": 0.6641,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "Costanza",
+              "probability": 0.6997,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "Anterior Insula",
+              "probability": 0.8083,
+              "start": 106,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "JNeurosci"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4735675768",
+              "start": 3,
+              "username": "SfNJournals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996621617506693259",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995862747792163135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SfNJournals: #JNeurosci | Using a neurostimulation approach, Martina and Costanza show that the right Anterior Insula supports both Int…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995862744461877248"
+          ]
+        },
+        "author_id": "4735675768",
+        "conversation_id": "1995862747792163135",
+        "created_at": "2025-12-02T14:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995862747792163135"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "JNeurosci",
+              "probability": 0.6847,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Martina",
+              "probability": 0.678,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Costanza",
+              "probability": 0.7748,
+              "start": 60,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Anterior Insula",
+              "probability": 0.8346,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "JNeurosci"
+            }
+          ],
+          "urls": [
+            {
+              "description": "According to the embodied cognition­ theory, which claims that concepts’ representation is grounded in sensory and motor components, abstract concepts are grounded in interoception, which is processed in the Anterior Insula (AIns). However, it is not clear whether interoception and abstract concepts share common anatomical substrates, and if yes, whether AIns is one candidate. In this study, we used repetitive Transcranial Magnetic Stimulation (rTMS) on healthy human participants (N=25, 19 females) to examine whether left and right AIns play a role in both abstract concepts and interoception. The heartbeat counting task served as a measure of interoceptive accuracy, and the semantic similarity judgment of semantic performance. Concepts were characterized according to both a categorical approach, contrasting three categories of concepts, namely social and emotion (abstract categories), and objects (concrete category), and a dimensional approach, collecting semantic ratings on the emotio",
+              "display_url": "vist.ly/4guy3",
+              "end": 240,
+              "expanded_url": "https://vist.ly/4guy3",
+              "images": [
+                {
+                  "height": 565,
+                  "url": "https://pbs.twimg.com/news_img/1995862755732004864/teuZkCUU?format=png&name=orig",
+                  "width": 1130
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995862755732004864/teuZkCUU?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 217,
+              "status": 200,
+              "title": "Emotional and Social Dimension of Abstract concepts meet with Interoception in Right Anterior Insula",
+              "unwound_url": "https://www.jneurosci.org/content/early/2025/11/20/JNEUROSCI.0238-25.2025",
+              "url": "https://t.co/T9OhEXRysO"
+            },
+            {
+              "display_url": "pic.x.com/ZXxgDUyKlX",
+              "end": 264,
+              "expanded_url": "https://x.com/SfNJournals/status/1995862747792163135/photo/1",
+              "media_key": "3_1995862744461877248",
+              "start": 241,
+              "url": "https://t.co/ZXxgDUyKlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995862747792163135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1379,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#JNeurosci | Using a neurostimulation approach, Martina and Costanza show that the right Anterior Insula supports both Interoception and the representation of the emotional and social dimensions of abstract concepts.\nhttps://t.co/T9OhEXRysO https://t.co/ZXxgDUyKlX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 857,
+          "like_count": 3363,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1566
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-07T15:16:46.000Z",
+        "description": "@SfNtweets journals #JNeurosci and #eNeuro serve the field by publishing conceptual advances in neuroscience.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 20,
+                "tag": "JNeurosci"
+              },
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "eNeuro"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "SfNtweets"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfn.org",
+                "end": 23,
+                "expanded_url": "http://www.sfn.org",
+                "start": 0,
+                "url": "https://t.co/U0oVBaA33a"
+              }
+            ]
+          }
+        },
+        "id": "4735675768",
+        "location": "Washington, DC",
+        "name": "SfN Journals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1029747475916185600/fkdhx6cK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22970,
+          "following_count": 195,
+          "like_count": 3709,
+          "listed_count": 211,
+          "media_count": 4059,
+          "tweet_count": 12041
+        },
+        "url": "https://t.co/U0oVBaA33a",
+        "username": "SfNJournals",
+        "verified": false
+      }
+    ]
+  }
+}

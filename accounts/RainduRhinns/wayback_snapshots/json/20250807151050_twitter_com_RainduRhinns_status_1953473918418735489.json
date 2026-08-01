@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953469823889064063",
+    "created_at": "2025-08-07T15:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T16:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953473918418735489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893688350076542976",
+          "start": 0,
+          "username": "drug_artist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953473918418735489",
+    "in_reply_to_user_id": "1893688350076542976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953469823889064063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artist 只要你不要肝什么都可以玩系列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953469823889064063",
+        "created_at": "2025-08-07T15:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T16:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953473918418735489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893688350076542976",
+              "start": 0,
+              "username": "drug_artist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953473918418735489",
+        "in_reply_to_user_id": "1893688350076542976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953469823889064063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist 只要你不要肝什么都可以玩系列"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1953469823889064063",
+        "created_at": "2025-08-07T14:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953469823889064063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953469823889064063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "佐匹克隆有娱乐价值，作为经典的z类药，在美国常被用来联用酒精一起滥用，有欣快感，晕眩感，这也是一种玩法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 653,
+          "like_count": 2680,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 592
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/hLxQwrcSWN"
+              }
+            ]
+          }
+        },
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1928368769098788885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 149,
+          "like_count": 312,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 528
+        },
+        "url": "https://t.co/hLxQwrcSWN",
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

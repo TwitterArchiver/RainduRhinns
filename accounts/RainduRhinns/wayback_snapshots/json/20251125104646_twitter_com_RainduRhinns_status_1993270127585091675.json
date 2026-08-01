@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1993270127585091675",
+    "created_at": "2025-11-25T10:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993270127585091675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1993254825837150676",
+          "start": 144,
+          "url": "https://t.co/NGsKsrSFZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993270127585091675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993254825837150676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个正处于前沿话题是强啡肽是κ阿片受体的内源性激动剂，它通过这种机制抑制多巴胺的释放。强啡肽/κ受体系统还能抑制某些脑区中去甲肾上腺素血清素的信号传导，并减少伏隔核突触前谷氨酸和γ-氨基丁酸GABA的释放。这些作用构成了一个强大的抑制奖赏机制，可能是完全不同于色胺的强烈混乱和快感缺失症 https://t.co/NGsKsrSFZM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1993270127585091675",
+        "created_at": "2025-11-25T10:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993270127585091675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1993254825837150676",
+              "start": 144,
+              "url": "https://t.co/NGsKsrSFZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993270127585091675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993254825837150676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个正处于前沿话题是强啡肽是κ阿片受体的内源性激动剂，它通过这种机制抑制多巴胺的释放。强啡肽/κ受体系统还能抑制某些脑区中去甲肾上腺素血清素的信号传导，并减少伏隔核突触前谷氨酸和γ-氨基丁酸GABA的释放。这些作用构成了一个强大的抑制奖赏机制，可能是完全不同于色胺的强烈混乱和快感缺失症 https://t.co/NGsKsrSFZM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1993254825837150676",
+        "created_at": "2025-11-25T09:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993254825837150676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jzm1919810/sta…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/jzm1919810/status/1993164713967206526",
+              "start": 173,
+              "url": "https://t.co/KY1mCuoHdO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993254825837150676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993164713967206526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上包含鼠尾草里的活性物质Salvinorin A/B 的四百多种植物里有很多都并不属于鼠尾草属 比如黑叶鼠尾草Pereskovia Atriplicafolia 很多圆艺品种中S. recognita也是常用的品种，在中国有太多可以轻松得到。而且不知道为什么很多人不知道像Herkinorin无耐受G蛋白偏向选择性μ受体激动剂在中国一直有售 https://t.co/KY1mCuoHdO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 835,
+          "like_count": 3276,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1506
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

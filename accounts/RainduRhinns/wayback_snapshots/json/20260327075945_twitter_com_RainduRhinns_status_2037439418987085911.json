@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2037391256222159304",
+    "created_at": "2026-03-27T07:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T08:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037439418987085911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        },
+        {
+          "end": 20,
+          "id": "1912109703133646848",
+          "start": 9,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037439418987085911",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037436306184388670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral @jzm1919810 有一说一现在的IC26都不是很干净"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2037391256222159304",
+        "created_at": "2026-03-27T07:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037439418987085911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            },
+            {
+              "end": 20,
+              "id": "1912109703133646848",
+              "start": 9,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037439418987085911",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037436306184388670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral @jzm1919810 有一说一现在的IC26都不是很干净"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2037391256222159304",
+        "created_at": "2026-03-27T07:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037436306184388670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037436306184388670",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037433915833802980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 我特别精神……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 884,
+          "like_count": 4004,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2154
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 433,
+          "like_count": 33866,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 3646
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "瞳逸らさないで 大きく手を伸ばす 雪解けを待ってる\nsignal nanacan.97   注册signal不收费，大家都来用它，让sb杜洛夫爬爬",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009536370885165056/0mWVclNf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 197,
+          "like_count": 426,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1702
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

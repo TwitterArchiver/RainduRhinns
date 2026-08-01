@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2017445816328421673",
+    "created_at": "2026-01-31T11:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T12:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017567296987054532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 13,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017567296987054532",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017518350168166783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr @Psych_Angel_ 非要女的的话我大概只喜欢非常平胸中性风那种搞技术的比较酷的性冷淡感类型的…单纯是因为这样像正太/符合我对中间性人类的审美…俗话说喜欢平胸是喜欢上正太的第一步…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2017445816328421673",
+        "created_at": "2026-01-31T11:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017567296987054532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 13,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017567296987054532",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017518350168166783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @Psych_Angel_ 非要女的的话我大概只喜欢非常平胸中性风那种搞技术的比较酷的性冷淡感类型的…单纯是因为这样像正太/符合我对中间性人类的审美…俗话说喜欢平胸是喜欢上正太的第一步…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2017445816328421673",
+        "created_at": "2026-01-31T08:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T09:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017518350168166783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 27,
+              "id": "1879395690230738944",
+              "start": 14,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017518350168166783",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017480805032071338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @Psych_Angel_ 翻译，找不上妹子只能降一下要求水平了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 881,
+          "like_count": 3699,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998525402420260864/g93q-6Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 338,
+          "like_count": 106351,
+          "listed_count": 3,
+          "media_count": 569,
+          "tweet_count": 15177
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜💕Lover Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 65,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "shungleemain"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 152,
+                "start": 139,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 774,
+          "like_count": 30043,
+          "listed_count": 1,
+          "media_count": 864,
+          "tweet_count": 13395
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

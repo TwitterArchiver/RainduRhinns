@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875245694891782146"
+      ],
+      "media_source_tweet_id": [
+        "1875245745466749288"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894615519481008221",
+    "created_at": "2025-02-26T05:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T06:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894615519481008221"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "尾巴",
+          "probability": 0.6296,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504082536863256578",
+          "start": 3,
+          "username": "furrychen005"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACRP9umOSZ",
+          "end": 45,
+          "expanded_url": "https://x.com/furrychen005/status/1875245745466749288/photo/1",
+          "media_key": "3_1875245694891782146",
+          "start": 22,
+          "url": "https://t.co/ACRP9umOSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894615519481008221",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875245745466749288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @furrychen005: 尾巴～ https://t.co/ACRP9umOSZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894615519481008221].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894615519481008221",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894615519481008221"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1875245694891782146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgY2Biaa8AIbNoK.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875245694891782146"
+          ]
+        },
+        "author_id": "1504082536863256578",
+        "conversation_id": "1875245745466749288",
+        "created_at": "2025-01-03T18:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T19:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875245745466749288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "尾巴",
+              "probability": 0.708,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACRP9umOSZ",
+              "end": 27,
+              "expanded_url": "https://x.com/furrychen005/status/1875245745466749288/photo/1",
+              "media_key": "3_1875245694891782146",
+              "start": 4,
+              "url": "https://t.co/ACRP9umOSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875245745466749288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7696,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "尾巴～ https://t.co/ACRP9umOSZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 444,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 217
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T13:10:03.000Z",
+        "description": "是一只到处玩的兽兽哦，现居合肥，全国可✈️嘿嘿，内容止于推哦！发现被传会立即锁推或停止更新，喜🐻，巨根，当然有M属性的是@cj33525515的小🔥🐶哦🤫\n\n主人:@cj33525515",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 60,
+                "username": "cj33525515"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "cj33525515"
+              }
+            ]
+          }
+        },
+        "id": "1504082536863256578",
+        "name": "是辰辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853603458269720576/8QYYAL5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 167,
+          "like_count": 1102,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 96
+        },
+        "username": "furrychen005",
+        "verified": false
+      }
+    ]
+  }
+}

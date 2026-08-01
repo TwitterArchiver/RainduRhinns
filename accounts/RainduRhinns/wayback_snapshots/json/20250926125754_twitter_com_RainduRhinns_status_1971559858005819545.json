@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1971559858005819545",
+    "created_at": "2025-09-26T12:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971559858005819545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ted_yeet/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ted_yeet/status/1970804515051098304",
+          "start": 12,
+          "url": "https://t.co/C0DwhDihwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971559858005819545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970804515051098304",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么有点像我（除了男娘 https://t.co/C0DwhDihwQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1971559858005819545",
+        "created_at": "2025-09-26T12:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971559858005819545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ted_yeet/status/1970804515051098304",
+              "start": 12,
+              "url": "https://t.co/C0DwhDihwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971559858005819545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970804515051098304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么有点像我（除了男娘 https://t.co/C0DwhDihwQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "1970804515051098304",
+        "created_at": "2025-09-24T10:56:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:56:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970804515051098304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970804515051098304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15224,
+          "like_count": 95,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "想当每天有专嗑的量化交易裸体男娘，周末和好姐妹去脱衣舞俱乐部跳舞赚外快，顺便再发几篇代数拓扑文章"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 740,
+          "like_count": 2865,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1027
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "MtF🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥/超业余贝斯手/域ℍ上的非交换同构 @Ted_noncommute /持有@MeowCatherina作为家养猫/↓在这里找到我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Ted_noncommute"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MUyD9Gjm0yU5Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MUyD9Gjm0yU5ZGJk",
+                "start": 0,
+                "url": "https://t.co/zbsLzEK5y8"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 1273,
+          "like_count": 27411,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 5466
+        },
+        "url": "https://t.co/zbsLzEK5y8",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

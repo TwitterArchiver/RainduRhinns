@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946555196567437312"
+      ],
+      "media_source_tweet_id": [
+        "1946555201923723297"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1946629214406365433",
+    "created_at": "2025-07-19T17:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T18:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946629214406365433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795734602172248064",
+          "start": 3,
+          "username": "YiTiaoSuanYu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9BSGdJsyy1",
+          "end": 41,
+          "expanded_url": "https://x.com/YiTiaoSuanYu/status/1946555201923723297/photo/1",
+          "media_key": "3_1946555196567437312",
+          "start": 18,
+          "url": "https://t.co/9BSGdJsyy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946629214406365433",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946555201923723297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiTiaoSuanYu: https://t.co/9BSGdJsyy1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946629214406365433].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946629214406365433",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946629214406365433"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_1946555196567437312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwONo1MXwAAuL9y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946555196567437312"
+          ]
+        },
+        "author_id": "1795734602172248064",
+        "conversation_id": "1946555201923723297",
+        "created_at": "2025-07-19T12:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T13:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946555201923723297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9BSGdJsyy1",
+              "end": 23,
+              "expanded_url": "https://x.com/YiTiaoSuanYu/status/1946555201923723297/photo/1",
+              "media_key": "3_1946555196567437312",
+              "start": 0,
+              "url": "https://t.co/9BSGdJsyy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946555201923723297",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1582,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9BSGdJsyy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 619,
+          "like_count": 2526,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 440
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T08:31:44.000Z",
+        "description": "",
+        "id": "1795734602172248064",
+        "name": "酸雨酸雨酸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896433983082369024/ElowkjFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6739,
+          "following_count": 820,
+          "like_count": 8113,
+          "listed_count": 16,
+          "media_count": 128,
+          "tweet_count": 312
+        },
+        "username": "YiTiaoSuanYu",
+        "verified": false
+      }
+    ]
+  }
+}

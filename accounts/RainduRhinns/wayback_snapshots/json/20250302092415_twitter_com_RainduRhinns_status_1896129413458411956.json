@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888312277348360193"
+      ],
+      "media_source_tweet_id": [
+        "1888312280984748334"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1896129413458411956",
+    "created_at": "2025-03-02T09:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T10:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896129413458411956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3107564622",
+          "start": 3,
+          "username": "GUANGconon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3uTmnETes",
+          "end": 55,
+          "expanded_url": "https://x.com/GUANGconon/status/1888312280984748334/photo/1",
+          "media_key": "3_1888312277348360193",
+          "start": 32,
+          "url": "https://t.co/e3uTmnETes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896129413458411956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888312280984748334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GUANGconon: 怎么春节假期这么快结束，呜呜呜 https://t.co/e3uTmnETes"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896129413458411956].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896129413458411956",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896129413458411956"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1888312277348360193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjSiAvRboAERJQ0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888312277348360193"
+          ]
+        },
+        "author_id": "3107564622",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1888312280984748334",
+        "created_at": "2025-02-08T19:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T20:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888312280984748334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3uTmnETes",
+              "end": 39,
+              "expanded_url": "https://x.com/GUANGconon/status/1888312280984748334/photo/1",
+              "media_key": "3_1888312277348360193",
+              "start": 16,
+              "url": "https://t.co/e3uTmnETes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888312280984748334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5607,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "怎么春节假期这么快结束，呜呜呜 https://t.co/e3uTmnETes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 451,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 245
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-25T15:16:56.000Z",
+        "description": "广东 这里是呆萌的棋子一枚😀 偶尔随性画画.jpg\nP站：https://t.co/qLswbdlYvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3329873",
+                "end": 52,
+                "expanded_url": "https://www.pixiv.net/users/3329873",
+                "start": 29,
+                "url": "https://t.co/qLswbdlYvc"
+              }
+            ]
+          }
+        },
+        "id": "3107564622",
+        "location": "广东汕头",
+        "name": "小棋子",
+        "pinned_tweet_id": "1596547695149166592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582301196655550465/4TFSlr4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 1363,
+          "like_count": 6974,
+          "listed_count": 10,
+          "media_count": 197,
+          "tweet_count": 1264
+        },
+        "username": "GUANGconon",
+        "verified": false
+      }
+    ]
+  }
+}

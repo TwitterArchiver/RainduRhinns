@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1886678191483523072"
+      ],
+      "media_source_tweet_id": [
+        "1886678200350335427"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894065104431239483",
+    "created_at": "2025-02-24T16:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T17:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894065104431239483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753857354029043712",
+          "start": 3,
+          "username": "DDomgdong23694"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNTxyRMsSP",
+          "end": 59,
+          "expanded_url": "https://x.com/DDomgdong23694/status/1886678200350335427/photo/1",
+          "media_key": "3_1886678191483523072",
+          "start": 36,
+          "url": "https://t.co/mNTxyRMsSP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894065104431239483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886678200350335427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDomgdong23694: “别拽我啦....给你就是了” https://t.co/mNTxyRMsSP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894065104431239483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894065104431239483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894065104431239483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_1886678191483523072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gi7T0bDaEAAyiLD.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886678191483523072"
+          ]
+        },
+        "author_id": "1753857354029043712",
+        "conversation_id": "1886678200350335427",
+        "created_at": "2025-02-04T07:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T08:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886678200350335427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNTxyRMsSP",
+              "end": 39,
+              "expanded_url": "https://x.com/DDomgdong23694/status/1886678200350335427/photo/1",
+              "media_key": "3_1886678191483523072",
+              "start": 16,
+              "url": "https://t.co/mNTxyRMsSP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886678200350335427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7074,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "“别拽我啦....给你就是了” https://t.co/mNTxyRMsSP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 435,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 193
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T19:06:04.000Z",
+        "description": "晚安",
+        "id": "1753857354029043712",
+        "location": "核子融合炉",
+        "name": "2+4+1+9+4",
+        "pinned_tweet_id": "1885881508969484430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885174099959570432/GltCoLU-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 799,
+          "like_count": 25559,
+          "listed_count": 1,
+          "media_count": 508,
+          "tweet_count": 4427
+        },
+        "username": "DDomgdong23694",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2000261604055855496",
+    "created_at": "2025-12-14T17:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T18:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000261604055855496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/2000126198912090274",
+          "start": 4,
+          "url": "https://t.co/i9qlXiLwIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000261604055855496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000126198912090274",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪抄的 https://t.co/i9qlXiLwIV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2000261604055855496",
+        "created_at": "2025-12-14T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000261604055855496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/2000126198912090274",
+              "start": 4,
+              "url": "https://t.co/i9qlXiLwIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000261604055855496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000126198912090274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪抄的 https://t.co/i9qlXiLwIV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2000126198912090274",
+        "created_at": "2025-12-14T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000126198912090274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000126198912090274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1462,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "阳光男女大占据了墙内主流话语权现在还要来挤占精神病在墙外的生存空间 我都跑墙外了发点割手负能量啥的又咋了 不爱看请善用屏蔽而不是用高高在上的语气指责别人 每个人都有发推文的自由谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 851,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1668
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1996947939554648081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995690033203003393/TErFGW0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 1429,
+          "like_count": 894,
+          "listed_count": 3,
+          "media_count": 255,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

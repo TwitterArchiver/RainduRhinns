@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932832954100879360"
+      ],
+      "media_source_tweet_id": [
+        "1932832957032771998"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1933217351480353199",
+    "created_at": "2025-06-12T17:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T18:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933217351480353199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766166622765789184",
+          "start": 3,
+          "username": "WuWanFurry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c6a78wqO1G",
+          "end": 48,
+          "expanded_url": "https://x.com/WuWanFurry/status/1932832957032771998/photo/1",
+          "media_key": "3_1932832954100879360",
+          "start": 25,
+          "url": "https://t.co/c6a78wqO1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933217351480353199",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932832957032771998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WuWanFurry: 好奇怪的角度（） https://t.co/c6a78wqO1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932832954100879360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtLNVMdaEAAjMiR.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932832954100879360"
+          ],
+          "media_source_tweet_id": [
+            "1932832957032771998"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1933217351480353199",
+        "created_at": "2025-06-12T17:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T18:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933217351480353199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766166622765789184",
+              "start": 3,
+              "username": "WuWanFurry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6a78wqO1G",
+              "end": 48,
+              "expanded_url": "https://x.com/WuWanFurry/status/1932832957032771998/photo/1",
+              "media_key": "3_1932832954100879360",
+              "start": 25,
+              "url": "https://t.co/c6a78wqO1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933217351480353199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932832957032771998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WuWanFurry: 好奇怪的角度（） https://t.co/c6a78wqO1G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932832954100879360"
+          ]
+        },
+        "author_id": "1766166622765789184",
+        "conversation_id": "1932832957032771998",
+        "created_at": "2025-06-11T16:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T17:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932832957032771998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6a78wqO1G",
+              "end": 32,
+              "expanded_url": "https://x.com/WuWanFurry/status/1932832957032771998/photo/1",
+              "media_key": "3_1932832954100879360",
+              "start": 9,
+              "url": "https://t.co/c6a78wqO1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932832957032771998",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 21246,
+          "like_count": 639,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪的角度（） https://t.co/c6a78wqO1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 575,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 365
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T18:18:41.000Z",
+        "description": "09年，是男生，身高158，体重48kg/0.5求富哥包养（bushi）偶额会发点擦边的东西，不会漏！不会漏！不会漏！（只钓不约嘻嘻~）这里没有R18的东西，因为这个是未成年账号😭里推：自己慢慢发现去吧。不要把推内内容转入国内发现马上锁推；推加我好友扩列请说明推来的，要不然会当做骚扰的骂人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/n5XcjRrzFK",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/n5XcjRrzFK",
+                "start": 0,
+                "url": "https://t.co/Bck5fZ5KGE"
+              }
+            ]
+          }
+        },
+        "id": "1766166622765789184",
+        "location": "广西南宁",
+        "name": "无晚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876458089043693568/6PN2KZhR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 331,
+          "like_count": 7590,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/Bck5fZ5KGE",
+        "username": "WuWanFurry",
+        "verified": false
+      }
+    ]
+  }
+}

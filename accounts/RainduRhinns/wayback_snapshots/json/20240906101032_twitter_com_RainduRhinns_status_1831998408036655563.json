@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831989476094046209"
+      ],
+      "media_source_tweet_id": [
+        "1831989481336889478"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1831998408036655563",
+    "created_at": "2024-09-06T10:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T11:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831998408036655563"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 52,
+          "tag": "娼年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1596767893",
+          "start": 3,
+          "username": "Ye_Redemption"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/schx6zmmps",
+          "end": 79,
+          "expanded_url": "https://twitter.com/Ye_Redemption/status/1831989481336889478/photo/1",
+          "media_key": "3_1831989476094046209",
+          "start": 56,
+          "url": "https://t.co/schx6zmmPS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831998408036655563",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831989481336889478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ye_Redemption: 娼年就应该好好侍奉主人♡ ♡\nenjoy me, master💕\n#娼年 https://t.co/schx6zmmPS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1831998408036655563].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1831998408036655563",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1831998408036655563"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1831989476094046209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWyIuOLW8AE0Ndo.jpg",
+        "width": 1592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831989476094046209"
+          ]
+        },
+        "author_id": "1596767893",
+        "conversation_id": "1831989481336889478",
+        "created_at": "2024-09-06T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831989481336889478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "娼年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/schx6zmmps",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Ye_Redemption/status/1831989481336889478/photo/1",
+              "media_key": "3_1831989476094046209",
+              "start": 37,
+              "url": "https://t.co/schx6zmmPS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831989481336889478",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 986,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "娼年就应该好好侍奉主人♡ ♡\nenjoy me, master💕\n#娼年 https://t.co/schx6zmmPS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top 纯而又纯的小男孩爱好者之-为什么我是壮汉.. PhD无偿辅导小男孩数学语言学竞赛（确信",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 140,
+          "like_count": 367,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-15T20:58:38.000Z",
+        "description": "A femboy and wish you can feel relax in my posts～😉/Toronto🇨🇦留学中/一只娼年❤️/apex/特摄/PS🎮/NS 🚪88/128带所有视频/私信带口令带口令💦叶宝一直都爱你【中文/Eng/日本語】每周六更新💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+X-1ZNQZ_HfJkN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+X-1ZNQZ_HfJkNzM1",
+                "start": 0,
+                "url": "https://t.co/Jw8URKU4Oz"
+              }
+            ]
+          }
+        },
+        "id": "1596767893",
+        "location": "Toronto, Ontario",
+        "name": "叶宝Red🍃",
+        "pinned_tweet_id": "1831989481336889478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791517547306848257/sKMCUorR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67985,
+          "following_count": 191,
+          "like_count": 1738,
+          "listed_count": 325,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/Jw8URKU4Oz",
+        "username": "Ye_Redemption",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1973989868515872977",
+    "created_at": "2025-10-06T09:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975136579305038066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554675493915754497",
+          "start": 0,
+          "username": "NotWhiteLL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975136579305038066",
+    "in_reply_to_user_id": "1554675493915754497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974463848678899986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NotWhiteLL8964 还行吧5-MeO-DMT比这个阴间多了，对我来说跟黑洞一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1973989868515872977",
+        "created_at": "2025-10-06T09:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975136579305038066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554675493915754497",
+              "start": 0,
+              "username": "NotWhiteLL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975136579305038066",
+        "in_reply_to_user_id": "1554675493915754497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974463848678899986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NotWhiteLL8964 还行吧5-MeO-DMT比这个阴间多了，对我来说跟黑洞一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554675493915754497",
+        "conversation_id": "1973989868515872977",
+        "created_at": "2025-10-04T13:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974463848678899986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974463848678899986",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973989868515872977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns dpt的效果竟然会阴间到这种程度吗...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 760,
+          "like_count": 2885,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 1103
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T03:48:30.000Z",
+        "description": "Bergamasque",
+        "id": "1554675493915754497",
+        "location": "West Korea",
+        "name": "白🌈 🍥『Liberty and Justice』",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707411535608565760/m7oGUFwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 846,
+          "like_count": 21511,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 450
+        },
+        "username": "NotWhiteLL8964",
+        "verified": false
+      }
+    ]
+  }
+}

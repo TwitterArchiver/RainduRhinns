@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1990760483738300834",
+    "created_at": "2025-11-19T16:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T17:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991181175206072684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpring_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991181175206072684",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991144813421351313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpring_wiki 那我很难说她自称过的她和她男朋友有多少夸大成份"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1990760483738300834",
+        "created_at": "2025-11-19T16:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991181175206072684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpring_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991181175206072684",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991144813421351313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpring_wiki 那我很难说她自称过的她和她男朋友有多少夸大成份"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1990760483738300834",
+        "created_at": "2025-11-19T14:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T15:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991144813421351313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991144813421351313",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991124930528780563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 不是，我知道她的出生日期，她没必要夸大年龄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 838,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用/Transhumanism/Left-libertarian/Free market with UBI/Absolute cultural liberty",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CW7Im"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpring Wiki",
+        "pinned_tweet_id": "1989628357081010426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 673,
+          "like_count": 21656,
+          "listed_count": 11,
+          "media_count": 374,
+          "tweet_count": 5084
+        },
+        "url": "https://t.co/YS4b5CW7Im",
+        "username": "OverSpring_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

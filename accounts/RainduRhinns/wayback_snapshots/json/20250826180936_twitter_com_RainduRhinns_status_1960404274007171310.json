@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959929805476184064"
+      ],
+      "media_source_tweet_id": [
+        "1959929814703653194"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1960404274007171310",
+    "created_at": "2025-08-26T18:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T19:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960404274007171310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1452543329271357441",
+          "start": 3,
+          "username": "zhedan6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tiNtuwraVy",
+          "end": 54,
+          "expanded_url": "https://x.com/zhedan6/status/1959929814703653194/photo/1",
+          "media_key": "3_1959929805476184064",
+          "start": 31,
+          "url": "https://t.co/tiNtuwraVy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960404274007171310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959929814703653194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhedan6: 要我说这才是男孩子应该穿的泳衣嘛🏊 https://t.co/tiNtuwraVy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960404274007171310].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960404274007171310",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960404274007171310"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1347,
+        "media_key": "3_1959929805476184064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMRxiAbwAAJCrF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959929805476184064"
+          ]
+        },
+        "author_id": "1452543329271357441",
+        "conversation_id": "1959929814703653194",
+        "created_at": "2025-08-25T10:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T11:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959929814703653194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tiNtuwraVy",
+              "end": 41,
+              "expanded_url": "https://x.com/zhedan6/status/1959929814703653194/photo/1",
+              "media_key": "3_1959929805476184064",
+              "start": 18,
+              "url": "https://t.co/tiNtuwraVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959929814703653194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 3489,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "要我说这才是男孩子应该穿的泳衣嘛🏊 https://t.co/tiNtuwraVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 685,
+          "like_count": 2774,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 754
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T07:51:50.000Z",
+        "description": "这里没有自我介绍，主播很酷，每天都不一样😎",
+        "id": "1452543329271357441",
+        "location": "？・ࡇ・",
+        "name": "陆离",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959799789249544192/v5746p45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6971,
+          "following_count": 267,
+          "like_count": 2134,
+          "listed_count": 17,
+          "media_count": 100,
+          "tweet_count": 489
+        },
+        "username": "zhedan6",
+        "verified": false
+      }
+    ]
+  }
+}

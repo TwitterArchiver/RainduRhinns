@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1916022611278237697"
+      ],
+      "media_source_tweet_id": [
+        "1916022636012003488"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1919987201384894971",
+    "created_at": "2025-05-07T05:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T06:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919987201384894971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1616094487499141121",
+          "start": 3,
+          "username": "ChaoX1220"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JDVj5V5HKv",
+          "end": 42,
+          "expanded_url": "https://x.com/ChaoX1220/status/1916022636012003488/video/1",
+          "media_key": "7_1916022611278237697",
+          "start": 19,
+          "url": "https://t.co/JDVj5V5HKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919987201384894971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916022636012003488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChaoX1220: ふふふ https://t.co/JDVj5V5HKv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919987201384894971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919987201384894971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919987201384894971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12074,
+        "height": 720,
+        "media_key": "7_1916022611278237697",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916022611278237697/pu/img/rPK-WWrJM8qkNB6k.jpg",
+        "public_metrics": {
+          "view_count": 1789
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916022611278237697/pu/vid/avc1/360x270/uzojYnlkmCrghUh1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916022611278237697/pu/vid/avc1/480x360/5oR7sETIX78fULxS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916022611278237697/pu/vid/avc1/960x720/USselF7Qgw-_m4kw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916022611278237697/pu/pl/gnrEciBJ0gGVaJnX.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1916022611278237697"
+          ]
+        },
+        "author_id": "1616094487499141121",
+        "conversation_id": "1916022636012003488",
+        "created_at": "2025-04-26T06:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T07:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916022636012003488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDVj5V5HKv",
+              "end": 27,
+              "expanded_url": "https://x.com/ChaoX1220/status/1916022636012003488/video/1",
+              "media_key": "7_1916022611278237697",
+              "start": 4,
+              "url": "https://t.co/JDVj5V5HKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916022636012003488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 5893,
+          "like_count": 227,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "ふふふ https://t.co/JDVj5V5HKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 514,
+          "like_count": 2042,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 329
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-19T15:27:29.000Z",
+        "description": "我不是很爱聊天   投喂总金额超过50解锁里账",
+        "id": "1616094487499141121",
+        "location": "小安的衣橱",
+        "name": "Asaen🏳️‍🌈",
+        "pinned_tweet_id": "1904932859133256133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812052676886048768/0mI8wBFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8658,
+          "following_count": 1090,
+          "like_count": 21020,
+          "listed_count": 21,
+          "media_count": 701,
+          "tweet_count": 2751
+        },
+        "username": "ChaoX1220",
+        "verified": false
+      }
+    ]
+  }
+}

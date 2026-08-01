@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2001719481408852254",
+    "created_at": "2025-12-18T18:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T19:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001719481408852254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonatcloud/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/moonatcloud/status/2001298360293363779",
+          "start": 8,
+          "url": "https://t.co/uDuXRmIRJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001719481408852254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001298360293363779",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难绷真正的信道 https://t.co/uDuXRmIRJX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2001719481408852254",
+        "created_at": "2025-12-18T18:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001719481408852254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonatcloud/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/moonatcloud/status/2001298360293363779",
+              "start": 8,
+              "url": "https://t.co/uDuXRmIRJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001719481408852254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001298360293363779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难绷真正的信道 https://t.co/uDuXRmIRJX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545502277946880000",
+        "conversation_id": "2001298360293363779",
+        "created_at": "2025-12-17T14:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:23:46.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001297270881550695",
+          "2001298360293363779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2001154341164736662",
+              "start": 119,
+              "url": "https://t.co/XjUUBACEuj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001298360293363779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国抓获星链使用者\n\n抓了一条靠泊的船，能否洗白VPN？\n\n宁波这次抓得很准。\n\n准不在于“低轨”“国外公司”，而在于它精准命中了 1997 年那条被长期滥用的老法条：《计算机信息网络国际联网管理暂行规定》第六条。\n\n这条法只管一件事：\n\n国际联网必须使用国家公用电信网的国际出入口信道，不得自行建立或使用其他信道。\n\n这次星链船载系统做了什么？它不是“加密访问”，而是直接绕开中国网络，走卫星直连境外关口站。\n\n主体还是通信设施本身。信道、频谱、路径三件套全越界，没任何解释空间。\n\n正因为这次让法律条文精准地用对了对象，副作用才出现了。\n\n一旦承认第六条管的是“信道”，而不是“看了什么网站”，那个人 VPN 使用者就自然被排除在外。\n\n个人既不建信道，也不控路径，用的是中国运营商网络，只是在其上加密。\n\n政府可以不喜欢 VPN，但这条法律已经按不到“使用者”身上。还能按住的，只剩“经营、提供、搭建跨境通信服务”的那些主体，靠的是另外的法条。\n\n真正被夹在中间的，是国际邮轮。\n\n在洛杉矶这种地方，邮轮是通信工程的优等生：靠泊用光纤，近岸用微波，离岸才上卫星。合规、便宜、稳定，没人纠结。\n\n一进中国水域，问题立刻变成制度问题：只要一用不经批准的卫星直连，就踩红线；而一旦接入岸网或近岸企业接入，就等于落地中国互联网，自然进入防火墙体系内部。\n\n这对国际邮轮意味着什么？进入中国12海里水域，船上的Wi-Fi就在墙里面了。\n\n有人会说：外国手机漫游能上外网，为什么不让邮轮也有“漫游式外网”？这在法理上站不住。\n\n手机漫游是可拆分、可审计、低带宽、个人责任点清晰的制度特许；邮轮 Wi-Fi 是集中式、Gbps 级、责任主体不清晰的通信节点。\n\n中国政府愿意给个人手机漫游留一条窄缝，不等于要给“浮动城市”开一条通道。\n\n于是现实选项变得很粗暴，但很稳定：靠近或靠泊中国港口时，船上公共 Wi-Fi 要么关闭，要么限内网；外网需求交给个人，让外国乘客自己打开手机国际漫游。\n\n船不再承担“跨境通信主体”的风险，路径责任被拆散到个人终端。\n\n有人会不舒服，说这是“体验倒退”。\n\n但你得承认，这是制度目标一致、成本最低、责任最清晰的解。\n\n所以，宁波这一抓为什么是好事？因为它把法律的主语拨正了。\n\n不是“翻墙”，不是“内容”，而是信道。\n\n谁在建、谁在控、谁在绕，谁就挨打。\n\n使用星链的船被钉死，而使用VPN 翻墙的被排除在外。\n\n这不是洗白谁，而是把一条被滥用多年的法条，第一次用在了它本来就该用的地方。\n\n不过，也别太乐观，想出新的解释，把VPN翻墙定义成违法，对中国政府也不是太难的事儿。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 53432,
+          "like_count": 188,
+          "quote_count": 4,
+          "reply_count": 28,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001154341164736662",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国抓获星链使用者\n\n抓了一条靠泊的船，能否洗白VPN？\n\n宁波这次抓得很准。\n\n准不在于“低轨”“国外公司”，而在于它精准命中了 1997 年那条被长期滥用的老法条：《计算机信息网络国际联网管理暂行规定》第六条。\n\n这条法只管一件事： https://t.co/XjUUBACEuj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 859,
+          "like_count": 3513,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1697
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T20:17:18.000Z",
+        "description": "",
+        "id": "1545502277946880000",
+        "location": "Cupertino, CA",
+        "name": "云中月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966352454645366784/qd4vGbvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27894,
+          "following_count": 963,
+          "like_count": 425,
+          "listed_count": 224,
+          "media_count": 718,
+          "tweet_count": 3352
+        },
+        "username": "MoonAtCloud",
+        "verified": true
+      }
+    ]
+  }
+}

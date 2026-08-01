@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2059254499341164897",
+    "created_at": "2026-05-26T13:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059269872413188195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958507577077342208",
+          "start": 0,
+          "username": "Vacue138950"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059269872413188195",
+    "in_reply_to_user_id": "1958507577077342208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059256171819827513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vacue138950 主要是着急睡觉但是手上的bzds都不能让我足够稳定和尽快的睡着…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2059254499341164897",
+        "created_at": "2026-05-26T13:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059269872413188195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958507577077342208",
+              "start": 0,
+              "username": "Vacue138950"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059269872413188195",
+        "in_reply_to_user_id": "1958507577077342208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059256171819827513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vacue138950 主要是着急睡觉但是手上的bzds都不能让我足够稳定和尽快的睡着…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2059254499341164897",
+        "created_at": "2026-05-26T12:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059256171819827513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059256171819827513",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059254499341164897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 这倒是提醒我试试sns和美金刚联用了🤣\n为什么要用sns下机而不是bzd？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 911,
+          "like_count": 4471,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2556
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 747,
+          "like_count": 3479,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1019
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

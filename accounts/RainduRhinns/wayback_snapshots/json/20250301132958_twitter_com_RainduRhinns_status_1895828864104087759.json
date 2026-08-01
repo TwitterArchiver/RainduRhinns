@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895654289583804416",
+        "3_1895654289579646976"
+      ],
+      "media_source_tweet_id": [
+        "1895654298836672986",
+        "1895654298836672986"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1895828864104087759",
+    "created_at": "2025-03-01T13:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T14:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895828864104087759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 35,
+          "tag": "可爱の男孩子"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "肚子"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "校服男高"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "小兽太"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564435337522294784",
+          "start": 3,
+          "username": "Bon9527i"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HordQtSdcU",
+          "end": 81,
+          "expanded_url": "https://x.com/Bon9527i/status/1895654298836672986/photo/1",
+          "media_key": "3_1895654289583804416",
+          "start": 58,
+          "url": "https://t.co/HordQtSdcU"
+        },
+        {
+          "display_url": "pic.x.com/HordQtSdcU",
+          "end": 81,
+          "expanded_url": "https://x.com/Bon9527i/status/1895654298836672986/photo/1",
+          "media_key": "3_1895654289579646976",
+          "start": 58,
+          "url": "https://t.co/HordQtSdcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895828864104087759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895654298836672986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bon9527i: 爪爪不好冲的话，那就扑倒奶香笨笨Bon吧\n#可爱の男孩子 #肚子\n#校服男高 #小兽太 https://t.co/HordQtSdcU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895828864104087759].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895828864104087759",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895828864104087759"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895654289583804416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk63iGOWkAAkTsO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1895654289579646976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk63iGNXIAATmDN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895654289583804416",
+            "3_1895654289579646976"
+          ]
+        },
+        "author_id": "1564435337522294784",
+        "conversation_id": "1895654298836672986",
+        "created_at": "2025-03-01T01:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T02:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895654298836672986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "可爱の男孩子"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "肚子"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "校服男高"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "小兽太"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HordQtSdcU",
+              "end": 67,
+              "expanded_url": "https://x.com/Bon9527i/status/1895654298836672986/photo/1",
+              "media_key": "3_1895654289583804416",
+              "start": 44,
+              "url": "https://t.co/HordQtSdcU"
+            },
+            {
+              "display_url": "pic.x.com/HordQtSdcU",
+              "end": 67,
+              "expanded_url": "https://x.com/Bon9527i/status/1895654298836672986/photo/1",
+              "media_key": "3_1895654289579646976",
+              "start": 44,
+              "url": "https://t.co/HordQtSdcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895654298836672986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1012,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "爪爪不好冲的话，那就扑倒奶香笨笨Bon吧\n#可爱の男孩子 #肚子\n#校服男高 #小兽太 https://t.co/HordQtSdcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 451,
+          "like_count": 1559,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 241
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-30T02:10:42.000Z",
+        "description": "🔞NSFW照片注意⚠️🔞是一个一事无成的FurryGame Developer/老表KLF/喜欢福瑞不混圈,自由潇洒赛神仙!会点游戏开发（技术很菜的那种）也玩点摄影（佛系出片）/喜欢数码科技编程的小动物一枚/不太指望能出什么名，交个朋友罢!企鹅号:2542904684",
+        "id": "1564435337522294784",
+        "location": "中国-广西-南宁",
+        "name": "Bon9527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893128326400876544/PgqbP6tz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 54,
+          "like_count": 213,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 168
+        },
+        "username": "Bon9527i",
+        "verified": false
+      }
+    ]
+  }
+}

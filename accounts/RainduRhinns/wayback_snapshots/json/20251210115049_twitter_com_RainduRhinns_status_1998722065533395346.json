@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1997676389907181702",
+    "created_at": "2025-12-10T11:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998722065533395346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998722065533395346",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997676389907181702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 太帅了bro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1997676379551551489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ksFUNb0AESJGi.jpg",
+        "width": 1706
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1997676389907181702",
+        "created_at": "2025-12-10T11:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998722065533395346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998722065533395346",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997676389907181702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 太帅了bro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997676379551551489"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1997676389907181702",
+        "created_at": "2025-12-07T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997676389907181702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxszF7AyKC",
+              "end": 63,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1997676389907181702/photo/1",
+              "media_key": "3_1997676379551551489",
+              "start": 40,
+              "url": "https://t.co/KxszF7AyKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997676389907181702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5702,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😁😁😁与扭转机构受害者家长见面洽谈（新坑预告）\n年底还有个忙了一年半的项目要发 https://t.co/KxszF7AyKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 848,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998655742912638980/yvIKBYrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 1137,
+          "like_count": 944,
+          "listed_count": 6,
+          "media_count": 273,
+          "tweet_count": 1524
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

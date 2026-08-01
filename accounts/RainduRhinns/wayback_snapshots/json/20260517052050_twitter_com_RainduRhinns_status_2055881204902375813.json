@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2055874505030111627",
+    "created_at": "2026-05-17T05:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055881204902375813"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055881204902375813",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055874505030111627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原本表最中间的位置其实应该是最拉的属于是什么都沾点但是什么都不强的（比如LSA）但是因为这一年对各种PEA试了太多新的感觉有太多是平衡了三角的优秀物质 (Mescaline类就让我觉得什么变体都不平衡强度 要么强度够偏科要么深度不够) 按照现在的看法各种2CNBOME应该垄断表中了 右上应该是Aminorex类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2055874505030111627",
+        "created_at": "2026-05-17T05:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055881204902375813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055881204902375813",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055874505030111627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原本表最中间的位置其实应该是最拉的属于是什么都沾点但是什么都不强的（比如LSA）但是因为这一年对各种PEA试了太多新的感觉有太多是平衡了三角的优秀物质 (Mescaline类就让我觉得什么变体都不平衡强度 要么强度够偏科要么深度不够) 按照现在的看法各种2CNBOME应该垄断表中了 右上应该是Aminorex类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2055874505030111627",
+        "created_at": "2026-05-17T04:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055874505030111627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1970755154485051415",
+              "start": 154,
+              "url": "https://t.co/LHYKMDV8xP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055874505030111627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970755154485051415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在快一年过去感觉感觉这张图不准确的地方还是太多了 不过我把5MeOAMT排在白光的一端因为我越发觉得它其实是色胺中的色胺 像是还没有分化成各种形态但又部分具有所有形态色胺的能力 原始而本质 包括DiPT的音高能力 而另一端则是效果已经高度分化各自色彩不同的物质们 2CBFLYNBOME也让我觉得非常纯粹 https://t.co/LHYKMDV8xP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 909,
+          "like_count": 4438,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

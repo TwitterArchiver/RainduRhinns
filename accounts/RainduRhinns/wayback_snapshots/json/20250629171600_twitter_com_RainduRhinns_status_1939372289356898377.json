@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939360021378486272"
+      ],
+      "media_source_tweet_id": [
+        "1939360024855523741"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1939372289356898377",
+    "created_at": "2025-06-29T17:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T18:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939372289356898377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1447837420095819779",
+          "start": 3,
+          "username": "shihuliangtai16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NfITmTajzU",
+          "end": 57,
+          "expanded_url": "https://x.com/shihuliangtai16/status/1939360024855523741/photo/1",
+          "media_key": "3_1939360021378486272",
+          "start": 34,
+          "url": "https://t.co/NfITmTajzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939372289356898377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939360024855523741",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shihuliangtai16: 我会乖乖的…拜托轻一点… https://t.co/NfITmTajzU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939372289356898377].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939372289356898377",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939372289356898377"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1939360021378486272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gun9qg3b0AADbv_.jpg",
+        "width": 2120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939360021378486272"
+          ]
+        },
+        "author_id": "1447837420095819779",
+        "conversation_id": "1939360024855523741",
+        "created_at": "2025-06-29T16:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T17:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939360024855523741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfITmTajzU",
+              "end": 36,
+              "expanded_url": "https://x.com/shihuliangtai16/status/1939360024855523741/photo/1",
+              "media_key": "3_1939360021378486272",
+              "start": 13,
+              "url": "https://t.co/NfITmTajzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939360024855523741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我会乖乖的…拜托轻一点… https://t.co/NfITmTajzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "唯有你的爱能缓解我的悲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 589,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 360
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-12T08:12:06.000Z",
+        "description": "橘子味小狗，不太会聊天，不经常看私信，睡眠不足。",
+        "id": "1447837420095819779",
+        "name": "良太SAMA",
+        "pinned_tweet_id": "1855719986872111387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926725432822435840/xhfuvOe-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12523,
+          "following_count": 251,
+          "like_count": 187,
+          "listed_count": 33,
+          "media_count": 235,
+          "tweet_count": 395
+        },
+        "username": "shihuliangtai16",
+        "verified": false
+      }
+    ]
+  }
+}

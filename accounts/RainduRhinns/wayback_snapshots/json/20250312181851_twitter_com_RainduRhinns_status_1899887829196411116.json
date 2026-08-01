@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899750127176470528"
+      ],
+      "media_source_tweet_id": [
+        "1899750139222470718"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1899887829196411116",
+    "created_at": "2025-03-12T18:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T19:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899887829196411116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762515381892288512",
+          "start": 3,
+          "username": "Shang_QingCc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nwtXUlVZBl",
+          "end": 66,
+          "expanded_url": "https://x.com/Shang_QingCc/status/1899750139222470718/photo/1",
+          "media_key": "3_1899750127176470528",
+          "start": 43,
+          "url": "https://t.co/nwtXUlVZBl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899887829196411116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899750139222470718",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shang_QingCc: 1kfo福利～\n虽迟但到！麻烦大家帮转下引流ww https://t.co/nwtXUlVZBl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899887829196411116].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899887829196411116",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899887829196411116"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_1899750127176470528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl1ErORbUAARcpU.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899750127176470528"
+          ]
+        },
+        "author_id": "1762515381892288512",
+        "conversation_id": "1899750139222470718",
+        "created_at": "2025-03-12T09:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T10:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899750139222470718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nwtXUlVZBl",
+              "end": 48,
+              "expanded_url": "https://x.com/Shang_QingCc/status/1899750139222470718/photo/1",
+              "media_key": "3_1899750127176470528",
+              "start": 25,
+              "url": "https://t.co/nwtXUlVZBl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899750139222470718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3203,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "1kfo福利～\n虽迟但到！麻烦大家帮转下引流ww https://t.co/nwtXUlVZBl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 463,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 265
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T16:30:04.000Z",
+        "description": "这里是小c哦！感谢您能观察到我这莫名其妙乱七八糟的推，在推上我会更一些我认为能让大家心里看着舒心的内容，坐标四川成都🎨，喜熊🐻，健硕肉体，文理双修💯，欢迎扩列，推止于推🚫搬运内容🚫争吵",
+        "id": "1762515381892288512",
+        "location": "Chengdu",
+        "name": "Cc_",
+        "pinned_tweet_id": "1897340571771175357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827581238905073665/GFVZw4Z0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 151,
+          "like_count": 633,
+          "listed_count": 6,
+          "media_count": 43,
+          "tweet_count": 157
+        },
+        "username": "Shang_QingCc",
+        "verified": false
+      }
+    ]
+  }
+}

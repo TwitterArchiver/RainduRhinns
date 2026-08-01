@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964849935414710272"
+      ],
+      "media_source_tweet_id": [
+        "1964849939630195161"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1966087434078400595",
+    "created_at": "2025-09-11T10:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T11:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966087434078400595"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 17,
+          "tag": "小正太"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "脚铐"
+        },
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "拘束"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "脚脚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1925589096812122112",
+          "start": 3,
+          "username": "li_bao73923"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vAKbieHp3A",
+          "end": 74,
+          "expanded_url": "https://x.com/li_bao73923/status/1964849939630195161/photo/1",
+          "media_key": "3_1964849935414710272",
+          "start": 51,
+          "url": "https://t.co/vAKbieHp3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966087434078400595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964849939630195161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @li_bao73923: #小正太 #脚铐 #拘束 #脚脚 逮到一个小男孩，铐起来为我所用～ https://t.co/vAKbieHp3A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1966087434078400595].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1966087434078400595",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1966087434078400595"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1964849935414710272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0SMmyVX0AAAx91.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964849935414710272"
+          ]
+        },
+        "author_id": "1925589096812122112",
+        "conversation_id": "1964849939630195161",
+        "created_at": "2025-09-08T00:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T01:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964849939630195161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "小正太"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "脚铐"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "拘束"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "脚脚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vAKbieHp3A",
+              "end": 57,
+              "expanded_url": "https://x.com/li_bao73923/status/1964849939630195161/photo/1",
+              "media_key": "3_1964849935414710272",
+              "start": 34,
+              "url": "https://t.co/vAKbieHp3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964849939630195161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2010,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#小正太 #脚铐 #拘束 #脚脚 逮到一个小男孩，铐起来为我所用～ https://t.co/vAKbieHp3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 714,
+          "like_count": 2832,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 883
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-22T16:26:44.000Z",
+        "description": "小南梁一个喜欢和自己一样的喜欢聊天欢迎聊天私信",
+        "id": "1925589096812122112",
+        "name": "余宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925605377606819840/9SPVrYnP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 32,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "username": "li_bao73923",
+        "verified": false
+      }
+    ]
+  }
+}

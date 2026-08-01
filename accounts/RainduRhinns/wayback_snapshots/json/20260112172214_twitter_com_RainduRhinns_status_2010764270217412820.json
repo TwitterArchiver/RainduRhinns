@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2010764270217412820",
+    "created_at": "2026-01-12T17:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010764270217412820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1981325512216547748",
+          "start": 144,
+          "url": "https://t.co/9eHXJGHohT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010764270217412820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981325512216547748",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关注这个论坛的一个后续是发现有个性窒息视频站和盲人论坛存在不少蛛丝马迹的关联，特别是我发现有人在发布主观宗教体验般的活动日志。-显然并不知道自己看起来如何。还有人在反驳其他人称他们的女装自缢为异装爱好-但如果是盲人的话就很好解释了，因为他们并不知道“典型异装”和“女装”之间显然的区别。 https://t.co/9eHXJGHohT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2010764270217412820",
+        "created_at": "2026-01-12T17:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010764270217412820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1981325512216547748",
+              "start": 144,
+              "url": "https://t.co/9eHXJGHohT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010764270217412820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981325512216547748",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关注这个论坛的一个后续是发现有个性窒息视频站和盲人论坛存在不少蛛丝马迹的关联，特别是我发现有人在发布主观宗教体验般的活动日志。-显然并不知道自己看起来如何。还有人在反驳其他人称他们的女装自缢为异装爱好-但如果是盲人的话就很好解释了，因为他们并不知道“典型异装”和“女装”之间显然的区别。 https://t.co/9eHXJGHohT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1981325512216547748",
+        "created_at": "2025-10-23T11:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981325512216547748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981325512216547748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1051,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶然在盲人论坛上发现过盲人互相分享自己对性的想像的色情文学创作版，内容除了纯爱到感人还包含一些对有视觉的人来说读感有些奇异的暴力直白肢体接触幻想。有趣的是有些内容对我来说显然是健全人模仿盲人写的，因为不管再怎么模仿总是有微妙的写作心态区别。但并没有人拆穿他，还是他们都享受于其中呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 873,
+          "like_count": 3678,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1876
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

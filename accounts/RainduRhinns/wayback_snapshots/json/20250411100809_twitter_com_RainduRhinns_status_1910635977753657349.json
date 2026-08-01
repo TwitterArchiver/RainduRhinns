@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910017988067221505",
+        "3_1910017992135696388"
+      ],
+      "media_source_tweet_id": [
+        "1910017995486945381",
+        "1910017995486945381"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1910635977753657349",
+    "created_at": "2025-04-11T10:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T11:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910635977753657349"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "NSFW"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "正太"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "男娘"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "伪娘"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "偽娘"
+        },
+        {
+          "end": 73,
+          "start": 69,
+          "tag": "男の娘"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "娼年"
+        },
+        {
+          "end": 83,
+          "start": 79,
+          "tag": "男の娘"
+        },
+        {
+          "end": 88,
+          "start": 84,
+          "tag": "男の子"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "绒布球"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878437340852707328",
+          "start": 3,
+          "username": "ran_amatsuka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QgEbhNbj72",
+          "end": 117,
+          "expanded_url": "https://x.com/ran_amatsuka_/status/1910017995486945381/photo/1",
+          "media_key": "3_1910017988067221505",
+          "start": 94,
+          "url": "https://t.co/QgEbhNbj72"
+        },
+        {
+          "display_url": "pic.x.com/QgEbhNbj72",
+          "end": 117,
+          "expanded_url": "https://x.com/ran_amatsuka_/status/1910017995486945381/photo/1",
+          "media_key": "3_1910017992135696388",
+          "start": 94,
+          "url": "https://t.co/QgEbhNbj72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910635977753657349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910017995486945381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ran_amatsuka_: 艺术区主播｜擦边区主播\n#NSFW #正太 #可爱的男孩子  #男娘 #伪娘 #小狗日记 #偽娘  #男の娘  #娼年 #男の娘 #男の子 #绒布球 https://t.co/QgEbhNbj72"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1910635977753657349].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1910635977753657349",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1910635977753657349"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1910017988067221505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoG_PY1aYAExitN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_1910017992135696388",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoG_Pn_aYAQIZ8y.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910017988067221505",
+            "3_1910017992135696388"
+          ]
+        },
+        "author_id": "1878437340852707328",
+        "conversation_id": "1910017995486945381",
+        "created_at": "2025-04-09T17:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T18:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910017995486945381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "NSFW"
+            },
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "正太"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "男娘"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "伪娘"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "偽娘"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "男の娘"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "娼年"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "男の娘"
+            },
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "男の子"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "绒布球"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QgEbhNbj72",
+              "end": 98,
+              "expanded_url": "https://x.com/ran_amatsuka_/status/1910017995486945381/photo/1",
+              "media_key": "3_1910017988067221505",
+              "start": 75,
+              "url": "https://t.co/QgEbhNbj72"
+            },
+            {
+              "display_url": "pic.x.com/QgEbhNbj72",
+              "end": 98,
+              "expanded_url": "https://x.com/ran_amatsuka_/status/1910017995486945381/photo/1",
+              "media_key": "3_1910017992135696388",
+              "start": 75,
+              "url": "https://t.co/QgEbhNbj72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910017995486945381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9925,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "艺术区主播｜擦边区主播\n#NSFW #正太 #可爱的男孩子  #男娘 #伪娘 #小狗日记 #偽娘  #男の娘  #娼年 #男の娘 #男の子 #绒布球 https://t.co/QgEbhNbj72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 494,
+          "like_count": 1891,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 306
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:42:24.000Z",
+        "description": "🔞NSFW ｜ a femboy from CN🇨🇳｜ENFP｜文援、娼年、催眠师、虚拟男友、小穴老师、拜金小狗♡阿蓝｜图包绝赞出售中，也提供文援服务和男娘催眠服务♡，原味也卖♡也接各种视频图包定制♡欢迎来多多捧场♡｜不含糖🍬｜看色图请点媒体｜只和男生/伪娘互推互粉♡",
+        "id": "1878437340852707328",
+        "location": "距您1. 4㎞",
+        "name": "✝福音天使夕月蓝✝（求互推）",
+        "pinned_tweet_id": "1905509166937932253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891475652869750784/cMhQ78ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 223,
+          "like_count": 954,
+          "listed_count": 15,
+          "media_count": 46,
+          "tweet_count": 710
+        },
+        "username": "ran_amatsuka_",
+        "verified": false
+      }
+    ]
+  }
+}

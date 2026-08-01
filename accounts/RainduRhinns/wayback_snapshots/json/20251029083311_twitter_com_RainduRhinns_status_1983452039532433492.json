@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1983452039532433492",
+    "created_at": "2025-10-29T08:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T09:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983452039532433492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/photonisdead/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/photonisdead/status/1983213614531006950",
+          "start": 36,
+          "url": "https://t.co/CvmfFZmfFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983452039532433492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983213614531006950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天\n1 MDMA 2 DPT 3 DIPT 4 5-MeO-DMT https://t.co/CvmfFZmfFu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1983213534428442628",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKM7lasAQiteO.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1907,
+        "media_key": "3_1983213534512361472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKM75bMAAr87Q.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1591,
+        "media_key": "3_1983213534478790656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKM7xa8AARMOT.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1614,
+        "media_key": "3_1983213534529105921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XKM79asAEwX9a.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1983452039532433492",
+        "created_at": "2025-10-29T08:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T09:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983452039532433492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/photonisdead/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/photonisdead/status/1983213614531006950",
+              "start": 36,
+              "url": "https://t.co/CvmfFZmfFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983452039532433492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983213614531006950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天\n1 MDMA 2 DPT 3 DIPT 4 5-MeO-DMT https://t.co/CvmfFZmfFu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983213534428442628",
+            "3_1983213534512361472",
+            "3_1983213534478790656",
+            "3_1983213534529105921"
+          ]
+        },
+        "author_id": "1247429515",
+        "conversation_id": "1983213614531006950",
+        "created_at": "2025-10-28T16:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983213614531006950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8wzcssl1Al",
+              "end": 35,
+              "expanded_url": "https://x.com/photonisdead/status/1983213614531006950/photo/1",
+              "media_key": "3_1983213534428442628",
+              "start": 12,
+              "url": "https://t.co/8wzcssl1Al"
+            },
+            {
+              "display_url": "pic.x.com/8wzcssl1Al",
+              "end": 35,
+              "expanded_url": "https://x.com/photonisdead/status/1983213614531006950/photo/1",
+              "media_key": "3_1983213534512361472",
+              "start": 12,
+              "url": "https://t.co/8wzcssl1Al"
+            },
+            {
+              "display_url": "pic.x.com/8wzcssl1Al",
+              "end": 35,
+              "expanded_url": "https://x.com/photonisdead/status/1983213614531006950/photo/1",
+              "media_key": "3_1983213534478790656",
+              "start": 12,
+              "url": "https://t.co/8wzcssl1Al"
+            },
+            {
+              "display_url": "pic.x.com/8wzcssl1Al",
+              "end": 35,
+              "expanded_url": "https://x.com/photonisdead/status/1983213614531006950/photo/1",
+              "media_key": "3_1983213534529105921",
+              "start": 12,
+              "url": "https://t.co/8wzcssl1Al"
+            },
+            {
+              "display_url": "x.com/fran_nubes/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/fran_nubes/status/1982886502607794385",
+              "start": 36,
+              "url": "https://t.co/EJAg5Pmh0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983213614531006950",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 46918,
+          "like_count": 879,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982886502607794385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Psychedelia https://t.co/8wzcssl1Al https://t.co/EJAg5Pmh0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 780,
+          "like_count": 3083,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1378
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-06T22:45:38.000Z",
+        "description": "Method Artist | Exploring The Unknown",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/photontide",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/photontide",
+                "start": 0,
+                "url": "https://t.co/IUVH1pPzvb"
+              }
+            ]
+          }
+        },
+        "id": "1247429515",
+        "name": "pho",
+        "pinned_tweet_id": "1982851225306763704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870992891826552832/WRj9aKkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133983,
+          "following_count": 2754,
+          "like_count": 128573,
+          "listed_count": 861,
+          "media_count": 2184,
+          "tweet_count": 84677
+        },
+        "url": "https://t.co/IUVH1pPzvb",
+        "username": "photonisdead",
+        "verified": true
+      }
+    ]
+  }
+}

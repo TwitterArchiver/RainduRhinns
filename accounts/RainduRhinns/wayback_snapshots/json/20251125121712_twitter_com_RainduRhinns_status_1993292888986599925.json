@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1993292888986599925",
+    "created_at": "2025-11-25T12:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993292888986599925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1993286638202736733",
+          "start": 146,
+          "url": "https://t.co/kVLfikCIw1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993292888986599925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993286638202736733",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以，κ激动很可能只是一场连锁反应的引子，而最终引发的“鼠尾草幻觉”的是一大群机制。从很多同时有μ和κ阿片选择性和不同蛋白质募集倾向的吗啡类物质比较中可以发现很多时候μ阿片受体激动剂反而会增强致幻效果，而κ受体在下游影响多巴胺转运体D2多巴胺和μ受体同时释放多巴胺的复杂效果最终引发全面紊乱 https://t.co/kVLfikCIw1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1993292888986599925",
+        "created_at": "2025-11-25T12:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993292888986599925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1993286638202736733",
+              "start": 146,
+              "url": "https://t.co/kVLfikCIw1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993292888986599925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993286638202736733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以，κ激动很可能只是一场连锁反应的引子，而最终引发的“鼠尾草幻觉”的是一大群机制。从很多同时有μ和κ阿片选择性和不同蛋白质募集倾向的吗啡类物质比较中可以发现很多时候μ阿片受体激动剂反而会增强致幻效果，而κ受体在下游影响多巴胺转运体D2多巴胺和μ受体同时释放多巴胺的复杂效果最终引发全面紊乱 https://t.co/kVLfikCIw1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1993286638202736733",
+        "created_at": "2025-11-25T11:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T12:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993286638202736733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1993270127585091675",
+              "start": 148,
+              "url": "https://t.co/LPKlLOq0G5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993286638202736733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993270127585091675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沙维诺林A、伊博格碱、伊博酸丁丙诺啡BTCP地吗啡这几个怪异的物质在KOR激动剂里是非常独特的，尽管曾作无戒断止痛剂但因引发过度狂燥谵妄的KOR机制负作用而被淘汰，但他们对新型海洛因-吗啡家族的k选择性改造和强啡肽激活K阿片的受体抑制多巴胺能中谷氨酸功能外的不同多巴胺全脑复杂系统带来很大的启示 https://t.co/LPKlLOq0G5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 835,
+          "like_count": 3276,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1508
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

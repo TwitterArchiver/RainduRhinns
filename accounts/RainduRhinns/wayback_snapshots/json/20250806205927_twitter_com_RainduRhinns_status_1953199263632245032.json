@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953090858099851268"
+      ],
+      "media_source_tweet_id": [
+        "1953090868816257248"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953199263632245032",
+    "created_at": "2025-08-06T20:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T21:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953199263632245032"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "NSFW"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "正太"
+        },
+        {
+          "end": 54,
+          "start": 47,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "小狗日记"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "娼年"
+        },
+        {
+          "end": 70,
+          "start": 66,
+          "tag": "男の子"
+        },
+        {
+          "end": 75,
+          "start": 71,
+          "tag": "绒布球"
+        },
+        {
+          "end": 79,
+          "start": 76,
+          "tag": "0m"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "男大宿舍"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "男高弟弟"
+        },
+        {
+          "end": 97,
+          "start": 92,
+          "tag": "男高中生"
+        },
+        {
+          "end": 102,
+          "start": 98,
+          "tag": "BBC"
+        },
+        {
+          "end": 110,
+          "start": 103,
+          "tag": "Chudai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878437340852707328",
+          "start": 3,
+          "username": "ran_amatsuka_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dh00k1oZIP",
+          "end": 134,
+          "expanded_url": "https://x.com/ran_amatsuka_/status/1953090868816257248/photo/1",
+          "media_key": "3_1953090858099851268",
+          "start": 111,
+          "url": "https://t.co/dh00k1oZIP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953199263632245032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953090868816257248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ran_amatsuka_: 【天使蓝福音♡】\n能顶到这里吗？\n\n#NSFW #正太 #可爱的男孩子 #小狗日记  #娼年 #男の子 #绒布球 #0m #男大宿舍 #男高弟弟 #男高中生 #BBC #Chudai https://t.co/dh00k1oZIP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953199263632245032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953199263632245032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953199263632245032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953090858099851268",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxrFyZsawAQK7sk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953090858099851268"
+          ]
+        },
+        "author_id": "1878437340852707328",
+        "conversation_id": "1953090868816257248",
+        "created_at": "2025-08-06T13:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T14:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953090868816257248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "NSFW"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "正太"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "小狗日记"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "娼年"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "男の子"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "绒布球"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "0m"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "男大宿舍"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "男高弟弟"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "男高中生"
+            },
+            {
+              "end": 83,
+              "start": 79,
+              "tag": "BBC"
+            },
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "Chudai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh00k1oZIP",
+              "end": 115,
+              "expanded_url": "https://x.com/ran_amatsuka_/status/1953090868816257248/photo/1",
+              "media_key": "3_1953090858099851268",
+              "start": 92,
+              "url": "https://t.co/dh00k1oZIP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953090868816257248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6546,
+          "like_count": 99,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "【天使蓝福音♡】\n能顶到这里吗？\n\n#NSFW #正太 #可爱的男孩子 #小狗日记  #娼年 #男の子 #绒布球 #0m #男大宿舍 #男高弟弟 #男高中生 #BBC #Chudai https://t.co/dh00k1oZIP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 647,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 576
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:42:24.000Z",
+        "description": "🔞NSFW ｜ a femboy from CN🇨🇳｜ENFP｜娼年催眠师阿蓝♡｜库存图包/视频绝赞出售中，也提供男娘催眠服务♡（催眠号@ran_amatsuka_z），也接各种视频图包定制♡欢迎来多多捧场♡｜不含糖🍬｜看色图请点媒体｜欢迎男生/伪娘互推互粉♡｜头像作者@miharu78837317",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "ran_amatsuka_z"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "miharu78837317"
+              }
+            ]
+          }
+        },
+        "id": "1878437340852707328",
+        "location": "圣路西法大教堂",
+        "name": "✝福音天使夕月蓝✝（求互推/接定制）",
+        "pinned_tweet_id": "1920834808340480488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950528078666706944/2HAZXPmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21249,
+          "following_count": 458,
+          "like_count": 2115,
+          "listed_count": 79,
+          "media_count": 132,
+          "tweet_count": 2324
+        },
+        "username": "ran_amatsuka_",
+        "verified": false
+      }
+    ]
+  }
+}

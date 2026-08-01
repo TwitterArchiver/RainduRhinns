@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1858367509583507494",
+    "created_at": "2024-11-19T07:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T08:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858768178450759705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "958587661240950785",
+          "start": 0,
+          "username": "lokesh4002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858768178450759705",
+    "in_reply_to_user_id": "958587661240950785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858367509583507494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lokesh4002 Patpat,有空岀来玩（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1858367509583507494",
+        "created_at": "2024-11-19T07:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T08:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858768178450759705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "958587661240950785",
+              "start": 0,
+              "username": "lokesh4002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858768178450759705",
+        "in_reply_to_user_id": "958587661240950785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858367509583507494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lokesh4002 Patpat,有空岀来玩（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958587661240950785",
+        "conversation_id": "1858367509583507494",
+        "created_at": "2024-11-18T04:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T05:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858367509583507494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lokesh4002/sta…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/lokesh4002/status/1858187287248724090",
+              "start": 131,
+              "url": "https://t.co/tKMcx7VjPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858367509583507494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "目前为止就和三个推油面过\n第一次John的那个是他来我站里找我，那个不用编理由\n第二次和poi的那次是我休班，骗我妈说是我们主管让我加班，然后才让我出去的\n第三次和铭镇那次是我骗我妈说我对乘客态度不好被人家投诉了，值班站长让我去站里解决问题，然后就让我出去了\n后面再有的话我实在不知道应该编什么理由了🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8102,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858187287248724090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前为止就和三个推油面过\n第一次John的那个是他来我站里找我，那个不用编理由\n第二次和poi的那次是我休班，骗我妈说是我们主管让我加班，然后才让我出去的\n第三次和铭镇那次是我骗我妈说我对乘客态度不好被人家投诉了，值班站长让我去站里解决问题，然后就让我出去了… https://t.co/tKMcx7VjPh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 296,
+          "like_count": 783,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T06:28:02.000Z",
+        "description": "政治中立/福瑞控/简中/繁中👌English👌/天津轨道/gay/是0/不约/可以扩列/需要回关可以私信/里推🔞：@jameshelen114 /telegram:https://t.co/t1D6lCHwHl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "jameshelen114"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jameshelen0324",
+                "end": 105,
+                "expanded_url": "http://t.me/jameshelen0324",
+                "start": 82,
+                "url": "https://t.co/t1D6lCHwHl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/pNjeo7lm9O"
+              }
+            ]
+          }
+        },
+        "id": "958587661240950785",
+        "location": "Tianjin",
+        "name": "James Helen🔜 TRT",
+        "pinned_tweet_id": "1817266176399147193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842044011781230592/ESo_wqaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6267,
+          "following_count": 3797,
+          "like_count": 34402,
+          "listed_count": 5,
+          "tweet_count": 14808
+        },
+        "url": "https://t.co/pNjeo7lm9O",
+        "username": "lokesh4002",
+        "verified": true
+      }
+    ]
+  }
+}

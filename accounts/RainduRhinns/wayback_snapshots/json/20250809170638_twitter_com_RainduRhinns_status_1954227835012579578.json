@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934830409260703744"
+      ],
+      "media_source_tweet_id": [
+        "1934830413643731446"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1954227835012579578",
+    "created_at": "2025-08-09T17:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T18:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954227835012579578"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "正太"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "少年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1893496606890303493",
+          "start": 3,
+          "username": "shinra_2677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oOaHYfVUqV",
+          "end": 56,
+          "expanded_url": "https://x.com/shinra_2677/status/1934830413643731446/photo/1",
+          "media_key": "3_1934830409260703744",
+          "start": 33,
+          "url": "https://t.co/oOaHYfVUqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954227835012579578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934830413643731446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinra_2677: 裤子好像买大了 #正太 #少年 https://t.co/oOaHYfVUqV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954227835012579578].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954227835012579578",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954227835012579578"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1934830409260703744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtnmAYyboAAMRsq.jpg",
+        "width": 2096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934830409260703744"
+          ]
+        },
+        "author_id": "1893496606890303493",
+        "conversation_id": "1934830413643731446",
+        "created_at": "2025-06-17T04:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T05:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934830413643731446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "正太"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "少年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOaHYfVUqV",
+              "end": 39,
+              "expanded_url": "https://x.com/shinra_2677/status/1934830413643731446/photo/1",
+              "media_key": "3_1934830409260703744",
+              "start": 16,
+              "url": "https://t.co/oOaHYfVUqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934830413643731446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8853,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "裤子好像买大了 #正太 #少年 https://t.co/oOaHYfVUqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 656,
+          "like_count": 2710,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 625
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T03:02:35.000Z",
+        "description": "|🔞🌈|oc人|单身|正太控|麻中蓬单推|2X-0.5|超级社恐|不键政|推止于推|欢迎扩列|ff14鸟区|",
+        "id": "1893496606890303493",
+        "location": "广东",
+        "name": "蓬🌴",
+        "pinned_tweet_id": "1951857916371247270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945039782234456064/f0pJ0_Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 231,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 122
+        },
+        "username": "shinra_2677",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892639643885305858"
+      ],
+      "media_source_tweet_id": [
+        "1892639647236554798"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894437807415820301",
+    "created_at": "2025-02-25T17:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T18:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894437807415820301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1590734694747979776",
+          "start": 3,
+          "username": "yumobng6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/flO7YX3y2j",
+          "end": 59,
+          "expanded_url": "https://x.com/yumobng6/status/1892639647236554798/photo/1",
+          "media_key": "3_1892639643885305858",
+          "start": 36,
+          "url": "https://t.co/flO7YX3y2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894437807415820301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892639647236554798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumobng6: 在印记消失前不能射哦，就算梦遗也要接受惩罚 https://t.co/flO7YX3y2j"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894437807415820301].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894437807415820301",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894437807415820301"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892639643885305858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkQBun2bAAIBRo9.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892639643885305858"
+          ]
+        },
+        "author_id": "1590734694747979776",
+        "conversation_id": "1892639647236554798",
+        "created_at": "2025-02-20T18:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T19:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892639647236554798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/flO7YX3y2j",
+              "end": 45,
+              "expanded_url": "https://x.com/yumobng6/status/1892639647236554798/photo/1",
+              "media_key": "3_1892639643885305858",
+              "start": 22,
+              "url": "https://t.co/flO7YX3y2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892639647236554798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4595,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "在印记消失前不能射哦，就算梦遗也要接受惩罚 https://t.co/flO7YX3y2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 438,
+          "like_count": 1450,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 205
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T15:55:01.000Z",
+        "description": "是一只屑猫呀，坐落于福建，社恐ing，不漏脸，喜欢涩涩，抓起来就可以用~喵 推止于推",
+        "id": "1590734694747979776",
+        "name": "洛七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658268337321955329/OYpM1TxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 189,
+          "like_count": 191,
+          "listed_count": 9,
+          "media_count": 79,
+          "tweet_count": 249
+        },
+        "username": "yumobng6",
+        "verified": false
+      }
+    ]
+  }
+}

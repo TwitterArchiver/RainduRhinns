@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953749522401964039",
+        "3_1953749522020204544",
+        "3_1953749522007699458"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953749532527014346",
+    "created_at": "2025-08-08T09:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T10:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953749532527014346"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "sciencedirect.com/science/articl…",
+          "end": 23,
+          "expanded_url": "https://www.sciencedirect.com/science/article/pii/S2214750025000010",
+          "start": 0,
+          "unwound_url": "https://www.sciencedirect.com/science/article/pii/S2214750025000010",
+          "url": "https://t.co/HwEkIIn8Y6"
+        },
+        {
+          "display_url": "pic.x.com/FESaAgl8b8",
+          "end": 72,
+          "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+          "media_key": "3_1953749522401964039",
+          "start": 49,
+          "url": "https://t.co/FESaAgl8b8"
+        },
+        {
+          "display_url": "pic.x.com/FESaAgl8b8",
+          "end": 72,
+          "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+          "media_key": "3_1953749522020204544",
+          "start": 49,
+          "url": "https://t.co/FESaAgl8b8"
+        },
+        {
+          "display_url": "pic.x.com/FESaAgl8b8",
+          "end": 72,
+          "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+          "media_key": "3_1953749522007699458",
+          "start": 49,
+          "url": "https://t.co/FESaAgl8b8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953749532527014346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HwEkIIn8Y6\n苄基大舞台 有活你就来\n真是比LSD靶靶又向向啊 https://t.co/FESaAgl8b8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953749522401964039",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0c1tbbsAcjBj2.jpg",
+        "width": 1044
+      },
+      {
+        "height": 1224,
+        "media_key": "3_1953749522020204544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0c1sAagAA3TJA.jpg",
+        "width": 1584
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953749522007699458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx0c1r9bsAIgn08.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953749522401964039",
+            "3_1953749522020204544",
+            "3_1953749522007699458"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953749532527014346",
+        "created_at": "2025-08-08T09:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T10:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953749532527014346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "sciencedirect.com/science/articl…",
+              "end": 23,
+              "expanded_url": "https://www.sciencedirect.com/science/article/pii/S2214750025000010",
+              "start": 0,
+              "unwound_url": "https://www.sciencedirect.com/science/article/pii/S2214750025000010",
+              "url": "https://t.co/HwEkIIn8Y6"
+            },
+            {
+              "display_url": "pic.x.com/FESaAgl8b8",
+              "end": 72,
+              "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+              "media_key": "3_1953749522401964039",
+              "start": 49,
+              "url": "https://t.co/FESaAgl8b8"
+            },
+            {
+              "display_url": "pic.x.com/FESaAgl8b8",
+              "end": 72,
+              "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+              "media_key": "3_1953749522020204544",
+              "start": 49,
+              "url": "https://t.co/FESaAgl8b8"
+            },
+            {
+              "display_url": "pic.x.com/FESaAgl8b8",
+              "end": 72,
+              "expanded_url": "https://x.com/RainduRhinns/status/1953749532527014346/photo/1",
+              "media_key": "3_1953749522007699458",
+              "start": 49,
+              "url": "https://t.co/FESaAgl8b8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953749532527014346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HwEkIIn8Y6\n苄基大舞台 有活你就来\n真是比LSD靶靶又向向啊 https://t.co/FESaAgl8b8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 654,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 601
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2060369939996000487",
+    "created_at": "2026-05-29T14:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060369939996000487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369939996000487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060337152287006937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 许多警察在我们报案的时候都会用性少数群体作为推脱理由\n例:“他家娃娃喜欢男滴你觉得这正不正常”\n“同性恋就该被教育家长教育一下怎么滴啦”\n“打就打嘛噻啷个小时候不挨打妈生爹养滴搞什么跨性别”\n“孩子未成年就说改性别这是在网上被人教坏喽人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2060369939996000487",
+        "created_at": "2026-05-29T14:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060369939996000487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369939996000487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060337152287006937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 许多警察在我们报案的时候都会用性少数群体作为推脱理由\n例:“他家娃娃喜欢男滴你觉得这正不正常”\n“同性恋就该被教育家长教育一下怎么滴啦”\n“打就打嘛噻啷个小时候不挨打妈生爹养滴搞什么跨性别”\n“孩子未成年就说改性别这是在网上被人教坏喽人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2060337152287006937",
+        "created_at": "2026-05-29T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060337152287006937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2060276011355279825",
+              "start": 147,
+              "url": "https://t.co/WgCv9WT37a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060337152287006937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2660,
+          "like_count": 95,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060276011355279825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "许多警察在我们报案的时候都会用性少数群体作为推脱理由\n例:“他家娃娃喜欢男滴你觉得这正不正常”\n“同性恋就该被教育家长教育一下怎么滴啦”\n“打就打嘛噻啷个小时候不挨打妈生爹养滴搞什么跨性别”\n“孩子未成年就说改性别这是在网上被人教坏喽人家家里事你跟他什么关系”\n我是很少遇到性少数友好的警察的 https://t.co/WgCv9WT37a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 910,
+          "like_count": 4493,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058919180246646784/MUFZxWG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5395,
+          "following_count": 3017,
+          "like_count": 3055,
+          "listed_count": 19,
+          "media_count": 432,
+          "tweet_count": 2898
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

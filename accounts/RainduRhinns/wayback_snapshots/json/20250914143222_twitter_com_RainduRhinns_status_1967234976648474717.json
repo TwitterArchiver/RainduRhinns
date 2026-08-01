@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1967108175997587681",
+    "created_at": "2025-09-14T14:32:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T15:32:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967234976648474717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "522147771",
+          "start": 0,
+          "username": "DET_GOOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967234976648474717",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967215533222461563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DET_GOOD 分钟120不高吧你吸安非他命比这个低吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1967108175997587681",
+        "created_at": "2025-09-14T14:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967234976648474717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "522147771",
+              "start": 0,
+              "username": "DET_GOOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967234976648474717",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967215533222461563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DET_GOOD 分钟120不高吧你吸安非他命比这个低吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "522147771",
+        "conversation_id": "1967108175997587681",
+        "created_at": "2025-09-14T13:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967215533222461563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967215533222461563",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967194257930019273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 我和我朋友用了dpt心率直接120卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 719,
+          "like_count": 2824,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 912
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "主号: @overdose_dxm\n交流群:https://t.co/FJhZhgg6cY\n化学极乐百科:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/nVUqUkwW",
+                "end": 45,
+                "expanded_url": "https://discord.gg/nVUqUkwW",
+                "start": 22,
+                "url": "https://t.co/FJhZhgg6cY"
+              },
+              {
+                "display_url": "overdose.day",
+                "end": 76,
+                "expanded_url": "https://www.overdose.day",
+                "start": 53,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 103,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 80,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 138,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 115,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二乙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 1362,
+          "like_count": 517,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "DET_GOOD",
+        "verified": false
+      }
+    ]
+  }
+}

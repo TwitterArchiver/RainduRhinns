@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2013715625554911247",
+    "created_at": "2026-01-22T11:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T12:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014297509926224048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1106987880566513664",
+          "start": 0,
+          "username": "gaystaipo"
+        },
+        {
+          "end": 25,
+          "id": "1986452594206838785",
+          "start": 11,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014297509926224048",
+    "in_reply_to_user_id": "1106987880566513664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014291617147154611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaystaipo @Idontselldrug 一共就那么几种…挑喜欢负作用小的就好，我喜欢反苯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2013715625554911247",
+        "created_at": "2026-01-22T11:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014297509926224048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106987880566513664",
+              "start": 0,
+              "username": "gaystaipo"
+            },
+            {
+              "end": 25,
+              "id": "1986452594206838785",
+              "start": 11,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014297509926224048",
+        "in_reply_to_user_id": "1106987880566513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014291617147154611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaystaipo @Idontselldrug 一共就那么几种…挑喜欢负作用小的就好，我喜欢反苯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1106987880566513664",
+        "conversation_id": "2013715625554911247",
+        "created_at": "2026-01-22T10:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014291617147154611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 28,
+              "id": "1986452594206838785",
+              "start": 14,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014291617147154611",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014215910396215800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @Idontselldrug 有什么推荐dpt搭配的moai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 876,
+          "like_count": 3650,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "简单介绍下，一名苯乙胺宝贝！ Gay 0.5M/ADHD/ASD/身体魔法师/声音艺术家/音频工作者/药物文化researcher/恋物癖。 物质的性包含着背后的意义！ 合作与讨论可以DM.",
+        "id": "1106987880566513664",
+        "location": "Guangzhou",
+        "name": "基世太保 a.k.a. Gaystaatspo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992493421123252224/kp7KXvnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 702,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 284
+        },
+        "username": "gaystaipo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 221,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

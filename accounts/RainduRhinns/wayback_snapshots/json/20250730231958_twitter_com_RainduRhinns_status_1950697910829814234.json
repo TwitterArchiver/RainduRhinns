@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1950649018427830305",
+    "created_at": "2025-07-30T23:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T00:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950697910829814234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950697910829814234",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950683568176574708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "眼动数据当然是最好的，但没有随时稳定的测量条件。而且眼动需要提前做均值预期校准数据，对不同药物互相作用方法上要做成倍的彼此校准数据和估测常值。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950649018427830305",
+        "created_at": "2025-07-30T23:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T00:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950697910829814234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950697910829814234",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950683568176574708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "眼动数据当然是最好的，但没有随时稳定的测量条件。而且眼动需要提前做均值预期校准数据，对不同药物互相作用方法上要做成倍的彼此校准数据和估测常值。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950649018427830305",
+        "created_at": "2025-07-30T22:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T23:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950683568176574708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950683568176574708",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950649018427830305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以 4小时后的相对静止血压收缩压高压差 作为 致幻剂强度的评估标准 比较理想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 639,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 519
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1947513209726132642",
+    "created_at": "2025-07-24T18:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T19:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948457781604090238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1695013113886593024",
+          "start": 0,
+          "username": "hueea12345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948457781604090238",
+    "in_reply_to_user_id": "1695013113886593024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947513209726132642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hueea12345 看看货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1947513209726132642",
+        "created_at": "2025-07-24T18:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T19:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948457781604090238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1695013113886593024",
+              "start": 0,
+              "username": "hueea12345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948457781604090238",
+        "in_reply_to_user_id": "1695013113886593024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947513209726132642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hueea12345 看看货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695013113886593024",
+        "conversation_id": "1947513209726132642",
+        "created_at": "2025-07-22T04:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T05:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947513209726132642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947513209726132642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4192,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们 找我买雪茄😙不是最便宜的但一定是最最最真的，主打真诚，上海杭州可以线下验货哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 624,
+          "like_count": 2554,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 458
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T10:00:15.000Z",
+        "description": "十九岁了😭｜@leza1874",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "leza1874"
+              }
+            ]
+          }
+        },
+        "id": "1695013113886593024",
+        "name": "你怎么也有牛牛",
+        "pinned_tweet_id": "1774228269438488963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723153716205735936/f8r44Gic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10247,
+          "following_count": 564,
+          "like_count": 8968,
+          "listed_count": 31,
+          "media_count": 329,
+          "tweet_count": 1741
+        },
+        "username": "hueea12345",
+        "verified": false
+      }
+    ]
+  }
+}

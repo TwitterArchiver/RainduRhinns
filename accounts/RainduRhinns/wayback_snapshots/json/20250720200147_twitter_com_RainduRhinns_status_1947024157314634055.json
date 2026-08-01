@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946532175366463488"
+      ],
+      "media_source_tweet_id": [
+        "1946532182245204060"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047792689",
+          "name": "幼女戦記"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1947024157314634055",
+    "created_at": "2025-07-20T20:01:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T21:01:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947024157314634055"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "幼女戦記"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339476568763232256",
+          "start": 3,
+          "username": "mikocaizi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S6tg8UDcTg",
+          "end": 49,
+          "expanded_url": "https://x.com/mikocaizi/status/1946532182245204060/photo/1",
+          "media_key": "3_1946532175366463488",
+          "start": 26,
+          "url": "https://t.co/S6tg8UDcTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947024157314634055",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2939
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946532182245204060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikocaizi: #幼女戦記 \n\n電車 https://t.co/S6tg8UDcTg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946532175366463488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwN4s0iWIAAJptE.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946532175366463488"
+          ],
+          "media_source_tweet_id": [
+            "1946532182245204060"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047792689",
+              "name": "幼女戦記"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947024157314634055",
+        "created_at": "2025-07-20T20:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T21:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947024157314634055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "幼女戦記"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339476568763232256",
+              "start": 3,
+              "username": "mikocaizi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6tg8UDcTg",
+              "end": 49,
+              "expanded_url": "https://x.com/mikocaizi/status/1946532182245204060/photo/1",
+              "media_key": "3_1946532175366463488",
+              "start": 26,
+              "url": "https://t.co/S6tg8UDcTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947024157314634055",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2939
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946532182245204060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikocaizi: #幼女戦記 \n\n電車 https://t.co/S6tg8UDcTg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946532175366463488"
+          ]
+        },
+        "author_id": "1339476568763232256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047792689",
+              "name": "幼女戦記"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946532182245204060",
+        "created_at": "2025-07-19T11:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T12:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946532182245204060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "幼女戦記"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S6tg8UDcTg",
+              "end": 34,
+              "expanded_url": "https://x.com/mikocaizi/status/1946532182245204060/photo/1",
+              "media_key": "3_1946532175366463488",
+              "start": 11,
+              "url": "https://t.co/S6tg8UDcTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946532182245204060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2508,
+          "impression_count": 477109,
+          "like_count": 34206,
+          "quote_count": 35,
+          "reply_count": 26,
+          "retweet_count": 2939
+        },
+        "reply_settings": "everyone",
+        "text": "#幼女戦記 \n\n電車 https://t.co/S6tg8UDcTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 621,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 445
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T07:44:44.000Z",
+        "description": "低浮上",
+        "id": "1339476568763232256",
+        "name": "焚",
+        "pinned_tweet_id": "1946532182245204060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944961112073531392/dZ6InYzg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6690,
+          "following_count": 79,
+          "like_count": 3102,
+          "listed_count": 42,
+          "media_count": 386,
+          "tweet_count": 1562
+        },
+        "username": "mikocaizi",
+        "verified": false
+      }
+    ]
+  }
+}

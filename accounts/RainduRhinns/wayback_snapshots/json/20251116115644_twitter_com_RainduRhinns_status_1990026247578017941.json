@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969640903116800002"
+      ],
+      "media_source_tweet_id": [
+        "1969641001531949351"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1990026247578017941",
+    "created_at": "2025-11-16T11:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T12:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990026247578017941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "이훈"
+        },
+        {
+          "end": 32,
+          "start": 20,
+          "tag": "suicide_boy"
+        },
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "suicideboy"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "자살소년"
+        },
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "Hooni"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1905559295238066176",
+          "start": 3,
+          "username": "MTong888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4wlzwPEcJk",
+          "end": 90,
+          "expanded_url": "https://x.com/MTong888/status/1969641001531949351/photo/1",
+          "media_key": "3_1969640903116800002",
+          "start": 67,
+          "url": "https://t.co/4wlzwPEcJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990026247578017941",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969641001531949351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MTong888: 🥲🔪#이훈 #suicide_boy #suicideboy #자살소년 #Hooni #cosplay https://t.co/4wlzwPEcJk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990026247578017941].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990026247578017941",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990026247578017941"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969640903116800002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WR9z1bQAIYMt5.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969640903116800002"
+          ]
+        },
+        "author_id": "1905559295238066176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1969641001531949351",
+        "created_at": "2025-09-21T05:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969641001531949351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 2,
+              "tag": "이훈"
+            },
+            {
+              "end": 18,
+              "start": 6,
+              "tag": "suicide_boy"
+            },
+            {
+              "end": 30,
+              "start": 19,
+              "tag": "suicideboy"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "자살소년"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "Hooni"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4wlzwPEcJk",
+              "end": 76,
+              "expanded_url": "https://x.com/MTong888/status/1969641001531949351/photo/1",
+              "media_key": "3_1969640903116800002",
+              "start": 53,
+              "url": "https://t.co/4wlzwPEcJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969641001531949351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5448,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🥲🔪#이훈 #suicide_boy #suicideboy #자살소년 #Hooni #cosplay https://t.co/4wlzwPEcJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 810,
+          "like_count": 3166,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1451
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T09:55:22.000Z",
+        "description": "⚠️图片不要外送到x以外的地方，谢谢。⚠️ 更多的内容可以看：https://t.co/2rtZrcGRT0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ganknow.com/mt%E9%B8%A3%E6…",
+                "end": 54,
+                "expanded_url": "https://ganknow.com/mt%E9%B8%A3%E6%A1%90",
+                "start": 31,
+                "url": "https://t.co/2rtZrcGRT0"
+              }
+            ]
+          }
+        },
+        "id": "1905559295238066176",
+        "location": "Nagoya City Naka Ward, Aichi",
+        "name": "鸣桐",
+        "pinned_tweet_id": "1989970116516483126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960623605961908224/tm7J38uh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3490,
+          "following_count": 134,
+          "like_count": 484,
+          "listed_count": 10,
+          "media_count": 21,
+          "tweet_count": 125
+        },
+        "username": "MTong888",
+        "verified": false
+      }
+    ]
+  }
+}

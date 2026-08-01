@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2021082749273293069",
+    "created_at": "2026-02-10T06:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021104380263432528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021104380263432528",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021082749273293069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 试试去一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2021082749273293069",
+        "created_at": "2026-02-10T06:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021104380263432528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021104380263432528",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021082749273293069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 试试去一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2021082749273293069",
+        "created_at": "2026-02-10T04:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021082749273293069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021082749273293069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抑郁根本是没吃过阿片却要阿片戒断，正如戒断中身体不再分泌内源阿片肽导致任何摩擦都会产生难以忍受的疼痛，抑郁的精神也无法承受任何一点生活中看似无害的摩擦，没有任何止痛技术使用，甚至不如戒断迟早有结束的一天，抑郁绵绵无绝期，现在可以被任何一点困难轻易击溃，我实在不知道这要怎么生活下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 887,
+          "like_count": 3813,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2043
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 118,
+          "like_count": 2070,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 1326
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

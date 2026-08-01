@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1998780374327963947",
+    "created_at": "2025-12-10T16:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T17:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998788774235673084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3267725551",
+          "start": 0,
+          "username": "Franz_la_loi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998788774235673084",
+    "in_reply_to_user_id": "3267725551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998780374327963947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Franz_la_loi 好可爱喔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1998780370397941760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G70YKCmX0AAOT_-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998780374327963947",
+        "created_at": "2025-12-10T16:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T17:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998788774235673084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3267725551",
+              "start": 0,
+              "username": "Franz_la_loi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998788774235673084",
+        "in_reply_to_user_id": "3267725551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998780374327963947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Franz_la_loi 好可爱喔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998780370397941760"
+          ]
+        },
+        "author_id": "3267725551",
+        "conversation_id": "1998780374327963947",
+        "created_at": "2025-12-10T15:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T16:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998780374327963947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Laz7UBbirk",
+              "end": 39,
+              "expanded_url": "https://x.com/Franz_la_loi/status/1998780374327963947/photo/1",
+              "media_key": "3_1998780370397941760",
+              "start": 16,
+              "url": "https://t.co/Laz7UBbirk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998780374327963947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反射！\n\n被许多镜子包围着—— https://t.co/Laz7UBbirk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 848,
+          "like_count": 3400,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-04T03:31:55.000Z",
+        "description": "23岁，正在读博士！喜欢语言与语言学，最近特别是伊比利亚半岛的罗曼语！还喜欢烘焙🍰/烹饪🥘/唱歌/hiphop/古典&拉小提琴🎻/舞台剧！很高兴认识你！🥰",
+        "id": "3267725551",
+        "name": "Calaminus",
+        "pinned_tweet_id": "1996262981311549806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880648506475511808/cAavTv65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 5030,
+          "like_count": 55873,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 2423
+        },
+        "username": "Franz_la_loi",
+        "verified": false
+      }
+    ]
+  }
+}

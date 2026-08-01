@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904855366577635328"
+      ],
+      "media_source_tweet_id": [
+        "1904855369777897752"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1906304755229704634",
+    "created_at": "2025-03-30T11:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906304755229704634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1768265660805828608",
+          "start": 3,
+          "username": "Slow_dancener"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lHv6eJAnBZ",
+          "end": 53,
+          "expanded_url": "https://x.com/Slow_dancener/status/1904855369777897752/photo/1",
+          "media_key": "3_1904855366577635328",
+          "start": 30,
+          "url": "https://t.co/lHv6eJAnBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906304755229704634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904855369777897752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Slow_dancener: 想舔的话 那就跪着吧 https://t.co/lHv6eJAnBZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906304755229704634].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906304755229704634",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906304755229704634"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904855366577635328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9n3RFbQAAi0TL.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904855366577635328"
+          ]
+        },
+        "author_id": "1768265660805828608",
+        "conversation_id": "1904855369777897752",
+        "created_at": "2025-03-26T11:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T12:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904855369777897752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHv6eJAnBZ",
+              "end": 34,
+              "expanded_url": "https://x.com/Slow_dancener/status/1904855369777897752/photo/1",
+              "media_key": "3_1904855366577635328",
+              "start": 11,
+              "url": "https://t.co/lHv6eJAnBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904855369777897752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11198,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想舔的话 那就跪着吧 https://t.co/lHv6eJAnBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 482,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 286
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T13:19:36.000Z",
+        "description": "吃饭睡觉打豆豆，偷偷摸鱼又一宿！",
+        "id": "1768265660805828608",
+        "location": "图包细聊哦！",
+        "name": "Rabbit_benny",
+        "pinned_tweet_id": "1880552853389152290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900585164377587712/NaPwDyaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 369,
+          "like_count": 1110,
+          "listed_count": 5,
+          "media_count": 14,
+          "tweet_count": 451
+        },
+        "username": "Slow_dancener",
+        "verified": false
+      }
+    ]
+  }
+}

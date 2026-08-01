@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1981055659899834662",
+    "created_at": "2025-10-23T08:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T09:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981283842800640498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1893496606890303493",
+          "start": 0,
+          "username": "shinra_2677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981283842800640498",
+    "in_reply_to_user_id": "1893496606890303493",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981263371870883957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinra_2677 🥺🥵😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1981055659899834662",
+        "created_at": "2025-10-23T08:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981283842800640498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1893496606890303493",
+              "start": 0,
+              "username": "shinra_2677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981283842800640498",
+        "in_reply_to_user_id": "1893496606890303493",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981263371870883957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinra_2677 🥺🥵😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893496606890303493",
+        "conversation_id": "1981055659899834662",
+        "created_at": "2025-10-23T07:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T08:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981263371870883957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981263371870883957",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981068329730396410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 嗯？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 760,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1311
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T03:02:35.000Z",
+        "description": "|🔞男同|oc人|没对象|正太控|麻中蓬单推|2X-0.5|超级社恐|不键政|推止于推|熟人可扩列|",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yomogi2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yomogi2",
+                "start": 0,
+                "url": "https://t.co/OmtNYvA5pB"
+              }
+            ]
+          }
+        },
+        "id": "1893496606890303493",
+        "location": "NSFW",
+        "name": "蓬🌴",
+        "pinned_tweet_id": "1970527738898587689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978779264217686017/QxR8_up9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 288,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 208
+        },
+        "url": "https://t.co/OmtNYvA5pB",
+        "username": "shinra_2677",
+        "verified": false
+      }
+    ]
+  }
+}

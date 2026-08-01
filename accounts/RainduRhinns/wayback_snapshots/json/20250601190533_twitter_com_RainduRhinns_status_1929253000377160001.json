@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927978032058486786"
+      ],
+      "media_source_tweet_id": [
+        "1927978039830331621"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1929253000377160001",
+    "created_at": "2025-06-01T19:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929253000377160001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "苏州"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "上海"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "南京"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "线下"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1602019470318239745",
+          "start": 3,
+          "username": "M2000M200Q"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/10UwMesyo1",
+          "end": 108,
+          "expanded_url": "https://x.com/M2000M200Q/status/1927978039830331621/photo/1",
+          "media_key": "3_1927978032058486786",
+          "start": 85,
+          "url": "https://t.co/10UwMesyo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929253000377160001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927978039830331621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @M2000M200Q: #苏州 #上海 #南京 #线下 #男娘 \n胡萝卜的烹饪秘诀就是放进兔子“洞”里大力爆炒，狠狠炒，炒出水就可以喂可爱的小兔子喝牛奶了😍😍😍 https://t.co/10UwMesyo1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929253000377160001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929253000377160001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929253000377160001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1927978032058486786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsGNzieaUAIwZo2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927978032058486786"
+          ]
+        },
+        "author_id": "1602019470318239745",
+        "conversation_id": "1927978039830331621",
+        "created_at": "2025-05-29T06:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927978039830331621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "苏州"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "上海"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "南京"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "线下"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/10UwMesyo1",
+              "end": 92,
+              "expanded_url": "https://x.com/M2000M200Q/status/1927978039830331621/photo/1",
+              "media_key": "3_1927978032058486786",
+              "start": 69,
+              "url": "https://t.co/10UwMesyo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927978039830331621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10615,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#苏州 #上海 #南京 #线下 #男娘 \n胡萝卜的烹饪秘诀就是放进兔子“洞”里大力爆炒，狠狠炒，炒出水就可以喂可爱的小兔子喝牛奶了😍😍😍 https://t.co/10UwMesyo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 554,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 360
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T19:16:32.000Z",
+        "description": "🍡‼️🍥联系方式微信（M2000M200Q）‼️‼️（坐标 #上海  #苏州  #线下 🚪50‼️（接定制涩图.寄拍. #援交 ）。已经成年啦❗️#全国可飞 ✈️｜可玩 #SM ‼️我就是你们的公用rbq\n‼️\n主播QQ群哦‼️（1048816326）‼️\n小号（@xynxynm）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "上海"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "苏州"
+              },
+              {
+                "end": 43,
+                "start": 40,
+                "tag": "线下"
+              },
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "援交"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "全国可飞"
+              },
+              {
+                "end": 88,
+                "start": 85,
+                "tag": "SM"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 140,
+                "start": 132,
+                "username": "xynxynm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/oooo101917",
+                "end": 23,
+                "expanded_url": "https://t.me/oooo101917",
+                "start": 0,
+                "url": "https://t.co/N5jjljF9rQ"
+              }
+            ]
+          }
+        },
+        "id": "1602019470318239745",
+        "location": "无锡，苏州，上海，长三角",
+        "name": "一只猫🍥🍡求互转接SM（苏州上海）",
+        "pinned_tweet_id": "1927299570825834580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763147341077618688/G7aCjulO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5180,
+          "following_count": 301,
+          "like_count": 185,
+          "listed_count": 24,
+          "media_count": 79,
+          "tweet_count": 459
+        },
+        "url": "https://t.co/N5jjljF9rQ",
+        "username": "M2000M200Q",
+        "verified": true
+      }
+    ]
+  }
+}

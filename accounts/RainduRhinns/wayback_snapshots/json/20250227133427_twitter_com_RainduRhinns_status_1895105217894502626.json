@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1891519931696783360"
+      ],
+      "media_source_tweet_id": [
+        "1891519946401665133"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1895105217894502626",
+    "created_at": "2025-02-27T13:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T14:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895105217894502626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891507171986391040",
+          "start": 3,
+          "username": "sukiRtfer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hrEaxFrV92",
+          "end": 50,
+          "expanded_url": "https://x.com/sukiRtfer/status/1891519946401665133/photo/1",
+          "media_key": "3_1891519931696783360",
+          "start": 27,
+          "url": "https://t.co/hrEaxFrV92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895105217894502626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891519946401665133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sukiRtfer: 多希望心声能够跨越距离 https://t.co/hrEaxFrV92"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1895105217894502626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1895105217894502626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1895105217894502626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_1891519931696783360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkAHWy5boAAs8uT.jpg",
+        "width": 1663
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891519931696783360"
+          ]
+        },
+        "author_id": "1891507171986391040",
+        "conversation_id": "1891519946401665133",
+        "created_at": "2025-02-17T16:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T17:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891519946401665133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hrEaxFrV92",
+              "end": 35,
+              "expanded_url": "https://x.com/sukiRtfer/status/1891519946401665133/photo/1",
+              "media_key": "3_1891519931696783360",
+              "start": 12,
+              "url": "https://t.co/hrEaxFrV92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891519946401665133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7436,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "多希望心声能够跨越距离 https://t.co/hrEaxFrV92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 446,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 227
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T15:17:14.000Z",
+        "description": "在校大学生，忽胖忽瘦，心情阴晴不定，荼荼还是那个荼荼，荼荼或许不是那个荼荼",
+        "id": "1891507171986391040",
+        "location": "里昂",
+        "name": "荼荼不是茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891507929528061952/MKFLWCFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 10,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 14
+        },
+        "username": "sukiRtfer",
+        "verified": false
+      }
+    ]
+  }
+}

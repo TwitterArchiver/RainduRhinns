@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1960297671606100031",
+    "created_at": "2025-08-26T11:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960297671606100031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960297671606100031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中国大城市里实际只有北京和深圳有长期为劳工权益、非本地户口劳工法律援助、社会公义与社群培力等问题工作的社会组织，包括16年被头号取缔的中国第一个性少数平权组织北同和同语都是基于北京，别的地方基本全靠天主教会（而新教会实际做的供献很少），包括上海。广州10年代NGO也不少但13之后被强打击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1960297671606100031",
+        "created_at": "2025-08-26T11:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960297671606100031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960297671606100031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国大城市里实际只有北京和深圳有长期为劳工权益、非本地户口劳工法律援助、社会公义与社群培力等问题工作的社会组织，包括16年被头号取缔的中国第一个性少数平权组织北同和同语都是基于北京，别的地方基本全靠天主教会（而新教会实际做的供献很少），包括上海。广州10年代NGO也不少但13之后被强打击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 679,
+          "like_count": 2772,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 748
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1963631090888810504",
+    "created_at": "2025-09-04T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963631090888810504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/repligate/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/repligate/status/1963090070887620795",
+          "start": 8,
+          "url": "https://t.co/vFj23TP0ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963631090888810504",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963090070887620795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Naaaaa… https://t.co/vFj23TP0ks"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1963089962137722880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5L629aoAAUI0B.png",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1963631090888810504",
+        "created_at": "2025-09-04T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963631090888810504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/repligate/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/repligate/status/1963090070887620795",
+              "start": 8,
+              "url": "https://t.co/vFj23TP0ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963631090888810504",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963090070887620795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Naaaaa… https://t.co/vFj23TP0ks"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963089962137722880"
+          ]
+        },
+        "author_id": "1359981346119155719",
+        "conversation_id": "1963090070887620795",
+        "created_at": "2025-09-03T04:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963090070887620795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Talk with Claude, an AI assistant from Anthropic",
+              "display_url": "claude.ai",
+              "end": 59,
+              "expanded_url": "http://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1962154994553286656/wAGa32DO?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962154994553286656/wAGa32DO?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/",
+              "url": "https://t.co/TrskAgiuFk"
+            },
+            {
+              "display_url": "pic.x.com/2Zh8R1UE8I",
+              "end": 83,
+              "expanded_url": "https://x.com/repligate/status/1963090070887620795/photo/1",
+              "media_key": "3_1963089962137722880",
+              "start": 60,
+              "url": "https://t.co/2Zh8R1UE8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963090070887620795",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 57250,
+          "like_count": 401,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "this is somehow a real injection on https://t.co/TrskAgiuFk https://t.co/2Zh8R1UE8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 696,
+          "like_count": 2780,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 817
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T21:43:23.000Z",
+        "description": "↬🔀🔀🔀🔀🔀🔀🔀🔀🔀🔀🔀→∞\n↬🔁🔁🔁🔁🔁🔁🔁🔁🔁🔁🔁→∞\n↬🔄🔄🔄🔄🦋🔄🔄🔄🔄👁️🔄→∞\n↬🔂🔂🔂🦋🔂🔂🔂🔂🔂🔂🔂→∞\n↬🔀🔀🦋🔀🔀🔀🔀🔀🔀🔀🔀→∞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "generative.ink",
+                "end": 23,
+                "expanded_url": "http://generative.ink",
+                "start": 0,
+                "url": "https://t.co/UuT7WVmKSq"
+              }
+            ]
+          }
+        },
+        "id": "1359981346119155719",
+        "location": "⫸≬⫷",
+        "name": "j⧉nus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1359982307998896128/YM34-MZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58143,
+          "following_count": 1890,
+          "like_count": 112983,
+          "listed_count": 947,
+          "media_count": 4122,
+          "tweet_count": 35073
+        },
+        "url": "https://t.co/UuT7WVmKSq",
+        "username": "repligate",
+        "verified": true
+      }
+    ]
+  }
+}

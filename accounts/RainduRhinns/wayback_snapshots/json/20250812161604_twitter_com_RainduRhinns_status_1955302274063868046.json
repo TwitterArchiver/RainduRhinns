@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955300659248631815",
+        "3_1955300659252936704"
+      ],
+      "media_source_tweet_id": [
+        "1955300674276671903",
+        "1955300674276671903"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1955302274063868046",
+    "created_at": "2025-08-12T16:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955302274063868046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1233633055304224768",
+          "start": 3,
+          "username": "yiyang_23"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sWF56kgZKs",
+          "end": 45,
+          "expanded_url": "https://x.com/yiyang_23/status/1955300674276671903/photo/1",
+          "media_key": "3_1955300659248631815",
+          "start": 22,
+          "url": "https://t.co/sWF56kgZKs"
+        },
+        {
+          "display_url": "pic.x.com/sWF56kgZKs",
+          "end": 45,
+          "expanded_url": "https://x.com/yiyang_23/status/1955300674276671903/photo/1",
+          "media_key": "3_1955300659252936704",
+          "start": 22,
+          "url": "https://t.co/sWF56kgZKs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955302274063868046",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955300674276671903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiyang_23: 吃我一jio https://t.co/sWF56kgZKs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955302274063868046].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955302274063868046",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955302274063868046"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1955300659248631815",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKflweaEAcAz5e.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2047,
+        "media_key": "3_1955300659252936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyKflwfbwAAvI-B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955300659248631815",
+            "3_1955300659252936704"
+          ]
+        },
+        "author_id": "1233633055304224768",
+        "conversation_id": "1955300674276671903",
+        "created_at": "2025-08-12T16:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955300674276671903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWF56kgZKs",
+              "end": 30,
+              "expanded_url": "https://x.com/yiyang_23/status/1955300674276671903/photo/1",
+              "media_key": "3_1955300659248631815",
+              "start": 7,
+              "url": "https://t.co/sWF56kgZKs"
+            },
+            {
+              "display_url": "pic.x.com/sWF56kgZKs",
+              "end": 30,
+              "expanded_url": "https://x.com/yiyang_23/status/1955300674276671903/photo/1",
+              "media_key": "3_1955300659252936704",
+              "start": 7,
+              "url": "https://t.co/sWF56kgZKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955300674276671903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吃我一jio https://t.co/sWF56kgZKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 662,
+          "like_count": 2726,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 662
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T06:00:42.000Z",
+        "description": "喜白丝白袜校服🧦恢复健身中；正确的打招呼方式：先发照，谢谢～",
+        "id": "1233633055304224768",
+        "location": "上海宝山",
+        "name": "被窝探险家",
+        "pinned_tweet_id": "1778447367122850115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234682318075224065/gflbKVE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 513,
+          "like_count": 2225,
+          "listed_count": 18,
+          "media_count": 87,
+          "tweet_count": 486
+        },
+        "username": "yiyang_23",
+        "verified": false
+      }
+    ]
+  }
+}

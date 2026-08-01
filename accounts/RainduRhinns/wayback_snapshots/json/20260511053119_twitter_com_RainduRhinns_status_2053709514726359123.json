@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2053709514726359123",
+    "created_at": "2026-05-11T05:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T06:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053709514726359123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2052313022321037312",
+          "start": 3,
+          "username": "NhpxY43417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053709514726359123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053197523985285442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NhpxY43417: 找回关注—猫猫二代目被ban了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2053709514726359123",
+        "created_at": "2026-05-11T05:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T06:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053709514726359123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2052313022321037312",
+              "start": 3,
+              "username": "NhpxY43417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053709514726359123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053197523985285442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NhpxY43417: 找回关注—猫猫二代目被ban了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052313022321037312",
+        "conversation_id": "2053197523985285442",
+        "created_at": "2026-05-09T19:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053197523985285442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053197523985285442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找回关注—猫猫二代目被ban了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 899,
+          "like_count": 4327,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:02:35.000Z",
+        "description": "猫猫二代目大号@xiaciyiding520\n还是耐药王",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 7,
+                "username": "xiaciyiding520"
+              }
+            ]
+          }
+        },
+        "id": "2052313022321037312",
+        "name": "猫猫二代目",
+        "pinned_tweet_id": "2053197523985285442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053192001223606272/JJrL7kxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 31,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "NhpxY43417",
+        "verified": false
+      }
+    ]
+  }
+}

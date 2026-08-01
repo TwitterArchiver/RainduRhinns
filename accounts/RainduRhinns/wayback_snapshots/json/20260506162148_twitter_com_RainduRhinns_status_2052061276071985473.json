@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2052061276071985473",
+    "created_at": "2026-05-06T16:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052061276071985473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052061276071985473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "越发觉得MPT被低估的太多了，虽然没有MiPT那么华丽经典但深度和内在感受有DPT的感觉，视觉又是和DPT的青蓝阴沟相反，伴有MET的清爽暖色视觉但是比MET硬派和深邃的多，强度比冷板凳三兄弟EPT高，他有一些圣殿色彩质感，虽然难进殿但很有层次感像是一直在移动却不是流动的空间穿越，有独特的空间能力质感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2052061276071985473",
+        "created_at": "2026-05-06T16:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052061276071985473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052061276071985473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越发觉得MPT被低估的太多了，虽然没有MiPT那么华丽经典但深度和内在感受有DPT的感觉，视觉又是和DPT的青蓝阴沟相反，伴有MET的清爽暖色视觉但是比MET硬派和深邃的多，强度比冷板凳三兄弟EPT高，他有一些圣殿色彩质感，虽然难进殿但很有层次感像是一直在移动却不是流动的空间穿越，有独特的空间能力质感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 896,
+          "like_count": 4303,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2400
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

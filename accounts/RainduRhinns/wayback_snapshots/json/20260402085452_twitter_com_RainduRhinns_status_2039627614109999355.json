@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2039627611228577935",
+    "created_at": "2026-04-02T08:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039627614109999355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039627614109999355",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039627611228577935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7:本科完全没系统学过递归论或者整个数理逻辑\n8:发现没学过格论和拓扑比7更加可怕\n9:尤于7和8导致过早引入type于是在证明器上搞空中楼阁，通过Proof complexity从计算理论一路学到逻辑哲学最终发现无人在意\n10:意识到TCStrack B不同分支对语法/语义的混用混乱程度堪比Complexity theory 的公理基础"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2039627611228577935",
+        "created_at": "2026-04-02T08:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039627614109999355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039627614109999355",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039627611228577935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7:本科完全没系统学过递归论或者整个数理逻辑\n8:发现没学过格论和拓扑比7更加可怕\n9:尤于7和8导致过早引入type于是在证明器上搞空中楼阁，通过Proof complexity从计算理论一路学到逻辑哲学最终发现无人在意\n10:意识到TCStrack B不同分支对语法/语义的混用混乱程度堪比Complexity theory 的公理基础"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2039627611228577935",
+        "created_at": "2026-04-02T08:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039627611228577935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2039590768793260127",
+              "start": 153,
+              "url": "https://t.co/yKNw61lBuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039627611228577935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039590768793260127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论计算机小孩的基本时代特征：\n1: 认为typed λ-calculus是跳大神的\n2:不知道根岑和怀特海是谁但是知道王垠\n3:认识到需要定义NP而不是指数复杂度是理论炒作，掩盖了本质仍然SAT问题\n4:觉得任何可计算函数都存在语义不动点\n5:但是又因为学组合算法导致喜欢在计算复杂性下界问题上用多项式 https://t.co/yKNw61lBuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 894,
+          "like_count": 4034,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

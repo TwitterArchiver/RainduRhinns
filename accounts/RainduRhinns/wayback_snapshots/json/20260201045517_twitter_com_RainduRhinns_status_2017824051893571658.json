@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2017634106054721864",
+    "created_at": "2026-02-01T04:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T05:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017824051893571658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "488823839",
+          "start": 0,
+          "username": "taikongjile000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017824051893571658",
+    "in_reply_to_user_id": "488823839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017691738903875693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile000 太粗暴了，静注200mg要好一会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2017634106054721864",
+        "created_at": "2026-02-01T04:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017824051893571658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "488823839",
+              "start": 0,
+              "username": "taikongjile000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017824051893571658",
+        "in_reply_to_user_id": "488823839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017691738903875693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile000 太粗暴了，静注200mg要好一会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "488823839",
+        "conversation_id": "2017634106054721864",
+        "created_at": "2026-01-31T20:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T21:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017691738903875693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017691738903875693",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017657546094612848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 不用，用剪刀啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 881,
+          "like_count": 3699,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-10T21:51:18.000Z",
+        "description": "上海市禁毒委托上海司法鉴定中心已对本人多批次产品检验合规。本人不向买家销售不符合当地法律法规的化学品，也没有税务问题，请DEA/FDA/IRS不要在本人身上浪费\n官网：https://t.co/yJOEtw5Bi3\n交流群：https://t.co/kaCNpFerhN\n备用号：@taikongjile001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "taikongjile001"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 107,
+                "expanded_url": "https://taikong.mom/",
+                "start": 84,
+                "url": "https://t.co/yJOEtw5Bi3"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 135,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 112,
+                "url": "https://t.co/kaCNpFerhN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/yJOEtw5Bi3"
+              }
+            ]
+          }
+        },
+        "id": "488823839",
+        "location": "天国",
+        "name": "太空极乐百科",
+        "pinned_tweet_id": "2017190056562422104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015653690779271168/3qPtJUOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 198,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/yJOEtw5Bi3",
+        "username": "taikongjile000",
+        "verified": false
+      }
+    ]
+  }
+}

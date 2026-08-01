@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903941978036875264"
+      ],
+      "media_source_tweet_id": [
+        "1903941981979783588"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1940256390725108030",
+    "created_at": "2025-07-02T03:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T04:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940256390725108030"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "少年"
+        },
+        {
+          "end": 33,
+          "start": 30,
+          "tag": "正太"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "玩具"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "自慰"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "肛交"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "屁股"
+        },
+        {
+          "end": 57,
+          "start": 53,
+          "tag": "内裤男"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "光脚"
+        },
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "瑟瑟"
+        },
+        {
+          "end": 68,
+          "start": 66,
+          "tag": "裸"
+        },
+        {
+          "end": 77,
+          "start": 70,
+          "tag": "Chudai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1782181491122053120",
+          "start": 3,
+          "username": "2831216698Susu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zihuLN7EqJ",
+          "end": 101,
+          "expanded_url": "https://x.com/2831216698Susu/status/1903941981979783588/photo/1",
+          "media_key": "3_1903941978036875264",
+          "start": 78,
+          "url": "https://t.co/zihuLN7EqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940256390725108030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903941981979783588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2831216698Susu: 标签大王～\n#少年 #正太 #玩具  #自慰  #肛交 #屁股  #内裤男 #光脚 #瑟瑟 #裸  #Chudai https://t.co/zihuLN7EqJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940256390725108030].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940256390725108030",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940256390725108030"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2100,
+        "media_key": "3_1903941978036875264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmwpJDnXsAAWRTG.jpg",
+        "width": 1868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903941978036875264"
+          ]
+        },
+        "author_id": "1782181491122053120",
+        "conversation_id": "1903941981979783588",
+        "created_at": "2025-03-23T22:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T23:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903941981979783588"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "少年"
+            },
+            {
+              "end": 13,
+              "start": 10,
+              "tag": "正太"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "玩具"
+            },
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "自慰"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "肛交"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "屁股"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "内裤男"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "光脚"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "瑟瑟"
+            },
+            {
+              "end": 48,
+              "start": 46,
+              "tag": "裸"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "Chudai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zihuLN7EqJ",
+              "end": 81,
+              "expanded_url": "https://x.com/2831216698Susu/status/1903941981979783588/photo/1",
+              "media_key": "3_1903941978036875264",
+              "start": 58,
+              "url": "https://t.co/zihuLN7EqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903941981979783588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 26326,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "标签大王～\n#少年 #正太 #玩具  #自慰  #肛交 #屁股  #内裤男 #光脚 #瑟瑟 #裸  #Chudai https://t.co/zihuLN7EqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "唯有你的爱能缓解我的悲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 596,
+          "like_count": 2330,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 363
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:56:07.000Z",
+        "description": "没错是9cm  @susu9cm 🚪10",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "susu9cm"
+              }
+            ]
+          }
+        },
+        "id": "1782181491122053120",
+        "location": "Singapore",
+        "name": "是小土豆不是正太",
+        "pinned_tweet_id": "1817717346385162460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816628926367801344/t_7W6leb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3690,
+          "following_count": 2068,
+          "like_count": 13069,
+          "listed_count": 11,
+          "media_count": 57,
+          "tweet_count": 114
+        },
+        "username": "2831216698Susu",
+        "verified": false
+      }
+    ]
+  }
+}

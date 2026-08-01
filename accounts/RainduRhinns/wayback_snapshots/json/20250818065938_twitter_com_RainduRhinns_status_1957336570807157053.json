@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956577210359521280",
+        "3_1956577210284072960"
+      ],
+      "media_source_tweet_id": [
+        "1956577216919228902",
+        "1956577216919228902"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1957336570807157053",
+    "created_at": "2025-08-18T06:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T07:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957336570807157053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920557377801338880",
+          "start": 3,
+          "username": "ikuru_kuru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zk2qp7CEZD",
+          "end": 43,
+          "expanded_url": "https://x.com/ikuru_kuru/status/1956577216919228902/photo/1",
+          "media_key": "3_1956577210359521280",
+          "start": 20,
+          "url": "https://t.co/zk2qp7CEZD"
+        },
+        {
+          "display_url": "pic.x.com/zk2qp7CEZD",
+          "end": 43,
+          "expanded_url": "https://x.com/ikuru_kuru/status/1956577216919228902/photo/1",
+          "media_key": "3_1956577210284072960",
+          "start": 20,
+          "url": "https://t.co/zk2qp7CEZD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957336570807157053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956577216919228902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuru_kuru: おはよ https://t.co/zk2qp7CEZD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957336570807157053].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957336570807157053",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957336570807157053"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_1956577210359521280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gycomz8aoAABuvB.jpg",
+        "width": 2100
+      },
+      {
+        "height": 2301,
+        "media_key": "3_1956577210284072960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycomzqbYAARsku.jpg",
+        "width": 2100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956577210359521280",
+            "3_1956577210284072960"
+          ]
+        },
+        "author_id": "1920557377801338880",
+        "conversation_id": "1956577216919228902",
+        "created_at": "2025-08-16T04:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956577216919228902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zk2qp7CEZD",
+              "end": 27,
+              "expanded_url": "https://x.com/ikuru_kuru/status/1956577216919228902/photo/1",
+              "media_key": "3_1956577210359521280",
+              "start": 4,
+              "url": "https://t.co/zk2qp7CEZD"
+            },
+            {
+              "display_url": "pic.x.com/zk2qp7CEZD",
+              "end": 27,
+              "expanded_url": "https://x.com/ikuru_kuru/status/1956577216919228902/photo/1",
+              "media_key": "3_1956577210284072960",
+              "start": 4,
+              "url": "https://t.co/zk2qp7CEZD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956577216919228902",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 6013,
+          "like_count": 476,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "おはよ https://t.co/zk2qp7CEZD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 664,
+          "like_count": 2759,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 688
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T19:12:24.000Z",
+        "description": "20代♂ / ⚠︎NSFWあります⚠︎ / 自撮り / https://t.co/CzgxkEsAGX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "myfans.jp/ikuru",
+                "end": 51,
+                "expanded_url": "https://myfans.jp/ikuru",
+                "start": 28,
+                "url": "https://t.co/CzgxkEsAGX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/28WR6B0KS9DQM?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/KY61LMRxSl"
+              }
+            ]
+          }
+        },
+        "id": "1920557377801338880",
+        "location": "Tokyo",
+        "name": "いくる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933119724990365696/jh5Sj_Bg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6914,
+          "following_count": 120,
+          "like_count": 17250,
+          "listed_count": 20,
+          "media_count": 91,
+          "tweet_count": 1181
+        },
+        "url": "https://t.co/KY61LMRxSl",
+        "username": "ikuru_kuru",
+        "verified": false
+      }
+    ]
+  }
+}

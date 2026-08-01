@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877405680682123264"
+      ],
+      "media_source_tweet_id": [
+        "1877405683554955594"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1892973657862930572",
+    "created_at": "2025-02-21T16:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T17:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892973657862930572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1726048388217544704",
+          "start": 3,
+          "username": "pokersleep2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UQ0McIoP5s",
+          "end": 48,
+          "expanded_url": "https://x.com/pokersleep2/status/1877405683554955594/photo/1",
+          "media_key": "3_1877405680682123264",
+          "start": 25,
+          "url": "https://t.co/UQ0McIoP5s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892973657862930572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877405683554955594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pokersleep2: 扣1借你埋一下 https://t.co/UQ0McIoP5s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1892973657862930572].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1892973657862930572",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1892973657862930572"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1770,
+        "media_key": "3_1877405680682123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg3ihQhbwAAfXFS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877405680682123264"
+          ]
+        },
+        "author_id": "1726048388217544704",
+        "conversation_id": "1877405683554955594",
+        "created_at": "2025-01-09T17:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T18:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877405683554955594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQ0McIoP5s",
+              "end": 31,
+              "expanded_url": "https://x.com/pokersleep2/status/1877405683554955594/photo/1",
+              "media_key": "3_1877405680682123264",
+              "start": 8,
+              "url": "https://t.co/UQ0McIoP5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877405683554955594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7133,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "扣1借你埋一下 https://t.co/UQ0McIoP5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot 男德用户！",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 425,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 187
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-19T01:24:26.000Z",
+        "description": "生理性别男性  推文随机出现🔞内容，大部分会标记\n合法正太/少年推  永远十六岁",
+        "id": "1726048388217544704",
+        "name": "扑克睡不醒",
+        "pinned_tweet_id": "1890575240536674804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858540403974348801/UkeKD9Qr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3603,
+          "following_count": 122,
+          "like_count": 191,
+          "listed_count": 8,
+          "media_count": 101,
+          "tweet_count": 425
+        },
+        "username": "pokersleep2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2016847143382950335",
+    "created_at": "2026-01-29T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016847143382950335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chronic_clinic…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/chronic_clinic_/status/2016498897104109692",
+          "start": 95,
+          "url": "https://t.co/Orrtf0gpxU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016847143382950335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016498897104109692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来去年网络安全圈还有人假冒cicada3301搞勒索，结果搞的还传出蝉复活的消息（当然最后发出那本充满古代神秘学内容的Rune符文书后大多数搞密码的就退出了），也是中二病的双向奔赴了… https://t.co/Orrtf0gpxU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1065,
+        "media_key": "3_2016498893144645632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wLDzfa4AAlGDv.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2016847143382950335",
+        "created_at": "2026-01-29T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016847143382950335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chronic_clinic…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/chronic_clinic_/status/2016498897104109692",
+              "start": 95,
+              "url": "https://t.co/Orrtf0gpxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016847143382950335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016498897104109692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来去年网络安全圈还有人假冒cicada3301搞勒索，结果搞的还传出蝉复活的消息（当然最后发出那本充满古代神秘学内容的Rune符文书后大多数搞密码的就退出了），也是中二病的双向奔赴了… https://t.co/Orrtf0gpxU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016498893144645632"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "conversation_id": "2016498897104109692",
+        "created_at": "2026-01-28T13:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016498897104109692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1vxCtgrmC",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2016498897104109692/photo/1",
+              "media_key": "3_2016498893144645632",
+              "start": 0,
+              "url": "https://t.co/M1vxCtgrmC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016498897104109692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2098,
+          "impression_count": 421989,
+          "like_count": 25245,
+          "quote_count": 381,
+          "reply_count": 104,
+          "retweet_count": 3025
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/M1vxCtgrmC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 880,
+          "like_count": 3689,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19090,
+          "following_count": 1,
+          "like_count": 7159,
+          "listed_count": 59,
+          "media_count": 7788,
+          "tweet_count": 7836
+        },
+        "username": "chronic_clinic_",
+        "verified": false
+      }
+    ]
+  }
+}

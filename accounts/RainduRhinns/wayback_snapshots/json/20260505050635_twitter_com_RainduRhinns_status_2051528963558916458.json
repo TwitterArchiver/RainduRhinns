@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2051052308322988492",
+    "created_at": "2026-05-05T05:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T06:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051528963558916458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        },
+        {
+          "end": 25,
+          "id": "1106987880566513664",
+          "start": 15,
+          "username": "gaystaipo"
+        },
+        {
+          "end": 41,
+          "id": "2044073101961412609",
+          "start": 26,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051528963558916458",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051192237762220265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 @gaystaipo @crow_kill_snow 是的3MeOPCPy的兴奋剂刺激性明显 考虑到3HOPCP也被称为兴奋剂pcpy类也完全可以被称为兴奋剂 PCPy类的单胺再摄取转运蛋白高亲和都会体感欣快追逐明显 且这个对DATNETSERT的亲和比对NMDAR的亲和是接近或更高的，体感往往是类似甲氧苄啶的兴奋刺激在先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2051052308322988492",
+        "created_at": "2026-05-05T05:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T06:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051528963558916458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            },
+            {
+              "end": 25,
+              "id": "1106987880566513664",
+              "start": 15,
+              "username": "gaystaipo"
+            },
+            {
+              "end": 41,
+              "id": "2044073101961412609",
+              "start": 26,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051528963558916458",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051192237762220265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 @gaystaipo @crow_kill_snow 是的3MeOPCPy的兴奋剂刺激性明显 考虑到3HOPCP也被称为兴奋剂pcpy类也完全可以被称为兴奋剂 PCPy类的单胺再摄取转运蛋白高亲和都会体感欣快追逐明显 且这个对DATNETSERT的亲和比对NMDAR的亲和是接近或更高的，体感往往是类似甲氧苄啶的兴奋刺激在先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051052308322988492",
+        "created_at": "2026-05-04T06:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051192237762220265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106987880566513664",
+              "start": 0,
+              "username": "gaystaipo"
+            },
+            {
+              "end": 26,
+              "id": "2044073101961412609",
+              "start": 11,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051192237762220265",
+        "in_reply_to_user_id": "1106987880566513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051058555776860397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaystaipo @crow_kill_snow 我吃着似乎确实是兴奋先上？然后是兴奋和解离并存，后续吃了点可乐定解离才慢慢占据上风🤔不过我对ne很敏感，可能是兴奋劲太大了把解离感盖过去了，因为大多数时间我都有解离的体感但没多少认知上的感受，，😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 892,
+          "like_count": 4267,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2381
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 318,
+          "like_count": 899,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "End the war on drugs！药物文化研究，提供成瘾问题咨询和支持！与安全用药知识，免费私信！药物是政治的。DJ/制作人，药物与音乐文化研究，身体政治！情欲痴迷！",
+        "id": "1106987880566513664",
+        "location": "Guangzhou",
+        "name": "^_^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039696797229309952/Umb6t3KJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 834,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 437
+        },
+        "username": "gaystaipo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peckylarding",
+                "end": 23,
+                "expanded_url": "http://t.me/Peckylarding",
+                "start": 0,
+                "url": "https://t.co/D0VrWOdaPF"
+              }
+            ]
+          }
+        },
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 182,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/D0VrWOdaPF",
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

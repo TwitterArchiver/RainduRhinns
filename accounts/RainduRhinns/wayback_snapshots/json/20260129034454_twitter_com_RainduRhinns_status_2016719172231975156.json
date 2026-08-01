@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2016719172231975156",
+    "created_at": "2026-01-29T03:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T04:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "entities": {
+      "annotations": [
+        {
+          "end": 5,
+          "normalized_text": "LSD",
+          "probability": 0.7245,
+          "start": 3,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "163cn.tv/0tXvkPr",
+          "end": 45,
+          "expanded_url": "https://163cn.tv/0tXvkPr",
+          "start": 22,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/playlist?app_version=9.4.50&id=14340675447&userid=534677720&dlt=0846&creatorId=534677720",
+          "url": "https://t.co/E2zBUvtGxg"
+        },
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/raindurhinns/status/2016476806346613064",
+          "start": 46,
+          "url": "https://t.co/FNepYmNV6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016719172231975156",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016476806346613064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "My LSD Travel Partner https://t.co/E2zBUvtGxg https://t.co/FNepYmNV6S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2016476806346613064",
+        "created_at": "2026-01-28T11:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016476806346613064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1589,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了个致幻剂旅行歌单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 881,
+          "like_count": 3688,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

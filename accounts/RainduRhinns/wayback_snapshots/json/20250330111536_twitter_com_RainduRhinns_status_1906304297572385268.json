@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904841807122616320",
+        "3_1904841807827263489"
+      ],
+      "media_source_tweet_id": [
+        "1904841820011634882",
+        "1904841820011634882"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1906304297572385268",
+    "created_at": "2025-03-30T11:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906304297572385268"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "提纳里"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "正太"
+        },
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "小男孩"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1902401708799750148",
+          "start": 3,
+          "username": "ximianQwQ"
+        },
+        {
+          "end": 25,
+          "id": "1643350661122105344",
+          "start": 16,
+          "username": "Mikueeen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2gijRWiIf",
+          "end": 76,
+          "expanded_url": "https://x.com/ximianQwQ/status/1904841820011634882/photo/1",
+          "media_key": "3_1904841807122616320",
+          "start": 53,
+          "url": "https://t.co/s2gijRWiIf"
+        },
+        {
+          "display_url": "pic.x.com/s2gijRWiIf",
+          "end": 76,
+          "expanded_url": "https://x.com/ximianQwQ/status/1904841820011634882/photo/1",
+          "media_key": "3_1904841807827263489",
+          "start": 53,
+          "url": "https://t.co/s2gijRWiIf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906304297572385268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904841820011634882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ximianQwQ: 对@Mikueeen 老师拙劣的模仿，侵删致歉\n#提纳里 #正太 #小男孩 https://t.co/s2gijRWiIf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1906304297572385268].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1906304297572385268",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906304297572385268"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904841807122616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9biALbUAAmPCi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1904841807827263489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm9biCzbYAEnsSi.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904841807122616320",
+            "3_1904841807827263489"
+          ]
+        },
+        "author_id": "1902401708799750148",
+        "conversation_id": "1904841820011634882",
+        "created_at": "2025-03-26T10:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T11:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904841820011634882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "提纳里"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "正太"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "小男孩"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643350661122105344",
+              "start": 1,
+              "username": "Mikueeen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2gijRWiIf",
+              "end": 61,
+              "expanded_url": "https://x.com/ximianQwQ/status/1904841820011634882/photo/1",
+              "media_key": "3_1904841807122616320",
+              "start": 38,
+              "url": "https://t.co/s2gijRWiIf"
+            },
+            {
+              "display_url": "pic.x.com/s2gijRWiIf",
+              "end": 61,
+              "expanded_url": "https://x.com/ximianQwQ/status/1904841820011634882/photo/1",
+              "media_key": "3_1904841807827263489",
+              "start": 38,
+              "url": "https://t.co/s2gijRWiIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904841820011634882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 9304,
+          "like_count": 247,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "对@Mikueeen 老师拙劣的模仿，侵删致歉\n#提纳里 #正太 #小男孩 https://t.co/s2gijRWiIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 481,
+          "like_count": 1736,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 283
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T16:48:16.000Z",
+        "description": "“信仰污堕的预言家”\n 说大白话就是搞点r18\n 擦点小边的卦师而已\n🚪88\n 不线下不聊骚不月抛\n 单纯烧得慌没地发）\n 影分身@ximianSama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "ximianSama"
+              }
+            ]
+          }
+        },
+        "id": "1902401708799750148",
+        "location": "香港",
+        "name": "小绵失礼辣",
+        "pinned_tweet_id": "1905850113580478916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902401886764097536/umvP5Vnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 69,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 25
+        },
+        "username": "ximianQwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T20:32:04.000Z",
+        "description": "这里是一个画画的小透明，喜欢玩原神，喜欢五郎，这里主要更新自己的画作，偶尔随机涩涩，敬请期待！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19457923",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/19457923",
+                "start": 0,
+                "url": "https://t.co/r3MEDRs469"
+              }
+            ]
+          }
+        },
+        "id": "1643350661122105344",
+        "location": "Chengdu  China",
+        "name": "Mikueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681270084428529665/RYeS62M6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 5,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/r3MEDRs469",
+        "username": "Mikueeen",
+        "verified": false
+      }
+    ]
+  }
+}

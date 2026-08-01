@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895761342671306752"
+      ],
+      "media_source_tweet_id": [
+        "1895761344684785761"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1896118239845027844",
+    "created_at": "2025-03-02T08:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T09:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896118239845027844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 49,
+          "tag": "MyFemboyNiChan"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342088250484117504",
+          "start": 3,
+          "username": "kakowara365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g2D80KCvjr",
+          "end": 88,
+          "expanded_url": "https://x.com/kakowara365/status/1895761344684785761/photo/1",
+          "media_key": "3_1895761342671306752",
+          "start": 65,
+          "url": "https://t.co/g2D80KCvjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896118239845027844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895761344684785761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakowara365: 兄「今日は暖かいね」\n弟「ここまで堂々と撮影するとむしろ自然」\n#MyFemboyNiChan https://t.co/g2D80KCvjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_1895761342671306752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8Y5aDXQAASejk.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895761342671306752"
+          ],
+          "media_source_tweet_id": [
+            "1895761344684785761"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1896118239845027844",
+        "created_at": "2025-03-02T08:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896118239845027844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 49,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342088250484117504",
+              "start": 3,
+              "username": "kakowara365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2D80KCvjr",
+              "end": 88,
+              "expanded_url": "https://x.com/kakowara365/status/1895761344684785761/photo/1",
+              "media_key": "3_1895761342671306752",
+              "start": 65,
+              "url": "https://t.co/g2D80KCvjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896118239845027844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895761344684785761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakowara365: 兄「今日は暖かいね」\n弟「ここまで堂々と撮影するとむしろ自然」\n#MyFemboyNiChan https://t.co/g2D80KCvjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895761342671306752"
+          ]
+        },
+        "author_id": "1342088250484117504",
+        "conversation_id": "1895761344684785761",
+        "created_at": "2025-03-01T09:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895761344684785761"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2D80KCvjr",
+              "end": 71,
+              "expanded_url": "https://x.com/kakowara365/status/1895761344684785761/photo/1",
+              "media_key": "3_1895761342671306752",
+              "start": 48,
+              "url": "https://t.co/g2D80KCvjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895761344684785761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 6001,
+          "like_count": 585,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "兄「今日は暖かいね」\n弟「ここまで堂々と撮影するとむしろ自然」\n#MyFemboyNiChan https://t.co/g2D80KCvjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 452,
+          "like_count": 1564,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 243
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T12:42:37.000Z",
+        "description": "AIイラストでオリキャラを作って遊ぶ垢🌈 \n陰キャ女装男子にーちゃん ▶  #MyFemboyNiChan ▶Fan art:  #NiChanFanArt | Please include  @kakowara365  in your profile if you use my image as an icon.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 38,
+                "tag": "MyFemboyNiChan"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "tag": "NiChanFanArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "kakowara365"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kakowara",
+                "end": 23,
+                "expanded_url": "https://lit.link/kakowara",
+                "start": 0,
+                "url": "https://t.co/qvRdVdoTAx"
+              }
+            ]
+          }
+        },
+        "id": "1342088250484117504",
+        "location": "Japan",
+        "name": "Kakko🌸",
+        "pinned_tweet_id": "1895447046150353214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893800918702833664/E0bf2rnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45761,
+          "following_count": 1299,
+          "like_count": 56217,
+          "listed_count": 209,
+          "media_count": 2141,
+          "tweet_count": 12909
+        },
+        "url": "https://t.co/qvRdVdoTAx",
+        "username": "kakowara365",
+        "verified": true
+      }
+    ]
+  }
+}

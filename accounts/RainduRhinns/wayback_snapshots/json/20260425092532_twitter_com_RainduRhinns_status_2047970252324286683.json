@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2047621724775256507",
+    "created_at": "2026-04-25T09:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047970252324286683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047970252324286683",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047621724775256507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem 没有必要从生物还原论模型的角度谈论因为也作为不了统计因果解释，就现在fMRI技术对人脑奖赏回路和神经可塑性的底层机制研究还都是盲人摸象阶段 能提出无数这样的局部机制解释 现实中接触到的各种激素生化污染乃至微塑料都比这个严重和明确多了 成瘾研究实践中很大一部分是属于社会和心理的 成因也复杂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2047621724775256507",
+        "created_at": "2026-04-25T09:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047970252324286683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047970252324286683",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047621724775256507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem 没有必要从生物还原论模型的角度谈论因为也作为不了统计因果解释，就现在fMRI技术对人脑奖赏回路和神经可塑性的底层机制研究还都是盲人摸象阶段 能提出无数这样的局部机制解释 现实中接触到的各种激素生化污染乃至微塑料都比这个严重和明确多了 成瘾研究实践中很大一部分是属于社会和心理的 成因也复杂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2047621724775256507",
+        "created_at": "2026-04-24T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047621724775256507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vvni_/status/…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/_vvni_/status/2047612127985258975",
+              "start": 112,
+              "url": "https://t.co/kbxc6nFdoX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047621724775256507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 119196,
+          "like_count": 720,
+          "quote_count": 13,
+          "reply_count": 57,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047612127985258975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "未成年人的大脑没有发育完全，如果他们前额叶、前扣带没有发育的时候有Porn addiction会永久性改变他们大脑的奖励通路\n\n他们成年以后会有更难的冲动控制、难以长时间保持注意力、对于需要无法即时满足与反馈的任务更难完成 https://t.co/kbxc6nFdoX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 893,
+          "like_count": 4192,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "中國政治犯(CPPC编号：01154）｜反社會人格｜毫无同理心｜厭蠢症｜武士道｜☯️🧬無極的经理皆创始人｜ADHD",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽 AKA 葉經理",
+        "pinned_tweet_id": "2046977183034519644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606935378767872/Ux18SO6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 75,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 332
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

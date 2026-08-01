@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2008071534313914849",
+    "created_at": "2026-01-05T09:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T10:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008116256545853629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 25,
+          "id": "1912109703133646848",
+          "start": 14,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 42,
+          "id": "1456231777224347651",
+          "start": 26,
+          "username": "dDguwkiRkZcCSrt"
+        },
+        {
+          "end": 53,
+          "id": "1986837441874173955",
+          "start": 43,
+          "username": "pepeiii66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008116256545853629",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008075480893727152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @jzm1919810 @dDguwkiRkZcCSrt @pepeiii66 我一直在说喹硫平是最应该被抵制长期使用的药"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008075480893727152].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008075480893727152",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008075480893727152"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2008071534313914849",
+        "created_at": "2026-01-05T09:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T10:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008116256545853629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 25,
+              "id": "1912109703133646848",
+              "start": 14,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 42,
+              "id": "1456231777224347651",
+              "start": 26,
+              "username": "dDguwkiRkZcCSrt"
+            },
+            {
+              "end": 53,
+              "id": "1986837441874173955",
+              "start": 43,
+              "username": "pepeiii66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008116256545853629",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008075480893727152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @jzm1919810 @dDguwkiRkZcCSrt @pepeiii66 我一直在说喹硫平是最应该被抵制长期使用的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 872,
+          "like_count": 3660,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "鼠鼠/橙子/植物\nHRT：2025.8.28。\n妹妹 @shsh548866丨Astra｜主人@zqtlovekris99丨🐱@psych_angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "shsh548866"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2007658953610801650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999057878196322305/spCDL_E1_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 980,
+          "like_count": 15244,
+          "listed_count": 5,
+          "media_count": 297,
+          "tweet_count": 7720
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "瞳逸らさないで 大きく手を伸ばす 雪解けを待ってる\nsignal nanacan.58   注册signal不收费，大家都来用它，让sb杜洛夫爬爬",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 204,
+          "like_count": 338,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1426
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "江湖有缘再见",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1971865828070248539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 71,
+          "like_count": 3787,
+          "listed_count": 0,
+          "media_count": 718,
+          "tweet_count": 9935
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:45:48.000Z",
+        "description": "你不是一片连月亮也厌恶的墓地",
+        "id": "1986837441874173955",
+        "location": "✉️",
+        "name": "Seraphina",
+        "pinned_tweet_id": "1994764842704699839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996705689427988480/ZQk98GYj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 57,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 107
+        },
+        "username": "pepeiii66",
+        "verified": false
+      }
+    ]
+  }
+}

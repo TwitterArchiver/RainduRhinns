@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949000706620620800"
+      ],
+      "media_source_tweet_id": [
+        "1949000716468572199"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1949522736931295555",
+    "created_at": "2025-07-27T17:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949522736931295555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1538348090511527938",
+          "start": 3,
+          "username": "_ridethedragon_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3j74TxX5LB",
+          "end": 71,
+          "expanded_url": "https://x.com/_ridethedragon_/status/1949000716468572199/photo/1",
+          "media_key": "3_1949000706620620800",
+          "start": 48,
+          "url": "https://t.co/3j74TxX5LB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949522736931295555",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949000716468572199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ridethedragon_: 🎶𝒅𝒂𝒓𝒍𝒊𝒏𝒈 𝒉𝒐𝒍𝒅 𝒎𝒚 𝒉𝒂𝒏𝒅🎶🗣️🗣️ https://t.co/3j74TxX5LB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1949522736931295555].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1949522736931295555",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1949522736931295555"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1949000706620620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gww90QEbgAAh-7Z.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949000706620620800"
+          ]
+        },
+        "author_id": "1538348090511527938",
+        "conversation_id": "1949000716468572199",
+        "created_at": "2025-07-26T06:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T07:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949000716468572199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3j74TxX5LB",
+              "end": 50,
+              "expanded_url": "https://x.com/_ridethedragon_/status/1949000716468572199/photo/1",
+              "media_key": "3_1949000706620620800",
+              "start": 27,
+              "url": "https://t.co/3j74TxX5LB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949000716468572199",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 2335,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🎶𝒅𝒂𝒓𝒍𝒊𝒏𝒈 𝒉𝒐𝒍𝒅 𝒎𝒚 𝒉𝒂𝒏𝒅🎶🗣️🗣️ https://t.co/3j74TxX5LB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 636,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 478
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T02:31:37.000Z",
+        "description": "Godspeed, godspeed. ‖ @beebabuki gives me butterflies🦋 ‖ they/them, 中文○Eng○",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "beebabuki"
+              }
+            ]
+          }
+        },
+        "id": "1538348090511527938",
+        "name": "scarlet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543796637687898112/87TcU0tA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 152,
+          "like_count": 1073,
+          "listed_count": 7,
+          "media_count": 73,
+          "tweet_count": 236
+        },
+        "username": "_ridethedragon_",
+        "verified": false
+      }
+    ]
+  }
+}

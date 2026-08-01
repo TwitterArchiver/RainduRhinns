@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1968566188675395744",
+    "created_at": "2025-09-18T07:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968576603555791282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968576603555791282",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968570731827986844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 本质超雄国男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1968566188675395744",
+        "created_at": "2025-09-18T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968576603555791282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968576603555791282",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968570731827986844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 本质超雄国男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1968566188675395744",
+        "created_at": "2025-09-18T07:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968570731827986844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968570731827986844",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968566188675395744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 你咋吃啥都想打架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 722,
+          "like_count": 2837,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 941
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby，HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "odtwt"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 434,
+          "like_count": 7024,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 2658
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

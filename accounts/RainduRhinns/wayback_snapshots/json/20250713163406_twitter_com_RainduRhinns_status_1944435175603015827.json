@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1944435175603015827",
+    "created_at": "2025-07-13T16:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T17:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944435175603015827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1944425576120426565",
+          "start": 150,
+          "url": "https://t.co/xDdQygPxrv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944435175603015827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944425576120426565",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "LSD能如此高比例让非联觉者产生联觉和躯体化效果这简直是神经科学意识理论中具身认知说的重要利好证据，但相关研究远比想象中少。随着NMDA拮抗剂和2a相关重新被批准认为可以做抗抑郁和帕金森药于是顺便研究如何开发不致幻的2A激动，这才让2A内部致幻效果的真正核心机制 Gq结合形成 π-π 堆积被揭示。 https://t.co/xDdQygPxrv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1944435175603015827",
+        "created_at": "2025-07-13T16:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T17:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944435175603015827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1944425576120426565",
+              "start": 150,
+              "url": "https://t.co/xDdQygPxrv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944435175603015827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944425576120426565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "LSD能如此高比例让非联觉者产生联觉和躯体化效果这简直是神经科学意识理论中具身认知说的重要利好证据，但相关研究远比想象中少。随着NMDA拮抗剂和2a相关重新被批准认为可以做抗抑郁和帕金森药于是顺便研究如何开发不致幻的2A激动，这才让2A内部致幻效果的真正核心机制 Gq结合形成 π-π 堆积被揭示。 https://t.co/xDdQygPxrv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1944425576120426565",
+        "created_at": "2025-07-13T15:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T16:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944425576120426565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944425576120426565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LSD的5HT2A激动和触觉空间联觉强相关都知道50年了就是没有不同水平的联觉者和先天/后天触觉损伤用LSD的比较研究和计算神经科学方法研究，也没有LSD对天生绝对音感和律感联想的实验研究，唯一有的是对先天盲使用LSD的研究，但也没有对先天盲/后天盲/心盲症的比较研究和成数据集的研究。人类在干什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 616,
+          "like_count": 2458,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 407
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

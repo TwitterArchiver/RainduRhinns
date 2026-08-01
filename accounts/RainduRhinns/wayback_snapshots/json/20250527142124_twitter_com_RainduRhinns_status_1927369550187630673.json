@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926980149599182848",
+        "3_1926980149750214656"
+      ],
+      "media_source_tweet_id": [
+        "1926980153638260776",
+        "1926980153638260776"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1927369550187630673",
+    "created_at": "2025-05-27T14:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T15:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927369550187630673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3107564622",
+          "start": 3,
+          "username": "GUANGconon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MHZFvd3GyM",
+          "end": 47,
+          "expanded_url": "https://x.com/GUANGconon/status/1926980153638260776/photo/1",
+          "media_key": "3_1926980149599182848",
+          "start": 24,
+          "url": "https://t.co/MHZFvd3GyM"
+        },
+        {
+          "display_url": "pic.x.com/MHZFvd3GyM",
+          "end": 47,
+          "expanded_url": "https://x.com/GUANGconon/status/1926980153638260776/photo/1",
+          "media_key": "3_1926980149750214656",
+          "start": 24,
+          "url": "https://t.co/MHZFvd3GyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927369550187630673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926980153638260776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GUANGconon: 蓝白最好看了x https://t.co/MHZFvd3GyM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927369550187630673].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927369550187630673",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927369550187630673"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926980149599182848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4CPIoWoAAJBVe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926980149750214656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4CPJMXMAAp1Jc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926980149599182848",
+            "3_1926980149750214656"
+          ]
+        },
+        "author_id": "3107564622",
+        "conversation_id": "1926980153638260776",
+        "created_at": "2025-05-26T12:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T13:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926980153638260776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHZFvd3GyM",
+              "end": 31,
+              "expanded_url": "https://x.com/GUANGconon/status/1926980153638260776/photo/1",
+              "media_key": "3_1926980149599182848",
+              "start": 8,
+              "url": "https://t.co/MHZFvd3GyM"
+            },
+            {
+              "display_url": "pic.x.com/MHZFvd3GyM",
+              "end": 31,
+              "expanded_url": "https://x.com/GUANGconon/status/1926980153638260776/photo/1",
+              "media_key": "3_1926980149750214656",
+              "start": 8,
+              "url": "https://t.co/MHZFvd3GyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926980153638260776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4518,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "蓝白最好看了x https://t.co/MHZFvd3GyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 547,
+          "like_count": 2233,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 354
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-25T15:16:56.000Z",
+        "description": "广东 这里是呆萌的棋子一枚😀 偶尔随性画画.jpg\nP站：https://t.co/qLswbdlYvc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3329873",
+                "end": 52,
+                "expanded_url": "https://www.pixiv.net/users/3329873",
+                "start": 29,
+                "url": "https://t.co/qLswbdlYvc"
+              }
+            ]
+          }
+        },
+        "id": "3107564622",
+        "location": "广东汕头",
+        "name": "小棋子",
+        "pinned_tweet_id": "1596547695149166592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582301196655550465/4TFSlr4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6239,
+          "following_count": 1413,
+          "like_count": 7590,
+          "listed_count": 16,
+          "media_count": 206,
+          "tweet_count": 1317
+        },
+        "username": "GUANGconon",
+        "verified": false
+      }
+    ]
+  }
+}

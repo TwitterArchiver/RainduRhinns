@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927797288124174339"
+      ],
+      "media_source_tweet_id": [
+        "1927797299100467637"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1927825285757440212",
+    "created_at": "2025-05-28T20:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T21:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927825285757440212"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "正太"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "男高"
+        },
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883304832972574720",
+          "start": 3,
+          "username": "linghuqaq7743"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kBMJEAouyG",
+          "end": 75,
+          "expanded_url": "https://x.com/linghuqaq7743/status/1927797299100467637/photo/1",
+          "media_key": "3_1927797288124174339",
+          "start": 52,
+          "url": "https://t.co/kBMJEAouyG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927825285757440212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927797299100467637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linghuqaq7743: 等六一扮成小男孩吓唬路过的勇者😈\n#正太 #男高 #可爱的男孩子 https://t.co/kBMJEAouyG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1927797288124174339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsDpa22aUAMnmpK.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927797288124174339"
+          ],
+          "media_source_tweet_id": [
+            "1927797299100467637"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1927825285757440212",
+        "created_at": "2025-05-28T20:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T21:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927825285757440212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "正太"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男高"
+            },
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883304832972574720",
+              "start": 3,
+              "username": "linghuqaq7743"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBMJEAouyG",
+              "end": 75,
+              "expanded_url": "https://x.com/linghuqaq7743/status/1927797299100467637/photo/1",
+              "media_key": "3_1927797288124174339",
+              "start": 52,
+              "url": "https://t.co/kBMJEAouyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927825285757440212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927797299100467637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linghuqaq7743: 等六一扮成小男孩吓唬路过的勇者😈\n#正太 #男高 #可爱的男孩子 https://t.co/kBMJEAouyG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927797288124174339"
+          ]
+        },
+        "author_id": "1883304832972574720",
+        "conversation_id": "1927797299100467637",
+        "created_at": "2025-05-28T18:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927797299100467637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "正太"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男高"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBMJEAouyG",
+              "end": 56,
+              "expanded_url": "https://x.com/linghuqaq7743/status/1927797299100467637/photo/1",
+              "media_key": "3_1927797288124174339",
+              "start": 33,
+              "url": "https://t.co/kBMJEAouyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927797299100467637",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "等六一扮成小男孩吓唬路过的勇者😈\n#正太 #男高 #可爱的男孩子 https://t.co/kBMJEAouyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 547,
+          "like_count": 2246,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 357
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T00:04:04.000Z",
+        "description": "你好，这里是小翎狐(175cm/39码/17cm\n是一个合法正太0.5S！所有内容均已成年，请给小翎狐多多转推w🥺) 谢谢你的关注！👉👈",
+        "id": "1883304832972574720",
+        "location": "哈尔滨/长沙/昆明",
+        "name": "翎狐大人qaq",
+        "pinned_tweet_id": "1923327364882178089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909955165492260864/seu7EKF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 92,
+          "like_count": 70,
+          "listed_count": 8,
+          "media_count": 15,
+          "tweet_count": 196
+        },
+        "username": "linghuqaq7743",
+        "verified": false
+      }
+    ]
+  }
+}

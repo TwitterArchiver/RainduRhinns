@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2022547569541345679",
+    "created_at": "2026-02-14T05:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022547569541345679"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 118,
+          "start": 112,
+          "tag": "控rush"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "伪主"
+        },
+        {
+          "end": 128,
+          "start": 123,
+          "tag": "无脑傻逼"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "伪s"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "无套"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1387000136606183425",
+          "start": 3,
+          "username": "kadaburaiah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022547569541345679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998410776584040949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kadaburaiah: 万粉Video 和傻逼宝宝的日常\n每次和傻逼宝宝见面都要被傻逼宝宝榨干精液和脑浆，傻逼爹也有自己的无套配种一起恶堕爆吸无底线被爹爆耍的傻逼宝宝了✌️🤪✌️ \n日后会慢慢更新和傻逼宝宝的日常\n#控rush #伪主 #无脑傻逼 #伪s #无套 #骚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022547569541345679].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022547569541345679",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022547569541345679"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 338366,
+        "height": 720,
+        "media_key": "13_1998410408282222592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998410408282222592/img/U6rpgZ4h4YjhaobN.jpg",
+        "public_metrics": {
+          "view_count": 39368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998410408282222592/vid/avc1/360x270/qve0DJYQWmiOsAQM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998410408282222592/vid/avc1/480x360/DQck41KgQbiBIsnJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998410408282222592/vid/avc1/960x720/0Q6bVo_-ZslrpJVf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998410408282222592/pl/6e4YLvQs0w7UCHTr.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998410408282222592"
+          ]
+        },
+        "author_id": "1387000136606183425",
+        "conversation_id": "1998410776584040949",
+        "created_at": "2025-12-09T15:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998410776584040949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "控rush"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "伪主"
+            },
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "无脑傻逼"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "伪s"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "无套"
+            },
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "骚货日常"
+            },
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "无脑恶堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohzTh9fnjz",
+              "end": 155,
+              "expanded_url": "https://x.com/kadaburaiah/status/1998410776584040949/video/1",
+              "media_key": "13_1998410408282222592",
+              "start": 132,
+              "url": "https://t.co/ohzTh9fnjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998410776584040949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 213056,
+          "like_count": 2163,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "万粉Video 和傻逼宝宝的日常\n每次和傻逼宝宝见面都要被傻逼宝宝榨干精液和脑浆，傻逼爹也有自己的无套配种一起恶堕爆吸无底线被爹爆耍的傻逼宝宝了✌️🤪✌️ \n日后会慢慢更新和傻逼宝宝的日常\n#控rush #伪主 #无脑傻逼 #伪s #无套 #骚货日常 #无脑恶堕 https://t.co/ohzTh9fnjz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 887,
+          "like_count": 3833,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2060
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T11:07:02.000Z",
+        "description": "伪爹新号 备用号@PFRUIT30  V🚪控r黑心治疗 无🧠SPA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "PFRUIT30"
+              }
+            ]
+          }
+        },
+        "id": "1387000136606183425",
+        "location": "10086",
+        "name": "PassionFRUIT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989334285451747330/dOefRsDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17616,
+          "following_count": 477,
+          "like_count": 1314,
+          "listed_count": 54,
+          "media_count": 35,
+          "tweet_count": 72
+        },
+        "username": "kadaburaiah",
+        "verified": false
+      }
+    ]
+  }
+}

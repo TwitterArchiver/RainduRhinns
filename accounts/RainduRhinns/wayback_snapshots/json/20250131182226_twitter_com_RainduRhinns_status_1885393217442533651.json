@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1885393217442533651",
+    "created_at": "2025-01-31T18:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T19:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885393217442533651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1666599054917218305",
+          "start": 3,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885393217442533651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885214560493461895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirakira4th: 一具完美的肉体应该同时拥有奶子和鸡巴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1885393217442533651",
+        "created_at": "2025-01-31T18:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T19:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885393217442533651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1666599054917218305",
+              "start": 3,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885393217442533651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885214560493461895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirakira4th: 一具完美的肉体应该同时拥有奶子和鸡巴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1885214560493461895",
+        "created_at": "2025-01-31T06:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T07:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885214560493461895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885214560493461895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 21020,
+          "like_count": 384,
+          "quote_count": 5,
+          "reply_count": 52,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "一具完美的肉体应该同时拥有奶子和鸡巴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 414,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 147
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "投胎错为猪",
+        "id": "1666599054917218305",
+        "name": "消失的井盖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875792193795088384/0kEOTGgO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11596,
+          "following_count": 2472,
+          "like_count": 44276,
+          "listed_count": 15,
+          "media_count": 268,
+          "tweet_count": 11813
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

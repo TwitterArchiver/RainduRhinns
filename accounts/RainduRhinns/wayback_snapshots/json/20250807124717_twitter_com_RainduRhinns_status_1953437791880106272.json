@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953437782019592192"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953437791880106272",
+    "created_at": "2025-08-07T12:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953437791880106272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hazY1jnY8l",
+          "end": 35,
+          "expanded_url": "https://x.com/RainduRhinns/status/1953437791880106272/photo/1",
+          "media_key": "3_1953437782019592192",
+          "start": 12,
+          "url": "https://t.co/hazY1jnY8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953437791880106272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重庆货\n外汇王还是结实 https://t.co/hazY1jnY8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_1953437782019592192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwBUCAa0AAXgPk.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953437782019592192"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953437791880106272",
+        "created_at": "2025-08-07T12:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953437791880106272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hazY1jnY8l",
+              "end": 35,
+              "expanded_url": "https://x.com/RainduRhinns/status/1953437791880106272/photo/1",
+              "media_key": "3_1953437782019592192",
+              "start": 12,
+              "url": "https://t.co/hazY1jnY8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953437791880106272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重庆货\n外汇王还是结实 https://t.co/hazY1jnY8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 653,
+          "like_count": 2679,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 589
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

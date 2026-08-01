@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953388186329075794",
+    "created_at": "2025-08-07T09:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953388186329075794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1953359471448867019",
+          "start": 141,
+          "url": "https://t.co/MZUGvvSybJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953388186329075794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953359471448867019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而在允许近身摔跤和地面缠斗的泰拳和散打上色胺就非常鸡肋了，一旦涉及摔斗反复大重量重心失衡及依靠地面重力造成摔击伤害时很容易导致失去常态重力感受和重心预判也就是失重状态，这时候会导致有很强的晕车和呕吐感，无法接受重心反复实战中地面脱先等同送死，但传统兴奋剂在摔跤上的表现也不是太好 https://t.co/MZUGvvSybJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953388186329075794",
+        "created_at": "2025-08-07T09:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953388186329075794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1953359471448867019",
+              "start": 141,
+              "url": "https://t.co/MZUGvvSybJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953388186329075794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953359471448867019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而在允许近身摔跤和地面缠斗的泰拳和散打上色胺就非常鸡肋了，一旦涉及摔斗反复大重量重心失衡及依靠地面重力造成摔击伤害时很容易导致失去常态重力感受和重心预判也就是失重状态，这时候会导致有很强的晕车和呕吐感，无法接受重心反复实战中地面脱先等同送死，但传统兴奋剂在摔跤上的表现也不是太好 https://t.co/MZUGvvSybJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953359471448867019",
+        "created_at": "2025-08-07T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953359471448867019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953359471448867019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "色胺对自由搏击的近身爆发提升非常高，比起普通的兴奋剂提升抗击打能力实际体验在固定腰心的近身三拳一腿的博弈预判能力更强，能很强反制对瞬间失重被打乱重心的不稳定感在主流的近身压迫打法中最有了大量的额外失重出腿时机，能打出很多反正常重心交替直觉的鞭腿膝击 缺点是膝击要小心不要把对方打死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 652,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 586
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

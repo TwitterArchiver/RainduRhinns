@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1970876703791825141",
+    "created_at": "2025-09-24T15:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970879807547461731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970879807547461731",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970876703791825141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 可以关注当代分析哲学元伦理学中 概念工程 Conceptual Engineering的进展，还有当代哲学中支持语境主义形式语义学Formal Semantics对规范性问题和道德哲学的影响，他们就是研究这个的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1970876703791825141",
+        "created_at": "2025-09-24T15:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970879807547461731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970879807547461731",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970876703791825141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 可以关注当代分析哲学元伦理学中 概念工程 Conceptual Engineering的进展，还有当代哲学中支持语境主义形式语义学Formal Semantics对规范性问题和道德哲学的影响，他们就是研究这个的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1970876703791825141",
+        "created_at": "2025-09-24T15:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970876703791825141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhoynqi3/statu…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/zhoynqi3/status/1970105960833397089",
+              "start": 143,
+              "url": "https://t.co/gLzSlxjusi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970876703791825141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970105960833397089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个事情对原推真的很残忍。\n但我在想，如果这个男性同伴也会指着好看的男生给这个女初中生说“姐们姐们，有福利”的话，会不会是比较理想的结局？\n当然考虑礼貌和尊重而言，无论性别都不应该指着给人造成困扰，哪怕悄悄说或者打字给对方发消息就好了，我的意思是上一段模拟的情景是不是也算一种平权呢？ https://t.co/gLzSlxjusi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 738,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1007
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 和我一起，进入幻想的世界。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 212,
+          "like_count": 48092,
+          "listed_count": 7,
+          "media_count": 634,
+          "tweet_count": 9060
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1976372959305728076",
+    "created_at": "2025-10-09T19:43:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T20:43:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976372959305728076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1903099585129816064",
+          "start": 3,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976372959305728076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976360726370582772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokerumaisurii: 想天天缠着可爱的小男生缠在一起，唉可是我没法做到，我太社恐了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1976372959305728076",
+        "created_at": "2025-10-09T19:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T20:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976372959305728076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1903099585129816064",
+              "start": 3,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976372959305728076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976360726370582772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokerumaisurii: 想天天缠着可爱的小男生缠在一起，唉可是我没法做到，我太社恐了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "1976360726370582772",
+        "created_at": "2025-10-09T18:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T19:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976360726370582772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976360726370582772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想天天缠着可爱的小男生缠在一起，唉可是我没法做到，我太社恐了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 761,
+          "like_count": 2916,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1165
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "Liberté, Égalité, Fraternité :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 收款码 cybertonkotsu@fastmail.com 求投喂 :3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "VentusUta"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "_rawSalmon"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847037748535297/zHEwCkvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 220,
+          "like_count": 52806,
+          "listed_count": 7,
+          "media_count": 678,
+          "tweet_count": 10021
+        },
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

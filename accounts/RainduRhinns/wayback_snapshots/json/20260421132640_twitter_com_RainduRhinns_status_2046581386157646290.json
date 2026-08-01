@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2046581386157646290",
+    "created_at": "2026-04-21T13:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046581386157646290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596405792315691008",
+          "start": 3,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046581386157646290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046530470415118422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0502railgun1949: 广州禁毒虽然沉浸在自己的艺术里面\n客观说，大众里面认为的od是跟吸毒一样的，广州禁毒真的把oder当做孩子了，去妖魔化了，说是心理问题嘛\n不知道比那些老保进步多少了\n\n即使是南方都市报，曾经辉煌的进步媒体，对于这个的报道都是有一些贬义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2046581386157646290",
+        "created_at": "2026-04-21T13:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046581386157646290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596405792315691008",
+              "start": 3,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046581386157646290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046530470415118422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0502railgun1949: 广州禁毒虽然沉浸在自己的艺术里面\n客观说，大众里面认为的od是跟吸毒一样的，广州禁毒真的把oder当做孩子了，去妖魔化了，说是心理问题嘛\n不知道比那些老保进步多少了\n\n即使是南方都市报，曾经辉煌的进步媒体，对于这个的报道都是有一些贬义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2046530470415118422",
+        "created_at": "2026-04-21T10:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046530470415118422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046530470415118422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1729,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒虽然沉浸在自己的艺术里面\n客观说，大众里面认为的od是跟吸毒一样的，广州禁毒真的把oder当做孩子了，去妖魔化了，说是心理问题嘛\n不知道比那些老保进步多少了\n\n即使是南方都市报，曾经辉煌的进步媒体，对于这个的报道都是有一些贬义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 891,
+          "like_count": 4171,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 669,
+          "like_count": 13207,
+          "listed_count": 3,
+          "media_count": 1344,
+          "tweet_count": 10539
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

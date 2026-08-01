@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1894215686861590533"
+      ],
+      "media_source_tweet_id": [
+        "1894215691118809338"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894611147195588898",
+    "created_at": "2025-02-26T04:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894611147195588898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "正太弟弟"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "男孩子"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "肚子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892952061089546241",
+          "start": 3,
+          "username": "YCY265807"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OnQ2VX9ywZ",
+          "end": 66,
+          "expanded_url": "https://x.com/YCY265807/status/1894215691118809338/photo/1",
+          "media_key": "3_1894215686861590533",
+          "start": 43,
+          "url": "https://t.co/OnQ2VX9ywZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894611147195588898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894215691118809338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YCY265807: 150粉福利…🌚（不是）\n#正太弟弟 #男孩子 #肚子 https://t.co/OnQ2VX9ywZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894611147195588898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894611147195588898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894611147195588898"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1894215686861590533",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkmbIZdbkAUvCsG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894215686861590533"
+          ]
+        },
+        "author_id": "1892952061089546241",
+        "conversation_id": "1894215691118809338",
+        "created_at": "2025-02-25T02:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T03:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894215691118809338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "正太弟弟"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男孩子"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "肚子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnQ2VX9ywZ",
+              "end": 51,
+              "expanded_url": "https://x.com/YCY265807/status/1894215691118809338/photo/1",
+              "media_key": "3_1894215686861590533",
+              "start": 28,
+              "url": "https://t.co/OnQ2VX9ywZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894215691118809338",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 905,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "150粉福利…🌚（不是）\n#正太弟弟 #男孩子 #肚子 https://t.co/OnQ2VX9ywZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 444,
+          "like_count": 1461,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 212
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T14:58:55.000Z",
+        "description": "乘着月光和小船溜进你的梦里.\n178/100/0.小男孩一枚",
+        "id": "1892952061089546241",
+        "name": "奕宸是弟弟.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894281994969767936/iox3lHkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 50,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 23
+        },
+        "username": "YCY265807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2037770923651276872",
+    "created_at": "2026-03-28T05:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037770923651276872"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lomyral/status…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/lomyral/status/2037706698744529021",
+          "start": 67,
+          "url": "https://t.co/cRPQFnug0m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037770923651276872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037706698744529021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小时候就不应该浪费这么多时间在思考生命、琢磨自杀与当忧郁逼上，我应该趁机多吃点LSD和色胺。我操，大好的时光就这样被我白白浪费了。 https://t.co/cRPQFnug0m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2037770923651276872",
+        "created_at": "2026-03-28T05:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037770923651276872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lomyral/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/lomyral/status/2037706698744529021",
+              "start": 67,
+              "url": "https://t.co/cRPQFnug0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037770923651276872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037706698744529021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候就不应该浪费这么多时间在思考生命、琢磨自杀与当忧郁逼上，我应该趁机多吃点LSD和色胺。我操，大好的时光就这样被我白白浪费了。 https://t.co/cRPQFnug0m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2037706698744529021",
+        "created_at": "2026-03-28T01:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037706698744529021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037706698744529021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 624,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我小时候就不应该浪费这么多时间在思考生命、琢磨自杀与当忧郁逼上，我应该趁机多吃点曲马多和羟考酮。我操，大好的时光就这样被我白白浪费了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 884,
+          "like_count": 4012,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 438,
+          "like_count": 34504,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 3841
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

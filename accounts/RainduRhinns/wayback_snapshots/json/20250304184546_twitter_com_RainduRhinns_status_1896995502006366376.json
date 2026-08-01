@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896534227405209600",
+        "3_1896534227409321984"
+      ],
+      "media_source_tweet_id": [
+        "1896534237895086267",
+        "1896534237895086267"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1896995502006366376",
+    "created_at": "2025-03-04T18:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T19:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896995502006366376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "正太"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "男孩子"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "足控"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "袜蹬"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "短裤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758566725627568128",
+          "start": 3,
+          "username": "Abyteowo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0ZgHElGTf",
+          "end": 81,
+          "expanded_url": "https://x.com/Abyteowo/status/1896534237895086267/photo/1",
+          "media_key": "3_1896534227405209600",
+          "start": 58,
+          "url": "https://t.co/j0ZgHElGTf"
+        },
+        {
+          "display_url": "pic.x.com/j0ZgHElGTf",
+          "end": 81,
+          "expanded_url": "https://x.com/Abyteowo/status/1896534237895086267/photo/1",
+          "media_key": "3_1896534227409321984",
+          "start": 58,
+          "url": "https://t.co/j0ZgHElGTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896995502006366376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896534237895086267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Abyteowo: 哥哥 晚上陪我一起睡觉嘛～\n\n#正太 #男孩子 #可爱的男孩子 #足控 #袜蹬 #短裤 https://t.co/j0ZgHElGTf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896995502006366376].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896995502006366376",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896995502006366376"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_1896534227405209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHX1ODbgAAzkph.jpg",
+        "width": 2048
+      },
+      {
+        "height": 694,
+        "media_key": "3_1896534227409321984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHX1OEaQAAlomO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896534227405209600",
+            "3_1896534227409321984"
+          ]
+        },
+        "author_id": "1758566725627568128",
+        "conversation_id": "1896534237895086267",
+        "created_at": "2025-03-03T12:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T13:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896534237895086267"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "正太"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "男孩子"
+            },
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "足控"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "袜蹬"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "短裤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0ZgHElGTf",
+              "end": 67,
+              "expanded_url": "https://x.com/Abyteowo/status/1896534237895086267/photo/1",
+              "media_key": "3_1896534227405209600",
+              "start": 44,
+              "url": "https://t.co/j0ZgHElGTf"
+            },
+            {
+              "display_url": "pic.x.com/j0ZgHElGTf",
+              "end": 67,
+              "expanded_url": "https://x.com/Abyteowo/status/1896534237895086267/photo/1",
+              "media_key": "3_1896534227409321984",
+              "start": 44,
+              "url": "https://t.co/j0ZgHElGTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896534237895086267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3502,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥 晚上陪我一起睡觉嘛～\n\n#正太 #男孩子 #可爱的男孩子 #足控 #袜蹬 #短裤 https://t.co/j0ZgHElGTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 453,
+          "like_count": 1587,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 248
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T18:59:25.000Z",
+        "description": "谢谢帅气的你点进我的主页 这里是渊汐 170/60  会分享一些自己觉得拍的不错的照片  里面会有🔞内容，请选择观看 /～福瑞控 兽（正）太控 足控 喜欢猫猫以及可爱的东西www 总之可爱万岁～/",
+        "id": "1758566725627568128",
+        "location": "猫猫王国",
+        "name": "渊汐",
+        "pinned_tweet_id": "1884514079378923607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888621135136518144/xkOiBuse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 318,
+          "like_count": 3705,
+          "listed_count": 6,
+          "media_count": 157,
+          "tweet_count": 815
+        },
+        "username": "Abyteowo",
+        "verified": false
+      }
+    ]
+  }
+}

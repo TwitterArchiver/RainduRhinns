@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1976762216004436125",
+    "created_at": "2025-10-10T21:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T22:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976762216004436125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1080753187",
+          "start": 3,
+          "username": "NatureNeuro"
+        },
+        {
+          "end": 138,
+          "id": "74732805",
+          "start": 126,
+          "username": "EinsteinMed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976762216004436125",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976757299793272913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NatureNeuro: Brain tumors induce widespread disruption of calvarial bone and alteration of skull marrow immune landscape\n\n@EinsteinMed…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1976762216004436125",
+        "created_at": "2025-10-10T21:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976762216004436125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1080753187",
+              "start": 3,
+              "username": "NatureNeuro"
+            },
+            {
+              "end": 138,
+              "id": "74732805",
+              "start": 126,
+              "username": "EinsteinMed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976762216004436125",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976757299793272913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NatureNeuro: Brain tumors induce widespread disruption of calvarial bone and alteration of skull marrow immune landscape\n\n@EinsteinMed…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080753187",
+        "conversation_id": "1976757299793272913",
+        "created_at": "2025-10-10T21:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T22:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976757299793272913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "74732805",
+              "start": 109,
+              "username": "EinsteinMed"
+            },
+            {
+              "end": 136,
+              "id": "340356226",
+              "start": 122,
+              "username": "MontefioreNYC"
+            },
+            {
+              "end": 148,
+              "id": "14866498",
+              "start": 137,
+              "username": "karolinska"
+            },
+            {
+              "end": 162,
+              "id": "1520625884947959809",
+              "start": 149,
+              "username": "Einstein_SCI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Nature Neuroscience - Glioblastoma—the deadliest form of brain cancer—alters the calvarial bone and its marrow components, pushing it toward producing more myeloid cells and...",
+              "display_url": "nature.com/articles/s4159…",
+              "end": 188,
+              "expanded_url": "https://www.nature.com/articles/s41593-025-02064-4?utm_source=twitter&utm_medium=social&utm_campaign=neuro",
+              "images": [
+                {
+                  "height": 2115,
+                  "url": "https://pbs.twimg.com/news_img/1976757311822516224/-XCw0avu?format=jpg&name=orig",
+                  "width": 2165
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1976757311822516224/-XCw0avu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 165,
+              "status": 200,
+              "title": "Brain tumors induce widespread disruption of calvarial bone and alteration of skull marrow immune landscape",
+              "unwound_url": "https://www.nature.com/articles/s41593-025-02064-4?error=cookies_not_supported&code=79d02732-4420-4e5b-9358-8b23762feb4c",
+              "url": "https://t.co/TjLM6HDTfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976757299793272913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 653,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Brain tumors induce widespread disruption of calvarial bone and alteration of skull marrow immune landscape\n\n@EinsteinMed @montefiorenyc @karolinska @Einstein_SCI \n\nhttps://t.co/TjLM6HDTfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 765,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1204
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T19:46:54.000Z",
+        "description": "News, commentary and research coverage from the international monthly journal publishing the highest quality of work in all areas of neuroscience.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nature.com/neuro",
+                "end": 23,
+                "expanded_url": "http://www.nature.com/neuro",
+                "start": 0,
+                "url": "https://t.co/xDpOgR3p13"
+              }
+            ]
+          }
+        },
+        "id": "1080753187",
+        "location": "New York City",
+        "name": "Nature Neuroscience",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1187024818031517697/yQgtYKBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554428,
+          "following_count": 258,
+          "like_count": 2145,
+          "listed_count": 1948,
+          "media_count": 990,
+          "tweet_count": 3811
+        },
+        "url": "https://t.co/xDpOgR3p13",
+        "username": "NatureNeuro",
+        "verified": true
+      },
+      {
+        "created_at": "2009-09-16T13:41:02.000Z",
+        "description": "Albert Einstein College of Medicine: Educating students to become caring, skilled physicians and fostering biomedical and translational research.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "einsteinmed.edu",
+                "end": 23,
+                "expanded_url": "http://einsteinmed.edu",
+                "start": 0,
+                "url": "https://t.co/A7HhWYuyVb"
+              }
+            ]
+          }
+        },
+        "id": "74732805",
+        "location": "Bronx, NY",
+        "name": "Albert Einstein College of Medicine - Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/468430220110753792/d_PuXQSb_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32361,
+          "following_count": 1879,
+          "like_count": 7281,
+          "listed_count": 622,
+          "media_count": 2852,
+          "tweet_count": 48142
+        },
+        "url": "https://t.co/A7HhWYuyVb",
+        "username": "EinsteinMed",
+        "verified": false
+      }
+    ]
+  }
+}

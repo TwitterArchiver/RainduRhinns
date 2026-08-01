@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1983411632836620787",
+    "created_at": "2025-10-29T05:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T06:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983411632836620787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1948833995401429168",
+          "start": 45,
+          "url": "https://t.co/ImCN6pJe7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983411632836620787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948833995401429168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对当下的反精神病学话语潮流不甚满意的可以看看当代现象学的方法和视角，比精神分析有意义多了 https://t.co/ImCN6pJe7r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_1948833982268796928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwumLndXcAAeLE-.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1983411632836620787",
+        "created_at": "2025-10-29T05:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983411632836620787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1948833995401429168",
+              "start": 45,
+              "url": "https://t.co/ImCN6pJe7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983411632836620787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948833995401429168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对当下的反精神病学话语潮流不甚满意的可以看看当代现象学的方法和视角，比精神分析有意义多了 https://t.co/ImCN6pJe7r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948833982268796928"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1948833995401429168",
+        "created_at": "2025-07-25T19:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948833995401429168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZ0jE6YMbu",
+              "end": 97,
+              "expanded_url": "https://x.com/RainduRhinns/status/1948833995401429168/photo/1",
+              "media_key": "3_1948833982268796928",
+              "start": 74,
+              "url": "https://t.co/QZ0jE6YMbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948833995401429168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 331,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "德国 现象学精神病理学PhänomenologiePsycopathologie这个进路很适合ODer解释作为自身机制的语言 /作为自身语言的机制 https://t.co/QZ0jE6YMbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 780,
+          "like_count": 3082,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1377
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

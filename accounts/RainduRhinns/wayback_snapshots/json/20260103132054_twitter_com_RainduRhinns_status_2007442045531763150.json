@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007442036333608960"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "2007442045531763150",
+    "created_at": "2026-01-03T13:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T14:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007442045531763150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nSVFFdUj9j",
+          "end": 162,
+          "expanded_url": "https://x.com/RainduRhinns/status/2007442045531763150/photo/1",
+          "media_key": "3_2007442036333608960",
+          "start": 139,
+          "url": "https://t.co/nSVFFdUj9j"
+        },
+        {
+          "display_url": "x.com/8964tou1234567…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/8964tou12345678/status/2007347839895253346",
+          "start": 163,
+          "url": "https://t.co/ylHGC7k9uA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007442045531763150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007347839895253346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😅你要是没贴出你所谓的论点出处那你说你自己只是口嗨随意引伸也就无可厚非，你给出的论文任何一个角度结论都和你自己贴文说的连环杀手家庭构成完全相反你还编什么呢？这是“用词不严格”能做到的吗？我非常怀疑贵博有没有基本的英文理解能力还是找反了论文了，不过张口就来这一块确实是唐的要命。 https://t.co/nSVFFdUj9j https://t.co/ylHGC7k9uA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007442036333608960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vd5WraAAAdmM9.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007442036333608960"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "2007442045531763150",
+        "created_at": "2026-01-03T13:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007442045531763150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nSVFFdUj9j",
+              "end": 162,
+              "expanded_url": "https://x.com/RainduRhinns/status/2007442045531763150/photo/1",
+              "media_key": "3_2007442036333608960",
+              "start": 139,
+              "url": "https://t.co/nSVFFdUj9j"
+            },
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/2007347839895253346",
+              "start": 163,
+              "url": "https://t.co/ylHGC7k9uA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007442045531763150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007347839895253346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅你要是没贴出你所谓的论点出处那你说你自己只是口嗨随意引伸也就无可厚非，你给出的论文任何一个角度结论都和你自己贴文说的连环杀手家庭构成完全相反你还编什么呢？这是“用词不严格”能做到的吗？我非常怀疑贵博有没有基本的英文理解能力还是找反了论文了，不过张口就来这一块确实是唐的要命。 https://t.co/nSVFFdUj9j https://t.co/ylHGC7k9uA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "2007168677746274497",
+        "created_at": "2026-01-03T07:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T08:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007347839895253346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007347839895253346",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007168677746274497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 里面也提到这样的案例多，所以我也没说正相关，而是说明这个案例多。可能是我用词不够严格\n这个在推特上很正常的，因为在编辑推文时人往往是无拘无束的情况，而大部分时候也确实发了也没什么。但有时候就会出现一些认真的人的论文般的审视。\n所以纯粹是出发点和心态不同，你说的我懂，我们没什么矛盾的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 872,
+          "like_count": 3649,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10149,
+          "following_count": 8298,
+          "like_count": 274787,
+          "listed_count": 64,
+          "media_count": 2268,
+          "tweet_count": 45783
+        },
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

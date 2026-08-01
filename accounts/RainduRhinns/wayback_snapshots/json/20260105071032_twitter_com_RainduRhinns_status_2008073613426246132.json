@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995809927240318977"
+      ],
+      "media_source_tweet_id": [
+        "1995809933062033720"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+          "id": "1045058369852067840",
+          "name": "Furries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1514304215165796352",
+          "name": "Furry fandom"
+        }
+      }
+    ],
+    "conversation_id": "2008073613426246132",
+    "created_at": "2026-01-05T07:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008073613426246132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839888469063282691",
+          "start": 3,
+          "username": "bbtaropnt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h8GypNIoFH",
+          "end": 48,
+          "expanded_url": "https://x.com/bbtaropnt/status/1995809933062033720/photo/1",
+          "media_key": "3_1995809927240318977",
+          "start": 25,
+          "url": "https://t.co/h8GypNIoFH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008073613426246132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995809933062033720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbtaropnt: ケモノ化してみた！ https://t.co/h8GypNIoFH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2008073613426246132].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2008073613426246132",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2008073613426246132"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995809927240318977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KKjfhbgAEHP65.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995809927240318977"
+          ]
+        },
+        "author_id": "1839888469063282691",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). ",
+              "id": "1045058369852067840",
+              "name": "Furries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1514304215165796352",
+              "name": "Furry fandom"
+            }
+          }
+        ],
+        "conversation_id": "1995809933062033720",
+        "created_at": "2025-12-02T10:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T11:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995809933062033720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8GypNIoFH",
+              "end": 33,
+              "expanded_url": "https://x.com/bbtaropnt/status/1995809933062033720/photo/1",
+              "media_key": "3_1995809927240318977",
+              "start": 10,
+              "url": "https://t.co/h8GypNIoFH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995809933062033720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5415,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ケモノ化してみた！ https://t.co/h8GypNIoFH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 872,
+          "like_count": 3659,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T04:43:05.000Z",
+        "description": "ショタとパンツが好きな日常アカウント DMいつでも！！ゲームのお誘いも待ってます！ カカオID:bbtaropnt 裏▶︎@taro2th",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "taro2th"
+              }
+            ]
+          }
+        },
+        "id": "1839888469063282691",
+        "location": "Osaka",
+        "name": "たろ︎︎˖ ࣪⊹",
+        "pinned_tweet_id": "2007042161947312191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986378454598819840/GD38o17b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 395,
+          "like_count": 6925,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 2344
+        },
+        "username": "bbtaropnt",
+        "verified": false
+      }
+    ]
+  }
+}

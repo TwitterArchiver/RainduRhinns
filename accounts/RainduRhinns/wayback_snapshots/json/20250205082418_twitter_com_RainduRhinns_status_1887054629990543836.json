@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1887009214804979885",
+    "created_at": "2025-02-05T08:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T09:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887054629990543836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3267725551",
+          "start": 0,
+          "username": "Franz_la_loi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887054629990543836",
+    "in_reply_to_user_id": "3267725551",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887009214804979885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Franz_la_loi 太奶了吧!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887009214804979885].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887009214804979885",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887009214804979885"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1887009214804979885",
+        "created_at": "2025-02-05T08:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887054629990543836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3267725551",
+              "start": 0,
+              "username": "Franz_la_loi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887054629990543836",
+        "in_reply_to_user_id": "3267725551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887009214804979885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Franz_la_loi 太奶了吧!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 414,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-04T03:31:55.000Z",
+        "description": "22岁，正在读博士！喜欢语言与语言学，最近特别是罗曼语！还喜欢烘焙🍰/烹饪🥘/唱歌/hiphop/古典&拉小提琴🎻/舞台剧！一个人也要开开心心！🥰",
+        "id": "3267725551",
+        "name": "Calaminus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880648506475511808/cAavTv65_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 3796,
+          "like_count": 28354,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1541
+        },
+        "username": "Franz_la_loi",
+        "verified": false
+      }
+    ]
+  }
+}

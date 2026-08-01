@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1997549056772718775",
+    "created_at": "2025-12-09T17:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T18:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998439599794958523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998439599794958523",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998436897996329283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 彩色精神树中的Hodgkinsine 经常被用来和ibogaine对比，他们都是同时具有μ阿片与NMDA拮抗的物质，与其他阿片类致幻剂如鼠尾草效果很不同，有人提到过其与Harmaline组合产生类似ibogaine的效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1997549056772718775",
+        "created_at": "2025-12-09T17:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998439599794958523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998439599794958523",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998436897996329283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 彩色精神树中的Hodgkinsine 经常被用来和ibogaine对比，他们都是同时具有μ阿片与NMDA拮抗的物质，与其他阿片类致幻剂如鼠尾草效果很不同，有人提到过其与Harmaline组合产生类似ibogaine的效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1997549056772718775",
+        "created_at": "2025-12-09T16:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998436897996329283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998436897996329283",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997549056772718775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 苦参碱的的阿片受体调控也是下游现象，这东西没什么直接的娱乐价值，生物碱里含eseroline类的 Psychotria colorata彩色精神树 的价值比这个高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 849,
+          "like_count": 3375,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1591
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時\n⏱️\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 200,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 922
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992268023684857857",
+        "3_1992268023668019200",
+        "3_1992268023680630784"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1992268076017193083",
+    "created_at": "2025-11-22T16:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992268076017193083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vbMzbqGU6i",
+          "end": 69,
+          "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+          "media_key": "3_1992268023684857857",
+          "start": 46,
+          "url": "https://t.co/vbMzbqGU6i"
+        },
+        {
+          "display_url": "pic.x.com/vbMzbqGU6i",
+          "end": 69,
+          "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+          "media_key": "3_1992268023668019200",
+          "start": 46,
+          "url": "https://t.co/vbMzbqGU6i"
+        },
+        {
+          "display_url": "pic.x.com/vbMzbqGU6i",
+          "end": 69,
+          "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+          "media_key": "3_1992268023680630784",
+          "start": 46,
+          "url": "https://t.co/vbMzbqGU6i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992268076017193083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "戒药之后感官依然放大了和无聊的人们重复日复一日的感官愉悦有时我甚至想问他们是否想沉醉于疯狂 https://t.co/vbMzbqGU6i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1992268023684857857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X1NkkbAAEVj43.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1992268023668019200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X1NkgaEAAxP8W.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992268023680630784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X1NkjagAAMfY9.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992268023684857857",
+            "3_1992268023668019200",
+            "3_1992268023680630784"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1992268076017193083",
+        "created_at": "2025-11-22T16:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992268076017193083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vbMzbqGU6i",
+              "end": 69,
+              "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+              "media_key": "3_1992268023684857857",
+              "start": 46,
+              "url": "https://t.co/vbMzbqGU6i"
+            },
+            {
+              "display_url": "pic.x.com/vbMzbqGU6i",
+              "end": 69,
+              "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+              "media_key": "3_1992268023668019200",
+              "start": 46,
+              "url": "https://t.co/vbMzbqGU6i"
+            },
+            {
+              "display_url": "pic.x.com/vbMzbqGU6i",
+              "end": 69,
+              "expanded_url": "https://x.com/RainduRhinns/status/1992268076017193083/photo/1",
+              "media_key": "3_1992268023680630784",
+              "start": 46,
+              "url": "https://t.co/vbMzbqGU6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992268076017193083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒药之后感官依然放大了和无聊的人们重复日复一日的感官愉悦有时我甚至想问他们是否想沉醉于疯狂 https://t.co/vbMzbqGU6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 831,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

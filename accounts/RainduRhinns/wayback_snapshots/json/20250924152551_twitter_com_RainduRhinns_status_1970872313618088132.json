@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1970872313618088132",
+    "created_at": "2025-09-24T15:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970872313618088132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hrichina/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hrichina/status/1970537730536096230",
+          "start": 21,
+          "url": "https://t.co/NOhAm338kC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970872313618088132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970537730536096230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "才知道本来要成为师兄妹的网友被抓了….. https://t.co/NOhAm338kC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1970537727268700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jBn2JbQAAPa09.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1970872313618088132",
+        "created_at": "2025-09-24T15:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970872313618088132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hrichina/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hrichina/status/1970537730536096230",
+              "start": 21,
+              "url": "https://t.co/NOhAm338kC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970872313618088132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970537730536096230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "才知道本来要成为师兄妹的网友被抓了….. https://t.co/NOhAm338kC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970537727268700160"
+          ]
+        },
+        "author_id": "20784367",
+        "conversation_id": "1970537730536096230",
+        "created_at": "2025-09-23T17:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970537730536096230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xkNnC0PqIU",
+              "end": 126,
+              "expanded_url": "https://x.com/hrichina/status/1970537730536096230/photo/1",
+              "media_key": "3_1970537727268700160",
+              "start": 103,
+              "url": "https://t.co/xkNnC0PqIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970537730536096230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/company/101835…",
+                "end": 216,
+                "expanded_url": "https://www.linkedin.com/company/101835477/admin/page-posts/published/",
+                "start": 193,
+                "url": "https://t.co/ytAOeSPOQz"
+              }
+            ]
+          },
+          "text": "释放张雅笛：跨文化对话不是犯罪。中国人权组织呼吁中国当局立即无条件释放22岁藏族权利倡导者张雅笛（Tara），她仅因编辑中文平台促进藏汉民族对话，即被控”煽动分裂国家、破坏国家统一”，面临5至15年重刑。\n张雅笛原为法国留学生，精通中文、藏语、英语与法语，曾获法国政府奖学金，原计划9月赴伦敦亚非学院攻读研究生。今年暑假回国探亲期间，于7月31日在云南香格里拉被捕，现被关押于湖南长沙。https://t.co/ytAOeSPOQz"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8078,
+          "like_count": 114,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "释放张雅笛：跨文化对话不是犯罪。中国人权组织呼吁中国当局立即无条件释放22岁藏族权利倡导者张雅笛（Tara），她仅因编辑中文平台促进藏汉民族对话，即被控”煽动分裂国家、破坏国家统一”，面临5至15年重刑。 https://t.co/xkNnC0PqIU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 738,
+          "like_count": 2877,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1006
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-13T16:45:40.000Z",
+        "description": "Founded in March 1989, HRIC is dedicated to promoting international human rights and advancing the institutional protection of these rights in #China.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 149,
+                "start": 143,
+                "tag": "China"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "new.hrichina.org",
+                "end": 23,
+                "expanded_url": "http://new.hrichina.org",
+                "start": 0,
+                "url": "https://t.co/MyUsDtkaqv"
+              }
+            ]
+          }
+        },
+        "id": "20784367",
+        "location": "New York & Hong Kong",
+        "name": "中国人权-Human Rights in China",
+        "pinned_tweet_id": "1801348879633256948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678842988393291779/U4Nl3HSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85455,
+          "following_count": 1093,
+          "like_count": 3214,
+          "listed_count": 764,
+          "media_count": 3159,
+          "tweet_count": 17177
+        },
+        "url": "https://t.co/MyUsDtkaqv",
+        "username": "hrichina",
+        "verified": true
+      }
+    ]
+  }
+}

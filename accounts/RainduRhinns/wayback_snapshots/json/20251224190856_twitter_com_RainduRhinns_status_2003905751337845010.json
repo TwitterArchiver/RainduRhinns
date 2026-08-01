@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2003688657711170042",
+    "created_at": "2025-12-24T19:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T20:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003905751337845010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 28,
+          "id": "1879395690230738944",
+          "start": 15,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 39,
+          "id": "1462208415837655043",
+          "start": 29,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003905751337845010",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003894756347412879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @Psych_Angel_ @Prechaska 不同。及可以认为目前的fMRI技术限于科学水平或多或少的“假”，它最终要依赖一定程度的人为分析解读，这里面的所谓疗法确实是骗局但是十年后的今天脑电脑影像学和功能密集网络关系是实锤了，脑电进路没错，你测出血清素递质异常怎么解释同样有异常的人有不抑郁的，说到底血清素也只是抑郁症的第一假说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2003688657711170042",
+        "created_at": "2025-12-24T19:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T20:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003905751337845010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 28,
+              "id": "1879395690230738944",
+              "start": 15,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 39,
+              "id": "1462208415837655043",
+              "start": 29,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003905751337845010",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003894756347412879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Psych_Angel_ @Prechaska 不同。及可以认为目前的fMRI技术限于科学水平或多或少的“假”，它最终要依赖一定程度的人为分析解读，这里面的所谓疗法确实是骗局但是十年后的今天脑电脑影像学和功能密集网络关系是实锤了，脑电进路没错，你测出血清素递质异常怎么解释同样有异常的人有不抑郁的，说到底血清素也只是抑郁症的第一假说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2003688657711170042",
+        "created_at": "2025-12-24T18:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T19:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003894756347412879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 24,
+              "id": "1462208415837655043",
+              "start": 14,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zh.wikipedia.org/zh-hans/%E8%84…",
+              "end": 56,
+              "expanded_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "start": 33,
+              "status": 200,
+              "title": "脑神经递质检测仪骗局 - 维基百科，自由的百科全书",
+              "unwound_url": "https://zh.wikipedia.org/zh-hans/%E8%84%91%E7%A5%9E%E7%BB%8F%E9%80%92%E8%B4%A8%E6%A3%80%E6%B5%8B%E4%BB%AA%E9%AA%97%E5%B1%80",
+              "url": "https://t.co/iMtl42UoIB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003894756347412879",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003752726933737705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @Prechaska 那玩意好像是假的https://t.co/iMtl42UoIB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 875,
+          "like_count": 3601,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 199,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "shungleemain"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 146,
+                "start": 133,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Merciless",
+        "pinned_tweet_id": "2003845801056104553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 706,
+          "like_count": 24700,
+          "listed_count": 1,
+          "media_count": 759,
+          "tweet_count": 11242
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 93,
+          "like_count": 1317,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1037
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

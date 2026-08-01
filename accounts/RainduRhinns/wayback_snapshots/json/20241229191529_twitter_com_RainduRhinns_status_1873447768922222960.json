@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873395568938213376"
+      ],
+      "media_source_tweet_id": [
+        "1873395579184914892"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1873447768922222960",
+    "created_at": "2024-12-29T19:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T20:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873447768922222960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1777700673582432256",
+          "start": 3,
+          "username": "WanYu94882"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/11C6z4kmTh",
+          "end": 39,
+          "expanded_url": "https://x.com/WanYu94882/status/1873395579184914892/photo/1",
+          "media_key": "3_1873395568938213376",
+          "start": 16,
+          "url": "https://t.co/11C6z4kmTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873447768922222960",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873395579184914892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WanYu94882: https://t.co/11C6z4kmTh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873447768922222960].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873447768922222960",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873447768922222960"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_1873395568938213376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf-jWCJaYAArrth.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873395568938213376"
+          ]
+        },
+        "author_id": "1777700673582432256",
+        "conversation_id": "1873395579184914892",
+        "created_at": "2024-12-29T15:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T16:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873395579184914892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11C6z4kmTh",
+              "end": 23,
+              "expanded_url": "https://x.com/WanYu94882/status/1873395579184914892/photo/1",
+              "media_key": "3_1873395568938213376",
+              "start": 0,
+              "url": "https://t.co/11C6z4kmTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873395579184914892",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/11C6z4kmTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 352,
+          "like_count": 906,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 92
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T14:11:06.000Z",
+        "description": "涩涩，只图一乐",
+        "id": "1777700673582432256",
+        "name": "箜篌引",
+        "pinned_tweet_id": "1862495184153714838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835326506715041792/Xa0ysMkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 653,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 183
+        },
+        "username": "WanYu94882",
+        "verified": false
+      }
+    ]
+  }
+}

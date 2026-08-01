@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923265107406225409",
+        "3_1923265116486901760",
+        "3_1923265125760499712",
+        "3_1923265135017328641"
+      ],
+      "media_source_tweet_id": [
+        "1923265141795074394",
+        "1923265141795074394",
+        "1923265141795074394",
+        "1923265141795074394"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1923755533070196800",
+    "created_at": "2025-05-17T15:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923755533070196800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1816938401716928512",
+          "start": 3,
+          "username": "Light5886485379"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4beN4TozlM",
+          "end": 53,
+          "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+          "media_key": "3_1923265107406225409",
+          "start": 30,
+          "url": "https://t.co/4beN4TozlM"
+        },
+        {
+          "display_url": "pic.x.com/4beN4TozlM",
+          "end": 53,
+          "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+          "media_key": "3_1923265116486901760",
+          "start": 30,
+          "url": "https://t.co/4beN4TozlM"
+        },
+        {
+          "display_url": "pic.x.com/4beN4TozlM",
+          "end": 53,
+          "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+          "media_key": "3_1923265125760499712",
+          "start": 30,
+          "url": "https://t.co/4beN4TozlM"
+        },
+        {
+          "display_url": "pic.x.com/4beN4TozlM",
+          "end": 53,
+          "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+          "media_key": "3_1923265135017328641",
+          "start": 30,
+          "url": "https://t.co/4beN4TozlM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923755533070196800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923265141795074394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Light5886485379: 蜡笔小新第二弹～ https://t.co/4beN4TozlM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923755533070196800].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923755533070196800",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923755533070196800"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1923265107406225409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDPbN_aAAE-m7h.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1923265116486901760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDPbv0aIAAX2RG.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1923265125760499712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDPcSXaAAAcBzq.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1923265135017328641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDPc02aAAEJHXF.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923265107406225409",
+            "3_1923265116486901760",
+            "3_1923265125760499712",
+            "3_1923265135017328641"
+          ]
+        },
+        "author_id": "1816938401716928512",
+        "conversation_id": "1923265141795074394",
+        "created_at": "2025-05-16T06:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T07:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923265141795074394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4beN4TozlM",
+              "end": 32,
+              "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+              "media_key": "3_1923265107406225409",
+              "start": 9,
+              "url": "https://t.co/4beN4TozlM"
+            },
+            {
+              "display_url": "pic.x.com/4beN4TozlM",
+              "end": 32,
+              "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+              "media_key": "3_1923265116486901760",
+              "start": 9,
+              "url": "https://t.co/4beN4TozlM"
+            },
+            {
+              "display_url": "pic.x.com/4beN4TozlM",
+              "end": 32,
+              "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+              "media_key": "3_1923265125760499712",
+              "start": 9,
+              "url": "https://t.co/4beN4TozlM"
+            },
+            {
+              "display_url": "pic.x.com/4beN4TozlM",
+              "end": 32,
+              "expanded_url": "https://x.com/Light5886485379/status/1923265141795074394/photo/1",
+              "media_key": "3_1923265135017328641",
+              "start": 9,
+              "url": "https://t.co/4beN4TozlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923265141795074394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4231,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "蜡笔小新第二弹～ https://t.co/4beN4TozlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 542,
+          "like_count": 2154,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 340
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T20:47:35.000Z",
+        "description": "又一个新号…上海…0🍼",
+        "id": "1816938401716928512",
+        "name": "Light",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922199789367918593/iM3t8RSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 76,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 13
+        },
+        "username": "Light5886485379",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2054190346163380481",
+    "created_at": "2026-05-12T14:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T15:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054207008447021085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054207008447021085",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054199685733109833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv 但是我甚至就没吃过几次普瑞就吃过个位数次每次都没效果至少都是隔十几天以上才偶尔测试一次有没有效果。。然后次次都无感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2054190346163380481",
+        "created_at": "2026-05-12T14:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T15:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054207008447021085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054207008447021085",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054199685733109833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv 但是我甚至就没吃过几次普瑞就吃过个位数次每次都没效果至少都是隔十几天以上才偶尔测试一次有没有效果。。然后次次都无感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2054190346163380481",
+        "created_at": "2026-05-12T13:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054199685733109833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054199685733109833",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054190346163380481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 应该是普瑞耐受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 904,
+          "like_count": 4342,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2447
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "我死了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 0,
+                "url": "https://t.co/N9ufw9zoWZ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "提问箱：",
+        "name": "达利莱生",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054022831483068416/h3_pEcBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 341,
+          "like_count": 4268,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/N9ufw9zoWZ",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

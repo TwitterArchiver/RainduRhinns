@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1998674248559132954",
+    "created_at": "2025-12-10T08:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T09:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998674248559132954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1998662054937505992",
+          "start": 156,
+          "url": "https://t.co/gBseDIpz3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998674248559132954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998662054937505992",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苯并呋喃类化合物必须先提取苯环-进行氯甲基化反应,然后才能生成羧酰胺。问题在最终会得到位置异构体因此无法获得正确物。最初Benzofury生产的5-APB/6-APB是富马酸盐,直到中国供应商发现市场巨大可以以更低的价格生产—并且发现人们不会发现异构杂质 MDMA同样产生外消旋混合物中的R-异构体比S-异构体 https://t.co/gBseDIpz3Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998674248559132954",
+        "created_at": "2025-12-10T08:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T09:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998674248559132954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1998662054937505992",
+              "start": 156,
+              "url": "https://t.co/gBseDIpz3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998674248559132954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998662054937505992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苯并呋喃类化合物必须先提取苯环-进行氯甲基化反应,然后才能生成羧酰胺。问题在最终会得到位置异构体因此无法获得正确物。最初Benzofury生产的5-APB/6-APB是富马酸盐,直到中国供应商发现市场巨大可以以更低的价格生产—并且发现人们不会发现异构杂质 MDMA同样产生外消旋混合物中的R-异构体比S-异构体 https://t.co/gBseDIpz3Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998662054937505992",
+        "created_at": "2025-12-10T07:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998662054937505992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1998658442211504380",
+              "start": 153,
+              "url": "https://t.co/IoDos5xTv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998662054937505992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998658442211504380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常幽默的是中国一直以来宣传东南亚的毒品问题但中国能大规模低成本生产MDMA就是因为中国有大量的黄樟木可以通过黄樟素简单合成MDMA—而在黄樟素监管之后中国企业在越南老挝砍伐了大量黄樟—另一点是为了把MDMA合成简化到极致(还记得2223年欧洲出现的紫色MDMA吗)中国生产者已经做到了有机合成的巅峰.. https://t.co/IoDos5xTv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 849,
+          "like_count": 3379,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1990797694458310808",
+    "created_at": "2025-11-18T15:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T16:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990797694458310808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukiyyyxxx/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/yukiyyyxxx/status/1986766151179968560",
+          "start": 3,
+          "url": "https://t.co/RZt4ga0B37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990797694458310808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986766151179968560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "至福 https://t.co/RZt4ga0B37"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_1986766147245760513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5JpSNpa4AEUnUC.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1990797694458310808",
+        "created_at": "2025-11-18T15:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T16:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990797694458310808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukiyyyxxx/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yukiyyyxxx/status/1986766151179968560",
+              "start": 3,
+              "url": "https://t.co/RZt4ga0B37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990797694458310808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986766151179968560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "至福 https://t.co/RZt4ga0B37"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986766147245760513"
+          ]
+        },
+        "author_id": "1695768670491033601",
+        "conversation_id": "1986766151179968560",
+        "created_at": "2025-11-07T12:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986766151179968560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVMFqBk6xj",
+              "end": 29,
+              "expanded_url": "https://x.com/yukiyyyxxx/status/1986766151179968560/photo/1",
+              "media_key": "3_1986766147245760513",
+              "start": 6,
+              "url": "https://t.co/KVMFqBk6xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986766151179968560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5137,
+          "like_count": 162,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "いいおなか https://t.co/KVMFqBk6xj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 837,
+          "like_count": 3250,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T12:02:21.000Z",
+        "description": "🔞裏垢一般男性 稀に女装 日常@saotome_yuki1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "saotome_yuki1"
+              }
+            ]
+          }
+        },
+        "id": "1695768670491033601",
+        "location": "シティーボーイ",
+        "name": "早乙女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979840048267706368/e7o_HcCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2830,
+          "following_count": 198,
+          "like_count": 35540,
+          "listed_count": 31,
+          "media_count": 99,
+          "tweet_count": 1013
+        },
+        "username": "yukiyyyxxx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1925124933325144325",
+    "created_at": "2025-05-21T09:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T10:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925124933325144325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1879051461985988609",
+          "start": 3,
+          "username": "deserthouse999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925124933325144325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924889843081085091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @deserthouse999: 身边有个男人成了我遥不可及的愿望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1925124933325144325",
+        "created_at": "2025-05-21T09:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T10:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925124933325144325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1879051461985988609",
+              "start": 3,
+              "username": "deserthouse999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925124933325144325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924889843081085091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @deserthouse999: 身边有个男人成了我遥不可及的愿望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879051461985988609",
+        "conversation_id": "1924889843081085091",
+        "created_at": "2025-05-20T18:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T19:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924889843081085091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924889843081085091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 382,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "身边有个男人成了我遥不可及的愿望"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 545,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 344
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T06:22:42.000Z",
+        "description": "摘要：恨国殖猪母0/MBTI分型：AIDS/最喜欢的东西：鸡巴（非中国男性的）和金钱/预死期：2029.06.30/特长：曾单脚龟责赵立坚/座右铭：谁看见支那这个词会生气，谁就是支那人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MoistAsshole.com",
+                "end": 23,
+                "expanded_url": "http://MoistAsshole.com",
+                "start": 0,
+                "url": "https://t.co/u1FK3PSLsR"
+              }
+            ]
+          }
+        },
+        "id": "1879051461985988609",
+        "location": "Pig Triangle, Big 6, CHINA!",
+        "name": "喜猪明泽（脱肛治疗中）",
+        "pinned_tweet_id": "1923323393496997995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879426619821244416/sOjCN8To_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 433,
+          "like_count": 13580,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/u1FK3PSLsR",
+        "username": "deserthouse999",
+        "verified": false
+      }
+    ]
+  }
+}

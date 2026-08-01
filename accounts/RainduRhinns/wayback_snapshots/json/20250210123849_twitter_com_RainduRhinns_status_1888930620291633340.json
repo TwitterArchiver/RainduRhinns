@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1888821342017089792",
+    "created_at": "2025-02-10T12:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888930620291633340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1514622801721757700",
+          "start": 0,
+          "username": "merryyu16684513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888930620291633340",
+    "in_reply_to_user_id": "1514622801721757700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888872860330189080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@merryyu16684513 等我回国🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1888821342017089792",
+        "created_at": "2025-02-10T12:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T13:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888930620291633340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1514622801721757700",
+              "start": 0,
+              "username": "merryyu16684513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888930620291633340",
+        "in_reply_to_user_id": "1514622801721757700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888872860330189080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@merryyu16684513 等我回国🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514622801721757700",
+        "conversation_id": "1888821342017089792",
+        "created_at": "2025-02-10T08:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T09:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888872860330189080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888872860330189080",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888862940712820804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 真嘟吗🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 420,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 169
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T15:13:24.000Z",
+        "description": "喜欢小男孩，xp 广泛，已有对象|可能会分享一些 🔞内容|欢迎扩列交友 |就算离别， 将有一天你会遇见美好的一切， 值得珍惜无数擦肩无数相见 花开与花落。",
+        "id": "1514622801721757700",
+        "location": "武汉",
+        "name": "红烧小鱼🐟",
+        "pinned_tweet_id": "1883909612216422450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729506421220483072/lx2pDygF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4521,
+          "following_count": 117,
+          "like_count": 121,
+          "listed_count": 11,
+          "media_count": 18,
+          "tweet_count": 268
+        },
+        "username": "merryyu16684513",
+        "verified": false
+      }
+    ]
+  }
+}

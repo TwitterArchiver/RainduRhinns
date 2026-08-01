@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1981306111736041853",
+    "created_at": "2025-10-23T17:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T18:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981406462149800337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981406462149800337",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981406292590940288",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax *非常德国…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1981306111736041853",
+        "created_at": "2025-10-23T17:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981406462149800337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981406462149800337",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981406292590940288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax *非常德国…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1981306111736041853",
+        "created_at": "2025-10-23T17:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981406292590940288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981406292590940288",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981403731070767620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax 我对这个学派的印象只有它们和21世纪初的德国人智学的各种魔怔生物学狂想和阴谋论的关系。。非德国。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 773,
+          "like_count": 3067,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1329
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 77,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 290
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2004966639717265719",
+    "created_at": "2025-12-28T09:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T10:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005211414546559036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1244543552652054528",
+          "start": 0,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005211414546559036",
+    "in_reply_to_user_id": "1244543552652054528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005148126882267618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greenfish_111 米氮平的镇静反转功能此前存在临床上像加州火箭一样用于急性重抑郁，当然现在被替代了，它的大剂量κ阿片能力也是研发时就得到实验确认的 当然我不会建议od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2004966639717265719",
+        "created_at": "2025-12-28T09:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005211414546559036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005211414546559036",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005148126882267618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greenfish_111 米氮平的镇静反转功能此前存在临床上像加州火箭一样用于急性重抑郁，当然现在被替代了，它的大剂量κ阿片能力也是研发时就得到实验确认的 当然我不会建议od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244543552652054528",
+        "conversation_id": "2004966639717265719",
+        "created_at": "2025-12-28T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005148126882267618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005148126882267618",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004966639717265719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 米氮平也能o吗，有没有相关资料呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 876,
+          "like_count": 3626,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "已有上千年生命的神秘外星鱼 现以温良的凡人身份在地球游历 🚪100000000",
+        "id": "1244543552652054528",
+        "location": "瓦纳海姆",
+        "name": "冰冷電子魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4447,
+          "following_count": 565,
+          "like_count": 12655,
+          "listed_count": 8,
+          "media_count": 1284,
+          "tweet_count": 13296
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

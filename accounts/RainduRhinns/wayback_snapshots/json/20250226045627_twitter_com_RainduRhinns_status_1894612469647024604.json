@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889559143465529344"
+      ],
+      "media_source_tweet_id": [
+        "1889559146774593790"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894612469647024604",
+    "created_at": "2025-02-26T04:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894612469647024604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889556573602848768",
+          "start": 3,
+          "username": "ZiChi27692"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KySsNpLLxn",
+          "end": 63,
+          "expanded_url": "https://x.com/ZiChi27692/status/1889559146774593790/photo/1",
+          "media_key": "3_1889559143465529344",
+          "start": 40,
+          "url": "https://t.co/KySsNpLLxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894612469647024604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889559146774593790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZiChi27692: 乖巧听话的跪姿？…才不会被调教成这样的（确信） https://t.co/KySsNpLLxn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894612469647024604].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894612469647024604",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894612469647024604"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889559143465529344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjkQB5hasAAf9IX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889559143465529344"
+          ]
+        },
+        "author_id": "1889556573602848768",
+        "conversation_id": "1889559146774593790",
+        "created_at": "2025-02-12T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889559146774593790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KySsNpLLxn",
+              "end": 47,
+              "expanded_url": "https://x.com/ZiChi27692/status/1889559146774593790/photo/1",
+              "media_key": "3_1889559143465529344",
+              "start": 24,
+              "url": "https://t.co/KySsNpLLxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889559146774593790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14905,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "乖巧听话的跪姿？…才不会被调教成这样的（确信） https://t.co/KySsNpLLxn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 444,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 214
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T06:06:18.000Z",
+        "description": "大家好呀！我是小阿鼬，可爱小男孩一只，谢谢大家的关注呀，属性什么的…才不告诉你",
+        "id": "1889556573602848768",
+        "name": "鼬子不吃柚（鼬少爷）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889556730138468352/H5B7IFvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 58,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 21
+        },
+        "username": "ZiChi27692",
+        "verified": false
+      }
+    ]
+  }
+}

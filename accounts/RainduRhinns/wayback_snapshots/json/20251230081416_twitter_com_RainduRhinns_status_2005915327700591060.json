@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2005915327700591060",
+    "created_at": "2025-12-30T08:14:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T09:14:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005915327700591060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 16,
+          "tag": "今年も残りわずかなので今年一番伸びた写真を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920557377801338880",
+          "start": 3,
+          "username": "ikuru_kuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005915327700591060",
+    "lang": "qht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005906395749908918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ikuru_kuru: #今年も残りわずかなので今年一番伸びた写真を貼る"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2005915327700591060",
+        "created_at": "2025-12-30T08:14:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T09:14:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005915327700591060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 16,
+              "tag": "今年も残りわずかなので今年一番伸びた写真を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920557377801338880",
+              "start": 3,
+              "username": "ikuru_kuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005915327700591060",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005906395749908918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ikuru_kuru: #今年も残りわずかなので今年一番伸びた写真を貼る"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920557377801338880",
+        "conversation_id": "2005906395749908918",
+        "created_at": "2025-12-30T07:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005906395749908918"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた写真を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ikuru_kuru/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ikuru_kuru/status/1935992853572075619",
+              "start": 25,
+              "url": "https://t.co/ZqTbrUMKSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005906395749908918",
+        "lang": "qht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 694,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935992853572075619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた写真を貼る https://t.co/ZqTbrUMKSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 874,
+          "like_count": 3633,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1790
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T19:12:24.000Z",
+        "description": "20代♂ / ⚠︎NSFW⚠︎ / 自撮り / サブ : @ikuru_kururin / myfans: https://t.co/CzgxkEsAGX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ikuru_kururin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "myfans.jp/ikuru",
+                "end": 77,
+                "expanded_url": "https://myfans.jp/ikuru",
+                "start": 54,
+                "url": "https://t.co/CzgxkEsAGX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/28WR6B0KS9DQM?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/KY61LMRxSl"
+              }
+            ]
+          }
+        },
+        "id": "1920557377801338880",
+        "location": "Tokyo",
+        "name": "いくる",
+        "pinned_tweet_id": "1953707342027272470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983606007218761732/4mZvnGwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8181,
+          "following_count": 234,
+          "like_count": 46291,
+          "listed_count": 30,
+          "media_count": 145,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/KY61LMRxSl",
+        "username": "ikuru_kuru",
+        "verified": false
+      }
+    ]
+  }
+}

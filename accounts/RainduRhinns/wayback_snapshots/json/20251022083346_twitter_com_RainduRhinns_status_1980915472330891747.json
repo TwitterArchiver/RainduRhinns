@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1980915468182737034",
+    "created_at": "2025-10-22T08:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T09:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980915472330891747"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1980915472330891747",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980915468182737034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为是不是“更自然”或更符合某种抽象规律就和人权无关，除非你持一种基于还原论的纯粹反人文主义。离开特定的、基于排他性的质性判断立场外，不存在一个语义上支持判断的共同语境和语素，如果你是控制论主义者那么化学极乐就是人类甚至不只人类诞生以来最重要的创造，以上和我们语境的质性与质性的语境"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1980915468182737034",
+        "created_at": "2025-10-22T08:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980915472330891747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980915472330891747",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980915468182737034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为是不是“更自然”或更符合某种抽象规律就和人权无关，除非你持一种基于还原论的纯粹反人文主义。离开特定的、基于排他性的质性判断立场外，不存在一个语义上支持判断的共同语境和语素，如果你是控制论主义者那么化学极乐就是人类甚至不只人类诞生以来最重要的创造，以上和我们语境的质性与质性的语境"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1980915468182737034",
+        "created_at": "2025-10-22T08:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T09:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980915468182737034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980915468182737034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讨论“世界上有没有真正的毒品”这种命题毫无意义，你不能将其还原为是“能否在不知道类a是什么的情况下认为A存在”和“A作为X和X作为a的一般属性”这种逻辑式，其只能被还原为哲学立场。这就像问“同性恋是不是天生的”一样毫无意义，如果你认同一一般的（人文主义）语境那同性恋就是人权问题，不存在属性层级"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 755,
+          "like_count": 3012,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1304
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

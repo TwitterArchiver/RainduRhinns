@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2038571066042589327",
+    "created_at": "2026-03-30T10:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038571066042589327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cnfinancewatch…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/cnfinancewatch/status/2037903430614687797",
+          "start": 20,
+          "url": "https://t.co/TkSLTpVxNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038571066042589327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037903430614687797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了….. 这哥是否有点大脑升级了 https://t.co/TkSLTpVxNZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2038571066042589327",
+        "created_at": "2026-03-30T10:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038571066042589327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cnfinancewatch…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/cnfinancewatch/status/2037903430614687797",
+              "start": 20,
+              "url": "https://t.co/TkSLTpVxNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038571066042589327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037903430614687797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了….. 这哥是否有点大脑升级了 https://t.co/TkSLTpVxNZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "137332930",
+        "conversation_id": "2037903430614687797",
+        "created_at": "2026-03-28T14:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037903430614687797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saitowu/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/saitowu/status/2037899384470548913",
+              "start": 143,
+              "url": "https://t.co/khpnCaUU6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037903430614687797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "五年前，Bryan 走的是纯科学派路线，把所有已发表的长寿证据跑了一遍——运动、饮食、睡眠、高压氧、桑拿、雷帕霉素、二甲双胍……迷幻药一开始根本不在他的清单里，因为主流一直认为它们只作用于抑郁和焦虑，而不是抗衰。直到小鼠实验数据，以及他们自己做的三剂 25 mg psilocybin 临床实验出来后，他的看法发生了改变：血糖代谢被重置、肠道菌群显著改变、炎症下降，大脑默认模式网络（DMN）被明显“软化”。他开始意识到，这可能是长寿领域的一个新变量。\n这次他直接上了“核弹级”的 5-MeO-DMT。按照他的描述，吸入 10 秒内就“出窍”，几乎没有视觉体验，而是直接接触到某种“原始意识”和“无限智能”。最关键的是，DMN 被彻底抹平（annihilate），而 psilocybin 只是“软化”。DMN 可以理解为自我叙事和内耗系统，让成年人越来越固化、焦虑、反复思考；而小孩几乎没有这个系统，所以对世界始终保持新鲜感。\n体验之后，他的变化非常具体：梦里开始笑（连他自己都不记得上一次是什么时候），和伴侣争吵可以很快翻篇，不再有那种“压住情绪以后慢慢消化”的成人模式。他认为，这种状态的改变，比他长期坚持的运动、饮食、睡眠、桑拿、高压氧加起来都更强，是他做过最彻底的一次“人体重置”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 846,
+          "impression_count": 248322,
+          "like_count": 575,
+          "quote_count": 12,
+          "reply_count": 21,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037899384470548913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "五年前，Bryan 走的是纯科学派路线，把所有已发表的长寿证据跑了一遍——运动、饮食、睡眠、高压氧、桑拿、雷帕霉素、二甲双胍……迷幻药一开始根本不在他的清单里，因为主流一直认为它们只作用于抑郁和焦虑，而不是抗衰。直到小鼠实验数据，以及他们自己做的三剂 25 mg psilocybin https://t.co/khpnCaUU6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 886,
+          "like_count": 4011,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-26T13:19:27.000Z",
+        "description": "博士、教授、首席投资官、华尔街观察金融大模型量化交易首席科学家 ▎订阅者每日邮件推送 机构级量化数据：每日早晚中、美个股机会数据，每周中美个比较优势个股数据 ▎每日美股、A股盘前预测，每日机构研报汇总、上市公司提价函汇总等",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/cnfinancewatch…",
+                "end": 23,
+                "expanded_url": "https://x.com/cnfinancewatch/creator-subscriptions/subscribe",
+                "start": 0,
+                "url": "https://t.co/uj74YmJmHr"
+              }
+            ]
+          }
+        },
+        "id": "137332930",
+        "location": "Motesto, CA",
+        "name": "华尔街观察 Xtrader",
+        "pinned_tweet_id": "2038085744649257300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941688088968765440/_z4ORqUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92370,
+          "following_count": 5091,
+          "like_count": 11573,
+          "listed_count": 1024,
+          "media_count": 1608,
+          "tweet_count": 6304
+        },
+        "url": "https://t.co/uj74YmJmHr",
+        "username": "cnfinancewatch",
+        "verified": true
+      }
+    ]
+  }
+}

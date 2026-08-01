@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1950642461388521717",
+    "created_at": "2025-07-30T19:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T20:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950642461388521717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811843582229381123",
+          "start": 3,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950642461388521717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950631540091957652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainduRhinns: 是的他就是克苏鲁 空中被每种感官倒推出的气压 他是 单数的不稳定本身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950642461388521717",
+        "created_at": "2025-07-30T19:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T20:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950642461388521717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811843582229381123",
+              "start": 3,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950642461388521717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950631540091957652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainduRhinns: 是的他就是克苏鲁 空中被每种感官倒推出的气压 他是 单数的不稳定本身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950631540091957652",
+        "created_at": "2025-07-30T18:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950631540091957652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1950613825323147472",
+              "start": 35,
+              "url": "https://t.co/yPoOuVD35b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950631540091957652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950613825323147472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的他就是克苏鲁 空中被每种感官倒推出的气压 他是 单数的不稳定本身 https://t.co/yPoOuVD35b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 639,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 499
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

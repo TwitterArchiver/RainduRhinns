@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1949214623850525029",
+    "created_at": "2025-07-27T12:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949448909635694994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894359849812856834",
+          "start": 0,
+          "username": "x_overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949448909635694994",
+    "in_reply_to_user_id": "1894359849812856834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949267422017638905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_overdose_day 叠加比较有用 叠点2C MET什么的 单一种上剂量并不好玩 真正的蘑菇也是好几种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1949214623850525029",
+        "created_at": "2025-07-27T12:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949448909635694994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894359849812856834",
+              "start": 0,
+              "username": "x_overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949448909635694994",
+        "in_reply_to_user_id": "1894359849812856834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949267422017638905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_overdose_day 叠加比较有用 叠点2C MET什么的 单一种上剂量并不好玩 真正的蘑菇也是好几种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "conversation_id": "1949214623850525029",
+        "created_at": "2025-07-27T00:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949267422017638905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949267422017638905",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949214623850525029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 时间太短了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 633,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 472
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/Q0GM3RbtYz\nSakura的博客:https://t.co/4kNEb83oWR\n官方tg频道:https://t.co/W1o7mgfirc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 47,
+                "expanded_url": "https://overdose.day",
+                "start": 24,
+                "url": "https://t.co/Q0GM3RbtYz"
+              },
+              {
+                "display_url": "dmt.onl",
+                "end": 81,
+                "expanded_url": "https://dmt.onl",
+                "start": 58,
+                "url": "https://t.co/4kNEb83oWR"
+              },
+              {
+                "display_url": "t.me/overdose_dxm",
+                "end": 112,
+                "expanded_url": "https://t.me/overdose_dxm",
+                "start": 89,
+                "url": "https://t.co/W1o7mgfirc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day",
+                "start": 0,
+                "url": "https://t.co/Q0GM3RbtYz"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "✝️天国✝️",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1949295980140220575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 276,
+          "like_count": 176,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/Q0GM3RbtYz",
+        "username": "x_overdose_day",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2033180366610276403",
+    "created_at": "2026-03-19T03:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034468989649486158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863551952547905536",
+          "start": 0,
+          "username": "you2mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034468989649486158",
+    "in_reply_to_user_id": "1863551952547905536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033200118409900389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@you2mao 昏厥也太吓人了小心急性肾衰 血清素综合症一般不会昏厥 我这次只是血压拉爆了颤痫控制不住没降压药拿塞更定顶的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2033180366610276403",
+        "created_at": "2026-03-19T03:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034468989649486158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863551952547905536",
+              "start": 0,
+              "username": "you2mao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034468989649486158",
+        "in_reply_to_user_id": "1863551952547905536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033200118409900389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@you2mao 昏厥也太吓人了小心急性肾衰 血清素综合症一般不会昏厥 我这次只是血压拉爆了颤痫控制不住没降压药拿塞更定顶的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863551952547905536",
+        "conversation_id": "2033180366610276403",
+        "created_at": "2026-03-15T15:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T16:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033200118409900389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033200118409900389",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033180366610276403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 不过这样居然没有昏厥吗😱，我之前这种情况都是会昏厥过去然后听天由命的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 888,
+          "like_count": 3930,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T11:53:23.000Z",
+        "description": "170-48-0，繁体中文/简体中文/英文，其他需要翻译器，可以玩sp，性格是地雷，避难所@you3mao，里推@u0miao有门，定期删帖。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 45,
+                "username": "you3mao"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "u0miao"
+              }
+            ]
+          }
+        },
+        "id": "1863551952547905536",
+        "location": "幽冥",
+        "name": "幽灵猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981566015507996672/tN2us1fm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 232,
+          "like_count": 1335,
+          "listed_count": 5,
+          "media_count": 13,
+          "tweet_count": 375
+        },
+        "username": "you2mao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940262718985953280",
+        "3_1940262720181256192"
+      ],
+      "media_source_tweet_id": [
+        "1940262802226385042",
+        "1940262802226385042"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1940292458732281962",
+    "created_at": "2025-07-02T06:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T07:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940292458732281962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882797246095425536",
+          "start": 3,
+          "username": "yangmie_012"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3vETF01jq",
+          "end": 40,
+          "expanded_url": "https://x.com/yangmie_012/status/1940262802226385042/photo/1",
+          "media_key": "3_1940262718985953280",
+          "start": 17,
+          "url": "https://t.co/X3vETF01jq"
+        },
+        {
+          "display_url": "pic.x.com/X3vETF01jq",
+          "end": 40,
+          "expanded_url": "https://x.com/yangmie_012/status/1940262802226385042/photo/1",
+          "media_key": "3_1940262720181256192",
+          "start": 17,
+          "url": "https://t.co/X3vETF01jq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940292458732281962",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940262802226385042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangmie_012: https://t.co/X3vETF01jq"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940292458732281962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940292458732281962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940292458732281962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940262718985953280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0yqbgXYAA6tUl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940262720181256192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu0yqf9WQAALk1c.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940262718985953280",
+            "3_1940262720181256192"
+          ]
+        },
+        "author_id": "1882797246095425536",
+        "conversation_id": "1940262802226385042",
+        "created_at": "2025-07-02T04:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T05:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940262802226385042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3vETF01jq",
+              "end": 23,
+              "expanded_url": "https://x.com/yangmie_012/status/1940262802226385042/photo/1",
+              "media_key": "3_1940262718985953280",
+              "start": 0,
+              "url": "https://t.co/X3vETF01jq"
+            },
+            {
+              "display_url": "pic.x.com/X3vETF01jq",
+              "end": 23,
+              "expanded_url": "https://x.com/yangmie_012/status/1940262802226385042/photo/1",
+              "media_key": "3_1940262720181256192",
+              "start": 0,
+              "url": "https://t.co/X3vETF01jq"
+            },
+            {
+              "display_url": "x.com/yangmie_012/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yangmie_012/status/1940098538844954754",
+              "start": 24,
+              "url": "https://t.co/GpB6asyLTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940262802226385042",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 933,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940098538844954754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/X3vETF01jq https://t.co/GpB6asyLTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "唯有你的爱能缓解我的悲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 596,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 364
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T14:27:11.000Z",
+        "description": "🐑在推上澀澀的男孩子\n🐑你們都好可愛屑屑你們\n🐑最愛的哥哥→@xuanxing0407\n🐑避難@yangmie_06\n🐑自介一直改",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "xuanxing0407"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "yangmie_06"
+              }
+            ]
+          }
+        },
+        "id": "1882797246095425536",
+        "location": " Taiwan",
+        "name": "小羊咩",
+        "pinned_tweet_id": "1928412120523415994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921066184000368641/A1YX9hLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 197,
+          "like_count": 2752,
+          "listed_count": 4,
+          "media_count": 168,
+          "tweet_count": 556
+        },
+        "username": "yangmie_012",
+        "verified": false
+      }
+    ]
+  }
+}

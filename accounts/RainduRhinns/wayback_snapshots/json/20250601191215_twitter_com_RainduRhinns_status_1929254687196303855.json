@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929186474202976256",
+        "3_1929186473183686657",
+        "3_1929186474207129600",
+        "3_1929186473330528256"
+      ],
+      "media_source_tweet_id": [
+        "1929186477994283034",
+        "1929186477994283034",
+        "1929186477994283034",
+        "1929186477994283034"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1929254687196303855",
+    "created_at": "2025-06-01T19:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929254687196303855"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "深圳校服"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "少年"
+        },
+        {
+          "end": 39,
+          "start": 36,
+          "tag": "男高"
+        },
+        {
+          "end": 43,
+          "start": 40,
+          "tag": "正太"
+        },
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "可爱的男孩子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764601999067152384",
+          "start": 3,
+          "username": "oddd051216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wQnN0ZXzI5",
+          "end": 75,
+          "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+          "media_key": "3_1929186474202976256",
+          "start": 52,
+          "url": "https://t.co/wQnN0ZXzI5"
+        },
+        {
+          "display_url": "pic.x.com/wQnN0ZXzI5",
+          "end": 75,
+          "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+          "media_key": "3_1929186473183686657",
+          "start": 52,
+          "url": "https://t.co/wQnN0ZXzI5"
+        },
+        {
+          "display_url": "pic.x.com/wQnN0ZXzI5",
+          "end": 75,
+          "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+          "media_key": "3_1929186474207129600",
+          "start": 52,
+          "url": "https://t.co/wQnN0ZXzI5"
+        },
+        {
+          "display_url": "pic.x.com/wQnN0ZXzI5",
+          "end": 75,
+          "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+          "media_key": "3_1929186473330528256",
+          "start": 52,
+          "url": "https://t.co/wQnN0ZXzI5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929254687196303855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929186477994283034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oddd051216: 男高也能过儿童节吗\n#深圳校服 #少年 #男高 #正太 #可爱的男孩子 https://t.co/wQnN0ZXzI5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1929254687196303855].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1929254687196303855",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1929254687196303855"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1929186474202976256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXY4IRbUAAFEIH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929186473183686657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXY4EeaMAEKW36.jpg",
+        "width": 922
+      },
+      {
+        "height": 922,
+        "media_key": "3_1929186474207129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXY4ISasAAeTRH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_1929186473330528256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsXY4FBa0AA30d7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929186474202976256",
+            "3_1929186473183686657",
+            "3_1929186474207129600",
+            "3_1929186473330528256"
+          ]
+        },
+        "author_id": "1764601999067152384",
+        "conversation_id": "1929186477994283034",
+        "created_at": "2025-06-01T14:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T15:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929186477994283034"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "深圳校服"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "少年"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男高"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "正太"
+            },
+            {
+              "end": 35,
+              "start": 28,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wQnN0ZXzI5",
+              "end": 59,
+              "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+              "media_key": "3_1929186474202976256",
+              "start": 36,
+              "url": "https://t.co/wQnN0ZXzI5"
+            },
+            {
+              "display_url": "pic.x.com/wQnN0ZXzI5",
+              "end": 59,
+              "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+              "media_key": "3_1929186473183686657",
+              "start": 36,
+              "url": "https://t.co/wQnN0ZXzI5"
+            },
+            {
+              "display_url": "pic.x.com/wQnN0ZXzI5",
+              "end": 59,
+              "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+              "media_key": "3_1929186474207129600",
+              "start": 36,
+              "url": "https://t.co/wQnN0ZXzI5"
+            },
+            {
+              "display_url": "pic.x.com/wQnN0ZXzI5",
+              "end": 59,
+              "expanded_url": "https://x.com/oddd051216/status/1929186477994283034/photo/1",
+              "media_key": "3_1929186473330528256",
+              "start": 36,
+              "url": "https://t.co/wQnN0ZXzI5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929186477994283034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2302,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "男高也能过儿童节吗\n#深圳校服 #少年 #男高 #正太 #可爱的男孩子 https://t.co/wQnN0ZXzI5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 556,
+          "like_count": 2278,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 362
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T10:41:24.000Z",
+        "description": "原推号@CRNMSLCNM被拿下惹呜呜\n现在是第二代喵！请多关照 推止于推 不约喵。 文案内容仅供推文，实际以本人为准",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "CRNMSLCNM"
+              }
+            ]
+          }
+        },
+        "id": "1764601999067152384",
+        "location": "在你心里",
+        "name": "大碟老师（闪闪发亮版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910715567759142912/mJ4hOaNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6928,
+          "following_count": 256,
+          "like_count": 660,
+          "listed_count": 12,
+          "media_count": 73,
+          "tweet_count": 300
+        },
+        "username": "oddd051216",
+        "verified": false
+      }
+    ]
+  }
+}

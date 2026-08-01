@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2050874337398579405",
+    "created_at": "2026-05-17T13:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056007396099862988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 22,
+          "id": "1462208415837655043",
+          "start": 12,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056007396099862988",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055900274926174217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @Prechaska 内在圣殿啊 我觉得DPT是普通色胺里最容易带来所谓宗教体验的了 如果你无感有机会试试5-MeO-DMT 我觉得包进圣殿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2050874337398579405",
+        "created_at": "2026-05-17T13:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056007396099862988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 22,
+              "id": "1462208415837655043",
+              "start": 12,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056007396099862988",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900274926174217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @Prechaska 内在圣殿啊 我觉得DPT是普通色胺里最容易带来所谓宗教体验的了 如果你无感有机会试试5-MeO-DMT 我觉得包进圣殿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "2050874337398579405",
+        "created_at": "2026-05-17T06:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900274926174217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 24,
+              "id": "1462208415837655043",
+              "start": 14,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900274926174217",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050963846534512645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @Prechaska 可以说说“圣殿”具体指什么吗...?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 910,
+          "like_count": 4438,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Satellite",
+        "id": "1971208789853675520",
+        "name": "Space Satellite",
+        "pinned_tweet_id": "1993092025978397077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 124,
+          "like_count": 1823,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 709
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再再社会化中…）｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 126,
+          "like_count": 3182,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1676
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

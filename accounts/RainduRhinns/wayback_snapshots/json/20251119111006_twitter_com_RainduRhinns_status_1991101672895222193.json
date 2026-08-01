@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1990681587948925326",
+    "created_at": "2025-11-19T11:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991101672895222193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555288439842410496",
+          "start": 0,
+          "username": "ZCW65046906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991101672895222193",
+    "in_reply_to_user_id": "1555288439842410496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990877854746198366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZCW65046906 如果不算那些十分危险的NBOME的话，只有2C-T-7和21和Dragonfly能勉强和5-MeO-DMT的身体强度比较，但仍然不在一个纬度上MAOI能力的体感强度范围差太多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1990681587948925326",
+        "created_at": "2025-11-19T11:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991101672895222193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555288439842410496",
+              "start": 0,
+              "username": "ZCW65046906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991101672895222193",
+        "in_reply_to_user_id": "1555288439842410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990877854746198366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZCW65046906 如果不算那些十分危险的NBOME的话，只有2C-T-7和21和Dragonfly能勉强和5-MeO-DMT的身体强度比较，但仍然不在一个纬度上MAOI能力的体感强度范围差太多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555288439842410496",
+        "conversation_id": "1990681587948925326",
+        "created_at": "2025-11-18T20:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990877854746198366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990877854746198366",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990796337529696317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 我想应该是苯乙胺类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 838,
+          "like_count": 3264,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1481
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T20:24:04.000Z",
+        "description": "gore enthusiast？？  Cartel enthusiasts   Metal Rock enthusiasts \n Age 16 years old psychonaut",
+        "id": "1555288439842410496",
+        "location": "hell",
+        "name": "Bloody psychonaut",
+        "pinned_tweet_id": "1931390919997276623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933607043950116864/kQlvYoJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 183,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 1240
+        },
+        "username": "ZCW65046906",
+        "verified": false
+      }
+    ]
+  }
+}

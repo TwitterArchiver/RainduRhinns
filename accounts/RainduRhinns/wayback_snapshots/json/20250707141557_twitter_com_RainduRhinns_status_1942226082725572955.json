@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935578470668472320",
+        "3_1935578470609793024",
+        "3_1935578470634938368",
+        "3_1935578470681092096"
+      ],
+      "media_source_tweet_id": [
+        "1935578480600859124",
+        "1935578480600859124",
+        "1935578480600859124",
+        "1935578480600859124"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942226082725572955",
+    "created_at": "2025-07-07T14:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942226082725572955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911349933049065472",
+          "start": 3,
+          "username": "oolongximu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3WODt9LmY",
+          "end": 40,
+          "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+          "media_key": "3_1935578470668472320",
+          "start": 17,
+          "url": "https://t.co/d3WODt9LmY"
+        },
+        {
+          "display_url": "pic.x.com/d3WODt9LmY",
+          "end": 40,
+          "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+          "media_key": "3_1935578470609793024",
+          "start": 17,
+          "url": "https://t.co/d3WODt9LmY"
+        },
+        {
+          "display_url": "pic.x.com/d3WODt9LmY",
+          "end": 40,
+          "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+          "media_key": "3_1935578470634938368",
+          "start": 17,
+          "url": "https://t.co/d3WODt9LmY"
+        },
+        {
+          "display_url": "pic.x.com/d3WODt9LmY",
+          "end": 40,
+          "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+          "media_key": "3_1935578470681092096",
+          "start": 17,
+          "url": "https://t.co/d3WODt9LmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942226082725572955",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935578480600859124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oolongximu1: https://t.co/d3WODt9LmY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942226082725572955].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942226082725572955",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942226082725572955"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935578470668472320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyOXSsWkAANFsa.jpg",
+        "width": 1606
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935578470609793024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyOXSeXMAAH7ME.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935578470634938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyOXSkW4AAFZL5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1935578470681092096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyOXSvXIAAVCr6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935578470668472320",
+            "3_1935578470609793024",
+            "3_1935578470634938368",
+            "3_1935578470681092096"
+          ]
+        },
+        "author_id": "1911349933049065472",
+        "conversation_id": "1935578480600859124",
+        "created_at": "2025-06-19T06:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935578480600859124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3WODt9LmY",
+              "end": 23,
+              "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+              "media_key": "3_1935578470668472320",
+              "start": 0,
+              "url": "https://t.co/d3WODt9LmY"
+            },
+            {
+              "display_url": "pic.x.com/d3WODt9LmY",
+              "end": 23,
+              "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+              "media_key": "3_1935578470609793024",
+              "start": 0,
+              "url": "https://t.co/d3WODt9LmY"
+            },
+            {
+              "display_url": "pic.x.com/d3WODt9LmY",
+              "end": 23,
+              "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+              "media_key": "3_1935578470634938368",
+              "start": 0,
+              "url": "https://t.co/d3WODt9LmY"
+            },
+            {
+              "display_url": "pic.x.com/d3WODt9LmY",
+              "end": 23,
+              "expanded_url": "https://x.com/oolongximu1/status/1935578480600859124/photo/1",
+              "media_key": "3_1935578470681092096",
+              "start": 0,
+              "url": "https://t.co/d3WODt9LmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935578480600859124",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14295,
+          "like_count": 238,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d3WODt9LmY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 603,
+          "like_count": 2373,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 379
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T09:25:19.000Z",
+        "description": "扩列🉑，已成年Adults only，nsfw⚠️注意，萌控，发画在p站：雾泷于曦暮 防走丢表推：@wulongyuximu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "wulongyuximu"
+              }
+            ]
+          }
+        },
+        "id": "1911349933049065472",
+        "location": "成都",
+        "name": "曦暮雾雾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911350393499500544/-9OHblA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 246,
+          "like_count": 32,
+          "listed_count": 7,
+          "media_count": 18,
+          "tweet_count": 50
+        },
+        "username": "oolongximu1",
+        "verified": false
+      }
+    ]
+  }
+}

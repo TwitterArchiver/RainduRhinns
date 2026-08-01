@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1957432613674848389",
+    "created_at": "2025-08-19T06:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T07:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957698946131705978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1362441065987411968",
+          "start": 0,
+          "username": "Lumoryn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957698946131705978",
+    "in_reply_to_user_id": "1362441065987411968",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957432613674848389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lumoryn Kawaii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1957432610986287104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyoylrmaYAASnF4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1957432613674848389",
+        "created_at": "2025-08-19T06:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T07:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957698946131705978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1362441065987411968",
+              "start": 0,
+              "username": "Lumoryn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957698946131705978",
+        "in_reply_to_user_id": "1362441065987411968",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957432613674848389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lumoryn Kawaii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957432610986287104"
+          ]
+        },
+        "author_id": "1362441065987411968",
+        "conversation_id": "1957432613674848389",
+        "created_at": "2025-08-18T13:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T14:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957432613674848389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0aZjLTTge",
+              "end": 23,
+              "expanded_url": "https://x.com/Lumoryn/status/1957432613674848389/photo/1",
+              "media_key": "3_1957432610986287104",
+              "start": 0,
+              "url": "https://t.co/D0aZjLTTge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957432613674848389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 669,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D0aZjLTTge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 664,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 694
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-18T16:37:51.000Z",
+        "description": "🇨🇳，可交友扩列但推止于推",
+        "id": "1362441065987411968",
+        "location": "中华人民共和国",
+        "name": "Morielle",
+        "pinned_tweet_id": "1928097307829944384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723274249820164096/ZWTbwA6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 835,
+          "like_count": 714,
+          "listed_count": 3,
+          "media_count": 14,
+          "tweet_count": 174
+        },
+        "username": "Lumoryn",
+        "verified": false
+      }
+    ]
+  }
+}

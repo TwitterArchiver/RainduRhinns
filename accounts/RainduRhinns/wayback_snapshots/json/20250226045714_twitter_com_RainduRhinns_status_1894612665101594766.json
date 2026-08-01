@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892185820054069248"
+      ],
+      "media_source_tweet_id": [
+        "1892185830393098450"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1894612665101594766",
+    "created_at": "2025-02-26T04:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T05:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894612665101594766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1880846647812603904",
+          "start": 3,
+          "username": "sannian999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nCBN2DZTyy",
+          "end": 42,
+          "expanded_url": "https://x.com/sannian999/status/1892185830393098450/photo/1",
+          "media_key": "3_1892185820054069248",
+          "start": 19,
+          "url": "https://t.co/nCBN2DZTyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894612665101594766",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892185830393098450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sannian999: ☺️ https://t.co/nCBN2DZTyy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1894612665101594766].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1894612665101594766",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1894612665101594766"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_1892185820054069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkJk-mVaoAA_u2x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892185820054069248"
+          ]
+        },
+        "author_id": "1880846647812603904",
+        "conversation_id": "1892185830393098450",
+        "created_at": "2025-02-19T12:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T13:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892185830393098450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCBN2DZTyy",
+              "end": 26,
+              "expanded_url": "https://x.com/sannian999/status/1892185830393098450/photo/1",
+              "media_key": "3_1892185820054069248",
+              "start": 3,
+              "url": "https://t.co/nCBN2DZTyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892185830393098450",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8352,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "☺️ https://t.co/nCBN2DZTyy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 想要小男孩对象bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 444,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 215
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T05:16:12.000Z",
+        "description": "是复活的过气老推，发布一些清水日常",
+        "id": "1880846647812603904",
+        "name": "叁年",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880847118031884289/mz5C7sSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 8,
+          "like_count": 26,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "sannian999",
+        "verified": false
+      }
+    ]
+  }
+}

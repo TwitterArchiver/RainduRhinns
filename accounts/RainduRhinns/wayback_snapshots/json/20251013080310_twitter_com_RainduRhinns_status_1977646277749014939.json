@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1974179770926538752"
+      ],
+      "media_source_tweet_id": [
+        "1974182664010936725"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1977646277749014939",
+    "created_at": "2025-10-13T08:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977646277749014939"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 89,
+          "normalized_text": "Caftaphata",
+          "probability": 0.4317,
+          "start": 80,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1895290380",
+          "start": 3,
+          "username": "KARL_wthaK"
+        },
+        {
+          "end": 77,
+          "id": "2978696041",
+          "start": 67,
+          "username": "L4MPLIGHT"
+        }
+      ],
+      "urls": [
+        {
+          "description": "After nearly four months of having a short cover on this channel, I finally went for the whole song! Music by @L4MPLIGHT https://lamplight0.sakura.ne.jp/a/Li...",
+          "display_url": "youtu.be/Jr9GO13LwHQ",
+          "end": 115,
+          "expanded_url": "https://youtu.be/Jr9GO13LwHQ",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 92,
+          "status": 200,
+          "title": "@L4MPLIGHT - Caftaphata (FULL BASS COVER)",
+          "unwound_url": "https://www.youtube.com/watch?v=Jr9GO13LwHQ&feature=youtu.be",
+          "url": "https://t.co/jtLrUd1P3s"
+        },
+        {
+          "display_url": "pic.x.com/re35FKIaxw",
+          "end": 139,
+          "expanded_url": "https://x.com/KARL_wthaK/status/1974182664010936725/video/1",
+          "media_key": "13_1974179770926538752",
+          "start": 116,
+          "url": "https://t.co/re35FKIaxw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977646277749014939",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974182664010936725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KARL_wthaK: Four months later, I finally (fully) covered it. \n\n@L4MPLIGHT - Caftaphata\n\nhttps://t.co/jtLrUd1P3s https://t.co/re35FKIaxw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 317583,
+        "height": 720,
+        "media_key": "13_1974179770926538752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1974179770926538752/img/emMDPDxYH7xI4XEG.jpg",
+        "public_metrics": {
+          "view_count": 466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974179770926538752/vid/avc1/480x270/UMCoqCzI8xuK5nhN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974179770926538752/vid/avc1/640x360/3_kUwXYcBCW6dfSf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1974179770926538752/vid/avc1/1280x720/NsWxz_9QcA6rV1SD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1974179770926538752/pl/NciG4QJHQhxFreNp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974179770926538752"
+          ],
+          "media_source_tweet_id": [
+            "1974182664010936725"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1977646277749014939",
+        "created_at": "2025-10-13T08:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977646277749014939"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "Caftaphata",
+              "probability": 0.4317,
+              "start": 80,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1895290380",
+              "start": 3,
+              "username": "KARL_wthaK"
+            },
+            {
+              "end": 77,
+              "id": "2978696041",
+              "start": 67,
+              "username": "L4MPLIGHT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "After nearly four months of having a short cover on this channel, I finally went for the whole song! Music by @L4MPLIGHT https://lamplight0.sakura.ne.jp/a/Li...",
+              "display_url": "youtu.be/Jr9GO13LwHQ",
+              "end": 115,
+              "expanded_url": "https://youtu.be/Jr9GO13LwHQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "@L4MPLIGHT - Caftaphata (FULL BASS COVER)",
+              "unwound_url": "https://www.youtube.com/watch?v=Jr9GO13LwHQ&feature=youtu.be",
+              "url": "https://t.co/jtLrUd1P3s"
+            },
+            {
+              "display_url": "pic.x.com/re35FKIaxw",
+              "end": 139,
+              "expanded_url": "https://x.com/KARL_wthaK/status/1974182664010936725/video/1",
+              "media_key": "13_1974179770926538752",
+              "start": 116,
+              "url": "https://t.co/re35FKIaxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977646277749014939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974182664010936725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KARL_wthaK: Four months later, I finally (fully) covered it. \n\n@L4MPLIGHT - Caftaphata\n\nhttps://t.co/jtLrUd1P3s https://t.co/re35FKIaxw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1974179770926538752"
+          ]
+        },
+        "author_id": "1895290380",
+        "conversation_id": "1974182664010936725",
+        "created_at": "2025-10-03T18:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T19:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974182664010936725"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Caftaphata",
+              "probability": 0.4548,
+              "start": 64,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "2978696041",
+              "start": 51,
+              "username": "L4MPLIGHT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "After nearly four months of having a short cover on this channel, I finally went for the whole song! Music by @L4MPLIGHT https://lamplight0.sakura.ne.jp/a/Li...",
+              "display_url": "youtu.be/Jr9GO13LwHQ",
+              "end": 99,
+              "expanded_url": "https://youtu.be/Jr9GO13LwHQ",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974182667357945856/XGOLns8D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "@L4MPLIGHT - Caftaphata (FULL BASS COVER)",
+              "unwound_url": "https://www.youtube.com/watch?v=Jr9GO13LwHQ&feature=youtu.be",
+              "url": "https://t.co/jtLrUd1P3s"
+            },
+            {
+              "display_url": "pic.x.com/re35FKIaxw",
+              "end": 123,
+              "expanded_url": "https://x.com/KARL_wthaK/status/1974182664010936725/video/1",
+              "media_key": "13_1974179770926538752",
+              "start": 100,
+              "url": "https://t.co/re35FKIaxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974182664010936725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2975,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Four months later, I finally (fully) covered it. \n\n@L4MPLIGHT - Caftaphata\n\nhttps://t.co/jtLrUd1P3s https://t.co/re35FKIaxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 760,
+          "like_count": 2984,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1232
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-22T22:42:52.000Z",
+        "description": "Music Producer / Rhythm Gamer | Worked on: DanceDanceRevolution XX | Working on: Project Solar Beat | Commissions: https://t.co/XkxCEbQbIn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "VGen.co/Karl_with_a_K",
+                "end": 138,
+                "expanded_url": "http://VGen.co/Karl_with_a_K",
+                "start": 115,
+                "url": "https://t.co/XkxCEbQbIn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl-with-a-k.weebly.com",
+                "end": 23,
+                "expanded_url": "http://karl-with-a-k.weebly.com",
+                "start": 0,
+                "url": "https://t.co/vymKMM4chc"
+              }
+            ]
+          }
+        },
+        "id": "1895290380",
+        "location": "Matawan, NJ",
+        "name": "Karl with a K",
+        "pinned_tweet_id": "1977397760044212618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601567446456041472/sk3-GgPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 1638,
+          "like_count": 17549,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/vymKMM4chc",
+        "username": "KARL_wthaK",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-13T06:13:16.000Z",
+        "description": "LΛMPLIGHT (ランプライト) の最新情報をお知らせします。\n普段はこちらにいます:\n🎶 @lamplight_music (微分音･音楽)\n🔠 @lamplight_lang (言語創作･言語学)\nこの動画を見ればだいたいどんな人か分かると思います。\nhttps://t.co/ChLaA51v1v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "lamplight_music"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "lamplight_lang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=cMnuMj…",
+                "end": 153,
+                "expanded_url": "https://www.youtube.com/watch?v=cMnuMjXeHrY&list=PLUPfWiftqUrJPPFqMXo1UI8k78kYN0ogV&index=1",
+                "start": 130,
+                "url": "https://t.co/ChLaA51v1v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamplight0.sakura.ne.jp/a/",
+                "end": 23,
+                "expanded_url": "https://lamplight0.sakura.ne.jp/a/",
+                "start": 0,
+                "url": "https://t.co/tFsa4GBp1c"
+              }
+            ]
+          }
+        },
+        "id": "2978696041",
+        "name": "LΛMPLIGHT (詳細は自己紹介欄を)",
+        "pinned_tweet_id": "1857766033647612209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857727970816962560/ndhXXPD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 3,
+          "like_count": 180,
+          "listed_count": 7,
+          "media_count": 19,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/tFsa4GBp1c",
+        "username": "L4MPLIGHT",
+        "verified": false
+      }
+    ]
+  }
+}

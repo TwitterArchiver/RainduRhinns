@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2008879101449548045",
+    "created_at": "2026-01-07T12:31:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T13:31:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008879101449548045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008879101449548045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2025年个人阅读神经生理与神经药理论文十佳(1)\n美国国立卫生研究院艾泊霉素-B诱导中枢神经系统轴突再生的原位结构机制\n\n哈佛大学庄小威团队神经元膜相关周期性骨架由钙信号介导发生持续性重塑\n\n长春应化所王晓辉团队改造氯胺酮与北京脑所罗敏敏发现腺苷Adenosine通路快速抗抑郁机制(两篇算一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2008879101449548045",
+        "created_at": "2026-01-07T12:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T13:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008879101449548045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008879101449548045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年个人阅读神经生理与神经药理论文十佳(1)\n美国国立卫生研究院艾泊霉素-B诱导中枢神经系统轴突再生的原位结构机制\n\n哈佛大学庄小威团队神经元膜相关周期性骨架由钙信号介导发生持续性重塑\n\n长春应化所王晓辉团队改造氯胺酮与北京脑所罗敏敏发现腺苷Adenosine通路快速抗抑郁机制(两篇算一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 872,
+          "like_count": 3677,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1850
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

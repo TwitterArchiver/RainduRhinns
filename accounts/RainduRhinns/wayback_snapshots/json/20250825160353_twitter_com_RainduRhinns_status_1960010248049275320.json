@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1953463102563057774",
+    "created_at": "2025-08-25T16:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T17:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960010248049275320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885642825838256128",
+          "start": 0,
+          "username": "AoWuChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960010248049275320",
+    "in_reply_to_user_id": "1885642825838256128",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953463102563057774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AoWuChan Pretty 😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_1953463097488027648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxwYVlebsAAmEuA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1953463102563057774",
+        "created_at": "2025-08-25T16:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960010248049275320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885642825838256128",
+              "start": 0,
+              "username": "AoWuChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960010248049275320",
+        "in_reply_to_user_id": "1885642825838256128",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953463102563057774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AoWuChan Pretty 😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953463097488027648"
+          ]
+        },
+        "author_id": "1885642825838256128",
+        "conversation_id": "1953463102563057774",
+        "created_at": "2025-08-07T14:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T15:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953463102563057774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1WADcC8Gy",
+              "end": 70,
+              "expanded_url": "https://x.com/AoWuChan/status/1953463102563057774/photo/1",
+              "media_key": "3_1953463097488027648",
+              "start": 47,
+              "url": "https://t.co/A1WADcC8Gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953463102563057774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3947,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼哥哥～怎么一直盯着我的屁股流口水？嫌弃₍₍ (̨̡ ‾᷄ᗣ‾᷅ )̧̢ ₎₎ \n#男の娘 https://t.co/A1WADcC8Gy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 678,
+          "like_count": 2767,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 737
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:54:27.000Z",
+        "description": "这里是嗷呜酱(19yo)的推特",
+        "id": "1885642825838256128",
+        "name": "嗷呜重生版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885643329804836864/Y07EL9fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 14,
+          "like_count": 6,
+          "listed_count": 3,
+          "media_count": 12,
+          "tweet_count": 23
+        },
+        "username": "AoWuChan",
+        "verified": false
+      }
+    ]
+  }
+}

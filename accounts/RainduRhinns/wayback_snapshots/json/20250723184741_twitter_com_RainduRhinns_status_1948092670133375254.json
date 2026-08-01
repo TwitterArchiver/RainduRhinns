@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1948092670133375254",
+    "created_at": "2025-07-23T18:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T19:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948092670133375254"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lokesh4002/sta…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/lokesh4002/status/1948085695093903380",
+          "start": 98,
+          "url": "https://t.co/8Xfv1y8UmY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948092670133375254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948085695093903380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【本人征婚】\n本人男，98年10月生，天津人，非独生子女，无车有房，身高186体重87kg，地下工作者，抽烟喝酒，喜欢亲嘴之外任何形式的贴贴\n要求：17-27岁身高180以下 每个月至少能见五天 https://t.co/8Xfv1y8UmY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1948092670133375254",
+        "created_at": "2025-07-23T18:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T19:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948092670133375254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lokesh4002/sta…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/lokesh4002/status/1948085695093903380",
+              "start": 98,
+              "url": "https://t.co/8Xfv1y8UmY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948092670133375254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948085695093903380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【本人征婚】\n本人男，98年10月生，天津人，非独生子女，无车有房，身高186体重87kg，地下工作者，抽烟喝酒，喜欢亲嘴之外任何形式的贴贴\n要求：17-27岁身高180以下 每个月至少能见五天 https://t.co/8Xfv1y8UmY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958587661240950785",
+        "conversation_id": "1948085695093903380",
+        "created_at": "2025-07-23T18:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T19:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948085695093903380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/m210maxensesio…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/m210maxensesion/status/1947848122685657112",
+              "start": 99,
+              "url": "https://t.co/U04rxSIdxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948085695093903380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947848122685657112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【本人征婚】\n本人男，04年3月生，天津人，独生子女，无车无房，身高172体重86kg，地下工作者，不抽烟不喝酒，喜欢任何形式的贴贴\n要求: 17-20岁 200斤以下 和我同城 最好是市内 没了 https://t.co/U04rxSIdxt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 622,
+          "like_count": 2543,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 448
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T06:28:02.000Z",
+        "description": "不谈政治/福瑞控/简中/繁中👌English👌/地铁打工人/gay/是0/可约/可以扩列/需要回关可以私信/里推🔞：@jameshelen114 /telegram:https://t.co/t1D6lCHwHl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "jameshelen114"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/jameshelen0324",
+                "end": 106,
+                "expanded_url": "http://t.me/jameshelen0324",
+                "start": 83,
+                "url": "https://t.co/t1D6lCHwHl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/pNjeo7lm9O"
+              }
+            ]
+          }
+        },
+        "id": "958587661240950785",
+        "location": "天津",
+        "name": "James Helen🔜 绒兽汇（天津）",
+        "pinned_tweet_id": "1945910775161438363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894737836009783297/Z2tGBtkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8168,
+          "following_count": 3954,
+          "like_count": 41649,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 17940
+        },
+        "url": "https://t.co/pNjeo7lm9O",
+        "username": "lokesh4002",
+        "verified": false
+      }
+    ]
+  }
+}

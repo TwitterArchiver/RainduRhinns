@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2051674713802637499",
+    "created_at": "2026-05-05T14:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051674713802637499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/raindurhinns/status/2051613956050190606",
+          "start": 142,
+          "url": "https://t.co/1aejWEXFd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051674713802637499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051613956050190606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个世界上让我成瘾的东西可能只有为了逃避无聊导致的心瘾。。除了一些我不敢尝试的东西 与其说究竟是什么人能在从圣殿归来后仍满足于身心一体的自我与现实 不如说究竟是什么人能在身溶万物之后仍然不觉得一切自我活动只是在追求终极超越的唯一本能中产生的无意识的产物 像呼吸一样贯彻生命又如不存在 https://t.co/1aejWEXFd5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2051674713802637499",
+        "created_at": "2026-05-05T14:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051674713802637499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/raindurhinns/status/2051613956050190606",
+              "start": 142,
+              "url": "https://t.co/1aejWEXFd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051674713802637499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051613956050190606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界上让我成瘾的东西可能只有为了逃避无聊导致的心瘾。。除了一些我不敢尝试的东西 与其说究竟是什么人能在从圣殿归来后仍满足于身心一体的自我与现实 不如说究竟是什么人能在身溶万物之后仍然不觉得一切自我活动只是在追求终极超越的唯一本能中产生的无意识的产物 像呼吸一样贯彻生命又如不存在 https://t.co/1aejWEXFd5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2051613956050190606",
+        "created_at": "2026-05-05T10:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051613956050190606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051613956050190606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么各种阿片对我几乎没什么戒断反应，除了能让我昏睡20个小时然后长时间困倦以外并没有足够欣快感和娱乐…最多就是一种打哈欠的愉悦感，普瑞对我也没有任何戒断不过普瑞对我也几乎没有药效，尽管只吃过个位数次但只有一两次能感到似乎在药效里…兴奋剂也基本全部会让我犯恶心难道我真是od困难体质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 896,
+          "like_count": 4285,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 2388
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

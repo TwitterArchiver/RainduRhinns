@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948833982268796928"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1948833995401429168",
+    "created_at": "2025-07-25T19:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T20:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948833995401429168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QZ0jE6YMbu",
+          "end": 97,
+          "expanded_url": "https://x.com/RainduRhinns/status/1948833995401429168/photo/1",
+          "media_key": "3_1948833982268796928",
+          "start": 74,
+          "url": "https://t.co/QZ0jE6YMbu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948833995401429168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "德国 现象学精神病理学PhänomenologiePsycopathologie这个进路很适合ODer解释作为自身机制的语言 /作为自身语言的机制 https://t.co/QZ0jE6YMbu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_1948833982268796928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwumLndXcAAeLE-.jpg",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948833982268796928"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1948833995401429168",
+        "created_at": "2025-07-25T19:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948833995401429168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZ0jE6YMbu",
+              "end": 97,
+              "expanded_url": "https://x.com/RainduRhinns/status/1948833995401429168/photo/1",
+              "media_key": "3_1948833982268796928",
+              "start": 74,
+              "url": "https://t.co/QZ0jE6YMbu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948833995401429168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "德国 现象学精神病理学PhänomenologiePsycopathologie这个进路很适合ODer解释作为自身机制的语言 /作为自身语言的机制 https://t.co/QZ0jE6YMbu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 627,
+          "like_count": 2570,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 461
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

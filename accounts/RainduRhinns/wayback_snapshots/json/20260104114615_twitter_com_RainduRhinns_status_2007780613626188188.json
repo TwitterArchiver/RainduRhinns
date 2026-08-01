@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007780596727382016"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "2007780613626188188",
+    "created_at": "2026-01-04T11:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T12:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007780613626188188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Nature Mental Health - This Comment proposes a receptor-informed, neuroimaging-integrated framework for guiding personalized, mechanism-based psychedelic therapies.",
+          "display_url": "nature.com/articles/s4422…",
+          "end": 92,
+          "expanded_url": "https://www.nature.com/articles/s44220-025-00551-y",
+          "images": [
+            {
+              "height": 1960,
+              "url": "https://pbs.twimg.com/news_img/2007780628192985088/rW-U0DVG?format=jpg&name=orig",
+              "width": 1061
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007780628192985088/rW-U0DVG?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "Not all psychedelics are created equal",
+          "unwound_url": "https://www.nature.com/articles/s44220-025-00551-y?error=cookies_not_supported&code=009877fc-2899-48ee-a232-d8ee518dcf64",
+          "url": "https://t.co/IeouLIldx7"
+        },
+        {
+          "display_url": "pic.x.com/qBEN1JpzFU",
+          "end": 116,
+          "expanded_url": "https://x.com/RainduRhinns/status/2007780613626188188/photo/1",
+          "media_key": "3_2007780596727382016",
+          "start": 93,
+          "url": "https://t.co/qBEN1JpzFU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007780613626188188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "通过将高分辨率的 PET 受体密度图与 fMRI 功能连接数据结合并综合主观体验特征建立的致幻剂多受体作用的综合表征评估模型\n很新的文章\nhttps://t.co/IeouLIldx7 https://t.co/qBEN1JpzFU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_2007780596727382016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90R0KbbgAA4gBh.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007780596727382016"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "2007780613626188188",
+        "created_at": "2026-01-04T11:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T12:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007780613626188188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nature Mental Health - This Comment proposes a receptor-informed, neuroimaging-integrated framework for guiding personalized, mechanism-based psychedelic therapies.",
+              "display_url": "nature.com/articles/s4422…",
+              "end": 92,
+              "expanded_url": "https://www.nature.com/articles/s44220-025-00551-y",
+              "images": [
+                {
+                  "height": 1960,
+                  "url": "https://pbs.twimg.com/news_img/2007780628192985088/rW-U0DVG?format=jpg&name=orig",
+                  "width": 1061
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007780628192985088/rW-U0DVG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "Not all psychedelics are created equal",
+              "unwound_url": "https://www.nature.com/articles/s44220-025-00551-y?error=cookies_not_supported&code=009877fc-2899-48ee-a232-d8ee518dcf64",
+              "url": "https://t.co/IeouLIldx7"
+            },
+            {
+              "display_url": "pic.x.com/qBEN1JpzFU",
+              "end": 116,
+              "expanded_url": "https://x.com/RainduRhinns/status/2007780613626188188/photo/1",
+              "media_key": "3_2007780596727382016",
+              "start": 93,
+              "url": "https://t.co/qBEN1JpzFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007780613626188188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通过将高分辨率的 PET 受体密度图与 fMRI 功能连接数据结合并综合主观体验特征建立的致幻剂多受体作用的综合表征评估模型\n很新的文章\nhttps://t.co/IeouLIldx7 https://t.co/qBEN1JpzFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 871,
+          "like_count": 3649,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

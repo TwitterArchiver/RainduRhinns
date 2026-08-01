@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2003393404647227849",
+    "created_at": "2025-12-23T09:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003393404647227849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blueicesamaowo…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/blueicesamaowo/status/2003298864498085980",
+          "start": 17,
+          "url": "https://t.co/lNpOiP4qXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003393404647227849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003298864498085980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们想给正太爆米都不成功的坐哪桌 https://t.co/lNpOiP4qXX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2003393404647227849",
+        "created_at": "2025-12-23T09:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003393404647227849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blueicesamaowo…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/blueicesamaowo/status/2003298864498085980",
+              "start": 17,
+              "url": "https://t.co/lNpOiP4qXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003393404647227849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003298864498085980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们想给正太爆米都不成功的坐哪桌 https://t.co/lNpOiP4qXX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998983271640870913",
+        "conversation_id": "2003298864498085980",
+        "created_at": "2025-12-23T02:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003298864498085980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003298864498085980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10853,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "抛开金钱与性不谈\n我看到了他强悍的营业和炒作能力\n有这流量搞墙内都赚的盆满钵满了\n所以谁给我三万块🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 870,
+          "like_count": 3576,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:08:57.000Z",
+        "description": "🏳️‍🌈男同/INFJ-T/Apple全肯定bot/中文·日本語·ENG/网蓝/杂学分享·碎碎念·生活账/三倍厚袜/不涉政/里@blueicesamaQWQ /本号关注不代表本人立场 推止于推/反无纸化/反AI滥用 本账号所有内容均未经AI生成或润色",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "blueicesamaQWQ"
+              }
+            ]
+          }
+        },
+        "id": "1998983271640870913",
+        "location": "「落し水  岐れて細き  川生る」",
+        "name": "蓝冰冰冰蓝蓝（二代目）→互关寻回",
+        "pinned_tweet_id": "1998986143015268646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998983393892274176/RtE8BagF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 623,
+          "like_count": 684,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 131
+        },
+        "username": "blueicesamaOwO",
+        "verified": false
+      }
+    ]
+  }
+}

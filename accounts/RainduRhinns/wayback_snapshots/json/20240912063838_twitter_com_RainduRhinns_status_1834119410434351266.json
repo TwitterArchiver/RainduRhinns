@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1586541255433269248",
+    "created_at": "2024-09-12T06:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T07:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834119410434351266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "844713009306112001",
+          "start": 0,
+          "username": "shuilovesbooks"
+        },
+        {
+          "end": 32,
+          "id": "1272405078683430913",
+          "start": 16,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834119410434351266",
+    "in_reply_to_user_id": "844713009306112001",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1586541255433269248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuilovesbooks @PaitangOfficial 定位本来就是引三周为主的前人的结果综合导论…当然黎很讨厌兰这种人，实事上在晋升锦标赛之后兰主要引用的几位立场也趋于对立了。至于土地、三农问题水平都远不如华生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1586541255433269248",
+        "created_at": "2024-09-12T06:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834119410434351266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "844713009306112001",
+              "start": 0,
+              "username": "shuilovesbooks"
+            },
+            {
+              "end": 32,
+              "id": "1272405078683430913",
+              "start": 16,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834119410434351266",
+        "in_reply_to_user_id": "844713009306112001",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1586541255433269248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuilovesbooks @PaitangOfficial 定位本来就是引三周为主的前人的结果综合导论…当然黎很讨厌兰这种人，实事上在晋升锦标赛之后兰主要引用的几位立场也趋于对立了。至于土地、三农问题水平都远不如华生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "844713009306112001",
+        "conversation_id": "1586541255433269248",
+        "created_at": "2022-10-30T02:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2022-10-30T02:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1586541255433269248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1586541255433269248",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 0,
+          "like_count": 382,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "感觉《置身事内》这本书过誉了，隔靴搔痒啥都没有，豆瓣居然9.1高分，离周雪光、周飞舟、周黎安的几本书还是有很大距离的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top 喜欢无毛正太弟弟 PhD可以无偿辅导小男孩数学语言学竞赛（确信",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 150,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 42
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-23T00:50:50.000Z",
+        "description": "Bookworm ｜Learning Machine ｜Science and Tech Curiosity ,Empathy,Passion, open to new things",
+        "id": "844713009306112001",
+        "location": "Beijing",
+        "name": "思無",
+        "pinned_tweet_id": "1794763063473647681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729651831884947458/cnlYjXbA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5460,
+          "following_count": 311,
+          "like_count": 4196,
+          "listed_count": 39,
+          "tweet_count": 1545
+        },
+        "username": "shuilovesbooks",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "ADHD和抑郁症患者的耶稣",
+        "id": "1272405078683430913",
+        "name": "🏴⬜️葉經理不是ADHD之王",
+        "pinned_tweet_id": "1826563567556121041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826679087383158784/NTFTJ9RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8145,
+          "following_count": 400,
+          "like_count": 5495,
+          "listed_count": 24,
+          "tweet_count": 9507
+        },
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

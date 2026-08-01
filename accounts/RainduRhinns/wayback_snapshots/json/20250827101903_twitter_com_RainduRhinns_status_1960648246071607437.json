@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1960648246071607437",
+    "created_at": "2025-08-27T10:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T11:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960648246071607437"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1960648246071607437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想想开始的那几届全国高联和四大竞赛还挺感人的，大家还都是没怎么接触过网络的普通中学生也不知道什么二代保送身份背景，那些从小城市到省会的孩子和带着身后几代人的权力罪恶斗争恐惧的孩子们互相看着彼此眼中的理想热爱。我知道等我们看清这世界后我们就走散了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1960648246071607437",
+        "created_at": "2025-08-27T10:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T11:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960648246071607437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960648246071607437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想想开始的那几届全国高联和四大竞赛还挺感人的，大家还都是没怎么接触过网络的普通中学生也不知道什么二代保送身份背景，那些从小城市到省会的孩子和带着身后几代人的权力罪恶斗争恐惧的孩子们互相看着彼此眼中的理想热爱。我知道等我们看清这世界后我们就走散了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 687,
+          "like_count": 2776,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 760
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

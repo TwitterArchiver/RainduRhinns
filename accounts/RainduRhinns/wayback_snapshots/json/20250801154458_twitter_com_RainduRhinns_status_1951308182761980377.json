@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1951308182761980377",
+    "created_at": "2025-08-01T15:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951308182761980377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1951307998141333679",
+          "start": 13,
+          "url": "https://t.co/r1rEGDdfER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951308182761980377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951307998141333679",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "缺点是氙气真的很贵哈哈。 https://t.co/r1rEGDdfER"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1951308182761980377",
+        "created_at": "2025-08-01T15:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951308182761980377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1951307998141333679",
+              "start": 13,
+              "url": "https://t.co/r1rEGDdfER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951308182761980377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951307998141333679",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺点是氙气真的很贵哈哈。 https://t.co/r1rEGDdfER"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1951307998141333679",
+        "created_at": "2025-08-01T15:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951307998141333679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951307998141333679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "O任何解离剂谵妄剂都不如单纯联用氙气，已知最强的血脑屏障穿透能力作为气体还不进入肝肾代谢，几乎配合任何药物都能放大其本身近od效还不会导致过量的复杂体内相互反应蝴蝶效应，配合美金刚金刚烷胺使用已经有大量临床实践和专利，氙气甚至还保护神经元增强造血细胞能力（都有证实的临床使用效果）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 639,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 543
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

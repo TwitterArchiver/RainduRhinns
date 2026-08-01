@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821139750134423552"
+      ],
+      "media_source_tweet_id": [
+        "1821139840970481689"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1893108840444444848",
+    "created_at": "2025-02-22T01:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T02:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893108840444444848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1782181491122053120",
+          "start": 3,
+          "username": "2831216698Susu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AN8lEc8CyG",
+          "end": 66,
+          "expanded_url": "https://x.com/2831216698Susu/status/1821139840970481689/photo/1",
+          "media_key": "3_1821139750134423552",
+          "start": 43,
+          "url": "https://t.co/AN8lEc8CyG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893108840444444848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821139840970481689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2831216698Susu: 停更～\n打工赚饭钱去了～\n有饭吃再回来更新～ https://t.co/AN8lEc8CyG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1893108840444444848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1893108840444444848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1893108840444444848"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2252,
+        "media_key": "3_1821139750134423552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUX89DUbIAA1Sth.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821139750134423552"
+          ]
+        },
+        "author_id": "1782181491122053120",
+        "conversation_id": "1821139840970481689",
+        "created_at": "2024-08-07T11:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T12:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821139840970481689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AN8lEc8CyG",
+              "end": 46,
+              "expanded_url": "https://x.com/2831216698Susu/status/1821139840970481689/photo/1",
+              "media_key": "3_1821139750134423552",
+              "start": 23,
+              "url": "https://t.co/AN8lEc8CyG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821139840970481689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12086,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "停更～\n打工赚饭钱去了～\n有饭吃再回来更新～ https://t.co/AN8lEc8CyG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot 男德用户！",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 432,
+          "like_count": 1405,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 190
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T22:56:07.000Z",
+        "description": "#矮，胖，黑，丑，高P，滤镜怪 #蟹蟹老师帮我转推哇  #分身 @susu9cm    #私信过🚪获取绿泡泡  #love is love ～ #If you are under eighteen～please leave～ #Singapore",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "矮"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "tag": "蟹蟹老师帮我转推哇"
+              },
+              {
+                "end": 31,
+                "start": 28,
+                "tag": "分身"
+              },
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "私信过"
+              },
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "love"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "If"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "tag": "Singapore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 32,
+                "username": "susu9cm"
+              }
+            ]
+          }
+        },
+        "id": "1782181491122053120",
+        "location": "Singapore",
+        "name": "小土豆",
+        "pinned_tweet_id": "1817717346385162460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816628926367801344/t_7W6leb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 1361,
+          "like_count": 8225,
+          "listed_count": 6,
+          "media_count": 39,
+          "tweet_count": 83
+        },
+        "username": "2831216698Susu",
+        "verified": false
+      }
+    ]
+  }
+}

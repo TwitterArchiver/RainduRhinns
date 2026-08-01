@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1969744212653670710",
+    "created_at": "2025-09-21T15:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969792566280253797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969792566280253797",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969744212653670710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 1g太超过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1735,
+        "media_key": "3_1969744209495359488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Xv7CFagAA_nMo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1969744212653670710",
+        "created_at": "2025-09-21T15:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969792566280253797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969792566280253797",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969744212653670710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 1g太超过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969744209495359488"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1969744212653670710",
+        "created_at": "2025-09-21T12:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969744212653670710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qnytCGne2",
+              "end": 45,
+              "expanded_url": "https://x.com/overdose_six/status/1969744212653670710/photo/1",
+              "media_key": "3_1969744209495359488",
+              "start": 22,
+              "url": "https://t.co/8qnytCGne2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969744212653670710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20：40 苄达明初体验 1g以下接近1g https://t.co/8qnytCGne2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 729,
+          "like_count": 2865,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 968
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "百科:https://t.co/BlAoDIjZjK 提问箱:https://t.co/b5c8bbntR6 里推:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "http://overdose.day",
+                "start": 3,
+                "url": "https://t.co/BlAoDIjZjK"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 54,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 31,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjZjK"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968299927244775424/_No7YTKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 191,
+          "like_count": 7314,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/BlAoDIjZjK",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

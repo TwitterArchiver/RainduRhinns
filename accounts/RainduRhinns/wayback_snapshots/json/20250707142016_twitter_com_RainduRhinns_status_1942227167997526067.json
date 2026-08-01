@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937892559659188224"
+      ],
+      "media_source_tweet_id": [
+        "1937892562846826596"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942227167997526067",
+    "created_at": "2025-07-07T14:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T15:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942227167997526067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627622476476981248",
+          "start": 3,
+          "username": "xp250627"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AEbAJ1kiTH",
+          "end": 55,
+          "expanded_url": "https://x.com/AleshiaNatasha/status/1937892562846826596/photo/1",
+          "media_key": "3_1937892559659188224",
+          "start": 32,
+          "url": "https://t.co/AEbAJ1kiTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942227167997526067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937892562846826596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xp250627: 還在調理賬號( ๑ŏ ﹏ ŏ๑ ) https://t.co/AEbAJ1kiTH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942227167997526067].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942227167997526067",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942227167997526067"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1937892559659188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTHA_9bwAAUl9L.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937892559659188224"
+          ]
+        },
+        "author_id": "1627622476476981248",
+        "conversation_id": "1937892562846826596",
+        "created_at": "2025-06-25T15:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T16:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937892562846826596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEbAJ1kiTH",
+              "end": 41,
+              "expanded_url": "https://x.com/AleshiaNatasha/status/1937892562846826596/photo/1",
+              "media_key": "3_1937892559659188224",
+              "start": 18,
+              "url": "https://t.co/AEbAJ1kiTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937892562846826596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8214,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "還在調理賬號( ๑ŏ ﹏ ŏ๑ ) https://t.co/AEbAJ1kiTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 603,
+          "like_count": 2380,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 380
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-20T10:53:41.000Z",
+        "description": "復活了嗎_(:зゝ∠)_",
+        "id": "1627622476476981248",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937889475205668864/kaIE-Uj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 42
+        },
+        "username": "xp250627",
+        "verified": false
+      }
+    ]
+  }
+}

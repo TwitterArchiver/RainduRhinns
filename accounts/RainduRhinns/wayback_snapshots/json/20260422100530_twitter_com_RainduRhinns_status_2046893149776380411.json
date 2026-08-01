@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2046893149776380411",
+    "created_at": "2026-04-22T10:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T11:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046893149776380411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/exusiai159/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/exusiai159/status/2046843433755754847",
+          "start": 2,
+          "url": "https://t.co/YhXWee7mHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046893149776380411",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046843433755754847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😨 https://t.co/YhXWee7mHR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2046893149776380411",
+        "created_at": "2026-04-22T10:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046893149776380411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/exusiai159/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/exusiai159/status/2046843433755754847",
+              "start": 2,
+              "url": "https://t.co/YhXWee7mHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046893149776380411",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046843433755754847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😨 https://t.co/YhXWee7mHR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1253165636210978817",
+        "conversation_id": "2046843433755754847",
+        "created_at": "2026-04-22T06:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046843433755754847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046843433755754847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5932,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "迷路的牙刷是不是出什么事了\n我怎么看到好几个群在转他的瓜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 894,
+          "like_count": 4179,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "二正控，中推鹿野灸和能天使粉丝头子\n｜可能是FURRY，也可能不是｜性取向不知道｜已有恋爱对象｜会转发NSFW🔞，如有介意请不要关注｜推特用来当日记本记录碎碎念｜数码产品爱好者，半个车迷｜大胃袋，只要有好吃的就会原谅这个世界｜政治犬儒主义｜禁极端歧视仇恨言论｜避难所@Exusiai159_2｜扩列可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "Exusiai159_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "http://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/z598x1t5k0"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎国 姜齐",
+        "name": "一只能天使",
+        "pinned_tweet_id": "1925197266241077292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038491912714526720/GnORbE2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5181,
+          "following_count": 6870,
+          "like_count": 183637,
+          "listed_count": 11,
+          "media_count": 5263,
+          "tweet_count": 55281
+        },
+        "url": "https://t.co/z598x1t5k0",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

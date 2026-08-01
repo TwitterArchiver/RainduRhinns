@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2060012314364153931",
+    "created_at": "2026-05-28T14:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T15:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060012314364153931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060012314364153931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059997003745288239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 大家都要幸福！\n不要丢失笑容！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2060012314364153931",
+        "created_at": "2026-05-28T14:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060012314364153931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060012314364153931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059997003745288239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 大家都要幸福！\n不要丢失笑容！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2059997003745288239",
+        "created_at": "2026-05-28T13:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059997003745288239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059997003745288239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家都要幸福！\n不要丢失笑容！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 911,
+          "like_count": 4493,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是会实现梦想和希望的\n所以请你笑一下吧",
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2059997003745288239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 944,
+          "like_count": 28618,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 4151
+        },
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

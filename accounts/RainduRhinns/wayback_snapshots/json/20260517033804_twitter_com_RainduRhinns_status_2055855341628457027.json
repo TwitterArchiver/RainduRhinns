@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2055660091500814534",
+    "created_at": "2026-05-17T03:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T04:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055855341628457027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512623953461710848",
+          "start": 0,
+          "username": "ZzzzSwain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055855341628457027",
+    "in_reply_to_user_id": "1512623953461710848",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055840579498791240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzzzSwain ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2055840579498791240].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2055840579498791240",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2055840579498791240"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2055660091500814534",
+        "created_at": "2026-05-17T03:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055855341628457027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512623953461710848",
+              "start": 0,
+              "username": "ZzzzSwain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055855341628457027",
+        "in_reply_to_user_id": "1512623953461710848",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055840579498791240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzzzSwain ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 909,
+          "like_count": 4433,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-09T02:50:36.000Z",
+        "description": "173/60/42.5-43，普通学生，在北京二环内，暑假回成都或旅游，农，双向，喜欢敏感反差的牛，可能不是sm更偏羞耻控调教吧，frot，sneaker，🚲，不10。 推止于推，只是随便发发视频，请不要到处bb，大部分时间锁推 ins: zzzzswain",
+        "id": "1512623953461710848",
+        "location": "北京/成都",
+        "name": "SwainZzzz",
+        "pinned_tweet_id": "1690541878461292544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619505550915702785/rWNoAI06_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4393,
+          "following_count": 7493,
+          "like_count": 2648,
+          "listed_count": 15,
+          "media_count": 416,
+          "tweet_count": 1380
+        },
+        "username": "ZzzzSwain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1961701467481620525",
+    "created_at": "2025-09-01T05:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962387595503227227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962387595503227227",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961776217801232772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi 别骂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1961701467481620525",
+        "created_at": "2025-09-01T05:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962387595503227227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962387595503227227",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961776217801232772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi 别骂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "1961701467481620525",
+        "created_at": "2025-08-30T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961776217801232772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961776217801232772",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961720243375718692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 700,
+          "like_count": 2779,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 798
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "骂我先骂@natsutooi | 现在最大的成分是网哲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "natsutooi"
+              }
+            ]
+          }
+        },
+        "id": "1185431906436804608",
+        "name": "拒绝服药的精神病人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 903,
+          "like_count": 48035,
+          "listed_count": 3,
+          "media_count": 1067,
+          "tweet_count": 22980
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

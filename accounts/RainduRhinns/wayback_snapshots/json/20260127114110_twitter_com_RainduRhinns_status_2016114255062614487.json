@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2016112107830575399",
+    "created_at": "2026-01-27T11:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T12:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016114255062614487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016114255062614487",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016112107830575399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 这是什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2016112105221664768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_qrRyMaMAA6nZF.jpg",
+        "width": 1120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2016112107830575399",
+        "created_at": "2026-01-27T11:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016114255062614487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016114255062614487",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016112107830575399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 这是什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016112105221664768"
+          ]
+        },
+        "author_id": "1892114014563598339",
+        "conversation_id": "2016112107830575399",
+        "created_at": "2026-01-27T11:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T12:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016112107830575399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4Zr8ujmqN",
+              "end": 40,
+              "expanded_url": "https://x.com/3He2_Ka1R0/status/2016112107830575399/photo/1",
+              "media_key": "3_2016112105221664768",
+              "start": 17,
+              "url": "https://t.co/a4Zr8ujmqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016112107830575399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不明白某些人对硅藻猪哈气什么🙄🙄 https://t.co/a4Zr8ujmqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 880,
+          "like_count": 3675,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2006743967904489953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 414,
+          "like_count": 80209,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 3370
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

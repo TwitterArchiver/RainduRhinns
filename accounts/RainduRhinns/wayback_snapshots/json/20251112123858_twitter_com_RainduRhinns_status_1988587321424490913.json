@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1988587321424490913",
+    "created_at": "2025-11-12T12:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T13:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988587321424490913"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/scarfrard/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/scarfrard/status/1985003120506609876",
+          "start": 10,
+          "url": "https://t.co/c6Cukr24nK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988587321424490913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985003120506609876",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想你了鸡胃妈妈爱你 https://t.co/c6Cukr24nK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_1985003110952062976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wlz_pX0AAxKZ1.jpg",
+        "width": 600
+      },
+      {
+        "height": 450,
+        "media_key": "3_1985003110926884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wlz_jXoAAYX82.jpg",
+        "width": 600
+      },
+      {
+        "height": 449,
+        "media_key": "3_1985003110998192128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wlz_0XsAAlat5.jpg",
+        "width": 600
+      },
+      {
+        "height": 450,
+        "media_key": "3_1985003110931079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wlz_kXoAAyyAd.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1988587321424490913",
+        "created_at": "2025-11-12T12:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T13:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988587321424490913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/scarfrard/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/scarfrard/status/1985003120506609876",
+              "start": 10,
+              "url": "https://t.co/c6Cukr24nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988587321424490913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985003120506609876",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想你了鸡胃妈妈爱你 https://t.co/c6Cukr24nK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985003110952062976",
+            "3_1985003110926884864",
+            "3_1985003110998192128",
+            "3_1985003110931079168"
+          ]
+        },
+        "author_id": "1889635427172417536",
+        "conversation_id": "1985003120506609876",
+        "created_at": "2025-11-02T15:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985003120506609876"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "gerard",
+              "probability": 0.4731,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IuJwzlmxOz",
+              "end": 65,
+              "expanded_url": "https://x.com/scarfrard/status/1985003120506609876/photo/1",
+              "media_key": "3_1985003110952062976",
+              "start": 42,
+              "url": "https://t.co/IuJwzlmxOz"
+            },
+            {
+              "display_url": "pic.x.com/IuJwzlmxOz",
+              "end": 65,
+              "expanded_url": "https://x.com/scarfrard/status/1985003120506609876/photo/1",
+              "media_key": "3_1985003110926884864",
+              "start": 42,
+              "url": "https://t.co/IuJwzlmxOz"
+            },
+            {
+              "display_url": "pic.x.com/IuJwzlmxOz",
+              "end": 65,
+              "expanded_url": "https://x.com/scarfrard/status/1985003120506609876/photo/1",
+              "media_key": "3_1985003110998192128",
+              "start": 42,
+              "url": "https://t.co/IuJwzlmxOz"
+            },
+            {
+              "display_url": "pic.x.com/IuJwzlmxOz",
+              "end": 65,
+              "expanded_url": "https://x.com/scarfrard/status/1985003120506609876/photo/1",
+              "media_key": "3_1985003110931079168",
+              "start": 42,
+              "url": "https://t.co/IuJwzlmxOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985003120506609876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 275,
+          "impression_count": 31645,
+          "like_count": 2110,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "daily dose of gerard way covered in blood https://t.co/IuJwzlmxOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 801,
+          "like_count": 3119,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1403
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T11:19:36.000Z",
+        "description": "“…we don’t hold hands!” m/w @k1dfrmyesterday + @priestrard 🤍 | mcr 11/7 | #1 cemetery drive fan | other: @jentombed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "k1dfrmyesterday"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "priestrard"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "jentombed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arab.org",
+                "end": 23,
+                "expanded_url": "http://arab.org",
+                "start": 0,
+                "url": "https://t.co/HoGKWaHNSd"
+              }
+            ]
+          }
+        },
+        "id": "1889635427172417536",
+        "location": "‎he/him • 17",
+        "name": "jemetery drive 🐑",
+        "pinned_tweet_id": "1977481680241017236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982408258208804864/Sg1HVWbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 1583,
+          "like_count": 52088,
+          "listed_count": 25,
+          "media_count": 6033,
+          "tweet_count": 20835
+        },
+        "url": "https://t.co/HoGKWaHNSd",
+        "username": "scarfrard",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1973998249846395018",
+    "created_at": "2025-10-03T06:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T07:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973998249846395018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "752487999800094720",
+          "start": 3,
+          "username": "bttyeo"
+        },
+        {
+          "end": 50,
+          "id": "113099460",
+          "start": 38,
+          "username": "naturestudy"
+        },
+        {
+          "end": 67,
+          "id": "1226780756338298880",
+          "start": 58,
+          "username": "Leon_Oo1"
+        },
+        {
+          "end": 79,
+          "id": "189611911",
+          "start": 68,
+          "username": "csabaorban"
+        },
+        {
+          "end": 89,
+          "id": "1264137643094274048",
+          "start": 80,
+          "username": "ZShaoshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "doi.org/10.1038/s41586…",
+          "end": 114,
+          "expanded_url": "https://doi.org/10.1038/s41586-025-09250-1",
+          "start": 91,
+          "status": 200,
+          "unwound_url": "https://www.nature.com/articles/s41586-025-09250-1?error=cookies_not_supported&code=a45f8ffd-344c-4ff6-9187-dafc62468d02",
+          "url": "https://t.co/z51pMIGR5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973998249846395018",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945656923665383905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bttyeo: 1/11 Excited to share our @Naturestudy led by @Leon_Oo1 @csabaorban @ZShaoshi\n\nhttps://t.co/z51pMIGR5R\n\nIt is well-known that A…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_1945650928436350976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwBXNf5bkAAjSD6.jpg",
+        "width": 1544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1973998249846395018",
+        "created_at": "2025-10-03T06:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973998249846395018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "752487999800094720",
+              "start": 3,
+              "username": "bttyeo"
+            },
+            {
+              "end": 50,
+              "id": "113099460",
+              "start": 38,
+              "username": "naturestudy"
+            },
+            {
+              "end": 67,
+              "id": "1226780756338298880",
+              "start": 58,
+              "username": "Leon_Oo1"
+            },
+            {
+              "end": 79,
+              "id": "189611911",
+              "start": 68,
+              "username": "csabaorban"
+            },
+            {
+              "end": 89,
+              "id": "1264137643094274048",
+              "start": 80,
+              "username": "ZShaoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "doi.org/10.1038/s41586…",
+              "end": 114,
+              "expanded_url": "https://doi.org/10.1038/s41586-025-09250-1",
+              "start": 91,
+              "status": 200,
+              "unwound_url": "https://www.nature.com/articles/s41586-025-09250-1?error=cookies_not_supported&code=a45f8ffd-344c-4ff6-9187-dafc62468d02",
+              "url": "https://t.co/z51pMIGR5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973998249846395018",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945656923665383905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bttyeo: 1/11 Excited to share our @Naturestudy led by @Leon_Oo1 @csabaorban @ZShaoshi\n\nhttps://t.co/z51pMIGR5R\n\nIt is well-known that A…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945650928436350976"
+          ]
+        },
+        "author_id": "752487999800094720",
+        "conversation_id": "1945656923665383905",
+        "created_at": "2025-07-17T01:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T02:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945656923665383905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "AI",
+              "probability": 0.5611,
+              "start": 126,
+              "type": "Organization"
+            },
+            {
+              "end": 184,
+              "normalized_text": "Kaplan",
+              "probability": 0.5289,
+              "start": 179,
+              "type": "Other"
+            },
+            {
+              "end": 196,
+              "normalized_text": "McCandlish",
+              "probability": 0.6204,
+              "start": 187,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "113099460",
+              "start": 26,
+              "username": "naturestudy"
+            },
+            {
+              "end": 55,
+              "id": "1226780756338298880",
+              "start": 46,
+              "username": "Leon_Oo1"
+            },
+            {
+              "end": 67,
+              "id": "189611911",
+              "start": 56,
+              "username": "csabaorban"
+            },
+            {
+              "end": 77,
+              "id": "1264137643094274048",
+              "start": 68,
+              "username": "ZShaoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "doi.org/10.1038/s41586…",
+              "end": 102,
+              "expanded_url": "https://doi.org/10.1038/s41586-025-09250-1",
+              "start": 79,
+              "status": 200,
+              "unwound_url": "https://www.nature.com/articles/s41586-025-09250-1?error=cookies_not_supported&code=a45f8ffd-344c-4ff6-9187-dafc62468d02",
+              "url": "https://t.co/z51pMIGR5R"
+            },
+            {
+              "display_url": "pic.x.com/9M4CwPOvYg",
+              "end": 304,
+              "expanded_url": "https://x.com/bttyeo/status/1945656923665383905/photo/1",
+              "media_key": "3_1945650928436350976",
+              "start": 281,
+              "url": "https://t.co/9M4CwPOvYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945656923665383905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 26925,
+          "like_count": 160,
+          "quote_count": 11,
+          "reply_count": 5,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "1/11 Excited to share our @Naturestudy led by @Leon_Oo1 @csabaorban @ZShaoshi\n\nhttps://t.co/z51pMIGR5R\n\nIt is well-known that AI performance scales with logarithm of sample size (Kaplan, McCandlish 2020), but in many domains, sample size can be # participants or # measurements... https://t.co/9M4CwPOvYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 754,
+          "like_count": 2880,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1088
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-11T13:01:34.000Z",
+        "description": "brain imaging, machine learning, neuroscience, brain disorders",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/yeolab",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/yeolab",
+                "start": 0,
+                "url": "https://t.co/CFZhvFIuCt"
+              }
+            ]
+          }
+        },
+        "id": "752487999800094720",
+        "name": "Thomas Yeo",
+        "pinned_tweet_id": "1945656923665383905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/864131060237389824/86lpquFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11823,
+          "following_count": 1370,
+          "like_count": 39763,
+          "listed_count": 130,
+          "media_count": 187,
+          "tweet_count": 11582
+        },
+        "url": "https://t.co/CFZhvFIuCt",
+        "username": "bttyeo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-10T18:08:28.000Z",
+        "description": "",
+        "id": "113099460",
+        "name": "Bridget Watts",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "naturestudy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T08:11:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/leon-ooi/…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/leon-ooi/home",
+                "start": 0,
+                "url": "https://t.co/5Vbf1MHhll"
+              }
+            ]
+          }
+        },
+        "id": "1226780756338298880",
+        "name": "Leon Ooi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1226933038212210694/4_rwhaum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 66,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/5Vbf1MHhll",
+        "username": "Leon_Oo1",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-11T19:00:29.000Z",
+        "description": "neuroscience | physiology | resting state fMRI",
+        "id": "189611911",
+        "location": "Singapore",
+        "name": "Csaba Orban",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1101766420327628801/ftkL8_V__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 511,
+          "like_count": 5618,
+          "listed_count": 6,
+          "media_count": 15,
+          "tweet_count": 731
+        },
+        "username": "csabaorban",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T10:14:43.000Z",
+        "description": "neuroscience, computational models | Computational Brain Imaging Group | Huge fan of Metroidvania and Edward Hopper.",
+        "id": "1264137643094274048",
+        "location": "Singapore",
+        "name": "Shaoshi Zhang",
+        "pinned_tweet_id": "1945664794280989109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913151667497062400/WD_Q3rSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 171,
+          "like_count": 401,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 118
+        },
+        "username": "ZShaoshi",
+        "verified": false
+      }
+    ]
+  }
+}

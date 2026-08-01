@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951565704773165056"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1951565717028958296",
+    "created_at": "2025-08-02T08:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T09:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951565717028958296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIDlGJrKii",
+          "end": 108,
+          "expanded_url": "https://x.com/RainduRhinns/status/1951565717028958296/photo/1",
+          "media_key": "3_1951565704773165056",
+          "start": 85,
+          "url": "https://t.co/PIDlGJrKii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951565717028958296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这书对早期共和国的“od文化”和社会主义国家使用神经衰弱这个如今几乎已经不再被使用的词（不仅仅是因为心理学的引进和进步）之现象作为关键词研究的可能性的一些提及挺有意思的 https://t.co/PIDlGJrKii"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1951565704773165056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxVaqyzW4AAx5oR.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951565704773165056"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1951565717028958296",
+        "created_at": "2025-08-02T08:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T09:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951565717028958296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIDlGJrKii",
+              "end": 108,
+              "expanded_url": "https://x.com/RainduRhinns/status/1951565717028958296/photo/1",
+              "media_key": "3_1951565704773165056",
+              "start": 85,
+              "url": "https://t.co/PIDlGJrKii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951565717028958296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这书对早期共和国的“od文化”和社会主义国家使用神经衰弱这个如今几乎已经不再被使用的词（不仅仅是因为心理学的引进和进步）之现象作为关键词研究的可能性的一些提及挺有意思的 https://t.co/PIDlGJrKii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 639,
+          "like_count": 2618,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 548
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

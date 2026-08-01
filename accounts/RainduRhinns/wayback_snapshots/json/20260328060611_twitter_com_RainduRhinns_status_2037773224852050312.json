@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2037726540059074612",
+    "created_at": "2026-03-28T06:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037773224852050312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1886385501130866688",
+          "start": 0,
+          "username": "Lomyral"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037773224852050312",
+    "in_reply_to_user_id": "1886385501130866688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037726540059074612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral 我柑橘躯体欣快和认知欣快很难对立的分开不然有点身心二元论了，像兴奋剂乃至反苯那种MAOI带来的社交表达欲增强啊也可以说是躯体欣快带来认知欣快，PEA乃至所有共情剂对认知的影响也可以说引起了躯体欣快，一定程度上互为表里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2037726540059074612",
+        "created_at": "2026-03-28T06:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037773224852050312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1886385501130866688",
+              "start": 0,
+              "username": "Lomyral"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037773224852050312",
+        "in_reply_to_user_id": "1886385501130866688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037726540059074612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral 我柑橘躯体欣快和认知欣快很难对立的分开不然有点身心二元论了，像兴奋剂乃至反苯那种MAOI带来的社交表达欲增强啊也可以说是躯体欣快带来认知欣快，PEA乃至所有共情剂对认知的影响也可以说引起了躯体欣快，一定程度上互为表里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886385501130866688",
+        "conversation_id": "2037726540059074612",
+        "created_at": "2026-03-28T03:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037726540059074612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037726540059074612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点述情障碍，我不太清楚认知欣快到底是什么，实际上我也不太能把它和躯体欣快分清，我根据我的躯体与表情反应来辨别我的感受。相当长一段时间里我都不知道焦虑与兴奋的区别，也不知道罪恶感与内疚与恐惧的区别，不过现在我应该能分清楚它们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 884,
+          "like_count": 4013,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T12:05:49.000Z",
+        "description": "enby,he/they.泛性恋.日常推,除了碎碎念就没别的了.不贩卖任何东西.我不吸毒，别钓了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/ZWfkB4yLYI"
+              }
+            ]
+          }
+        },
+        "id": "1886385501130866688",
+        "location": "医院药房",
+        "name": "Lomyral",
+        "pinned_tweet_id": "2037008321446830236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 438,
+          "like_count": 34505,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 3841
+        },
+        "url": "https://t.co/ZWfkB4yLYI",
+        "username": "Lomyral",
+        "verified": false
+      }
+    ]
+  }
+}

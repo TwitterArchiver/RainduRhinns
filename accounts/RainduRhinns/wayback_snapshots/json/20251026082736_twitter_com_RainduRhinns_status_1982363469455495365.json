@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1976394703898804257",
+    "created_at": "2025-10-26T08:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982363469455495365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 22,
+          "id": "3022697779",
+          "start": 12,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982363469455495365",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982362831401185648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @RXdruglab 而且苯乙胺类一大堆啊不知道是不是自带MAOI或者各种三重释放的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1976394703898804257",
+        "created_at": "2025-10-26T08:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982363469455495365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 22,
+              "id": "3022697779",
+              "start": 12,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982363469455495365",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982362831401185648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @RXdruglab 而且苯乙胺类一大堆啊不知道是不是自带MAOI或者各种三重释放的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1976394703898804257",
+        "created_at": "2025-10-26T08:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982362831401185648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 22,
+              "id": "3022697779",
+              "start": 12,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982362831401185648",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982361213083525622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @RXdruglab 这个主要是需要DRI和没MAOI的单纯血清素激动剂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 777,
+          "like_count": 3077,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1354
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 89,
+          "like_count": 295,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 335
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16108,
+          "following_count": 19,
+          "like_count": 20,
+          "listed_count": 19,
+          "media_count": 52,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

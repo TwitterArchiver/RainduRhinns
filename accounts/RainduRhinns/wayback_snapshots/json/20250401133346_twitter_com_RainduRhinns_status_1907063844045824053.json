@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1734519590041133056",
+        "3_1734519593753063424",
+        "3_1734519597699895296",
+        "3_1734519602158481408"
+      ],
+      "media_source_tweet_id": [
+        "1734519604628910176",
+        "1734519604628910176",
+        "1734519604628910176",
+        "1734519604628910176"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1907063844045824053",
+    "created_at": "2025-04-01T13:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T14:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907063844045824053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526785825601511424",
+          "start": 3,
+          "username": "HaiLiDou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWpTXvYeWO",
+          "end": 41,
+          "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+          "media_key": "3_1734519590041133056",
+          "start": 18,
+          "url": "https://t.co/hWpTXvYeWO"
+        },
+        {
+          "display_url": "pic.x.com/hWpTXvYeWO",
+          "end": 41,
+          "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+          "media_key": "3_1734519593753063424",
+          "start": 18,
+          "url": "https://t.co/hWpTXvYeWO"
+        },
+        {
+          "display_url": "pic.x.com/hWpTXvYeWO",
+          "end": 41,
+          "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+          "media_key": "3_1734519597699895296",
+          "start": 18,
+          "url": "https://t.co/hWpTXvYeWO"
+        },
+        {
+          "display_url": "pic.x.com/hWpTXvYeWO",
+          "end": 41,
+          "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+          "media_key": "3_1734519602158481408",
+          "start": 18,
+          "url": "https://t.co/hWpTXvYeWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907063844045824053",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1734519604628910176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaiLiDou: 看本子 https://t.co/hWpTXvYeWO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907063844045824053].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907063844045824053",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907063844045824053"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_1734519590041133056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GBJAYJRboAAQ9_7.jpg",
+        "width": 997
+      },
+      {
+        "height": 1611,
+        "media_key": "3_1734519593753063424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GBJAYXGbMAAU4TT.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1633,
+        "media_key": "3_1734519597699895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GBJAYlzbEAAv_3b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1734519602158481408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GBJAY2absAAHU7r.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1734519590041133056",
+            "3_1734519593753063424",
+            "3_1734519597699895296",
+            "3_1734519602158481408"
+          ]
+        },
+        "author_id": "1526785825601511424",
+        "conversation_id": "1734519604628910176",
+        "created_at": "2023-12-12T10:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-12T11:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1734519604628910176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWpTXvYeWO",
+              "end": 27,
+              "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+              "media_key": "3_1734519590041133056",
+              "start": 4,
+              "url": "https://t.co/hWpTXvYeWO"
+            },
+            {
+              "display_url": "pic.x.com/hWpTXvYeWO",
+              "end": 27,
+              "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+              "media_key": "3_1734519593753063424",
+              "start": 4,
+              "url": "https://t.co/hWpTXvYeWO"
+            },
+            {
+              "display_url": "pic.x.com/hWpTXvYeWO",
+              "end": 27,
+              "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+              "media_key": "3_1734519597699895296",
+              "start": 4,
+              "url": "https://t.co/hWpTXvYeWO"
+            },
+            {
+              "display_url": "pic.x.com/hWpTXvYeWO",
+              "end": 27,
+              "expanded_url": "https://x.com/HaiLidou/status/1734519604628910176/photo/1",
+              "media_key": "3_1734519602158481408",
+              "start": 4,
+              "url": "https://t.co/hWpTXvYeWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1734519604628910176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13034,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "看本子 https://t.co/hWpTXvYeWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 483,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 291
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T04:45:00.000Z",
+        "description": "这个号发自己的图🔞    Furry  \nXP是：  NTR/sp/球袜/白丝/校服/大腿\n⭕防走丢@ShiTangDou     ⭕私信请保持礼貌交流（问约不回🚫）对象：@hamstersorry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "ShiTangDou"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "hamstersorry"
+              }
+            ]
+          }
+        },
+        "id": "1526785825601511424",
+        "location": "中国",
+        "name": "兜的小卖铺",
+        "pinned_tweet_id": "1787340661953593366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890430337664319488/GrwpmfIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5889,
+          "following_count": 207,
+          "like_count": 3708,
+          "listed_count": 19,
+          "media_count": 114,
+          "tweet_count": 186
+        },
+        "username": "HaiLiDou",
+        "verified": false
+      }
+    ]
+  }
+}

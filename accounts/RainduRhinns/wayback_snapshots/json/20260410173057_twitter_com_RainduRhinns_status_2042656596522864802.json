@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042656537299292169"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "2042640698898551206",
+    "created_at": "2026-04-10T17:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042656596522864802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6emQaCIac3",
+          "end": 174,
+          "expanded_url": "https://x.com/RainduRhinns/status/2042656596522864802/photo/1",
+          "media_key": "3_2042656537299292169",
+          "start": 151,
+          "url": "https://t.co/6emQaCIac3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042656596522864802",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042640698898551206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非反还原论的对神经机制不是行为的良解释的立场：因为人类做出行为解释的过程和做出改变或做出未来行为承诺的过程重叠, 即使事实上根据规则1做出的决定x, 也可以改变为同样结论为决定x的另一个规则2. 如果规则2更好, 即使规则1符合事实, 把规则2做为行为的解释依然有其价值-对LLM缺乏通过解释来自约束 https://t.co/6emQaCIac3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2042656537299292169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFj5TFfakAkGgHv.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042656537299292169"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "2042640698898551206",
+        "created_at": "2026-04-10T17:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042656596522864802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6emQaCIac3",
+              "end": 174,
+              "expanded_url": "https://x.com/RainduRhinns/status/2042656596522864802/photo/1",
+              "media_key": "3_2042656537299292169",
+              "start": 151,
+              "url": "https://t.co/6emQaCIac3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042656596522864802",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042640698898551206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非反还原论的对神经机制不是行为的良解释的立场：因为人类做出行为解释的过程和做出改变或做出未来行为承诺的过程重叠, 即使事实上根据规则1做出的决定x, 也可以改变为同样结论为决定x的另一个规则2. 如果规则2更好, 即使规则1符合事实, 把规则2做为行为的解释依然有其价值-对LLM缺乏通过解释来自约束 https://t.co/6emQaCIac3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2042640698898551206",
+        "created_at": "2026-04-10T16:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042640698898551206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042640698898551206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕大了，梦到哪句说哪句，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 896,
+          "like_count": 4109,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1941968963224670208"
+      ],
+      "media_source_tweet_id": [
+        "1941969015607365701"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942219502843830771",
+    "created_at": "2025-07-07T13:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T14:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942219502843830771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1807760670110121984",
+          "start": 3,
+          "username": "abeliaboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5HqWjyk5uI",
+          "end": 64,
+          "expanded_url": "https://x.com/abeliaboy/status/1941969015607365701/video/1",
+          "media_key": "7_1941968963224670208",
+          "start": 41,
+          "url": "https://t.co/5HqWjyk5uI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942219502843830771",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941969015607365701",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abeliaboy: Boys when they're bored 🥴 https://t.co/5HqWjyk5uI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1942219502843830771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1942219502843830771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1942219502843830771"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37166,
+        "height": 1920,
+        "media_key": "7_1941968963224670208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941968963224670208/pu/img/Xsu2yfVORCHLsDun.jpg",
+        "public_metrics": {
+          "view_count": 6915
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941968963224670208/pu/vid/avc1/320x692/4A-5GS6kAVQMCwwf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941968963224670208/pu/vid/avc1/480x1040/VjN_VQSq0ogHyHxF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941968963224670208/pu/vid/avc1/720x1560/WHv3enzK-4qbnqSS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941968963224670208/pu/pl/_mh9eeUf4tnicrc2.m3u8?tag=12"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941968963224670208"
+          ]
+        },
+        "author_id": "1807760670110121984",
+        "conversation_id": "1941969015607365701",
+        "created_at": "2025-07-06T21:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T22:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941969015607365701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5HqWjyk5uI",
+              "end": 49,
+              "expanded_url": "https://x.com/abeliaboy/status/1941969015607365701/video/1",
+              "media_key": "7_1941968963224670208",
+              "start": 26,
+              "url": "https://t.co/5HqWjyk5uI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941969015607365701",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 18877,
+          "like_count": 1402,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "Boys when they're bored 🥴 https://t.co/5HqWjyk5uI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 603,
+          "like_count": 2367,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 375
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T12:58:36.000Z",
+        "description": "+18 Account. Femboy/ twinky content ahead ♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlyfans.com/abeliaboy",
+                "end": 23,
+                "expanded_url": "https://onlyfans.com/abeliaboy",
+                "start": 0,
+                "url": "https://t.co/YtjYIN1iWa"
+              }
+            ]
+          }
+        },
+        "id": "1807760670110121984",
+        "name": "Abelia",
+        "pinned_tweet_id": "1936540732375843079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807761044191752192/4BHYOSHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57836,
+          "following_count": 230,
+          "like_count": 2437,
+          "listed_count": 168,
+          "media_count": 106,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/YtjYIN1iWa",
+        "username": "abeliaboy",
+        "verified": true
+      }
+    ]
+  }
+}

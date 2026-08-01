@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925176453991411712"
+      ],
+      "media_source_tweet_id": [
+        "1925176456877097004"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1925466031062954391",
+    "created_at": "2025-05-22T08:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T09:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925466031062954391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3292210117",
+          "start": 3,
+          "username": "Ye_Chika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kohqTHEj2h",
+          "end": 115,
+          "expanded_url": "https://x.com/Ye_Chika/status/1925176456877097004/photo/1",
+          "media_key": "3_1925176453991411712",
+          "start": 92,
+          "url": "https://t.co/kohqTHEj2h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925466031062954391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925176456877097004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ye_Chika: 手忙脚乱在找找遥控器的主播也很可爱\n\n“那你找到遥控器了吗”\n「你猜这张照片是怎么拍的」\n「当然是我屁股坐到了遥控器的拍照按钮啊！」\n\n和低流量，和解了。 https://t.co/kohqTHEj2h"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925466031062954391].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925466031062954391",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925466031062954391"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1925176453991411712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreZyO4asAAilWn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925176453991411712"
+          ]
+        },
+        "author_id": "3292210117",
+        "conversation_id": "1925176456877097004",
+        "created_at": "2025-05-21T13:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925176456877097004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kohqTHEj2h",
+              "end": 101,
+              "expanded_url": "https://x.com/Ye_Chika/status/1925176456877097004/photo/1",
+              "media_key": "3_1925176453991411712",
+              "start": 78,
+              "url": "https://t.co/kohqTHEj2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925176456877097004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 764,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "手忙脚乱在找找遥控器的主播也很可爱\n\n“那你找到遥控器了吗”\n「你猜这张照片是怎么拍的」\n「当然是我屁股坐到了遥控器的拍照按钮啊！」\n\n和低流量，和解了。 https://t.co/kohqTHEj2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 545,
+          "like_count": 2179,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 346
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T08:05:32.000Z",
+        "description": "一个路过的女装少年，记不记住其实都不太重要啦",
+        "id": "3292210117",
+        "location": "旧萨雷安",
+        "name": "叶千夏",
+        "pinned_tweet_id": "1678794629452554240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911481242920386561/9928KjJ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7673,
+          "following_count": 402,
+          "like_count": 2447,
+          "listed_count": 34,
+          "media_count": 368,
+          "tweet_count": 1638
+        },
+        "username": "Ye_Chika",
+        "verified": false
+      }
+    ]
+  }
+}

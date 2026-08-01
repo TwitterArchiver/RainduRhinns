@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1993976252185620600",
+    "created_at": "2025-11-27T12:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994021204320244199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 22,
+          "id": "1892114014563598339",
+          "start": 11,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994021204320244199",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993976252185620600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC @3He2_Ka1R0 对致幻剂来说很多时候增益和减害本身是一回事吧—对于那些本身不带来正面享乐快感（如果我们认同幻觉本身是一种中性属性）的物质来说属性本身就是统计中性的，比如补充肌酸优化体验既是减害也增益，给一些弱多巴胺能物质组合多巴胺也一直被使用，如果狭义上理解增益幻觉体验那只有分子层面操作了比β取代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1993976252185620600",
+        "created_at": "2025-11-27T12:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994021204320244199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 22,
+              "id": "1892114014563598339",
+              "start": 11,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994021204320244199",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993976252185620600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @3He2_Ka1R0 对致幻剂来说很多时候增益和减害本身是一回事吧—对于那些本身不带来正面享乐快感（如果我们认同幻觉本身是一种中性属性）的物质来说属性本身就是统计中性的，比如补充肌酸优化体验既是减害也增益，给一些弱多巴胺能物质组合多巴胺也一直被使用，如果狭义上理解增益幻觉体验那只有分子层面操作了比β取代"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1993976249912287232"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1993976252185620600",
+        "created_at": "2025-11-27T09:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993976252185620600"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993976252185620600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 355,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就药物使用而言，我们中很多人都探讨过(以及正在探讨)“减害”，比如控制用药剂量和避免危险的药物联用；但是为什么很少人探讨过“增益”呢，比如优化致幻剂体验，而不仅仅是避开风险?🤔\n\n你觉得挖掘“增益”的话题怎么样?(纯好奇，随便问问)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 842,
+          "like_count": 3321,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 697,
+          "like_count": 13986,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 3828
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 401,
+          "like_count": 65758,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 2557
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

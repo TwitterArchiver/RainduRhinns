@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1973028199551656333",
+    "created_at": "2025-09-30T14:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T15:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1973028199551656333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dillandinardo/…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/dillandinardo/status/1970841582913069311",
+          "start": 85,
+          "url": "https://t.co/NH4Zas7gmH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973028199551656333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970841582913069311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我嘞个AI机器学习致幻剂旅行报告和AI辅助脑神经过程模拟药物设计定制致幻剂策划药啊…\n说的像是60年代出现在控制论科幻小说里的东西不过离“定制情感”的图景差的还是太远了 https://t.co/NH4Zas7gmH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1970751627817611264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mEKfyXcAARmVh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1973028199551656333",
+        "created_at": "2025-09-30T14:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T15:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973028199551656333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dillandinardo/…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/dillandinardo/status/1970841582913069311",
+              "start": 85,
+              "url": "https://t.co/NH4Zas7gmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973028199551656333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970841582913069311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我嘞个AI机器学习致幻剂旅行报告和AI辅助脑神经过程模拟药物设计定制致幻剂策划药啊…\n说的像是60年代出现在控制论科幻小说里的东西不过离“定制情感”的图景差的还是太远了 https://t.co/NH4Zas7gmH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970751627817611264"
+          ]
+        },
+        "author_id": "1670694164",
+        "conversation_id": "1970841582913069311",
+        "created_at": "2025-09-24T13:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970841582913069311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/In3AtJ8pCu",
+              "end": 306,
+              "expanded_url": "https://x.com/DillanDiNardo/status/1970841582913069311/photo/1",
+              "media_key": "3_1970751627817611264",
+              "start": 283,
+              "url": "https://t.co/In3AtJ8pCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970841582913069311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2302,
+          "impression_count": 318497,
+          "like_count": 2624,
+          "quote_count": 180,
+          "reply_count": 167,
+          "retweet_count": 406
+        },
+        "reply_settings": "everyone",
+        "text": "1/ It feels surreal to announce completion of the first human trial in the development of our neurotech platform for designing mental states, from the molecular level.\n\nHuman experience is now programmable.\n\nA🧵on the sequel to psychedelics &amp; the first new \"emotion in a bottle.\" https://t.co/In3AtJ8pCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 752,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1059
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-14T14:48:07.000Z",
+        "description": "Turning psychedelics into the programmable substrate for mental states | CEO @MindstateDesign | AI x Neurotech x Psychotropics | ex-biotech VC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "MindstateDesign"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mindstate.design",
+                "end": 23,
+                "expanded_url": "https://www.mindstate.design/",
+                "start": 0,
+                "url": "https://t.co/gKZzjh9ZKJ"
+              }
+            ]
+          }
+        },
+        "id": "1670694164",
+        "location": "San Francisco & Pittsburgh",
+        "name": "Dillan DiNardo",
+        "pinned_tweet_id": "1970841582913069311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551385974168555520/CjugpY7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5216,
+          "following_count": 928,
+          "like_count": 733,
+          "listed_count": 63,
+          "media_count": 54,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/gKZzjh9ZKJ",
+        "username": "DillanDiNardo",
+        "verified": true
+      }
+    ]
+  }
+}

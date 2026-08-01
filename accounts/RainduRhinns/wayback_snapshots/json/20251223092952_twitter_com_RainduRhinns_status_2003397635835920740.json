@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2002824741951099143",
+    "created_at": "2025-12-23T09:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003397635835920740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 30,
+          "id": "1879395690230738944",
+          "start": 17,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003397635835920740",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003391585896255805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @Psych_Angel_ 血压问题吧 MET属于本身效果最清淡的一档了 不过血清素综合症临床也是个理不清的 太综合了每个人什么临床表现强弱差太多了 靠表示判断边界不明确"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2002824741951099143",
+        "created_at": "2025-12-23T09:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003397635835920740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 30,
+              "id": "1879395690230738944",
+              "start": 17,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003397635835920740",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003391585896255805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @Psych_Angel_ 血压问题吧 MET属于本身效果最清淡的一档了 不过血清素综合症临床也是个理不清的 太综合了每个人什么临床表现强弱差太多了 靠表示判断边界不明确"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "2002824741951099143",
+        "created_at": "2025-12-23T09:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003391585896255805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 27,
+              "id": "1879395690230738944",
+              "start": 14,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003391585896255805",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003236176451502465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @Psych_Angel_ 我吃过4-ACO-MET bodyload很强 大腿非常胀痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 870,
+          "like_count": 3576,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10069,
+          "following_count": 543,
+          "like_count": 8366,
+          "listed_count": 26,
+          "media_count": 1679,
+          "tweet_count": 14127
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜Soulmate:@BelovedUren8964｜🫶Rinko:@Rinko_zero8964｜🍜:@shungleemain｜👩:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "shungleemain"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1997345380972052793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 661,
+          "following_count": 705,
+          "like_count": 24335,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 11072
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

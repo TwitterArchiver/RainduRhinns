@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2014407446102671525",
+    "created_at": "2026-01-22T18:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T19:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014407446102671525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blacktraptrip/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/blacktraptrip/status/2014204461527319022",
+          "start": 15,
+          "url": "https://t.co/RBgxmBJMb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014407446102671525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014204461527319022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天靠两颗可乐定维持生命体征 https://t.co/RBgxmBJMb6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2014407446102671525",
+        "created_at": "2026-01-22T18:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T19:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014407446102671525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blacktraptrip/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/blacktraptrip/status/2014204461527319022",
+              "start": 15,
+              "url": "https://t.co/RBgxmBJMb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014407446102671525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014204461527319022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天靠两颗可乐定维持生命体征 https://t.co/RBgxmBJMb6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2014204461527319022",
+        "created_at": "2026-01-22T05:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014204461527319022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014204461527319022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠每天两颗可乐定维持生命体征"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 877,
+          "like_count": 3651,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜互fo欢迎｜看黄男拉黑｜支持大麻合法化｜uncensored #shtwt #odtwt #drugtwt #obslovetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 41,
+                "tag": "shtwt"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "odtwt"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "obslovetwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/7wroYHK00I"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱／🐦‍⬛",
+        "pinned_tweet_id": "2005225702904549786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984880790535061504/JtQebCAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 122,
+          "like_count": 884,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/7wroYHK00I",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

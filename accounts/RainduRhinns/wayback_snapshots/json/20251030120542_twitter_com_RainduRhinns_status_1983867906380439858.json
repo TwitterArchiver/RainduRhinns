@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1983867906380439858",
+    "created_at": "2025-10-30T12:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T13:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983867906380439858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "215939847",
+          "start": 3,
+          "username": "bboczeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983867906380439858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983772610153623922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bboczeng: 为什么中国共产党这么惧怕“分裂势力”，要给“分裂势力”定这么大的罪？\n\n为什么中国国民党被赶到台湾70多年了，还在提民族复兴，国家统一，海棠花？\n\n中国国民党和中国共产党在未来某一天突然复合，我一点也不会感到意外…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1983867906380439858",
+        "created_at": "2025-10-30T12:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T13:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983867906380439858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "215939847",
+              "start": 3,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983867906380439858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983772610153623922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bboczeng: 为什么中国共产党这么惧怕“分裂势力”，要给“分裂势力”定这么大的罪？\n\n为什么中国国民党被赶到台湾70多年了，还在提民族复兴，国家统一，海棠花？\n\n中国国民党和中国共产党在未来某一天突然复合，我一点也不会感到意外…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "215939847",
+        "conversation_id": "1983772610153623922",
+        "created_at": "2025-10-30T05:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:29:13.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983768131735843326",
+          "1983772610153623922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983772610153623922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么中国共产党这么惧怕“分裂势力”，要给“分裂势力”定这么大的罪？\n\n为什么中国国民党被赶到台湾70多年了，还在提民族复兴，国家统一，海棠花？\n\n中国国民党和中国共产党在未来某一天突然复合，我一点也不会感到意外\n\n因为他们都是同一个，借由清末文人康有为发明的“民族杂交论”，捏造继承满清统治的合法性，吞并满族人靠着满蒙联姻打下的帝国主义江山，靠着汉族忍辱负重，在夹缝之间生存并趁机猥琐发育的沙文主义政党\n\n他们都是大政府、皇族专权、“江山”和“老百姓”二元论的拥护者\n\n他们心中根本没有民主、自由和民权这几个字\n\n他们都是儒家思想污染过最恶臭的政权\n\n这一点，这两党其实心知肚明"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9890,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么中国共产党这么惧怕“分裂势力”，要给“分裂势力”定这么大的罪？\n\n为什么中国国民党被赶到台湾70多年了，还在提民族复兴，国家统一，海棠花？\n\n中国国民党和中国共产党在未来某一天突然复合，我一点也不会感到意外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 780,
+          "like_count": 3080,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1381
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-15T10:36:54.000Z",
+        "description": "美股投资日报：https://t.co/8rs6JWg78E，免费订阅即可阅读，东半球最理性的基本面分析与市场总结；仅需$5一月，加入会员群共同讨论、分享和进步。入群链接见网站首页右上角“会员项目”板块。会员群不喊单不带单。推文和博客为个人意见，Not Financial Advice",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 30,
+                "expanded_url": "https://boist.org",
+                "start": 7,
+                "url": "https://t.co/8rs6JWg78E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "boist.org",
+                "end": 23,
+                "expanded_url": "http://boist.org",
+                "start": 0,
+                "url": "https://t.co/Qaw5PWxyqi"
+              }
+            ]
+          }
+        },
+        "id": "215939847",
+        "location": "Texas, USA",
+        "name": "勃勃OC",
+        "pinned_tweet_id": "1982740956601541106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830797876731224064/bg8OYzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180019,
+          "following_count": 696,
+          "like_count": 111570,
+          "listed_count": 1026,
+          "media_count": 16698,
+          "tweet_count": 99941
+        },
+        "url": "https://t.co/Qaw5PWxyqi",
+        "username": "bboczeng",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939013898923126784"
+      ],
+      "media_source_tweet_id": [
+        "1939013911245922385"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1941949276810018833",
+    "created_at": "2025-07-06T19:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T20:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941949276810018833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "989295835094581248",
+          "start": 3,
+          "username": "KnightNyaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgA3iuardm",
+          "end": 44,
+          "expanded_url": "https://x.com/KnightNyaa/status/1939013911245922385/photo/1",
+          "media_key": "3_1939013898923126784",
+          "start": 21,
+          "url": "https://t.co/JgA3iuardm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941949276810018833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939013911245922385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KnightNyaa: 【印记】 https://t.co/JgA3iuardm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941949276810018833].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941949276810018833",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941949276810018833"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1939013898923126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GujC3iPbsAALOeb.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939013898923126784"
+          ]
+        },
+        "author_id": "989295835094581248",
+        "conversation_id": "1939013911245922385",
+        "created_at": "2025-06-28T17:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T18:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939013911245922385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgA3iuardm",
+              "end": 28,
+              "expanded_url": "https://x.com/KnightNyaa/status/1939013911245922385/photo/1",
+              "media_key": "3_1939013898923126784",
+              "start": 5,
+              "url": "https://t.co/JgA3iuardm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939013911245922385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 32083,
+          "like_count": 795,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "【印记】 https://t.co/JgA3iuardm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 604,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 374
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T00:11:22.000Z",
+        "description": "⚠️Fursuit/Zentai/白袜/NSFW⚠️半日常半毛推",
+        "id": "989295835094581248",
+        "location": "Brazil",
+        "name": "骑士Kgt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933828325006528514/MoJG9nz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 82,
+          "like_count": 30,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 34
+        },
+        "username": "KnightNyaa",
+        "verified": true
+      }
+    ]
+  }
+}

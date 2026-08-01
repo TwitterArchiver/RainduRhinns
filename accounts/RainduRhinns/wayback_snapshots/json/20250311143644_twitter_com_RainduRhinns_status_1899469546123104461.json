@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898903370951446528"
+      ],
+      "media_source_tweet_id": [
+        "1898903375313555660"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1899469546123104461",
+    "created_at": "2025-03-11T14:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899469546123104461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795734602172248064",
+          "start": 3,
+          "username": "YiTiaoSuanYu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hygX5lGzbR",
+          "end": 44,
+          "expanded_url": "https://x.com/YiTiaoSuanYu/status/1898903375313555660/photo/1",
+          "media_key": "3_1898903370951446528",
+          "start": 21,
+          "url": "https://t.co/hygX5lGzbR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899469546123104461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898903375313555660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YiTiaoSuanYu: 老图 https://t.co/hygX5lGzbR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899469546123104461].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899469546123104461",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899469546123104461"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898903370951446528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpCjhhaUAAXnHy.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898903370951446528"
+          ]
+        },
+        "author_id": "1795734602172248064",
+        "conversation_id": "1898903375313555660",
+        "created_at": "2025-03-10T01:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T02:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898903375313555660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hygX5lGzbR",
+              "end": 26,
+              "expanded_url": "https://x.com/YiTiaoSuanYu/status/1898903375313555660/photo/1",
+              "media_key": "3_1898903370951446528",
+              "start": 3,
+              "url": "https://t.co/hygX5lGzbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898903375313555660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6771,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "老图 https://t.co/hygX5lGzbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 461,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 262
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T08:31:44.000Z",
+        "description": "残血复活/不加人/不约",
+        "id": "1795734602172248064",
+        "name": "一条酸鱼喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896433983082369024/ElowkjFA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6017,
+          "following_count": 703,
+          "like_count": 6398,
+          "listed_count": 12,
+          "media_count": 99,
+          "tweet_count": 254
+        },
+        "username": "YiTiaoSuanYu",
+        "verified": false
+      }
+    ]
+  }
+}

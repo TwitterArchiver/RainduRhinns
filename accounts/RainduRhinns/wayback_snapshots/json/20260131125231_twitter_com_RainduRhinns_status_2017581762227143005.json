@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2017557702189453363",
+    "created_at": "2026-01-31T12:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017581762227143005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1327197298930028544",
+          "start": 0,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017581762227143005",
+    "in_reply_to_user_id": "1327197298930028544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017557702189453363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@un_krvy 不如直接吃8g骆驼蓬子加苦参碱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2017557702189453363",
+        "created_at": "2026-01-31T12:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017581762227143005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017581762227143005",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017557702189453363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 不如直接吃8g骆驼蓬子加苦参碱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1327197298930028544",
+        "conversation_id": "2017557702189453363",
+        "created_at": "2026-01-31T11:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017557702189453363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017557702189453363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喝 明天再煮一锅相思汤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 881,
+          "like_count": 3700,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "https://t.co/sxGCC1hNAm 官方账号，专注于精神药物科普",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/sxGCC1hNAm"
+              }
+            ]
+          }
+        },
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "Psydrugs official by krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015057185953263616/EoNq2pvq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 210,
+          "like_count": 6105,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/sxGCC1hNAm",
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1961466741592395932",
+    "created_at": "2025-08-29T16:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T17:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961466741592395932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/22homopoliticu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/22homopoliticus/status/1961386987186770276",
+          "start": 9,
+          "url": "https://t.co/v7M4cTLJZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961466741592395932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961386987186770276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "央妈工具箱这一块 https://t.co/v7M4cTLJZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1961386913136320512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzg_AXCXIAAyFOS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1961466741592395932",
+        "created_at": "2025-08-29T16:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961466741592395932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/22homopoliticu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/22homopoliticus/status/1961386987186770276",
+              "start": 9,
+              "url": "https://t.co/v7M4cTLJZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961466741592395932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961386987186770276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "央妈工具箱这一块 https://t.co/v7M4cTLJZo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961386913136320512"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1961386987186770276",
+        "created_at": "2025-08-29T11:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961386987186770276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Bc7SgnOhB",
+              "end": 36,
+              "expanded_url": "https://x.com/22HomoPoliticus/status/1961386987186770276/photo/1",
+              "media_key": "3_1961386913136320512",
+              "start": 13,
+              "url": "https://t.co/7Bc7SgnOhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961386987186770276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 129329,
+          "like_count": 704,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "《经济学人》这个配图绝了 https://t.co/7Bc7SgnOhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950232062960816191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 694,
+          "like_count": 2790,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 789
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1959031076552118338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84073,
+          "following_count": 501,
+          "like_count": 106014,
+          "listed_count": 529,
+          "media_count": 7786,
+          "tweet_count": 24143
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

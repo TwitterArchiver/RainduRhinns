@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1995848278592967002",
+    "created_at": "2025-12-02T13:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995848278592967002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cellcellpress/…",
+          "end": 209,
+          "expanded_url": "https://twitter.com/cellcellpress/status/1988761028025536902",
+          "start": 186,
+          "url": "https://t.co/EQGFj6efIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995848278592967002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988761028025536902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "GoA蛋白中α4–β6环(α4–β6 loop)较为短小,5-HT1AR在结合GoA时,其跨膜螺旋TM6无需发生大幅度构象变化即可完成激活,同时GoA的α5螺旋N端存在一个N330–H322氢键,它有效稳定了α5螺旋在受体结合构象中,促进其与5-HT1AR的结合\n(S)-pindolol的吲哚环也是翻转180度与5-HT1AR结合吲哚环上的N原子与S199形成独特作用 https://t.co/EQGFj6efIO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1995848278592967002",
+        "created_at": "2025-12-02T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995848278592967002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cellcellpress/…",
+              "end": 209,
+              "expanded_url": "https://twitter.com/cellcellpress/status/1988761028025536902",
+              "start": 186,
+              "url": "https://t.co/EQGFj6efIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995848278592967002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988761028025536902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GoA蛋白中α4–β6环(α4–β6 loop)较为短小,5-HT1AR在结合GoA时,其跨膜螺旋TM6无需发生大幅度构象变化即可完成激活,同时GoA的α5螺旋N端存在一个N330–H322氢键,它有效稳定了α5螺旋在受体结合构象中,促进其与5-HT1AR的结合\n(S)-pindolol的吲哚环也是翻转180度与5-HT1AR结合吲哚环上的N原子与S199形成独特作用 https://t.co/EQGFj6efIO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "65134016",
+        "conversation_id": "1988761028025536902",
+        "created_at": "2025-11-13T00:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T01:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988761028025536902"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "HT1AR",
+              "probability": 0.6759,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Structural and functional analyses of a brain-enriched serotonin receptor, 5-HT1AR, elucidate the molecular basis of Gi/o subtype selectivity, leading to the design of a GoA-preferential agonist that induces rapid antidepressant effects in mice while avoiding autoreceptor activation.",
+              "display_url": "dlvr.it/TPDnBL",
+              "end": 105,
+              "expanded_url": "http://dlvr.it/TPDnBL",
+              "images": [
+                {
+                  "height": 375,
+                  "url": "https://pbs.twimg.com/news_img/1988633247387987968/F0BZdu-0?format=jpg&name=orig",
+                  "width": 375
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988633247387987968/F0BZdu-0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "Pathway-selective 5-HT1AR agonist as a rapid antidepressant strategy",
+              "unwound_url": "https://www.cell.com/cell/abstract/S0092-8674(25)01194-8?rss=yes&utm_medium=twitter&utm_source=dlvr.it",
+              "url": "https://t.co/3tZuUkKQcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988761028025536902",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 9215,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Now online!  Pathway-selective 5-HT1AR agonist as a rapid antidepressant strategy https://t.co/3tZuUkKQcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 855,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-12T19:31:12.000Z",
+        "description": "Cell aims to publish the most exciting and provocative research in biology. Posts by Scientific Editors on the Cell Editorial team.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cell.com/cell/editors-a…",
+                "end": 23,
+                "expanded_url": "https://www.cell.com/cell/editors-and-staff",
+                "start": 0,
+                "url": "https://t.co/sKouHsfiBH"
+              }
+            ]
+          }
+        },
+        "id": "65134016",
+        "location": "Cambridge, MA",
+        "name": "Cell",
+        "pinned_tweet_id": "1994022246277365941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220389237218009088/8dRI37l__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264322,
+          "following_count": 600,
+          "like_count": 362,
+          "listed_count": 2556,
+          "media_count": 4430,
+          "tweet_count": 13030
+        },
+        "url": "https://t.co/sKouHsfiBH",
+        "username": "CellCellPress",
+        "verified": false
+      }
+    ]
+  }
+}

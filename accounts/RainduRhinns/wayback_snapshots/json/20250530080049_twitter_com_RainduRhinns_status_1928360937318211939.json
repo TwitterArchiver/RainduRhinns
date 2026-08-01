@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924414682019893248",
+        "3_1924414683752153088",
+        "3_1924414688709734400",
+        "3_1924414691872219136"
+      ],
+      "media_source_tweet_id": [
+        "1924414696121118897",
+        "1924414696121118897",
+        "1924414696121118897",
+        "1924414696121118897"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1928360937318211939",
+    "created_at": "2025-05-30T08:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T09:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928360937318211939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1794149925950787584",
+          "start": 3,
+          "username": "yzx666yyds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pj49EQKT1Z",
+          "end": 49,
+          "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+          "media_key": "3_1924414682019893248",
+          "start": 26,
+          "url": "https://t.co/Pj49EQKT1Z"
+        },
+        {
+          "display_url": "pic.x.com/Pj49EQKT1Z",
+          "end": 49,
+          "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+          "media_key": "3_1924414683752153088",
+          "start": 26,
+          "url": "https://t.co/Pj49EQKT1Z"
+        },
+        {
+          "display_url": "pic.x.com/Pj49EQKT1Z",
+          "end": 49,
+          "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+          "media_key": "3_1924414688709734400",
+          "start": 26,
+          "url": "https://t.co/Pj49EQKT1Z"
+        },
+        {
+          "display_url": "pic.x.com/Pj49EQKT1Z",
+          "end": 49,
+          "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+          "media_key": "3_1924414691872219136",
+          "start": 26,
+          "url": "https://t.co/Pj49EQKT1Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928360937318211939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924414696121118897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yzx666yyds: 感觉好久没营业了？ https://t.co/Pj49EQKT1Z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928360937318211939].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928360937318211939",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928360937318211939"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1924414682019893248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTk9RJXkAAOapb.jpg",
+        "width": 1002
+      },
+      {
+        "height": 565,
+        "media_key": "3_1924414683752153088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTk9XmXwAAJ1Dd.jpg",
+        "width": 1024
+      },
+      {
+        "height": 920,
+        "media_key": "3_1924414688709734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTk9qEWcAAWMYi.jpg",
+        "width": 1024
+      },
+      {
+        "height": 937,
+        "media_key": "3_1924414691872219136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrTk912WIAACA_x.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924414682019893248",
+            "3_1924414683752153088",
+            "3_1924414688709734400",
+            "3_1924414691872219136"
+          ]
+        },
+        "author_id": "1794149925950787584",
+        "conversation_id": "1924414696121118897",
+        "created_at": "2025-05-19T10:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T11:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924414696121118897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pj49EQKT1Z",
+              "end": 33,
+              "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+              "media_key": "3_1924414682019893248",
+              "start": 10,
+              "url": "https://t.co/Pj49EQKT1Z"
+            },
+            {
+              "display_url": "pic.x.com/Pj49EQKT1Z",
+              "end": 33,
+              "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+              "media_key": "3_1924414683752153088",
+              "start": 10,
+              "url": "https://t.co/Pj49EQKT1Z"
+            },
+            {
+              "display_url": "pic.x.com/Pj49EQKT1Z",
+              "end": 33,
+              "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+              "media_key": "3_1924414688709734400",
+              "start": 10,
+              "url": "https://t.co/Pj49EQKT1Z"
+            },
+            {
+              "display_url": "pic.x.com/Pj49EQKT1Z",
+              "end": 33,
+              "expanded_url": "https://x.com/yzx666yyds/status/1924414696121118897/photo/1",
+              "media_key": "3_1924414691872219136",
+              "start": 10,
+              "url": "https://t.co/Pj49EQKT1Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924414696121118897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2638,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好久没营业了？ https://t.co/Pj49EQKT1Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 549,
+          "like_count": 2257,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 357
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:34:22.000Z",
+        "description": "少年他曾眼里有光✨",
+        "id": "1794149925950787584",
+        "location": "武汉",
+        "name": "钰钰子（6.1注销）",
+        "pinned_tweet_id": "1927191578159829498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925572280882450432/qewMJ04D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 134,
+          "like_count": 1770,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 1591
+        },
+        "username": "yzx666yyds",
+        "verified": false
+      }
+    ]
+  }
+}

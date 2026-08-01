@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1947006778966790295",
+    "created_at": "2025-07-20T19:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T20:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947023116288356525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1839205179406663680",
+          "start": 0,
+          "username": "yukobaobao2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947023116288356525",
+    "in_reply_to_user_id": "1839205179406663680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947018530320171419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukobaobao2 其实也玩了很多种了 但是副作用太多了容易太爽直接苏塞了哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1947006778966790295",
+        "created_at": "2025-07-20T19:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947023116288356525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1839205179406663680",
+              "start": 0,
+              "username": "yukobaobao2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947023116288356525",
+        "in_reply_to_user_id": "1839205179406663680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947018530320171419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukobaobao2 其实也玩了很多种了 但是副作用太多了容易太爽直接苏塞了哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839205179406663680",
+        "conversation_id": "1947006778966790295",
+        "created_at": "2025-07-20T19:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947018530320171419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947018530320171419",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947006778966790295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 可以开始解锁极限运动了 心跳加速的时候会感受到真实感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 619,
+          "like_count": 2533,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 442
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T07:27:49.000Z",
+        "description": "gay infj 会发🔞 会转🔞 介意请b 常驻陕西 偶尔刷新在北京 小概率刷新在上海广东 此人完全没有普世道德观谨慎交流谢谢。🐧：3080591855",
+        "id": "1839205179406663680",
+        "location": "微只加互关",
+        "name": "Yuko",
+        "pinned_tweet_id": "1901984630116692199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944210463404720129/1_s3qJMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1208,
+          "following_count": 130,
+          "like_count": 1286,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 883
+        },
+        "username": "yukobaobao2",
+        "verified": false
+      }
+    ]
+  }
+}

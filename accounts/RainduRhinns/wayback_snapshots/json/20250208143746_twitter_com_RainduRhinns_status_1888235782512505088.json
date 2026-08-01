@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1888235782512505088",
+    "created_at": "2025-02-08T14:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T15:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888235782512505088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1358267455638892546",
+          "start": 3,
+          "username": "XJRRP01J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888235782512505088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888223900620009555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XJRRP01J: このパンツ、出てきたー！って思ったんだけど、またどっか行っちゃったかも？(￣∀￣;)\n撮影に使ってみたいとか思って持ち出したりすると、どっか行くよねー(つД｀)\n\nアマゾンでなんか探さないと！って思ったんだけど、何か忘れましたwww\nディルドだったか…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888235782512505088].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888235782512505088",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888235782512505088"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888223480451391488"
+          ]
+        },
+        "author_id": "1358267455638892546",
+        "conversation_id": "1888223900620009555",
+        "created_at": "2025-02-08T13:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T14:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888223900620009555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlQ7VdFt47",
+              "end": 153,
+              "expanded_url": "https://x.com/XJRRP01J/status/1888223900620009555/photo/1",
+              "media_key": "3_1888223480451391488",
+              "start": 130,
+              "url": "https://t.co/nlQ7VdFt47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888223900620009555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 224,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "このパンツ、出てきたー！って思ったんだけど、またどっか行っちゃったかも？(￣∀￣;)\n撮影に使ってみたいとか思って持ち出したりすると、どっか行くよねー(つД｀)\n\nアマゾンでなんか探さないと！って思ったんだけど、何か忘れましたwww\nディルドだったかなぁ？w https://t.co/nlQ7VdFt47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 420,
+          "like_count": 1294,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 161
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-07T04:13:14.000Z",
+        "description": "ショ◯コン絵描きで腐男子で自撮り大好きｵｼﾞｻﾝです( ˘ω˘ )\n4つ目の垢です…見失った友人多数…\n東アジア系の人が大好き❤️ \nいいねも嬉しいけどリポストはもっと嬉しいです😍\n落描き練習垢@Factory_FP\nFANBOX→https://t.co/GingpOX1J8\nInstagram↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Factory_FP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "boysfactory.fanbox.cc",
+                "end": 139,
+                "expanded_url": "https://boysfactory.fanbox.cc",
+                "start": 116,
+                "url": "https://t.co/GingpOX1J8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/boysfactory_ph…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/boysfactory_photo/",
+                "start": 0,
+                "url": "https://t.co/tIBPyOHr2S"
+              }
+            ]
+          }
+        },
+        "id": "1358267455638892546",
+        "name": "ひろしげ！@緒河悠",
+        "pinned_tweet_id": "1604819933397127169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653889473053327362/r2oRCElu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 1665,
+          "like_count": 23422,
+          "listed_count": 35,
+          "media_count": 4764,
+          "tweet_count": 14938
+        },
+        "url": "https://t.co/tIBPyOHr2S",
+        "username": "XJRRP01J",
+        "verified": false
+      }
+    ]
+  }
+}

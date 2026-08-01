@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904057624892710912",
+        "3_1904057625261821952"
+      ],
+      "media_source_tweet_id": [
+        "1904057634413818144",
+        "1904057634413818144"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1904142159889994092",
+    "created_at": "2025-03-24T12:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T13:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904142159889994092"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "深圳校服"
+        },
+        {
+          "end": 54,
+          "start": 51,
+          "tag": "白袜"
+        },
+        {
+          "end": 57,
+          "start": 55,
+          "tag": "魈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878697376535416833",
+          "start": 3,
+          "username": "yunyunya05"
+        },
+        {
+          "end": 44,
+          "id": "1893957576632811520",
+          "start": 35,
+          "username": "zimobubu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJUWdVxeyM",
+          "end": 98,
+          "expanded_url": "https://x.com/yunyunya05/status/1904057634413818144/photo/1",
+          "media_key": "3_1904057624892710912",
+          "start": 75,
+          "url": "https://t.co/BJUWdVxeyM"
+        },
+        {
+          "display_url": "pic.x.com/BJUWdVxeyM",
+          "end": 98,
+          "expanded_url": "https://x.com/yunyunya05/status/1904057634413818144/photo/1",
+          "media_key": "3_1904057625261821952",
+          "start": 75,
+          "url": "https://t.co/BJUWdVxeyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904142159889994092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904057634413818144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunyunya05: 大型纪录片之《深圳男高大战降魔大圣》 @zimobubu #深圳校服 #白袜 #魈 （购买视频可以私信QQ获取喵～） https://t.co/BJUWdVxeyM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904142159889994092].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904142159889994092",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904142159889994092"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1904057624892710912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmySUluaoAAK6r_.jpg",
+        "width": 851
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1904057625261821952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmySUnGa0AA5wvQ.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904057624892710912",
+            "3_1904057625261821952"
+          ]
+        },
+        "author_id": "1878697376535416833",
+        "conversation_id": "1904057634413818144",
+        "created_at": "2025-03-24T06:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T07:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904057634413818144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "深圳校服"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "白袜"
+            },
+            {
+              "end": 41,
+              "start": 39,
+              "tag": "魈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1893957576632811520",
+              "start": 19,
+              "username": "zimobubu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJUWdVxeyM",
+              "end": 82,
+              "expanded_url": "https://x.com/yunyunya05/status/1904057634413818144/photo/1",
+              "media_key": "3_1904057624892710912",
+              "start": 59,
+              "url": "https://t.co/BJUWdVxeyM"
+            },
+            {
+              "display_url": "pic.x.com/BJUWdVxeyM",
+              "end": 82,
+              "expanded_url": "https://x.com/yunyunya05/status/1904057634413818144/photo/1",
+              "media_key": "3_1904057625261821952",
+              "start": 59,
+              "url": "https://t.co/BJUWdVxeyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904057634413818144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2827,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大型纪录片之《深圳男高大战降魔大圣》 @zimobubu #深圳校服 #白袜 #魈 （购买视频可以私信QQ获取喵～） https://t.co/BJUWdVxeyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 477,
+          "like_count": 1721,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 280
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T06:55:48.000Z",
+        "description": "是云云吖（喵喵机二代）｜合法成年正太 xp是sm，圣水｜坐标：西安｜扩列q3989233557｜接定制视频图片，出售视频哦～｜企鹅群是：799503943",
+        "id": "1878697376535416833",
+        "name": "云云吖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881230308311535616/uW5xL8ko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2946,
+          "following_count": 75,
+          "like_count": 48,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 189
+        },
+        "username": "yunyunya05",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T09:34:18.000Z",
+        "description": "是小布布捏😽 | bsky同名 | 已成年(合法) | 常驻西安 | 0/174cm/56kg/39码 | 🉑出视频/定制/原味 | 🉑线下面基 | xp是sp和sm | 交友qq🐧 1449881064 | 看官老爷看的开心～😈",
+        "id": "1893957576632811520",
+        "name": "布布糕",
+        "pinned_tweet_id": "1896221291029631090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893957704139612160/sxahyoXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 118,
+          "like_count": 106,
+          "listed_count": 21,
+          "media_count": 20,
+          "tweet_count": 82
+        },
+        "username": "zimobubu",
+        "verified": false
+      }
+    ]
+  }
+}

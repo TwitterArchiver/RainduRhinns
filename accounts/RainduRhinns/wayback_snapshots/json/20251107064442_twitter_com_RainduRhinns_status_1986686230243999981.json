@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986686221771546626",
+        "3_1986686221771546629"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1986686230243999981",
+    "created_at": "2025-11-07T06:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T07:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986686230243999981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dISmh9nJEp",
+          "end": 51,
+          "expanded_url": "https://x.com/RainduRhinns/status/1986686230243999981/photo/1",
+          "media_key": "3_1986686221771546626",
+          "start": 28,
+          "url": "https://t.co/dISmh9nJEp"
+        },
+        {
+          "display_url": "pic.x.com/dISmh9nJEp",
+          "end": 51,
+          "expanded_url": "https://x.com/RainduRhinns/status/1986686230243999981/photo/1",
+          "media_key": "3_1986686221771546629",
+          "start": 28,
+          "url": "https://t.co/dISmh9nJEp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986686230243999981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这哪个OD圈逼人天天在豆瓣哲学书评区底下刷屏低脂评论… https://t.co/dISmh9nJEp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986686221771546626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Igl8DbIAILPmY.jpg",
+        "width": 997
+      },
+      {
+        "height": 2047,
+        "media_key": "3_1986686221771546629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Igl8DbIAUasvX.jpg",
+        "width": 998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986686221771546626",
+            "3_1986686221771546629"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986686230243999981",
+        "created_at": "2025-11-07T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986686230243999981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dISmh9nJEp",
+              "end": 51,
+              "expanded_url": "https://x.com/RainduRhinns/status/1986686230243999981/photo/1",
+              "media_key": "3_1986686221771546626",
+              "start": 28,
+              "url": "https://t.co/dISmh9nJEp"
+            },
+            {
+              "display_url": "pic.x.com/dISmh9nJEp",
+              "end": 51,
+              "expanded_url": "https://x.com/RainduRhinns/status/1986686230243999981/photo/1",
+              "media_key": "3_1986686221771546629",
+              "start": 28,
+              "url": "https://t.co/dISmh9nJEp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986686230243999981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这哪个OD圈逼人天天在豆瓣哲学书评区底下刷屏低脂评论… https://t.co/dISmh9nJEp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 787,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1395
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

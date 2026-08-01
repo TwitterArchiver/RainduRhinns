@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948266925902995456"
+      ],
+      "media_source_tweet_id": [
+        "1948266936590041354"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1952821216211054970",
+    "created_at": "2025-08-05T19:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T20:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952821216211054970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1815976315507597314",
+          "start": 3,
+          "username": "chnchngzi001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1iCF5A91Z",
+          "end": 56,
+          "expanded_url": "https://x.com/chnchngzi001/status/1948266936590041354/photo/1",
+          "media_key": "3_1948266925902995456",
+          "start": 33,
+          "url": "https://t.co/G1iCF5A91Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952821216211054970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948266936590041354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chnchngzi001: 这照片上的是你嘛，这么反差😋 https://t.co/G1iCF5A91Z"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952821216211054970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952821216211054970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952821216211054970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1948266925902995456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwmicl4XIAAy_NE.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948266925902995456"
+          ]
+        },
+        "author_id": "1815976315507597314",
+        "conversation_id": "1948266936590041354",
+        "created_at": "2025-07-24T06:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948266936590041354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1iCF5A91Z",
+              "end": 38,
+              "expanded_url": "https://x.com/chnchngzi001/status/1948266936590041354/photo/1",
+              "media_key": "3_1948266925902995456",
+              "start": 15,
+              "url": "https://t.co/G1iCF5A91Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948266936590041354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 29638,
+          "like_count": 439,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "这照片上的是你嘛，这么反差😋 https://t.co/G1iCF5A91Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 640,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 567
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T05:04:59.000Z",
+        "description": "这里是辰橙子\n如果眼熟就点个关注吧੭ ᐕ)੭*\n可接定制，出原味๛ก（ーωーก）欢迎私信\n前世： @Chnchnzi000\n已经是四目代了\n防失联：@Chnchngzi002\nQQ（备注来意）：3796462750\n好朋友🌸花兮兮：@hua_kk1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Chnchnzi000"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Chnchngzi002"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "hua_kk1"
+              }
+            ]
+          }
+        },
+        "id": "1815976315507597314",
+        "name": "辰橙子",
+        "pinned_tweet_id": "1930661777563586683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826581607890722816/wx_z52NT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8430,
+          "following_count": 1380,
+          "like_count": 7726,
+          "listed_count": 13,
+          "media_count": 90,
+          "tweet_count": 2222
+        },
+        "username": "chnchngzi001",
+        "verified": false
+      }
+    ]
+  }
+}

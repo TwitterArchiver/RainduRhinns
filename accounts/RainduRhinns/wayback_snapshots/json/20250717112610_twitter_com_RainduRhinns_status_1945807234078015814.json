@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1945807234078015814",
+    "created_at": "2025-07-17T11:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945807234078015814"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945807234078015814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么相较于跨性别和Les群体而言，Gay对男性恋/自体男性恋Androsexuality概念的认同和分野的讨论较前者们讨论autogynephilia和女性恋等讨论似乎少很多？Ray Blanchard在80年代的分类法提出AG的概念一度遭到跨性别MTF群体强烈反对，但很少能看到Gay反对这种分类法强调“色情化了性别的基本生物学方面”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1945807234078015814",
+        "created_at": "2025-07-17T11:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945807234078015814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945807234078015814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么相较于跨性别和Les群体而言，Gay对男性恋/自体男性恋Androsexuality概念的认同和分野的讨论较前者们讨论autogynephilia和女性恋等讨论似乎少很多？Ray Blanchard在80年代的分类法提出AG的概念一度遭到跨性别MTF群体强烈反对，但很少能看到Gay反对这种分类法强调“色情化了性别的基本生物学方面”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 619,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 424
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

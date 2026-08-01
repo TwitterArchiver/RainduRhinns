@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1947026966340685832",
+    "created_at": "2025-07-20T20:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T21:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947026966340685832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/10lulu2/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/10lulu2/status/1945383203302465951",
+          "start": 4,
+          "url": "https://t.co/9gJ9YQWsvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947026966340685832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945383203302465951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高潮了 https://t.co/9gJ9YQWsvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25890,
+        "height": 720,
+        "media_key": "13_1945383157190295552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945383157190295552/img/34R5FjocE8AkJwYf.jpg",
+        "public_metrics": {
+          "view_count": 8906
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945383157190295552/vid/avc1/480x270/vp8VuEgNF3AIiZKz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945383157190295552/vid/avc1/640x360/AoAIBFmoCJiEu3fe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945383157190295552/vid/avc1/1280x720/7EiivqRtZtKmsNUR.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945383157190295552/pl/5A_9HTFdLcf2qbZS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1947026966340685832",
+        "created_at": "2025-07-20T20:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T21:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947026966340685832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/10lulu2/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/10lulu2/status/1945383203302465951",
+              "start": 4,
+              "url": "https://t.co/9gJ9YQWsvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947026966340685832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945383203302465951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高潮了 https://t.co/9gJ9YQWsvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1945383157190295552"
+          ]
+        },
+        "author_id": "1403571550314397697",
+        "conversation_id": "1945383203302465951",
+        "created_at": "2025-07-16T07:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945383203302465951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "これでフォロワーさんが増えました"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h83NMaCOkZ",
+              "end": 41,
+              "expanded_url": "https://x.com/10lulu2/status/1945383203302465951/video/1",
+              "media_key": "13_1945383157190295552",
+              "start": 18,
+              "url": "https://t.co/h83NMaCOkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945383203302465951",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 339,
+          "impression_count": 22895,
+          "like_count": 865,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "#これでフォロワーさんが増えました https://t.co/h83NMaCOkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 620,
+          "like_count": 2534,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 445
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T04:35:18.000Z",
+        "description": "音楽家 吉松隆、武満徹、幾原邦彦、寺山修司が好き『心象天儀本線 Per aspera ad astra』主催  @hoshiorigakuen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "hoshiorigakuen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@10lulu18",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@10lulu18",
+                "start": 0,
+                "url": "https://t.co/kLmjz2T9LK"
+              }
+            ]
+          }
+        },
+        "id": "1403571550314397697",
+        "location": "クープランの墓",
+        "name": "10lulu",
+        "pinned_tweet_id": "1942604882198028644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444819119619010563/LBVMJhrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5073,
+          "following_count": 1342,
+          "like_count": 47055,
+          "listed_count": 38,
+          "media_count": 556,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/kLmjz2T9LK",
+        "username": "10lulu2",
+        "verified": false
+      }
+    ]
+  }
+}

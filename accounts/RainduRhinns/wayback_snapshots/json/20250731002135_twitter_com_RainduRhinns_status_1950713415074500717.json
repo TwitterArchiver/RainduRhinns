@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1950649018427830305",
+    "created_at": "2025-07-31T00:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T01:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950713415074500717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950713415074500717",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950672316209435082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘记补充 开始前半个小时 0:07 吃了苯基吡拉西坦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950649018427830305",
+        "created_at": "2025-07-31T00:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T01:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950713415074500717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950713415074500717",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950672316209435082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘记补充 开始前半个小时 0:07 吃了苯基吡拉西坦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1950649018427830305",
+        "created_at": "2025-07-30T21:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T22:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950672316209435082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950672316209435082",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950661831841960253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "CST 5:03 明显绝对音准丧失 听力损失 气导听力计量器 气导听力降低 相反骨导听力增加 气骨导差＞20dB \n纯律 绝对音高测试 正常\n纯色 标准光三原色谱 正常\n光敏 闪烁程度 临界点170/min\n嗅觉 缺少检测计量单位\n5:32 闻了 Bortnikoff Tabac Doré 对主次要香气有 表现反应可信标记"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 639,
+          "like_count": 2609,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 525
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

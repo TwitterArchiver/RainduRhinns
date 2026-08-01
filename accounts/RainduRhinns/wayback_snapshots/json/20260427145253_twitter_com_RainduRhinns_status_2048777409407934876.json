@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2048756637738164380",
+    "created_at": "2026-04-27T14:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048777409407934876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489332581615095810",
+          "start": 0,
+          "username": "xiaciyiding520"
+        },
+        {
+          "end": 23,
+          "id": "1291704894211186689",
+          "start": 16,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048777409407934876",
+    "in_reply_to_user_id": "1489332581615095810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048771817754755256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaciyiding520 @AZLXY1 小厂很多批次质量不一样的 有的批次非常灰黑结块发黄 到手有容易失活的我测过好几个也就是92％以上 绝对没有98％纯度 而且有些也要资质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2048756637738164380",
+        "created_at": "2026-04-27T14:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048777409407934876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489332581615095810",
+              "start": 0,
+              "username": "xiaciyiding520"
+            },
+            {
+              "end": 23,
+              "id": "1291704894211186689",
+              "start": 16,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048777409407934876",
+        "in_reply_to_user_id": "1489332581615095810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048771817754755256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaciyiding520 @AZLXY1 小厂很多批次质量不一样的 有的批次非常灰黑结块发黄 到手有容易失活的我测过好几个也就是92％以上 绝对没有98％纯度 而且有些也要资质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489332581615095810",
+        "conversation_id": "2048756637738164380",
+        "created_at": "2026-04-27T14:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048771817754755256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 21,
+              "id": "1291704894211186689",
+              "start": 14,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048771817754755256",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048761397119701220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @AZLXY1 直接去化工网上买联系厂家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 895,
+          "like_count": 4211,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 2342
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T20:19:08.000Z",
+        "description": "可以叫我猫/大猫\n一个传奇耐药王\n出售dpt350/1g",
+        "id": "1489332581615095810",
+        "name": "猫",
+        "pinned_tweet_id": "2048767100999897207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803192275578826752/E9VdHMqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 119,
+          "like_count": 51,
+          "listed_count": 4,
+          "media_count": 35,
+          "tweet_count": 326
+        },
+        "username": "xiaciyiding520",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od存在，无性恋倾向（有浪漫倾向），不约。可以的话请fo我喵 ฅ^•ω•^ฅ",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 461,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1118
+        },
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

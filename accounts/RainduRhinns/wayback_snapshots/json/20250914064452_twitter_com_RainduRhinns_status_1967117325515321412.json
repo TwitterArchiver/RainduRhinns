@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1966910885466960289",
+    "created_at": "2025-09-14T06:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T07:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967117325515321412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967117325515321412",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967036721100726505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi 感觉影响不大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1966910885466960289",
+        "created_at": "2025-09-14T06:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967117325515321412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967117325515321412",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967036721100726505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi 感觉影响不大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "1966910885466960289",
+        "created_at": "2025-09-14T01:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T02:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967036721100726505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967036721100726505",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966910885466960289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 完了那没法听歌旅行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 719,
+          "like_count": 2818,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 902
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "骂我先骂@natsutooi | 现在最大的成分是网哲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "natsutooi"
+              }
+            ]
+          }
+        },
+        "id": "1185431906436804608",
+        "name": "OverwhelmWiki",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 904,
+          "like_count": 48428,
+          "listed_count": 3,
+          "media_count": 1060,
+          "tweet_count": 22822
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

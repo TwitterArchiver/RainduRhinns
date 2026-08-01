@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1805939235167592448"
+      ],
+      "media_source_tweet_id": [
+        "1805939240439865761"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1891129331298038044",
+    "created_at": "2025-02-16T14:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T15:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891129331298038044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526785825601511424",
+          "start": 3,
+          "username": "HaiLiDou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/55TdJagAkg",
+          "end": 41,
+          "expanded_url": "https://x.com/HaiLiDou/status/1805939240439865761/photo/1",
+          "media_key": "3_1805939235167592448",
+          "start": 18,
+          "url": "https://t.co/55TdJagAkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891129331298038044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805939240439865761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaiLiDou: 水手服 https://t.co/55TdJagAkg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1891129331298038044].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1891129331298038044",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1891129331298038044"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4111,
+        "media_key": "3_1805939235167592448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQ_8KoYa4AAh6EC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1805939235167592448"
+          ]
+        },
+        "author_id": "1526785825601511424",
+        "conversation_id": "1805939240439865761",
+        "created_at": "2024-06-26T12:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T13:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805939240439865761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/55TdJagAkg",
+              "end": 27,
+              "expanded_url": "https://x.com/HaiLiDou/status/1805939240439865761/photo/1",
+              "media_key": "3_1805939235167592448",
+              "start": 4,
+              "url": "https://t.co/55TdJagAkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805939240439865761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15119,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "水手服 https://t.co/55TdJagAkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 423,
+          "like_count": 1341,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 183
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T04:45:00.000Z",
+        "description": "这个号发自己的图🔞    Furry  \nXP是：  NTR/sp/球袜/白丝/校服/大腿\n⭕防走丢@ShiTangDou     ⭕私信请保持礼貌交流（问约不回🚫）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "ShiTangDou"
+              }
+            ]
+          }
+        },
+        "id": "1526785825601511424",
+        "location": "中国",
+        "name": "兜的小卖铺",
+        "pinned_tweet_id": "1869423601818198524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890430337664319488/GrwpmfIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5717,
+          "following_count": 200,
+          "like_count": 3591,
+          "listed_count": 19,
+          "media_count": 117,
+          "tweet_count": 192
+        },
+        "username": "HaiLiDou",
+        "verified": false
+      }
+    ]
+  }
+}

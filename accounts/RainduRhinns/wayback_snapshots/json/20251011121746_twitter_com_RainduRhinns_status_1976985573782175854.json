@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Archaeology",
+          "id": "1046582045349015552",
+          "name": "Archaeology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Archaeology",
+          "id": "1046582045349015552",
+          "name": "Archaeology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1976985573782175854",
+    "created_at": "2025-10-11T12:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T13:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976985573782175854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1976961972949467283",
+          "start": 145,
+          "url": "https://t.co/GyLtYLLy0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976985573782175854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976961972949467283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个比较可以畅想的图景是近代分析哲学的心灵哲学的贝叶斯主义对更广泛的科学哲学介入对Agency问题研究的种种整合，做认知考古学和“空间处理能力对文明演化的量化影响”这种方法之间完全可以介入贝叶斯因果研究。甚至整合行动的主体与主体的行动古典断裂之间的非线性倒错与控制论研究，情动理论与物转向 https://t.co/GyLtYLLy0G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Archaeology",
+              "id": "1046582045349015552",
+              "name": "Archaeology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Archaeology",
+              "id": "1046582045349015552",
+              "name": "Archaeology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1976985573782175854",
+        "created_at": "2025-10-11T12:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976985573782175854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1976961972949467283",
+              "start": 145,
+              "url": "https://t.co/GyLtYLLy0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976985573782175854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976961972949467283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个比较可以畅想的图景是近代分析哲学的心灵哲学的贝叶斯主义对更广泛的科学哲学介入对Agency问题研究的种种整合，做认知考古学和“空间处理能力对文明演化的量化影响”这种方法之间完全可以介入贝叶斯因果研究。甚至整合行动的主体与主体的行动古典断裂之间的非线性倒错与控制论研究，情动理论与物转向 https://t.co/GyLtYLLy0G"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1976961972949467283",
+        "created_at": "2025-10-11T10:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T11:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976961972949467283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976961972949467283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被环境吃光是与之同化，吃光环境也是同化。二元客气地给了你一个活动空间，可以在这一头和那一头间跑来跑去，但也仅此而已。想起有些dos游戏，操作的小人到了屏幕最右，再按➡️键，小人就从最左冒出来，可以算是全新的人吗？在穿越屏幕后方时小人身上有没有发生什么，是值得还是不值得问呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 764,
+          "like_count": 2954,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1215
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

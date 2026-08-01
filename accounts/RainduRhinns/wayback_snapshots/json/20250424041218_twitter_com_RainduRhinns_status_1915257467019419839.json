@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915105842325811200"
+      ],
+      "media_source_tweet_id": [
+        "1915105852606066785"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1915257467019419839",
+    "created_at": "2025-04-24T04:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T05:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915257467019419839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1914695846794493952",
+          "start": 3,
+          "username": "huayue479355"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8UHgRHUfTO",
+          "end": 48,
+          "expanded_url": "https://x.com/huayue479355/status/1915105852606066785/photo/1",
+          "media_key": "3_1915105842325811200",
+          "start": 25,
+          "url": "https://t.co/8UHgRHUfTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915257467019419839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915105852606066785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huayue479355: 是主人视角！ https://t.co/8UHgRHUfTO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915257467019419839].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915257467019419839",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915257467019419839"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1915105842325811200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpPSne8a8AAeCU9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915105842325811200"
+          ]
+        },
+        "author_id": "1914695846794493952",
+        "conversation_id": "1915105852606066785",
+        "created_at": "2025-04-23T18:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T19:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915105852606066785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UHgRHUfTO",
+              "end": 30,
+              "expanded_url": "https://x.com/huayue479355/status/1915105852606066785/photo/1",
+              "media_key": "3_1915105842325811200",
+              "start": 7,
+              "url": "https://t.co/8UHgRHUfTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915105852606066785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 426,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "是主人视角！ https://t.co/8UHgRHUfTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 501,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 316
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T15:00:48.000Z",
+        "description": "花卷来啦🌸！这里是花卷!是11年破壳的男孩子。 是狗狗0嗷 请多多关照！希望能有更多人和花卷扩列呐，欢迎和花卷一样的狗狗男孩！诶嘿嘿嘿 喜欢所有可爱的东西，平常会随机更新18+内容和福利！关注花卷防止错过！",
+        "id": "1914695846794493952",
+        "name": "花卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915036569519710208/8qO6AAy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "huayue479355",
+        "verified": false
+      }
+    ]
+  }
+}

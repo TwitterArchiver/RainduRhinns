@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2057458286493053325",
+    "created_at": "2026-05-21T14:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057466881917993276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715239901149675520",
+          "start": 0,
+          "username": "Kasabylica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057466881917993276",
+    "in_reply_to_user_id": "1715239901149675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057462649701712375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kasabylica 在大家争数学哲学和逻辑学从功能到审美的往复分化生态位彼此夺舍大科哲图景失败加州派快变成研究数学家的社会学哲淆逻辑一天发明80个逻辑的时候们证明论就这么静静死在了九霄云外旁边是证明复杂性和抽象复杂性，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2057458286493053325",
+        "created_at": "2026-05-21T14:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057466881917993276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715239901149675520",
+              "start": 0,
+              "username": "Kasabylica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057466881917993276",
+        "in_reply_to_user_id": "1715239901149675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057462649701712375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kasabylica 在大家争数学哲学和逻辑学从功能到审美的往复分化生态位彼此夺舍大科哲图景失败加州派快变成研究数学家的社会学哲淆逻辑一天发明80个逻辑的时候们证明论就这么静静死在了九霄云外旁边是证明复杂性和抽象复杂性，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715239901149675520",
+        "conversation_id": "2057458286493053325",
+        "created_at": "2026-05-21T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057462649701712375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "tsinghualogic.net/JRC/cacml2026/",
+              "end": 52,
+              "expanded_url": "https://tsinghualogic.net/JRC/cacml2026/",
+              "images": [
+                {
+                  "height": 3508,
+                  "url": "https://pbs.twimg.com/news_img/2057462707541114880/ACtwWTmm?format=jpg&name=orig",
+                  "width": 2480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2057462707541114880/ACtwWTmm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "2026全国数理逻辑年会 – JRC for Logic",
+              "unwound_url": "https://tsinghualogic.net/JRC/cacml2026/",
+              "url": "https://t.co/RWEwvvTh0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057462649701712375",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057458286493053325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 证明论不是已经查无此人…比如：https://t.co/RWEwvvTh0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 910,
+          "like_count": 4457,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T05:34:03.000Z",
+        "description": "♢∀",
+        "id": "1715239901149675520",
+        "name": "Infinity and Beyond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790560488985931776/F6cuY58W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 259,
+          "like_count": 4341,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3122
+        },
+        "username": "Kasabylica",
+        "verified": false
+      }
+    ]
+  }
+}

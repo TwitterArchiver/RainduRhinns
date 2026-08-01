@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1883562584458277222",
+    "created_at": "2025-01-26T18:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T19:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883576099919069641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1864316660997632000",
+          "start": 0,
+          "username": "Ka1ubee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883576099919069641",
+    "in_reply_to_user_id": "1864316660997632000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883562584458277222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ka1ubee 声音好香！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1883562584458277222",
+        "created_at": "2025-01-26T18:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T19:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883576099919069641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1864316660997632000",
+              "start": 0,
+              "username": "Ka1ubee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883576099919069641",
+        "in_reply_to_user_id": "1864316660997632000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883562584458277222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ka1ubee 声音好香！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883562238126276608"
+          ]
+        },
+        "author_id": "1864316660997632000",
+        "conversation_id": "1883562584458277222",
+        "created_at": "2025-01-26T17:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T18:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883562584458277222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SInZ1ierdR",
+              "end": 23,
+              "expanded_url": "https://x.com/Ka1ubee/status/1883562584458277222/video/1",
+              "media_key": "7_1883562238126276608",
+              "start": 0,
+              "url": "https://t.co/SInZ1ierdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883562584458277222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 273,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SInZ1ierdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 407,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 119
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:31:55.000Z",
+        "description": "可以叫我咔噜\nISTJ | 长居日本 | CN・JP・EN\n点赞转发喵！点赞转发谢谢喵！",
+        "id": "1864316660997632000",
+        "location": "被窝里",
+        "name": "Kalu★",
+        "pinned_tweet_id": "1864335737665278448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864326476738514947/BN7do4Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3203,
+          "following_count": 109,
+          "like_count": 1385,
+          "listed_count": 13,
+          "media_count": 73,
+          "tweet_count": 436
+        },
+        "username": "Ka1ubee",
+        "verified": false
+      }
+    ]
+  }
+}

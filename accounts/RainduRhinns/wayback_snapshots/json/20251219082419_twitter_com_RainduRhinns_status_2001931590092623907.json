@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263187885970227200",
+          "name": "NFL players"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2001900366729040147",
+    "created_at": "2025-12-19T08:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001931590092623907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903099585129816064",
+          "start": 0,
+          "username": "tokerumaisurii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001931590092623907",
+    "in_reply_to_user_id": "1903099585129816064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001907732992098583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokerumaisurii 有兴趣直接看帕菲特，Thomas Scanlon，M Korsgaard，Robert Brandon，Joseph Razz的入门著作吧，不太好用简单的语言讲清楚，不过这是分析哲学里很基础的问题也演化出了一堆经典的法哲学立场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263187885970227200",
+              "name": "NFL players"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2001900366729040147",
+        "created_at": "2025-12-19T08:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001931590092623907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903099585129816064",
+              "start": 0,
+              "username": "tokerumaisurii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001931590092623907",
+        "in_reply_to_user_id": "1903099585129816064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001907732992098583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokerumaisurii 有兴趣直接看帕菲特，Thomas Scanlon，M Korsgaard，Robert Brandon，Joseph Razz的入门著作吧，不太好用简单的语言讲清楚，不过这是分析哲学里很基础的问题也演化出了一堆经典的法哲学立场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903099585129816064",
+        "conversation_id": "2001900366729040147",
+        "created_at": "2025-12-19T06:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T07:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001907732992098583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001907732992098583",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001907025983439070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 完了，这些我都认识的字连起来我真没看懂……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 861,
+          "like_count": 3518,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T15:01:17.000Z",
+        "description": "一尾不再可口的鱼 :: 🪼 @VentusUta :: 🎇 @Acetylene04 :: 🐱 @_rawSalmon :: 她将在从此以后的生活中，找到什么样的意义呢？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "VentusUta"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "Acetylene04"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "_rawSalmon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nullstate.bar/work-in-progre…",
+                "end": 23,
+                "expanded_url": "http://nullstate.bar/work-in-progress",
+                "start": 0,
+                "url": "https://t.co/zmQgbgMH6d"
+              }
+            ]
+          }
+        },
+        "id": "1903099585129816064",
+        "location": "神々が恋した幻想郷",
+        "name": "小虚空🍥",
+        "pinned_tweet_id": "1903106207931416732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984929338366550016/2-aB_GCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 248,
+          "like_count": 68245,
+          "listed_count": 7,
+          "media_count": 860,
+          "tweet_count": 12889
+        },
+        "url": "https://t.co/zmQgbgMH6d",
+        "username": "tokerumaisurii",
+        "verified": false
+      }
+    ]
+  }
+}

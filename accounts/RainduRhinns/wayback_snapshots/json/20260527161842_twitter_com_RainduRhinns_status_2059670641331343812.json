@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2059670641331343812",
+    "created_at": "2026-05-27T16:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T17:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059670641331343812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059670641331343812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉我已经完全适应了长期处于血清素综合症状态中了…这个月大幅降低了trip次数已经让我觉得太干净能分清body load和血清素综合症的东西不够后劲了…上来就玩各种5MeO导致完全习惯了长时间身体压力恐怖幻各种濒死对我已经是日常了 我不知道还有什么对我算得上bad trip了 已经成为自虐享受者的样子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2059670641331343812",
+        "created_at": "2026-05-27T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059670641331343812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059670641331343812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我已经完全适应了长期处于血清素综合症状态中了…这个月大幅降低了trip次数已经让我觉得太干净能分清body load和血清素综合症的东西不够后劲了…上来就玩各种5MeO导致完全习惯了长时间身体压力恐怖幻各种濒死对我已经是日常了 我不知道还有什么对我算得上bad trip了 已经成为自虐享受者的样子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 911,
+          "like_count": 4480,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2560
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

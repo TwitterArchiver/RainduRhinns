@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899057553453281280"
+      ],
+      "media_source_tweet_id": [
+        "1899057561007210959"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1899469486375248158",
+    "created_at": "2025-03-11T14:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899469486375248158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1762515381892288512",
+          "start": 3,
+          "username": "Shang_QingCc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/maXx0sHh92",
+          "end": 48,
+          "expanded_url": "https://x.com/Shang_QingCc/status/1899057561007210959/photo/1",
+          "media_key": "3_1899057553453281280",
+          "start": 25,
+          "url": "https://t.co/maXx0sHh92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899469486375248158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899057561007210959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shang_QingCc: 我也来试试～ https://t.co/maXx0sHh92"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899469486375248158].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899469486375248158",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899469486375248158"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 939,
+        "media_key": "3_1899057553453281280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlrOyIGa8AA2rUo.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899057553453281280"
+          ]
+        },
+        "author_id": "1762515381892288512",
+        "conversation_id": "1899057561007210959",
+        "created_at": "2025-03-10T11:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899057561007210959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maXx0sHh92",
+              "end": 30,
+              "expanded_url": "https://x.com/Shang_QingCc/status/1899057561007210959/photo/1",
+              "media_key": "3_1899057553453281280",
+              "start": 7,
+              "url": "https://t.co/maXx0sHh92"
+            },
+            {
+              "display_url": "x.com/slow_dancener/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/slow_dancener/status/1898967403725525340",
+              "start": 31,
+              "url": "https://t.co/xd4jVr0PCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899057561007210959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1306,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898967403725525340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来试试～ https://t.co/maXx0sHh92 https://t.co/xd4jVr0PCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 461,
+          "like_count": 1643,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 260
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T16:30:04.000Z",
+        "description": "这里是小c哦！感谢您能观察到我这莫名其妙乱七八糟的推，在推上我会更一些我认为能让大家心里看着舒心的内容，坐标四川成都🎨，喜熊🐻，健硕肉体，文理双修💯，欢迎扩列，推止于推🚫搬运内容🚫争吵",
+        "id": "1762515381892288512",
+        "location": "Chengdu",
+        "name": "Cc_",
+        "pinned_tweet_id": "1897340571771175357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827581238905073665/GFVZw4Z0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 149,
+          "like_count": 601,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 147
+        },
+        "username": "Shang_QingCc",
+        "verified": false
+      }
+    ]
+  }
+}

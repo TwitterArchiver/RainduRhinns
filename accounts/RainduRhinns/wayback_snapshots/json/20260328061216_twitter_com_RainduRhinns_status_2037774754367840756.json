@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2037774754367840756",
+    "created_at": "2026-03-28T06:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037774754367840756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/2037653654128517451",
+          "start": 14,
+          "url": "https://t.co/iY9254ACo5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037774754367840756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037653654128517451",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "辟谣了我们米氮平是精品神药 https://t.co/iY9254ACo5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2037774754367840756",
+        "created_at": "2026-03-28T06:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037774754367840756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2037653654128517451",
+              "start": 14,
+              "url": "https://t.co/iY9254ACo5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037774754367840756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037653654128517451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "辟谣了我们米氮平是精品神药 https://t.co/iY9254ACo5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2037653654128517451",
+        "created_at": "2026-03-27T22:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T23:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037653654128517451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037653654128517451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 19567,
+          "like_count": 187,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我发现叫XX平的药都很啥吡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 884,
+          "like_count": 4013,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 2160
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "💙💙💙 / Love @w0sh1Asak1 / WinterFruit / 💙💙💙🔮里账：@_Yuyuko_FTZ 🔮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "一群人，一辈子，做好传播药是本文化这件事",
+        "pinned_tweet_id": "2037054451719299101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011293938624446464/pWX68IiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 1466,
+          "like_count": 38114,
+          "listed_count": 7,
+          "media_count": 1592,
+          "tweet_count": 11211
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

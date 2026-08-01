@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980259088740028416"
+      ],
+      "media_source_tweet_id": [
+        "1980261963545313743"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1995850647229661400",
+    "created_at": "2025-12-02T13:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995850647229661400"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "FDA",
+          "probability": 0.9619,
+          "start": 19,
+          "type": "Organization"
+        },
+        {
+          "end": 83,
+          "normalized_text": "DMT",
+          "probability": 0.3352,
+          "start": 81,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1450247589631336448",
+          "start": 3,
+          "username": "BowTiedUM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iB64XoQsfZ",
+          "end": 120,
+          "expanded_url": "https://x.com/BowTiedUM/status/1980261963545313743/photo/1",
+          "media_key": "3_1980259088740028416",
+          "start": 97,
+          "url": "https://t.co/iB64XoQsfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995850647229661400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 206
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980261963545313743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BowTiedUM: The FDA just granted \"breakthrough therapy designation\" for 5-MeO-DMT nasal spray https://t.co/iB64XoQsfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_1980259088740028416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tLJjuWkAAF_VY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980259088740028416"
+          ],
+          "media_source_tweet_id": [
+            "1980261963545313743"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1995850647229661400",
+        "created_at": "2025-12-02T13:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995850647229661400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "FDA",
+              "probability": 0.9619,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 83,
+              "normalized_text": "DMT",
+              "probability": 0.3352,
+              "start": 81,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1450247589631336448",
+              "start": 3,
+              "username": "BowTiedUM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iB64XoQsfZ",
+              "end": 120,
+              "expanded_url": "https://x.com/BowTiedUM/status/1980261963545313743/photo/1",
+              "media_key": "3_1980259088740028416",
+              "start": 97,
+              "url": "https://t.co/iB64XoQsfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995850647229661400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 206
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980261963545313743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BowTiedUM: The FDA just granted \"breakthrough therapy designation\" for 5-MeO-DMT nasal spray https://t.co/iB64XoQsfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980259088740028416"
+          ]
+        },
+        "author_id": "1450247589631336448",
+        "conversation_id": "1980261963545313743",
+        "created_at": "2025-10-20T13:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980261963545313743"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "FDA",
+              "probability": 0.9655,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 68,
+              "normalized_text": "DMT",
+              "probability": 0.3873,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iB64XoQsfZ",
+              "end": 105,
+              "expanded_url": "https://x.com/BowTiedUM/status/1980261963545313743/photo/1",
+              "media_key": "3_1980259088740028416",
+              "start": 82,
+              "url": "https://t.co/iB64XoQsfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980261963545313743",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 798,
+          "impression_count": 163185,
+          "like_count": 2320,
+          "quote_count": 48,
+          "reply_count": 96,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "The FDA just granted \"breakthrough therapy designation\" for 5-MeO-DMT nasal spray https://t.co/iB64XoQsfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 855,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T23:49:22.000Z",
+        "description": "CEO of DHT | Andrologist | Social Memory Complex | Decentralize Everything #BTC | Elevate Your Consciousness & Unlock the Übermensch - Not Medical Advice",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "BTC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "links.bowtiedbiohacker.com",
+                "end": 23,
+                "expanded_url": "http://links.bowtiedbiohacker.com",
+                "start": 0,
+                "url": "https://t.co/Lj2cx0UAOe"
+              }
+            ]
+          }
+        },
+        "id": "1450247589631336448",
+        "name": "BowTied Biohacker",
+        "pinned_tweet_id": "1870918692797902935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607804036345905157/s3hS8Hf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114859,
+          "following_count": 339,
+          "like_count": 39957,
+          "listed_count": 1010,
+          "media_count": 1118,
+          "tweet_count": 18598
+        },
+        "url": "https://t.co/Lj2cx0UAOe",
+        "username": "BowTiedUM",
+        "verified": true
+      }
+    ]
+  }
+}

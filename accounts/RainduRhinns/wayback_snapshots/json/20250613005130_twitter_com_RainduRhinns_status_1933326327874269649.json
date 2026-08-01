@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896899807282876416"
+      ],
+      "media_source_tweet_id": [
+        "1896899821006626877"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1933326327874269649",
+    "created_at": "2025-06-13T00:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T01:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933326327874269649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471134190737702916",
+          "start": 3,
+          "username": "zed0719"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RaMUBVTqBd",
+          "end": 51,
+          "expanded_url": "https://x.com/zed0719/status/1896899821006626877/photo/1",
+          "media_key": "3_1896899807282876416",
+          "start": 28,
+          "url": "https://t.co/RaMUBVTqBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933326327874269649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896899821006626877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zed0719: 鼓包有那么大诱惑力嘛\n#男娘 https://t.co/RaMUBVTqBd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933326327874269649].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933326327874269649",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933326327874269649"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1896899807282876416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMkUxOaUAAs4Bv.jpg",
+        "width": 3620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896899807282876416"
+          ]
+        },
+        "author_id": "1471134190737702916",
+        "conversation_id": "1896899821006626877",
+        "created_at": "2025-03-04T12:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896899821006626877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RaMUBVTqBd",
+              "end": 38,
+              "expanded_url": "https://x.com/zed0719/status/1896899821006626877/photo/1",
+              "media_key": "3_1896899807282876416",
+              "start": 15,
+              "url": "https://t.co/RaMUBVTqBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896899821006626877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11944,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "鼓包有那么大诱惑力嘛\n#男娘 https://t.co/RaMUBVTqBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 575,
+          "like_count": 2315,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 367
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-15T15:05:17.000Z",
+        "description": "♂♂♂♂♂♂♀♂♂ 没吃药。有姬姬。是假胸。 00，🔞NSFW 喜欢礼貌友好的人~推上一分钱都不要，不卖我的任何东西 不emo，不键政 【认出我了也请墙里装作不知道】",
+        "id": "1471134190737702916",
+        "name": "Heb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716952523398103040/PMTOZ3pt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18405,
+          "following_count": 456,
+          "like_count": 2881,
+          "listed_count": 119,
+          "media_count": 236,
+          "tweet_count": 690
+        },
+        "username": "zed0719",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965592768895700992"
+      ],
+      "media_source_tweet_id": [
+        "1965592770909012386"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1966061316512379036",
+    "created_at": "2025-09-11T08:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T09:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966061316512379036"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 55,
+          "tag": "MyFemboyNiChan"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1342088250484117504",
+          "start": 3,
+          "username": "kakowara365"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWQjTLXxPA",
+          "end": 94,
+          "expanded_url": "https://x.com/kakowara365/status/1965592770909012386/photo/1",
+          "media_key": "3_1965592768895700992",
+          "start": 71,
+          "url": "https://t.co/vWQjTLXxPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966061316512379036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965592770909012386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakowara365: 兄「かわいい？🪽✨️」\n弟「天使の皮をかぶった悪魔」\n兄「(# ﾟДﾟ)」\n#MyFemboyNiChan https://t.co/vWQjTLXxPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1965592768895700992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0cwNYsa0AAGEDH.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965592768895700992"
+          ],
+          "media_source_tweet_id": [
+            "1965592770909012386"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1966061316512379036",
+        "created_at": "2025-09-11T08:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966061316512379036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 55,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1342088250484117504",
+              "start": 3,
+              "username": "kakowara365"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWQjTLXxPA",
+              "end": 94,
+              "expanded_url": "https://x.com/kakowara365/status/1965592770909012386/photo/1",
+              "media_key": "3_1965592768895700992",
+              "start": 71,
+              "url": "https://t.co/vWQjTLXxPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966061316512379036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965592770909012386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakowara365: 兄「かわいい？🪽✨️」\n弟「天使の皮をかぶった悪魔」\n兄「(# ﾟДﾟ)」\n#MyFemboyNiChan https://t.co/vWQjTLXxPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965592768895700992"
+          ]
+        },
+        "author_id": "1342088250484117504",
+        "conversation_id": "1965592770909012386",
+        "created_at": "2025-09-10T01:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965592770909012386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 38,
+              "tag": "MyFemboyNiChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWQjTLXxPA",
+              "end": 77,
+              "expanded_url": "https://x.com/kakowara365/status/1965592770909012386/photo/1",
+              "media_key": "3_1965592768895700992",
+              "start": 54,
+              "url": "https://t.co/vWQjTLXxPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965592770909012386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 18212,
+          "like_count": 1811,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "兄「かわいい？🪽✨️」\n弟「天使の皮をかぶった悪魔」\n兄「(# ﾟДﾟ)」\n#MyFemboyNiChan https://t.co/vWQjTLXxPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 711,
+          "like_count": 2828,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 881
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-24T12:42:37.000Z",
+        "description": "Vtuber準備中！ファンマ 🐾🤎  |  投稿タグ ▶  #MyFemboyNiChan ▶FAタグ:  #にーちゃんこれみて  ▶ language:🇯🇵🇺🇸 | 投稿は生成AI使用🌈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "MyFemboyNiChan"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "にーちゃんこれみて"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kakowara",
+                "end": 23,
+                "expanded_url": "https://lit.link/kakowara",
+                "start": 0,
+                "url": "https://t.co/qvRdVdoTAx"
+              }
+            ]
+          }
+        },
+        "id": "1342088250484117504",
+        "location": "日本",
+        "name": "にーちゃん🐾🤎Kakko",
+        "pinned_tweet_id": "1959840304330358963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893800918702833664/E0bf2rnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54436,
+          "following_count": 1302,
+          "like_count": 60101,
+          "listed_count": 228,
+          "media_count": 2348,
+          "tweet_count": 14036
+        },
+        "url": "https://t.co/qvRdVdoTAx",
+        "username": "kakowara365",
+        "verified": true
+      }
+    ]
+  }
+}

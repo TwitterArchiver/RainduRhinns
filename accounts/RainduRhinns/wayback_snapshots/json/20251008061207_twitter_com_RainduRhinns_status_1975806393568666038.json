@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1974817525042127060",
+    "created_at": "2025-10-08T06:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T07:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975806393568666038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 24,
+          "id": "1965393379224944645",
+          "start": 12,
+          "username": "hagishigure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975806393568666038",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975657464403271722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @hagishigure 色度学本来也无法脱离视觉生理学吧，就像音乐声学无法脱离心理声学，第一个paper确实更模型数据科学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-08T06:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T07:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975806393568666038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 24,
+              "id": "1965393379224944645",
+              "start": 12,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975806393568666038",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975657464403271722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @hagishigure 色度学本来也无法脱离视觉生理学吧，就像音乐声学无法脱离心理声学，第一个paper确实更模型数据科学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-07T20:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T21:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975657464403271722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 26,
+              "id": "1965393379224944645",
+              "start": 14,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975657464403271722",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975304072866767073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @hagishigure 啊......我想了一下，你好像是想研究神经/认知模型，而我列出的是视觉模型......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 761,
+          "like_count": 2901,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1133
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 86,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 319
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

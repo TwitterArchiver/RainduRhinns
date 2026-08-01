@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918701282971488256"
+      ],
+      "media_source_tweet_id": [
+        "1918701305851457816"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1922036964427001858",
+    "created_at": "2025-05-12T21:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T22:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922036964427001858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914466250593591301",
+          "start": 3,
+          "username": "xp2504"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPzVm2EbSz",
+          "end": 46,
+          "expanded_url": "https://x.com/xp2504/status/1918701305851457816/photo/1",
+          "media_key": "3_1918701282971488256",
+          "start": 23,
+          "url": "https://t.co/zPzVm2EbSz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922036964427001858",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918701305851457816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xp2504: 照骗ヾ(*Ő౪Ő*) https://t.co/zPzVm2EbSz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922036964427001858].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922036964427001858",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922036964427001858"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1918701282971488256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqCYprGaEAAgx95.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918701282971488256"
+          ]
+        },
+        "author_id": "1914466250593591301",
+        "conversation_id": "1918701305851457816",
+        "created_at": "2025-05-03T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918701305851457816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPzVm2EbSz",
+              "end": 34,
+              "expanded_url": "https://x.com/xp2504/status/1918701305851457816/photo/1",
+              "media_key": "3_1918701282971488256",
+              "start": 11,
+              "url": "https://t.co/zPzVm2EbSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918701305851457816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5686,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "照骗ヾ(*Ő౪Ő*) https://t.co/zPzVm2EbSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 534,
+          "like_count": 2119,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 333
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T23:48:27.000Z",
+        "description": "我是凶神恶煞的大魔王o(o･`з･´o)ﾉ!!!",
+        "id": "1914466250593591301",
+        "name": "小皮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914466649253797888/NWVuFdLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 76
+        },
+        "username": "xp2504",
+        "verified": false
+      }
+    ]
+  }
+}

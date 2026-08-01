@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jimmy Page",
+          "id": "877867160151875584",
+          "name": "Jimmy Page"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jimmy Page",
+          "id": "877867160151875584",
+          "name": "Jimmy Page"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1286087026526150656",
+          "name": "Soul music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jimmy Page",
+          "id": "877867160151875584",
+          "name": "Jimmy Page"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293281902091067393",
+          "name": "Blues rock"
+        }
+      }
+    ],
+    "conversation_id": "1933645715236139177",
+    "created_at": "2025-06-13T22:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T23:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933645715236139177"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "Jimmy Page",
+          "probability": 0.9283,
+          "start": 0,
+          "type": "Person"
+        },
+        {
+          "end": 24,
+          "normalized_text": "Robert Plant",
+          "probability": 0.9424,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/embogmyself/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/embogmyself/status/1853483324918153414",
+          "start": 26,
+          "url": "https://t.co/3DLRlY9ymv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933645715236139177",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853483324918153414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Jimmy Page n Robert Plant https://t.co/3DLRlY9ymv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1853483305678639104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbjlPxAXkAAV0Or.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1933,
+        "media_key": "3_1853483305674448897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbjlPw_XoAEbCYq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jimmy Page",
+              "id": "877867160151875584",
+              "name": "Jimmy Page"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jimmy Page",
+              "id": "877867160151875584",
+              "name": "Jimmy Page"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1286087026526150656",
+              "name": "Soul music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jimmy Page",
+              "id": "877867160151875584",
+              "name": "Jimmy Page"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293281902091067393",
+              "name": "Blues rock"
+            }
+          }
+        ],
+        "conversation_id": "1933645715236139177",
+        "created_at": "2025-06-13T22:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T23:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933645715236139177"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Jimmy Page",
+              "probability": 0.9283,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Robert Plant",
+              "probability": 0.9424,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/embogmyself/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/embogmyself/status/1853483324918153414",
+              "start": 26,
+              "url": "https://t.co/3DLRlY9ymv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933645715236139177",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853483324918153414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Jimmy Page n Robert Plant https://t.co/3DLRlY9ymv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853483305678639104",
+            "3_1853483305674448897"
+          ]
+        },
+        "author_id": "1328314325124083714",
+        "conversation_id": "1853483324918153414",
+        "created_at": "2024-11-04T17:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T18:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853483324918153414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aFe3pxKyyn",
+              "end": 23,
+              "expanded_url": "https://x.com/embogmyself/status/1853483324918153414/photo/1",
+              "media_key": "3_1853483305678639104",
+              "start": 0,
+              "url": "https://t.co/aFe3pxKyyn"
+            },
+            {
+              "display_url": "pic.x.com/aFe3pxKyyn",
+              "end": 23,
+              "expanded_url": "https://x.com/embogmyself/status/1853483324918153414/photo/1",
+              "media_key": "3_1853483305674448897",
+              "start": 0,
+              "url": "https://t.co/aFe3pxKyyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853483324918153414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1549,
+          "impression_count": 135692,
+          "like_count": 10185,
+          "quote_count": 33,
+          "reply_count": 5,
+          "retweet_count": 1091
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aFe3pxKyyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot 因为不够色情和推友格格不入🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 579,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 368
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T12:30:10.000Z",
+        "description": "a tiny animal curled into a quarter circle ^Chinese/English^",
+        "id": "1328314325124083714",
+        "location": "🏳️‍⚧️",
+        "name": "hill of teeth",
+        "pinned_tweet_id": "1823375227260482009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708222133065981953/hBEoc4Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16995,
+          "following_count": 626,
+          "like_count": 374,
+          "listed_count": 81,
+          "media_count": 270,
+          "tweet_count": 662
+        },
+        "username": "embogmyself",
+        "verified": false
+      }
+    ]
+  }
+}

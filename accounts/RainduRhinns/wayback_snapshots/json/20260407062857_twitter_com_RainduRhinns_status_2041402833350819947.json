@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2041086743399530572",
+    "created_at": "2026-04-07T06:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041402833350819947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766726351887695872",
+          "start": 0,
+          "username": "uta341621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041402833350819947",
+    "in_reply_to_user_id": "1766726351887695872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041086743399530572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uta341621 姚博凯吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2041086737800433664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNlkupbEAARtaU.jpg",
+        "width": 1844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2041086743399530572",
+        "created_at": "2026-04-07T06:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041402833350819947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766726351887695872",
+              "start": 0,
+              "username": "uta341621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041402833350819947",
+        "in_reply_to_user_id": "1766726351887695872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041086743399530572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uta341621 姚博凯吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041086737800433664"
+          ]
+        },
+        "author_id": "1766726351887695872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041086743399530572",
+        "created_at": "2026-04-06T09:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041086743399530572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bKChr7e4O",
+              "end": 161,
+              "expanded_url": "https://x.com/uta341621/status/2041086743399530572/photo/1",
+              "media_key": "3_2041086737800433664",
+              "start": 138,
+              "url": "https://t.co/1bKChr7e4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041086743399530572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 659,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被我抓到某人黑历史w\n假设ZFC一致+向下LST定理确实可得一个ZFC的可数模型M。但是用不了Mostowski Collapsing Theorem，因为定理要求的well-founded是M的外部性质，不是M自己认为自己是well-founded\n要是真能这么简单就好了 https://t.co/1bKChr7e4O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 899,
+          "like_count": 4082,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T07:22:55.000Z",
+        "description": "ガチ勢の雑魚｜Ace｜In a Relationship｜Strict Principled Agnostic",
+        "id": "1766726351887695872",
+        "location": "V",
+        "name": "Akari (➡︎MM⁺⁺)",
+        "pinned_tweet_id": "2033060915491328196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032594884444536832/qQaRqqoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 1529,
+          "like_count": 21719,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 4971
+        },
+        "username": "uta341621",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T07:22:55.000Z",
+        "description": "ガチ勢の雑魚｜Ace｜In a Relationship｜Strict Principled Agnostic",
+        "id": "1766726351887695872",
+        "location": "V",
+        "name": "Akari (➡︎MM⁺⁺)",
+        "pinned_tweet_id": "2033060915491328196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032594884444536832/qQaRqqoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3393,
+          "following_count": 1529,
+          "like_count": 21719,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 4971
+        },
+        "url": "",
+        "username": "uta341621",
+        "verified": true
+      }
+    ]
+  }
+}

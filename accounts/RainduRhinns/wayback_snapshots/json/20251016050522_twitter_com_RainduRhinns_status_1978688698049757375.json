@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1978684159900922017",
+    "created_at": "2025-10-16T05:05:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T06:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978688698049757375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "furyouindouairi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978688698049757375",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978684159900922017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@furyouindouairi 我丁螺环酮+鼠尾草就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1978684159900922017",
+        "created_at": "2025-10-16T05:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T06:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978688698049757375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "furyouindouairi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978688698049757375",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978684159900922017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@furyouindouairi 我丁螺环酮+鼠尾草就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1185431906436804608",
+        "conversation_id": "1978684159900922017",
+        "created_at": "2025-10-16T04:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978684159900922017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978684159900922017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想醒着的时候都活在类似麻醉苏醒后躁动的状态下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 761,
+          "like_count": 3014,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1264
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "骂我先骂@natsutooi\n夏教授总巡诊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "natsutooi"
+              }
+            ]
+          }
+        },
+        "id": "1185431906436804608",
+        "name": "OverwhelmWiki",
+        "pinned_tweet_id": "1955902961399554097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712525810123550721/tq415zD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 907,
+          "like_count": 48858,
+          "listed_count": 3,
+          "media_count": 1072,
+          "tweet_count": 23125
+        },
+        "username": "furyouindouairi",
+        "verified": false
+      }
+    ]
+  }
+}

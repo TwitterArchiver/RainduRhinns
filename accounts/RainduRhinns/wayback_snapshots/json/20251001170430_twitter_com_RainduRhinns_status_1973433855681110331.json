@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1973433855681110331",
+    "created_at": "2025-10-01T17:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T18:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973433855681110331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1709393467871461376",
+          "start": 3,
+          "username": "xenocosmography"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973433855681110331",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973432662171017282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xenocosmography: People who pretend to have some commitment to truth without being unambiguously on our side (ahem, i/o) are just weird…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1973433855681110331",
+        "created_at": "2025-10-01T17:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T18:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973433855681110331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1709393467871461376",
+              "start": 3,
+              "username": "xenocosmography"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973433855681110331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973432662171017282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xenocosmography: People who pretend to have some commitment to truth without being unambiguously on our side (ahem, i/o) are just weird…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709393467871461376",
+        "conversation_id": "1973432662171017282",
+        "created_at": "2025-10-01T16:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T17:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973432662171017282"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973432662171017282",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 392,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "People who pretend to have some commitment to truth without being unambiguously on our side (ahem, i/o) are just weirdos that posterity will not be kind to."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 753,
+          "like_count": 2876,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1077
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T02:23:01.000Z",
+        "description": "Anglotheosophical Oblique Escalation\nhttps://t.co/zYwV8LwOQg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zerophilosophy.substack.com",
+                "end": 60,
+                "expanded_url": "http://zerophilosophy.substack.com",
+                "start": 37,
+                "url": "https://t.co/zYwV8LwOQg"
+              }
+            ]
+          }
+        },
+        "id": "1709393467871461376",
+        "name": "Xenocosmography",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709394184837451776/4xkaiTS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37269,
+          "following_count": 668,
+          "like_count": 82325,
+          "listed_count": 216,
+          "media_count": 117,
+          "tweet_count": 13847
+        },
+        "username": "xenocosmography",
+        "verified": true
+      }
+    ]
+  }
+}

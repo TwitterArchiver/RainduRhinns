@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1949533609339310400",
+    "created_at": "2025-07-27T18:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T19:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949533609339310400"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949533609339310400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现一个非常有趣的研究进路：长春西汀和西地那非配合血清素受体激动剂治疗 空鼻症 Empty Nose Syndrome这种由鼻甲部分切除导致的类幻肢神经痛的综合症 和一些用致幻剂治疗截肢手术等导致的幻肢神经痛的思路不谋而合 但空鼻症比后者更微妙 比起疼痛患者更加感觉到鼻子无法使用空气无法“流通”缺氧窒息感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1949533609339310400",
+        "created_at": "2025-07-27T18:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T19:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949533609339310400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949533609339310400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个非常有趣的研究进路：长春西汀和西地那非配合血清素受体激动剂治疗 空鼻症 Empty Nose Syndrome这种由鼻甲部分切除导致的类幻肢神经痛的综合症 和一些用致幻剂治疗截肢手术等导致的幻肢神经痛的思路不谋而合 但空鼻症比后者更微妙 比起疼痛患者更加感觉到鼻子无法使用空气无法“流通”缺氧窒息感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 636,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 480
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2039382683504312744",
+    "created_at": "2026-04-01T16:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039382683504312744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yklab2014/stat…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/yklab2014/status/2039333248430710819",
+          "start": 148,
+          "url": "https://t.co/TqhpJ89DUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039382683504312744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039333248430710819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为确保咱们可以同频交流，希望以下的词你至少理解5个：\n血清素综合症、谵妄、解离、反精神病学Leu-Enk诱导电流抑制，AMPAR振荡相位，噪声相关性，全脑模拟，意象图式，神经影像预测模型，蛋白-转录脱耦合，真核基因组中的上游开放阅读框，去抑制系统，致幻剂疗法，巴豆酰化修饰，色胺合成、硫酸化编码 https://t.co/TqhpJ89DUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2039332270327361536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0p5R_acAAc04l.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2039382683504312744",
+        "created_at": "2026-04-01T16:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039382683504312744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yklab2014/stat…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/yklab2014/status/2039333248430710819",
+              "start": 148,
+              "url": "https://t.co/TqhpJ89DUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039382683504312744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039333248430710819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为确保咱们可以同频交流，希望以下的词你至少理解5个：\n血清素综合症、谵妄、解离、反精神病学Leu-Enk诱导电流抑制，AMPAR振荡相位，噪声相关性，全脑模拟，意象图式，神经影像预测模型，蛋白-转录脱耦合，真核基因组中的上游开放阅读框，去抑制系统，致幻剂疗法，巴豆酰化修饰，色胺合成、硫酸化编码 https://t.co/TqhpJ89DUw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039332270327361536"
+          ]
+        },
+        "author_id": "2964609393",
+        "conversation_id": "2039333248430710819",
+        "created_at": "2026-04-01T13:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039333248430710819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdrncBTWg5",
+              "end": 163,
+              "expanded_url": "https://x.com/yklab2014/status/2039333248430710819/photo/1",
+              "media_key": "3_2039332270327361536",
+              "start": 140,
+              "url": "https://t.co/hdrncBTWg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039333248430710819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6617,
+          "like_count": 69,
+          "quote_count": 10,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为确保咱们可以同频交流，希望以下的词你至少理解5个：\n髓鞘、脱髓鞘、少突胶质细胞、施旺细胞、吉兰巴雷综合征、闭锁综合征、大脑脚综合征、大脑镰下疝、小脑幕切迹疝、一个半综合征、巴宾斯基征、戈登征、查多克征、充盈缺损、龛影、管型、室上速、室速、视上核、室旁核、延髓背外侧综合征、病Q https://t.co/hdrncBTWg5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 892,
+          "like_count": 4029,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-06T18:02:44.000Z",
+        "description": "Furry/Arctic fox/medical/after bone marrow transplantation 福瑞/北极狐/医学/骨髓移植术后",
+        "id": "2964609393",
+        "location": "Furritopia",
+        "name": "SnowFoxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/887521940512022532/hI9we4WO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6105,
+          "following_count": 3254,
+          "like_count": 6094,
+          "listed_count": 17,
+          "media_count": 1405,
+          "tweet_count": 11057
+        },
+        "username": "yklab2014",
+        "verified": false
+      }
+    ]
+  }
+}

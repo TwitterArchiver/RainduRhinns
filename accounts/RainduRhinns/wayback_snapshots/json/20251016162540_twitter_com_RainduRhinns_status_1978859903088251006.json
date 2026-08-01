@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1978859903088251006",
+    "created_at": "2025-10-16T16:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T17:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978859903088251006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978859903088251006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978518870383034555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 有受虐倾向的人通常有以下特点：\n1.爱画画"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1978859903088251006",
+        "created_at": "2025-10-16T16:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978859903088251006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978859903088251006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978518870383034555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 有受虐倾向的人通常有以下特点：\n1.爱画画"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1978518870383034555",
+        "created_at": "2025-10-15T17:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978518870383034555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978518870383034555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3510,
+          "like_count": 95,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有受虐倾向的人通常有以下特点：\n1.爱画画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 762,
+          "like_count": 3015,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1288
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7717,
+          "following_count": 7072,
+          "like_count": 25209,
+          "listed_count": 15,
+          "media_count": 5551,
+          "tweet_count": 37150
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

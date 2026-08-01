@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942263626943062451",
+    "created_at": "2025-07-08T13:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942584412543373373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1205748134892032000",
+          "start": 0,
+          "username": "Liquid_Pomelo"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Explore the fascinating history of fursonas, our furry selves that blur the boundary between creator and character.",
+          "display_url": "fangfeatherandfin.com/on-the-origin-…",
+          "end": 80,
+          "expanded_url": "https://www.fangfeatherandfin.com/on-the-origin-of-fursonas/",
+          "images": [
+            {
+              "height": 2052,
+              "url": "https://pbs.twimg.com/news_img/1942584419157782528/Jo6dTFF4?format=jpg&name=orig",
+              "width": 1860
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1942584419157782528/Jo6dTFF4?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 57,
+          "status": 200,
+          "title": "On the Origin of Fursonas | Fang, Feather, & Fin",
+          "unwound_url": "https://www.fangfeatherandfin.com/on-the-origin-of-fursonas/",
+          "url": "https://t.co/XN30gztmu4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942584412543373373",
+    "in_reply_to_user_id": "1205748134892032000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942497816871592445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liquid_Pomelo 正经研究的话感觉没有（即答\n传播学期刊上那些看过的就都挺无聊的毕业论文水平.. 倒是https://t.co/XN30gztmu4 上的也许会前沿一些，有一些没人做过的考据工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1942263626943062451",
+        "created_at": "2025-07-08T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942584412543373373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1205748134892032000",
+              "start": 0,
+              "username": "Liquid_Pomelo"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Explore the fascinating history of fursonas, our furry selves that blur the boundary between creator and character.",
+              "display_url": "fangfeatherandfin.com/on-the-origin-…",
+              "end": 80,
+              "expanded_url": "https://www.fangfeatherandfin.com/on-the-origin-of-fursonas/",
+              "images": [
+                {
+                  "height": 2052,
+                  "url": "https://pbs.twimg.com/news_img/1942584419157782528/Jo6dTFF4?format=jpg&name=orig",
+                  "width": 1860
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1942584419157782528/Jo6dTFF4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "On the Origin of Fursonas | Fang, Feather, & Fin",
+              "unwound_url": "https://www.fangfeatherandfin.com/on-the-origin-of-fursonas/",
+              "url": "https://t.co/XN30gztmu4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942584412543373373",
+        "in_reply_to_user_id": "1205748134892032000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942497816871592445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liquid_Pomelo 正经研究的话感觉没有（即答\n传播学期刊上那些看过的就都挺无聊的毕业论文水平.. 倒是https://t.co/XN30gztmu4 上的也许会前沿一些，有一些没人做过的考据工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205748134892032000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1942263626943062451",
+        "created_at": "2025-07-08T08:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T09:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942497816871592445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942497816871592445",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942298272112206139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 有没有什么比较有趣的文献，之前在furscience上看的好像主要集中在心理学，community studies似乎没太注意到（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 607,
+          "like_count": 2393,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 387
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-14T07:15:41.000Z",
+        "description": "Queer🌈 可以叫我柚子w 讓世界變得冒犯一點/不適請及時退出 Major in Linguistics, Chinese writings & Philology. 🐺Un seul ou plusieurs loups? in an open relationship.",
+        "id": "1205748134892032000",
+        "name": "西柚",
+        "pinned_tweet_id": "1822914979151925622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942179659958943744/75iNnEtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10803,
+          "following_count": 3218,
+          "like_count": 9426,
+          "listed_count": 15,
+          "media_count": 638,
+          "tweet_count": 4068
+        },
+        "username": "Liquid_Pomelo",
+        "verified": false
+      }
+    ]
+  }
+}

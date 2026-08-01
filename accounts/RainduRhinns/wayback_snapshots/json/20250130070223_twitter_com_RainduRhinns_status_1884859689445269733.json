@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1884270215048860031",
+    "created_at": "2025-01-30T07:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T08:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884859689445269733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1777700673582432256",
+          "start": 0,
+          "username": "WanYu94882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884859689445269733",
+    "in_reply_to_user_id": "1777700673582432256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884270215048860031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanYu94882 太棒咯🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1884270215048860031",
+        "created_at": "2025-01-30T07:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T08:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884859689445269733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1777700673582432256",
+              "start": 0,
+              "username": "WanYu94882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884859689445269733",
+        "in_reply_to_user_id": "1777700673582432256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884270215048860031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanYu94882 太棒咯🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884269183871115267"
+          ]
+        },
+        "author_id": "1777700673582432256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1884270215048860031",
+        "created_at": "2025-01-28T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884270215048860031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZQhl6fjuK",
+              "end": 43,
+              "expanded_url": "https://x.com/WanYu94882/status/1884270215048860031/video/1",
+              "media_key": "7_1884269183871115267",
+              "start": 20,
+              "url": "https://t.co/LZQhl6fjuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884270215048860031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1649,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐各位~\n（谢谢各位的红包喵~） https://t.co/LZQhl6fjuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 410,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 136
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T14:11:06.000Z",
+        "description": "涩涩，只图一乐",
+        "id": "1777700673582432256",
+        "name": "箜篌引",
+        "pinned_tweet_id": "1862495184153714838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883184251719606272/qjssScDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 471,
+          "like_count": 258,
+          "listed_count": 5,
+          "media_count": 44,
+          "tweet_count": 380
+        },
+        "username": "WanYu94882",
+        "verified": false
+      }
+    ]
+  }
+}

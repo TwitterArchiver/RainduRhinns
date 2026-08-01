@@ -1,0 +1,648 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1942604778506219521"
+      ],
+      "media_source_tweet_id": [
+        "1942604882198028644"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      }
+    ],
+    "conversation_id": "1946105635398975882",
+    "created_at": "2025-07-18T07:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T08:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946105635398975882"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "Piano Sonata NO.",
+          "probability": 0.2535,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 55,
+          "normalized_text": "桜九相図",
+          "probability": 0.4395,
+          "start": 52,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1403571550314397697",
+          "start": 3,
+          "username": "10lulu2"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This piece was conceived and composed starting in November 2024. Throughout the process, I repeatedly set it aside and restarted due to technical and syntact...",
+          "display_url": "youtu.be/IMvGhICkyQs?si…",
+          "end": 93,
+          "expanded_url": "https://youtu.be/IMvGhICkyQs?si=8291w8Rnc1SCqkyw",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 70,
+          "status": 200,
+          "title": "始主步巢 - Piano Sonata NO.2 \"桜九相図\" , Op.13 (2025)",
+          "unwound_url": "https://www.youtube.com/watch?si=8291w8Rnc1SCqkyw&v=IMvGhICkyQs&feature=youtu.be",
+          "url": "https://t.co/j0fp9f7Csf"
+        },
+        {
+          "display_url": "pic.x.com/8wFXfwUnei",
+          "end": 117,
+          "expanded_url": "https://x.com/10lulu2/status/1942604882198028644/video/1",
+          "media_key": "13_1942604778506219521",
+          "start": 94,
+          "url": "https://t.co/8wFXfwUnei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946105635398975882",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942604882198028644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10lulu2: 【新曲】  \n\n半年を費やした大作。\n\nPiano Sonata NO.2 \"桜九相図\" , Op.13\n\n全曲：https://t.co/j0fp9f7Csf https://t.co/8wFXfwUnei"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88885,
+        "height": 1080,
+        "media_key": "13_1942604778506219521",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1942604778506219521/img/iN7Yf42p-gK-9txa.jpg",
+        "public_metrics": {
+          "view_count": 3106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942604778506219521/vid/avc1/480x270/fT9mOQ494p3nEiaq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942604778506219521/vid/avc1/640x360/sCf3haKXY4LzYjNW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1942604778506219521/vid/avc1/1280x720/HWSwTYP-YXmSulSE.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1942604778506219521/pl/Iz9LwtCF5cH-TswU.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942604778506219521"
+          ],
+          "media_source_tweet_id": [
+            "1942604882198028644"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "1946105635398975882",
+        "created_at": "2025-07-18T07:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T08:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946105635398975882"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Piano Sonata NO.",
+              "probability": 0.2535,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "桜九相図",
+              "probability": 0.4395,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1403571550314397697",
+              "start": 3,
+              "username": "10lulu2"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This piece was conceived and composed starting in November 2024. Throughout the process, I repeatedly set it aside and restarted due to technical and syntact...",
+              "display_url": "youtu.be/IMvGhICkyQs?si…",
+              "end": 93,
+              "expanded_url": "https://youtu.be/IMvGhICkyQs?si=8291w8Rnc1SCqkyw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 70,
+              "status": 200,
+              "title": "始主步巢 - Piano Sonata NO.2 \"桜九相図\" , Op.13 (2025)",
+              "unwound_url": "https://www.youtube.com/watch?si=8291w8Rnc1SCqkyw&v=IMvGhICkyQs&feature=youtu.be",
+              "url": "https://t.co/j0fp9f7Csf"
+            },
+            {
+              "display_url": "pic.x.com/8wFXfwUnei",
+              "end": 117,
+              "expanded_url": "https://x.com/10lulu2/status/1942604882198028644/video/1",
+              "media_key": "13_1942604778506219521",
+              "start": 94,
+              "url": "https://t.co/8wFXfwUnei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946105635398975882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942604882198028644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10lulu2: 【新曲】  \n\n半年を費やした大作。\n\nPiano Sonata NO.2 \"桜九相図\" , Op.13\n\n全曲：https://t.co/j0fp9f7Csf https://t.co/8wFXfwUnei"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1942604778506219521"
+          ]
+        },
+        "author_id": "1403571550314397697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "1942604882198028644",
+        "created_at": "2025-07-08T15:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942604882198028644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Piano Sonata NO.",
+              "probability": 0.2708,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "桜九相図",
+              "probability": 0.422,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This piece was conceived and composed starting in November 2024. Throughout the process, I repeatedly set it aside and restarted due to technical and syntact...",
+              "display_url": "youtu.be/IMvGhICkyQs?si…",
+              "end": 80,
+              "expanded_url": "https://youtu.be/IMvGhICkyQs?si=8291w8Rnc1SCqkyw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945174250140393476/eMNkEBkT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "始主步巢 - Piano Sonata NO.2 \"桜九相図\" , Op.13 (2025)",
+              "unwound_url": "https://www.youtube.com/watch?si=8291w8Rnc1SCqkyw&v=IMvGhICkyQs&feature=youtu.be",
+              "url": "https://t.co/j0fp9f7Csf"
+            },
+            {
+              "display_url": "pic.x.com/8wFXfwUnei",
+              "end": 104,
+              "expanded_url": "https://x.com/10lulu2/status/1942604882198028644/video/1",
+              "media_key": "13_1942604778506219521",
+              "start": 81,
+              "url": "https://t.co/8wFXfwUnei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942604882198028644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 10383,
+          "like_count": 282,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "【新曲】  \n\n半年を費やした大作。\n\nPiano Sonata NO.2 \"桜九相図\" , Op.13\n\n全曲：https://t.co/j0fp9f7Csf https://t.co/8wFXfwUnei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 620,
+          "like_count": 2519,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 431
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T04:35:18.000Z",
+        "description": "音楽家 吉松隆、武満徹、幾原邦彦、寺山修司が好き\n\n『心象天儀本線 Per aspera ad astra』主催\n\n【✉】shilinggui293@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@10lulu18",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@10lulu18",
+                "start": 0,
+                "url": "https://t.co/kLmjz2THBi"
+              }
+            ]
+          }
+        },
+        "id": "1403571550314397697",
+        "location": "クープランの墓",
+        "name": "10lulu",
+        "pinned_tweet_id": "1942604882198028644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1444819119619010563/LBVMJhrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4883,
+          "following_count": 1370,
+          "like_count": 46984,
+          "listed_count": 33,
+          "media_count": 555,
+          "tweet_count": 1285
+        },
+        "url": "https://t.co/kLmjz2THBi",
+        "username": "10lulu2",
+        "verified": false
+      }
+    ]
+  }
+}

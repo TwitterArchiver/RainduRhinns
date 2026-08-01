@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1998411996438630436",
+    "created_at": "2025-12-09T15:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998411996438630436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yowamushi12072…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/yowamushi120720/status/1997325058512146542",
+          "start": 145,
+          "url": "https://t.co/vVjD1j5bkb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998411996438630436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997325058512146542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得单纯是现在OD圈的这些人年龄都太小了,中国玩致幻剂为主的RC冷门物质圈都存在至少十几年了甚至还有玩成人生好友的,不知道有没有人知道以前豆瓣还有交流论坛…寻求药物滥用的人终究会和追求新奇体验的人分化成不同的群体,或许在某个生活阶段他们在动机上重叠了,但如果是五年后,或者只是一年后呢？ https://t.co/vVjD1j5bkb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998411996438630436",
+        "created_at": "2025-12-09T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998411996438630436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yowamushi12072…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/yowamushi120720/status/1997325058512146542",
+              "start": 145,
+              "url": "https://t.co/vVjD1j5bkb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998411996438630436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997325058512146542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得单纯是现在OD圈的这些人年龄都太小了,中国玩致幻剂为主的RC冷门物质圈都存在至少十几年了甚至还有玩成人生好友的,不知道有没有人知道以前豆瓣还有交流论坛…寻求药物滥用的人终究会和追求新奇体验的人分化成不同的群体,或许在某个生活阶段他们在动机上重叠了,但如果是五年后,或者只是一年后呢？ https://t.co/vVjD1j5bkb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "1997325058512146542",
+        "created_at": "2025-12-06T15:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T16:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997325058512146542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997325058512146542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕大有感，遂追忆往昔岁月。最初关注的那批人早已销声匿迹，主页的人换了一批又一批，那样的日子一去不复返。\n罢了，你少往脸上贴金，你从来都只是路边一条，就是这样。你追随他们的背影，蓦然回首，却惊诧没了退路😸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 848,
+          "like_count": 3368,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ （doge）｜社交问题见谅，如无意冒犯请多多包容不用当真｜就是这样，一切都没什么可期待的。",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン#朝仓一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 515,
+          "like_count": 37964,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 3372
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957456279917731840"
+      ],
+      "media_source_tweet_id": [
+        "1957457903838957828"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1957466564619542769",
+    "created_at": "2025-08-18T15:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T16:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957466564619542769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 81,
+          "tag": "NTR剧情"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "白袜"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "锁骨"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "腿控福利"
+        },
+        {
+          "end": 106,
+          "start": 102,
+          "tag": "少年感"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914092753891590144",
+          "start": 3,
+          "username": "coire_yang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rvw2JEAJoO",
+          "end": 130,
+          "expanded_url": "https://x.com/coire_yang_/status/1957457903838957828/photo/1",
+          "media_key": "3_1957456279917731840",
+          "start": 107,
+          "url": "https://t.co/Rvw2JEAJoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957466564619542769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957457903838957828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coire_yang_: 含NTR元素，都是剧情！不喜勿喷！敢喷我先喷死你！\n\n     酒店系列①\n背着对象偷偷出来开房~洗干净躺好了，有人要来吗？🤪\n#NTR剧情 #白袜 #锁骨 #腿控福利 #少年感 https://t.co/Rvw2JEAJoO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1957466564619542769].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1957466564619542769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1957466564619542769"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1957456279917731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GypIHZPaoAAd2lq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957456279917731840"
+          ]
+        },
+        "author_id": "1914092753891590144",
+        "conversation_id": "1957457903838957828",
+        "created_at": "2025-08-18T15:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957457903838957828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "NTR剧情"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "白袜"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "锁骨"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "腿控福利"
+            },
+            {
+              "end": 89,
+              "start": 85,
+              "tag": "少年感"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rvw2JEAJoO",
+              "end": 113,
+              "expanded_url": "https://x.com/coire_yang_/status/1957457903838957828/photo/1",
+              "media_key": "3_1957456279917731840",
+              "start": 90,
+              "url": "https://t.co/Rvw2JEAJoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957457903838957828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "含NTR元素，都是剧情！不喜勿喷！敢喷我先喷死你！\n\n     酒店系列①\n背着对象偷偷出来开房~洗干净躺好了，有人要来吗？🤪\n#NTR剧情 #白袜 #锁骨 #腿控福利 #少年感 https://t.co/Rvw2JEAJoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 664,
+          "like_count": 2760,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 691
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:04:18.000Z",
+        "description": "有对象，同居中\n00后 | 170 | 65 | 0S\n目前状态：情侣带锁挑战ing  弟弟雌堕开发ing  哥哥恶堕开发ing\n虽然已经恶堕成这样了，但是还是纯爱1000%哦\nXP：#白袜/#白丝/#黑丝/#锁/#pa环/#乳钉/#露出/#恶堕/#雌堕/#反差/#纯爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 92,
+                "tag": "白袜"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "白丝"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "黑丝"
+              },
+              {
+                "end": 106,
+                "start": 104,
+                "tag": "锁"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "pa环"
+              },
+              {
+                "end": 115,
+                "start": 112,
+                "tag": "乳钉"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "露出"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "恶堕"
+              },
+              {
+                "end": 127,
+                "start": 124,
+                "tag": "雌堕"
+              },
+              {
+                "end": 131,
+                "start": 128,
+                "tag": "反差"
+              },
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "纯爱"
+              }
+            ]
+          }
+        },
+        "id": "1914092753891590144",
+        "name": "coire_yang",
+        "pinned_tweet_id": "1946966715478479296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914093335104593920/P-n1Xdp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 534,
+          "like_count": 1899,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 199
+        },
+        "username": "coire_yang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1875564772261031939",
+        "3_1875564770428121089"
+      ],
+      "media_source_tweet_id": [
+        "1875564777751388385",
+        "1875564777751388385"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1875567754268570074",
+    "created_at": "2025-01-04T15:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-04T16:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875567754268570074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622269663273967617",
+          "start": 3,
+          "username": "0Rabbit_star5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BbR2PWLGZv",
+          "end": 47,
+          "expanded_url": "https://x.com/0Rabbit_star5/status/1875564777751388385/photo/1",
+          "media_key": "3_1875564772261031939",
+          "start": 24,
+          "url": "https://t.co/BbR2PWLGZv"
+        },
+        {
+          "display_url": "pic.x.com/BbR2PWLGZv",
+          "end": 47,
+          "expanded_url": "https://x.com/0Rabbit_star5/status/1875564777751388385/photo/1",
+          "media_key": "3_1875564770428121089",
+          "start": 24,
+          "url": "https://t.co/BbR2PWLGZv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875567754268570074",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875564777751388385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0Rabbit_star5: huh？ https://t.co/BbR2PWLGZv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1875567754268570074].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1875567754268570074",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1875567754268570074"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1875564772261031939",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgdYOSPa8AMCcqE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1875564770428121089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgdYOLaa8AEdh8f.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875564772261031939",
+            "3_1875564770428121089"
+          ]
+        },
+        "author_id": "1622269663273967617",
+        "conversation_id": "1875564777751388385",
+        "created_at": "2025-01-04T15:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T16:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875564777751388385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbR2PWLGZv",
+              "end": 28,
+              "expanded_url": "https://x.com/0Rabbit_star5/status/1875564777751388385/photo/1",
+              "media_key": "3_1875564772261031939",
+              "start": 5,
+              "url": "https://t.co/BbR2PWLGZv"
+            },
+            {
+              "display_url": "pic.x.com/BbR2PWLGZv",
+              "end": 28,
+              "expanded_url": "https://x.com/0Rabbit_star5/status/1875564777751388385/photo/1",
+              "media_key": "3_1875564770428121089",
+              "start": 5,
+              "url": "https://t.co/BbR2PWLGZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875564777751388385",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "huh？ https://t.co/BbR2PWLGZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 好想拥有正太bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 369,
+          "like_count": 942,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 100
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T16:23:37.000Z",
+        "description": "/∩       ∩           赛博兔科生物                     （╹x╹）",
+        "id": "1622269663273967617",
+        "location": "阿克西斯",
+        "name": "Star studio的Rabbit",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813235343724015617/2FODBzMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 290,
+          "like_count": 4235,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 685
+        },
+        "username": "0Rabbit_star5",
+        "verified": false
+      }
+    ]
+  }
+}

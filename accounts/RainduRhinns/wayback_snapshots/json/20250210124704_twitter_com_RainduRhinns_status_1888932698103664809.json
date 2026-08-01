@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887916558804205569",
+        "3_1887916553380970497",
+        "3_1887916553410330629",
+        "3_1887916554618343424"
+      ],
+      "media_source_tweet_id": [
+        "1887916562860097915",
+        "1887916562860097915",
+        "1887916562860097915",
+        "1887916562860097915"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1888932698103664809",
+    "created_at": "2025-02-10T12:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T13:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888932698103664809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878652088273584128",
+          "start": 3,
+          "username": "xxbuleier"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljlUjkWEVr",
+          "end": 48,
+          "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+          "media_key": "3_1887916558804205569",
+          "start": 25,
+          "url": "https://t.co/ljlUjkWEVr"
+        },
+        {
+          "display_url": "pic.x.com/ljlUjkWEVr",
+          "end": 48,
+          "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+          "media_key": "3_1887916553380970497",
+          "start": 25,
+          "url": "https://t.co/ljlUjkWEVr"
+        },
+        {
+          "display_url": "pic.x.com/ljlUjkWEVr",
+          "end": 48,
+          "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+          "media_key": "3_1887916553410330629",
+          "start": 25,
+          "url": "https://t.co/ljlUjkWEVr"
+        },
+        {
+          "display_url": "pic.x.com/ljlUjkWEVr",
+          "end": 48,
+          "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+          "media_key": "3_1887916554618343424",
+          "start": 25,
+          "url": "https://t.co/ljlUjkWEVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888932698103664809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887916562860097915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxbuleier: 是清水（快涨粉😗） https://t.co/ljlUjkWEVr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888932698103664809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888932698103664809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888932698103664809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_1887916558804205569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjM6G40aQAEO8st.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1887916553380970497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjM6GknaQAEQABl.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1887916553410330629",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjM6GkuaQAUDDdO.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2050,
+        "media_key": "3_1887916554618343424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjM6GpObEAAsufI.jpg",
+        "width": 1771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887916558804205569",
+            "3_1887916553380970497",
+            "3_1887916553410330629",
+            "3_1887916554618343424"
+          ]
+        },
+        "author_id": "1878652088273584128",
+        "conversation_id": "1887916562860097915",
+        "created_at": "2025-02-07T17:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887916562860097915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljlUjkWEVr",
+              "end": 33,
+              "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+              "media_key": "3_1887916558804205569",
+              "start": 10,
+              "url": "https://t.co/ljlUjkWEVr"
+            },
+            {
+              "display_url": "pic.x.com/ljlUjkWEVr",
+              "end": 33,
+              "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+              "media_key": "3_1887916553380970497",
+              "start": 10,
+              "url": "https://t.co/ljlUjkWEVr"
+            },
+            {
+              "display_url": "pic.x.com/ljlUjkWEVr",
+              "end": 33,
+              "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+              "media_key": "3_1887916553410330629",
+              "start": 10,
+              "url": "https://t.co/ljlUjkWEVr"
+            },
+            {
+              "display_url": "pic.x.com/ljlUjkWEVr",
+              "end": 33,
+              "expanded_url": "https://x.com/xxbuleier/status/1887916562860097915/photo/1",
+              "media_key": "3_1887916554618343424",
+              "start": 10,
+              "url": "https://t.co/ljlUjkWEVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887916562860097915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3030,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "是清水（快涨粉😗） https://t.co/ljlUjkWEVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 421,
+          "like_count": 1315,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 170
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T03:55:46.000Z",
+        "description": "新号别搞 主bs 这个用来看（不定期清水） 眼熟关注一下吧",
+        "id": "1878652088273584128",
+        "name": "布雷尔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878652210013229056/PEkmaUU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 57,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "xxbuleier",
+        "verified": false
+      }
+    ]
+  }
+}

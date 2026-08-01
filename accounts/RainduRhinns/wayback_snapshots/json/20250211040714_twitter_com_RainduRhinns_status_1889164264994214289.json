@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889145866088599552",
+        "3_1889145866084298752",
+        "3_1889145866960998400"
+      ],
+      "media_source_tweet_id": [
+        "1889145879812243684",
+        "1889145879812243684",
+        "1889145879812243684"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1889164264994214289",
+    "created_at": "2025-02-11T04:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T05:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889164264994214289"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 56,
+          "tag": "正装主"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "白袜"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "正太"
+        },
+        {
+          "end": 74,
+          "start": 69,
+          "tag": "正装反差"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "可爱"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "少年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852281805967351808",
+          "start": 3,
+          "username": "chnkrn224640"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l28eQaRTFx",
+          "end": 106,
+          "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+          "media_key": "3_1889145866088599552",
+          "start": 83,
+          "url": "https://t.co/l28eQaRTFx"
+        },
+        {
+          "display_url": "pic.x.com/l28eQaRTFx",
+          "end": 106,
+          "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+          "media_key": "3_1889145866084298752",
+          "start": 83,
+          "url": "https://t.co/l28eQaRTFx"
+        },
+        {
+          "display_url": "pic.x.com/l28eQaRTFx",
+          "end": 106,
+          "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+          "media_key": "3_1889145866960998400",
+          "start": 83,
+          "url": "https://t.co/l28eQaRTFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889164264994214289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889145879812243684",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chnkrn224640: 清晨的忙碌结束之后的小狼在休息室里原来是这幅姿态。\n有小狗狗喜欢吗？嘿嘿！\n#正装主 ＃白袜 ＃正太 #正装反差 ＃可爱 ＃少年 https://t.co/l28eQaRTFx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1889164264994214289].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1889164264994214289",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1889164264994214289"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889145866088599552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjeYJ_Ub0AAMJub.jpg",
+        "width": 1560
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1889145866084298752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjeYJ_TaMAA46gN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1889145866960998400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjeYKCkbkAATY3-.jpg",
+        "width": 1583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889145866088599552",
+            "3_1889145866084298752",
+            "3_1889145866960998400"
+          ]
+        },
+        "author_id": "1852281805967351808",
+        "conversation_id": "1889145879812243684",
+        "created_at": "2025-02-11T02:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T03:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889145879812243684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "正装主"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "白袜"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "正太"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "正装反差"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "可爱"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "少年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l28eQaRTFx",
+              "end": 88,
+              "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+              "media_key": "3_1889145866088599552",
+              "start": 65,
+              "url": "https://t.co/l28eQaRTFx"
+            },
+            {
+              "display_url": "pic.x.com/l28eQaRTFx",
+              "end": 88,
+              "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+              "media_key": "3_1889145866084298752",
+              "start": 65,
+              "url": "https://t.co/l28eQaRTFx"
+            },
+            {
+              "display_url": "pic.x.com/l28eQaRTFx",
+              "end": 88,
+              "expanded_url": "https://x.com/chnkrn224640/status/1889145879812243684/photo/1",
+              "media_key": "3_1889145866960998400",
+              "start": 65,
+              "url": "https://t.co/l28eQaRTFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889145879812243684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "清晨的忙碌结束之后的小狼在休息室里原来是这幅姿态。\n有小狗狗喜欢吗？嘿嘿！\n#正装主 ＃白袜 ＃正太 #正装反差 ＃可爱 ＃少年 https://t.co/l28eQaRTFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ 为什么还没有小男孩bot",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 423,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 172
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-01T09:29:47.000Z",
+        "description": "喜欢可爱的生物。\n喜欢毛绒绒的福瑞和嫩嫩的xnh嘿嘿。\n🦋@keaidexiaolang.bsky.social\n私信不要太逆天都可以接受的说。\n好友🚪35，定制另说。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "keaidexiaolang"
+              }
+            ]
+          }
+        },
+        "id": "1852281805967351808",
+        "location": "0.01km",
+        "name": "可爱的小狼（求关注）",
+        "pinned_tweet_id": "1889145879812243684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852282188857020416/Sg2oJzw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 110,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 233
+        },
+        "username": "chnkrn224640",
+        "verified": false
+      }
+    ]
+  }
+}

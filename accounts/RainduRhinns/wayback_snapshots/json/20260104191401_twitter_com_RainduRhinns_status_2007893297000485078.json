@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2007893297000485078",
+    "created_at": "2026-01-04T19:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T20:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007893297000485078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/raindurhinns/status/2007888165579989392",
+          "start": 133,
+          "url": "https://t.co/cIE3wVHGIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007893297000485078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007888165579989392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我手里还有一个强度超过海洛因接近卡芬太尼的合法物质，理论上是强KOR激动剂中致幻效果最强的之一，但是人类使用报告极少而且过于强大轻微过量可能致死（考虑到二丙诺啡作为药物都只作大型动物的阿片解毒剂…当然它现在可能主要用来和卡芬太尼一起出售来快速逆转卡芬太尼中毒… https://t.co/cIE3wVHGIk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2007893297000485078",
+        "created_at": "2026-01-04T19:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T20:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007893297000485078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/raindurhinns/status/2007888165579989392",
+              "start": 133,
+              "url": "https://t.co/cIE3wVHGIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007893297000485078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007888165579989392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我手里还有一个强度超过海洛因接近卡芬太尼的合法物质，理论上是强KOR激动剂中致幻效果最强的之一，但是人类使用报告极少而且过于强大轻微过量可能致死（考虑到二丙诺啡作为药物都只作大型动物的阿片解毒剂…当然它现在可能主要用来和卡芬太尼一起出售来快速逆转卡芬太尼中毒… https://t.co/cIE3wVHGIk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2007888165579989392",
+        "created_at": "2026-01-04T18:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T19:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007888165579989392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007888165579989392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算测一下Nalmefene+肉豆蔻素+3g苦参碱+少量伊博格碱看看能不能多重KOR做到鼠尾草素的效果，这下真是人类首创了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 872,
+          "like_count": 3659,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1833
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

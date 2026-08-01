@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1974817525042127060",
+    "created_at": "2025-10-08T14:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T15:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975934509926219950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        },
+        {
+          "end": 24,
+          "id": "1965393379224944645",
+          "start": 12,
+          "username": "hagishigure"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zhuanlan.zhihu.com/p/25169620059?…",
+          "end": 48,
+          "expanded_url": "https://zhuanlan.zhihu.com/p/25169620059?share_code=1bEcTeUNdPwra&utm_psn=1959385985159763222",
+          "start": 25,
+          "unwound_url": "https://zhuanlan.zhihu.com/p/25169620059?share_code=1bEcTeUNdPwra&utm_psn=1959385985159763222",
+          "url": "https://t.co/CYfcLCsyy0"
+        },
+        {
+          "display_url": "zhuanlan.zhihu.com/p/25484917165?…",
+          "end": 72,
+          "expanded_url": "https://zhuanlan.zhihu.com/p/25484917165?share_code=1n5tH00VMdDbV&utm_psn=1959387164065395327",
+          "start": 49,
+          "unwound_url": "https://zhuanlan.zhihu.com/p/25484917165?share_code=1n5tH00VMdDbV&utm_psn=1959387164065395327",
+          "url": "https://t.co/UB0lCRyx7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975934509926219950",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975926575964250567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax @hagishigure https://t.co/CYfcLCsyy0\nhttps://t.co/UB0lCRyx7P\n他应用取尖算法和膜电位机制还存在不少假说成位。、但是我认同其中切中了色度学的色貌核心机制问题的部分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1022,
+        "media_key": "3_1975926502605959168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vmr2obsAAREu4.png",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-08T14:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975934509926219950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            },
+            {
+              "end": 24,
+              "id": "1965393379224944645",
+              "start": 12,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/25169620059?…",
+              "end": 48,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/25169620059?share_code=1bEcTeUNdPwra&utm_psn=1959385985159763222",
+              "start": 25,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/25169620059?share_code=1bEcTeUNdPwra&utm_psn=1959385985159763222",
+              "url": "https://t.co/CYfcLCsyy0"
+            },
+            {
+              "display_url": "zhuanlan.zhihu.com/p/25484917165?…",
+              "end": 72,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/25484917165?share_code=1n5tH00VMdDbV&utm_psn=1959387164065395327",
+              "start": 49,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/25484917165?share_code=1n5tH00VMdDbV&utm_psn=1959387164065395327",
+              "url": "https://t.co/UB0lCRyx7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975934509926219950",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975926575964250567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax @hagishigure https://t.co/CYfcLCsyy0\nhttps://t.co/UB0lCRyx7P\n他应用取尖算法和膜电位机制还存在不少假说成位。、但是我认同其中切中了色度学的色貌核心机制问题的部分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975926502605959168"
+          ]
+        },
+        "author_id": "1971208789853675520",
+        "conversation_id": "1974817525042127060",
+        "created_at": "2025-10-08T14:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975926575964250567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 26,
+              "id": "1965393379224944645",
+              "start": 14,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wYIEqXb4kW",
+              "end": 67,
+              "expanded_url": "https://x.com/seroglumax/status/1975926575964250567/photo/1",
+              "media_key": "3_1975926502605959168",
+              "start": 44,
+              "url": "https://t.co/wYIEqXb4kW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975926575964250567",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975806393568666038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @hagishigure 我查了下ai，不知道对不对... https://t.co/wYIEqXb4kW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 760,
+          "like_count": 2905,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1140
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Observation Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "seroglumax",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 86,
+          "like_count": 2032,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 346
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

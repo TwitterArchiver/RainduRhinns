@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911008346133458944"
+      ],
+      "media_source_tweet_id": [
+        "1911008350692581442"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1911406497071854035",
+    "created_at": "2025-04-13T13:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T14:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911406497071854035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "33043715",
+          "start": 3,
+          "username": "inchoshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9cgKyXwAK",
+          "end": 102,
+          "expanded_url": "https://x.com/inchoshi/status/1911008350692581442/photo/1",
+          "media_key": "3_1911008346133458944",
+          "start": 79,
+          "url": "https://t.co/D9cgKyXwAK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911406497071854035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911008350692581442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inchoshi: 春になると少年装と花を想像しながら散策をしたくなります\nですので天気の良い今日は少年装で散策しましたよ\n菜の花も美しい季節ですね https://t.co/D9cgKyXwAK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2191,
+        "media_key": "3_1911008346133458944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVD90IXcAALEu8.jpg",
+        "width": 1642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911008346133458944"
+          ],
+          "media_source_tweet_id": [
+            "1911008350692581442"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1911406497071854035",
+        "created_at": "2025-04-13T13:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T14:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911406497071854035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "33043715",
+              "start": 3,
+              "username": "inchoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9cgKyXwAK",
+              "end": 102,
+              "expanded_url": "https://x.com/inchoshi/status/1911008350692581442/photo/1",
+              "media_key": "3_1911008346133458944",
+              "start": 79,
+              "url": "https://t.co/D9cgKyXwAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911406497071854035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911008350692581442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inchoshi: 春になると少年装と花を想像しながら散策をしたくなります\nですので天気の良い今日は少年装で散策しましたよ\n菜の花も美しい季節ですね https://t.co/D9cgKyXwAK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911008346133458944"
+          ]
+        },
+        "author_id": "33043715",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1911008350692581442",
+        "created_at": "2025-04-12T10:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T11:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911008350692581442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9cgKyXwAK",
+              "end": 88,
+              "expanded_url": "https://x.com/inchoshi/status/1911008350692581442/photo/1",
+              "media_key": "3_1911008346133458944",
+              "start": 65,
+              "url": "https://t.co/D9cgKyXwAK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911008350692581442",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 69475,
+          "like_count": 2661,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "春になると少年装と花を想像しながら散策をしたくなります\nですので天気の良い今日は少年装で散策しましたよ\n菜の花も美しい季節ですね https://t.co/D9cgKyXwAK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top PhD Trans ally 🏳️‍⚧️ speak 🇪🇸🇯🇵🇫🇷🇩🇪🇨🇳🇹🇷 好想要小男孩对象bot🥲",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 493,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 308
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-18T23:04:28.000Z",
+        "description": "少年的なものや少年装が好き",
+        "id": "33043715",
+        "name": "いんちょーし",
+        "pinned_tweet_id": "1601874809444454400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1276712283297607681/kGgrU7E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17050,
+          "following_count": 589,
+          "like_count": 101416,
+          "listed_count": 92,
+          "media_count": 5193,
+          "tweet_count": 163627
+        },
+        "username": "inchoshi",
+        "verified": false
+      }
+    ]
+  }
+}

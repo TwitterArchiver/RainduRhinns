@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1970562289893040542",
+    "created_at": "2025-09-23T19:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T20:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970578316529959020"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970578316529959020",
+    "in_reply_to_user_id": "1811843582229381123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970562289893040542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "含加分类\n25C-NBOMe:愉悦度5 深度/强度5.5 复杂度5.5 稳定性3 安全性3.5\nMMDA:愉悦度5.5/ 深度/强度4.5 复杂度4.5 稳定性4.5 安全性3\nDOM:愉悦度3 深度/强度3.5 复杂度5.5 稳定性5.5 安全性5 由于是本榜唯一安全性5分的DOx兴奋剂类额外加2分\nDOC:愉悦度3.5 深度/强度5 复杂度4.5 稳定性4 安全性4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1970562289893040542",
+        "created_at": "2025-09-23T19:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T20:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970578316529959020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970578316529959020",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970562289893040542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "含加分类\n25C-NBOMe:愉悦度5 深度/强度5.5 复杂度5.5 稳定性3 安全性3.5\nMMDA:愉悦度5.5/ 深度/强度4.5 复杂度4.5 稳定性4.5 安全性3\nDOM:愉悦度3 深度/强度3.5 复杂度5.5 稳定性5.5 安全性5 由于是本榜唯一安全性5分的DOx兴奋剂类额外加2分\nDOC:愉悦度3.5 深度/强度5 复杂度4.5 稳定性4 安全性4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1970562289893040542",
+        "created_at": "2025-09-23T18:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T19:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970562289893040542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970562289893040542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我试过的44种致幻剂里总分超过20的精品神药\nDOPr:愉悦度5 深度/强度5 复杂度4.5 稳定性4 安全度4 \n5MAPB:愉悦度4.5 深度/强度4.5 复杂度4 稳定性5 安全度4.5\n2CT4:愉悦度5 深度/强度5 复杂度5 稳定性3 安全度4(我对异丙基物质稳定性都不会＞3\n5MeODiPT:愉悦度4.5 深度/强度5 复杂度5 稳定性4 安全度4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1954924223811780638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 734,
+          "like_count": 2875,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 992
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2056759005125759091",
+    "created_at": "2026-05-19T15:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056759005125759091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056759005125759091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055889980170629174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 他们有些腰椎摔坏了\n有些被打的眼睛快要看不见了\n有些被拘留留了案底\n有些人的耳朵再也听不到了\n有些人自杀了\n有些人的声音我再也听不到了\n他们的脸我再也见不到了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2056759005125759091",
+        "created_at": "2026-05-19T15:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056759005125759091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056759005125759091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055889980170629174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 他们有些腰椎摔坏了\n有些被打的眼睛快要看不见了\n有些被拘留留了案底\n有些人的耳朵再也听不到了\n有些人自杀了\n有些人的声音我再也听不到了\n他们的脸我再也见不到了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2055889980170629174",
+        "created_at": "2026-05-17T05:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055889980170629174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2055883875516297389",
+              "start": 81,
+              "url": "https://t.co/FW0ufZAjhN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055889980170629174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 11484,
+          "like_count": 323,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055883875516297389",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他们有些腰椎摔坏了\n有些被打的眼睛快要看不见了\n有些被拘留留了案底\n有些人的耳朵再也听不到了\n有些人自杀了\n有些人的声音我再也听不到了\n他们的脸我再也见不到了… https://t.co/FW0ufZAjhN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 913,
+          "like_count": 4457,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2536
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5205,
+          "following_count": 2873,
+          "like_count": 2829,
+          "listed_count": 18,
+          "media_count": 416,
+          "tweet_count": 2789
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

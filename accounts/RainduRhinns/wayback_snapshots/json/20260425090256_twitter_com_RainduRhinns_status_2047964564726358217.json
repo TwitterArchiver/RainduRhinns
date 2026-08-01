@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2047964564726358217",
+    "created_at": "2026-04-25T09:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047964564726358217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ajisai1207_/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ajisai1207_/status/2047834845066174613",
+          "start": 5,
+          "url": "https://t.co/sgjwSdeJV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047964564726358217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047834845066174613",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/sgjwSdeJV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2047834171079565312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGteVCYaoAAWpvM.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2047964564726358217",
+        "created_at": "2026-04-25T09:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047964564726358217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ajisai1207_/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ajisai1207_/status/2047834845066174613",
+              "start": 5,
+              "url": "https://t.co/sgjwSdeJV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047964564726358217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047834845066174613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/sgjwSdeJV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047834171079565312"
+          ]
+        },
+        "author_id": "914028453174796293",
+        "conversation_id": "2047834845066174613",
+        "created_at": "2026-04-25T00:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047834845066174613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgqzvYkVBE",
+              "end": 60,
+              "expanded_url": "https://x.com/Ajisai1207_/status/2047834845066174613/photo/1",
+              "media_key": "3_2047834171079565312",
+              "start": 37,
+              "url": "https://t.co/DgqzvYkVBE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047834845066174613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 7255,
+          "like_count": 145,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "感觉C位一点也不像都督但是我的额度已用完惹，所以囚禁向游戏真的应该搞吧。 https://t.co/DgqzvYkVBE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 893,
+          "like_count": 4192,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 971,
+          "like_count": 14994,
+          "listed_count": 15,
+          "media_count": 640,
+          "tweet_count": 6747
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

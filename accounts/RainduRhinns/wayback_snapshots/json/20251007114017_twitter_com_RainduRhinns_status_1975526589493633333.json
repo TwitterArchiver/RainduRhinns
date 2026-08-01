@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1975523565614342485",
+    "created_at": "2025-10-07T11:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T12:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975526589493633333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975526589493633333",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975524523651837978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara IOA和IMO 如果IOL那草台班子也算集训队的话进过三个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1975523565614342485",
+        "created_at": "2025-10-07T11:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975526589493633333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975526589493633333",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975524523651837978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara IOA和IMO 如果IOL那草台班子也算集训队的话进过三个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1975523565614342485",
+        "created_at": "2025-10-07T11:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975524523651837978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975524523651837978",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975523565614342485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 我草，，佬你进的是国集吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 759,
+          "like_count": 2897,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1121
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。enby🏳️‍⚧️（跨性别认同），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt \n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 50,
+                "tag": "odtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 117,
+                "start": 103,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "shsh548866"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 506,
+          "like_count": 8340,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 3113
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

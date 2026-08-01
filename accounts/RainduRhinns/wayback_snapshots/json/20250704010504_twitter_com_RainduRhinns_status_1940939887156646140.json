@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940929719093882880"
+      ],
+      "media_source_tweet_id": [
+        "1940929732461449567"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1940939887156646140",
+    "created_at": "2025-07-04T01:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T02:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940939887156646140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1542192884501614592",
+          "start": 3,
+          "username": "doubao23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/doWhzIT1X3",
+          "end": 50,
+          "expanded_url": "https://x.com/doubao23333/status/1940929732461449567/photo/1",
+          "media_key": "3_1940929719093882880",
+          "start": 27,
+          "url": "https://t.co/doWhzIT1X3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940939887156646140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940929732461449567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doubao23333: 周五周五，敲锣打鼓 https://t.co/doWhzIT1X3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1940929719093882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu-RS8iW8AAndR-.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940929719093882880"
+          ],
+          "media_source_tweet_id": [
+            "1940929732461449567"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1940939887156646140",
+        "created_at": "2025-07-04T01:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T02:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940939887156646140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1542192884501614592",
+              "start": 3,
+              "username": "doubao23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/doWhzIT1X3",
+              "end": 50,
+              "expanded_url": "https://x.com/doubao23333/status/1940929732461449567/photo/1",
+              "media_key": "3_1940929719093882880",
+              "start": 27,
+              "url": "https://t.co/doWhzIT1X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940939887156646140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940929732461449567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doubao23333: 周五周五，敲锣打鼓 https://t.co/doWhzIT1X3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940929719093882880"
+          ]
+        },
+        "author_id": "1542192884501614592",
+        "conversation_id": "1940929732461449567",
+        "created_at": "2025-07-04T00:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T01:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940929732461449567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doWhzIT1X3",
+              "end": 33,
+              "expanded_url": "https://x.com/doubao23333/status/1940929732461449567/photo/1",
+              "media_key": "3_1940929719093882880",
+              "start": 10,
+              "url": "https://t.co/doWhzIT1X3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940929732461449567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 648,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "周五周五，敲锣打鼓 https://t.co/doWhzIT1X3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 599,
+          "like_count": 2350,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 369
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T17:07:09.000Z",
+        "description": "性别男，不找主不线下不约，也不接推广，墙内仅有微博账号，抖音账号均为盗图，请不要把我的图片转到墙内的网站，谢谢！也不卖原味！",
+        "id": "1542192884501614592",
+        "location": "香港",
+        "name": "豆包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935076879490502656/-ediEWpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100607,
+          "following_count": 1645,
+          "like_count": 24893,
+          "listed_count": 480,
+          "media_count": 821,
+          "tweet_count": 6785
+        },
+        "username": "doubao23333",
+        "verified": false
+      }
+    ]
+  }
+}

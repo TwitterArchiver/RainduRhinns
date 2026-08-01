@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2002051595987779827",
+    "created_at": "2025-12-19T16:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002051595987779827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/raindurhinns/status/2002047573922918597",
+          "start": 143,
+          "url": "https://t.co/79HJLuTXWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002051595987779827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002047573922918597",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当我说模式 信息 结构的物理存在也不是在可感层面比如语言信息要降级成发音文字或“日常交往”/神要获得类人的形象/模式得有些神经通路的基础甚至写进基因遗传…诸如此类的绕这个圈子就还是不接受其存在。很多时候不是和脑子没进入后现代的没法交流而是和算力不行对拿自然数集去试方程式x的坍缩式理解 https://t.co/79HJLuTXWt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2002051595987779827",
+        "created_at": "2025-12-19T16:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002051595987779827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/raindurhinns/status/2002047573922918597",
+              "start": 143,
+              "url": "https://t.co/79HJLuTXWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002051595987779827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002047573922918597",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当我说模式 信息 结构的物理存在也不是在可感层面比如语言信息要降级成发音文字或“日常交往”/神要获得类人的形象/模式得有些神经通路的基础甚至写进基因遗传…诸如此类的绕这个圈子就还是不接受其存在。很多时候不是和脑子没进入后现代的没法交流而是和算力不行对拿自然数集去试方程式x的坍缩式理解 https://t.co/79HJLuTXWt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2002047573922918597",
+        "created_at": "2025-12-19T16:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002047573922918597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002047573922918597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从来不觉得psychedelics是逃避现实我的意思是能够适应“自我”这件事不比任何概念更加自然或者本真…或许只能说这真是一种演化上的幸运算法趋于稳态收束的必然/熵 如同那些消失在历史之中的异常或超凡的个体只是种群塑造自适应了它的指数区间（没有一个人真正能代表“人”本身就是在说人与非人没有界限）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 859,
+          "like_count": 3523,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1706
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

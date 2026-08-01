@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2005942358773572061",
+    "created_at": "2025-12-30T10:01:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T11:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005942358773572061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neurocellpress…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/neurocellpress/status/1860000175152042437",
+          "start": 140,
+          "url": "https://t.co/EgdskhDq0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005942358773572061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860000175152042437",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "海马体“认知地图模型”的量化模型基准\n通过在动物穿梭于一系列几何结构不同的环境实验，将模型预测结果与观察到的神经元群体动态进行对比，建立了海马体认知地图理论模型的定量基准，确认海马体重映射动态中存在一种通用的表征结构并明确了其量化参数与可量化性\n对致幻剂几何状幻觉研究同样有启发 https://t.co/EgdskhDq0t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_1860000173419823104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdAMTZLagAAIb6Z.jpg",
+        "width": 695
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2005942358773572061",
+        "created_at": "2025-12-30T10:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T11:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005942358773572061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neurocellpress…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/neurocellpress/status/1860000175152042437",
+              "start": 140,
+              "url": "https://t.co/EgdskhDq0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005942358773572061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860000175152042437",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "海马体“认知地图模型”的量化模型基准\n通过在动物穿梭于一系列几何结构不同的环境实验，将模型预测结果与观察到的神经元群体动态进行对比，建立了海马体认知地图理论模型的定量基准，确认海马体重映射动态中存在一种通用的表征结构并明确了其量化参数与可量化性\n对致幻剂几何状幻觉研究同样有启发 https://t.co/EgdskhDq0t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860000173419823104"
+          ]
+        },
+        "author_id": "335461958",
+        "conversation_id": "1860000175152042437",
+        "created_at": "2024-11-22T16:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T17:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860000175152042437"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "CA1",
+              "probability": 0.5104,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "dlvr.it/TGKtSJ",
+              "end": 135,
+              "expanded_url": "http://dlvr.it/TGKtSJ",
+              "start": 112,
+              "status": 200,
+              "unwound_url": "https://www.cell.com/neuron/abstract/S0896-6273(24)00775-X?rss=yes&utm_medium=twitter&utm_source=dlvr.it",
+              "url": "https://t.co/5yluI9Ayy4"
+            },
+            {
+              "display_url": "pic.x.com/hSsll5p03K",
+              "end": 159,
+              "expanded_url": "https://x.com/NeuroCellPress/status/1860000175152042437/photo/1",
+              "media_key": "3_1860000173419823104",
+              "start": 136,
+              "url": "https://t.co/hSsll5p03K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860000175152042437",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3740,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Online now:  Identifying representational structure in CA1 to benchmark theoretical models of cognitive mapping https://t.co/5yluI9Ayy4 https://t.co/hSsll5p03K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 875,
+          "like_count": 3634,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-14T18:32:13.000Z",
+        "description": "Neuron publishes ground-breaking research papers, reviews & commentary across neuroscience and is a premier intellectual forum for the neuroscience community.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cell.com/neuron/home",
+                "end": 23,
+                "expanded_url": "http://www.cell.com/neuron/home",
+                "start": 0,
+                "url": "https://t.co/QrZRGB1vfc"
+              }
+            ]
+          }
+        },
+        "id": "335461958",
+        "location": "Cambridge MA",
+        "name": "Neuron",
+        "pinned_tweet_id": "1963263354408935585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220397622697111552/8g-Bk4AL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147429,
+          "following_count": 375,
+          "like_count": 997,
+          "listed_count": 751,
+          "media_count": 1579,
+          "tweet_count": 6594
+        },
+        "url": "https://t.co/QrZRGB1vfc",
+        "username": "NeuroCellPress",
+        "verified": false
+      }
+    ]
+  }
+}

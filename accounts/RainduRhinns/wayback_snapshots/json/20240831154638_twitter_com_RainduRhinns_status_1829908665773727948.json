@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1829908665773727948",
+    "created_at": "2024-08-31T15:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T16:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829908665773727948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811843582229381123",
+          "start": 3,
+          "username": "RainduRhinns"
+        },
+        {
+          "end": 32,
+          "id": "949561494303227904",
+          "start": 18,
+          "username": "Hazel69179542"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829908665773727948",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829903724426510853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainduRhinns: @Hazel69179542 错误的，先学类型论，孩子的第一本编程书一定要是龙书，然后让孩子对着Berkeley cs61学Scheme，学完一阶逻辑最后再学形式化验证，等孩子上大学自然就知道代数曲线为什么能被Scheme结构了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1829908665773727948",
+        "created_at": "2024-08-31T15:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T16:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829908665773727948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811843582229381123",
+              "start": 3,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 32,
+              "id": "949561494303227904",
+              "start": 18,
+              "username": "Hazel69179542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829908665773727948",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829903724426510853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainduRhinns: @Hazel69179542 错误的，先学类型论，孩子的第一本编程书一定要是龙书，然后让孩子对着Berkeley cs61学Scheme，学完一阶逻辑最后再学形式化验证，等孩子上大学自然就知道代数曲线为什么能被Scheme结构了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1829705273990434827",
+        "created_at": "2024-08-31T15:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T16:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829903724426510853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "949561494303227904",
+              "start": 0,
+              "username": "Hazel69179542"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829903724426510853",
+        "in_reply_to_user_id": "949561494303227904",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829705273990434827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hazel69179542 错误的，先学类型论，孩子的第一本编程书一定要是龙书，然后让孩子对着Berkeley cs61学Scheme，学完一阶逻辑最后再学形式化验证，等孩子上大学自然就知道代数曲线为什么能被Scheme结构了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top 纯而又纯的小男孩爱好者之-为什么我是壮汉.. PhD无偿辅导小男孩数学语言学竞赛（确信",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 129,
+          "like_count": 322,
+          "listed_count": 0,
+          "tweet_count": 27
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T08:41:17.000Z",
+        "description": "Elegance is not a dispensable luxury but a quality that decides between success and failure.",
+        "id": "949561494303227904",
+        "name": "locrian",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545416856374505472/NrEE4a6j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 396,
+          "like_count": 999,
+          "listed_count": 3,
+          "tweet_count": 459
+        },
+        "username": "Hazel69179542",
+        "verified": false
+      }
+    ]
+  }
+}

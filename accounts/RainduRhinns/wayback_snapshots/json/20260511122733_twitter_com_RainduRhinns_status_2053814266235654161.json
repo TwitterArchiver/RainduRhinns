@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2053814266235654161",
+    "created_at": "2026-05-11T12:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T13:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053814266235654161"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053814266235654161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根本不敢拿萨克斯去商演因为主播每次去演出一到即兴就忍不住开始发癫把一切都吹成freejazz开始灵魂鬼叫半个小时沉浸在自己的艺术世界里每次都把自己吹哭了满头大汗演完事后每次都被场地办方问演之前是不吸毒了…好怕被举报、、"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2053814266235654161",
+        "created_at": "2026-05-11T12:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053814266235654161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053814266235654161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根本不敢拿萨克斯去商演因为主播每次去演出一到即兴就忍不住开始发癫把一切都吹成freejazz开始灵魂鬼叫半个小时沉浸在自己的艺术世界里每次都把自己吹哭了满头大汗演完事后每次都被场地办方问演之前是不吸毒了…好怕被举报、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 902,
+          "like_count": 4329,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 2432
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

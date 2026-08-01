@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2054558973362331701",
+    "created_at": "2026-05-13T13:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T14:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054558973362331701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhongliu19/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/zhongliu19/status/2052959088758448466",
+          "start": 4,
+          "url": "https://t.co/pjupiOG4un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054558973362331701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052959088758448466",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我本人 https://t.co/pjupiOG4un"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2054558973362331701",
+        "created_at": "2026-05-13T13:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054558973362331701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhongliu19/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/zhongliu19/status/2052959088758448466",
+              "start": 4,
+              "url": "https://t.co/pjupiOG4un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054558973362331701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052959088758448466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我本人 https://t.co/pjupiOG4un"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399626060585598984",
+        "conversation_id": "2052959088758448466",
+        "created_at": "2026-05-09T03:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052959088758448466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052959088758448466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1501,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "每隔半小时打开推检查有没有小正太能因为我的淫乱劲（？）或者别的什么爱上我然后和我长相厮守一辈子（最终幻想）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩） 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 109,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 903,
+          "like_count": 4378,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 2472
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-01T07:17:25.000Z",
+        "description": "🌈男大0m，铁血正太控，非常寂寞非常寂寞非常寂寞，梦想是能穿着定制的白无垢出嫁，有一个属于自己的家\n纯种二次元，什么都听一点什么都玩一点，非常容易被人影响（会出现被前男友害得暂时不想看到某个ip某个角色之类的事，且精神状态极差\n欢迎同样的二次元扩列交友，万一能找到爱呢www（目的不纯）\n友链：@yoruranran",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 147,
+                "username": "yoruranran"
+              }
+            ]
+          }
+        },
+        "id": "1399626060585598984",
+        "location": "婚礼的梦中",
+        "name": "AAA鬼岛圆尾坂裁缝店首藤祸世",
+        "pinned_tweet_id": "2052756759677424110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042370147420442624/tr95Ss7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 653,
+          "like_count": 712,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 252
+        },
+        "username": "zhongliu19",
+        "verified": false
+      }
+    ]
+  }
+}

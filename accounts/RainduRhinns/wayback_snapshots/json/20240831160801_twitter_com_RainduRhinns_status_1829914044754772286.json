@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1829893963928780802",
+        "7_1829893963920388096"
+      ],
+      "media_source_tweet_id": [
+        "1829894028697194867",
+        "1829894028697194867"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1829914044754772286",
+    "created_at": "2024-08-31T16:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T17:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829914044754772286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656542221393604609",
+          "start": 3,
+          "username": "chixiaoyu0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v25l7ag61o",
+          "end": 52,
+          "expanded_url": "https://twitter.com/chixiaoyu0/status/1829894028697194867/video/1",
+          "media_key": "7_1829893963928780802",
+          "start": 29,
+          "url": "https://t.co/v25l7AG61o"
+        },
+        {
+          "display_url": "pic.x.com/v25l7ag61o",
+          "end": 52,
+          "expanded_url": "https://twitter.com/chixiaoyu0/status/1829894028697194867/video/1",
+          "media_key": "7_1829893963920388096",
+          "start": 29,
+          "url": "https://t.co/v25l7AG61o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829914044754772286",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829894028697194867",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chixiaoyu0: （2/5）这段不太好看🥺 https://t.co/v25l7AG61o"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1829914044754772286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1829914044754772286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1829914044754772286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140000,
+        "height": 1280,
+        "media_key": "7_1829893963928780802",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1829893963928780802/pu/img/JE_CKe_IwIMseBjM.jpg",
+        "public_metrics": {
+          "view_count": 153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963928780802/pu/vid/avc1/320x684/I7prTG9Ac-WSi5Nw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963928780802/pu/vid/avc1/480x1026/rjLERBKS2_jvKuZu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963928780802/pu/vid/avc1/598x1280/Hiwv_vkop3IYtAk9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963928780802/pu/pl/6BrNwzirYlWX7ipM.m3u8?tag=12"
+          }
+        ],
+        "width": 598
+      },
+      {
+        "duration_ms": 113826,
+        "height": 1280,
+        "media_key": "7_1829893963920388096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1829893963920388096/pu/img/T-8BLEFpLRZyARg4.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963920388096/pu/vid/avc1/320x684/ZQ3d_IFbuj8SMZgH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963920388096/pu/vid/avc1/480x1026/3EqOJlqPqAhiQT4I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963920388096/pu/vid/avc1/598x1280/7WZFWsLrinRlYW4m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1829893963920388096/pu/pl/ElgDVsSltjjaCoEf.m3u8?tag=12"
+          }
+        ],
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1829893963928780802",
+            "7_1829893963920388096"
+          ]
+        },
+        "author_id": "1656542221393604609",
+        "conversation_id": "1829894028697194867",
+        "created_at": "2024-08-31T14:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T15:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829894028697194867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v25l7ag61o",
+              "end": 36,
+              "expanded_url": "https://twitter.com/chixiaoyu0/status/1829894028697194867/video/1",
+              "media_key": "7_1829893963928780802",
+              "start": 13,
+              "url": "https://t.co/v25l7AG61o"
+            },
+            {
+              "display_url": "pic.x.com/v25l7ag61o",
+              "end": 36,
+              "expanded_url": "https://twitter.com/chixiaoyu0/status/1829894028697194867/video/1",
+              "media_key": "7_1829893963920388096",
+              "start": 13,
+              "url": "https://t.co/v25l7AG61o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829894028697194867",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 508,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "（2/5）这段不太好看🥺 https://t.co/v25l7AG61o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "186 87 Pure Top 纯而又纯的小男孩爱好者之-为什么我是壮汉.. PhD无偿辅导小男孩数学语言学竞赛（确信",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 129,
+          "like_count": 323,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T06:10:24.000Z",
+        "description": "萍水相逢 有缘无份",
+        "id": "1656542221393604609",
+        "location": "shenzheng",
+        "name": "迟小欲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811987928286904321/U4h_XYvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3738,
+          "following_count": 178,
+          "like_count": 128,
+          "listed_count": 5,
+          "tweet_count": 72
+        },
+        "username": "chixiaoyu0",
+        "verified": false
+      }
+    ]
+  }
+}

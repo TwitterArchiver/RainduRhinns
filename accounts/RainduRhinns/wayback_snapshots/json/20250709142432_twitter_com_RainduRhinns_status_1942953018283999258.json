@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942953007672336385"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1942953018283999258",
+    "created_at": "2025-07-09T14:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T15:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942953018283999258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5RYAwPoS0",
+          "end": 182,
+          "expanded_url": "https://x.com/RainduRhinns/status/1942953018283999258/photo/1",
+          "media_key": "3_1942953007672336385",
+          "start": 159,
+          "url": "https://t.co/u5RYAwPoS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942953018283999258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苯基吡拉西坦上重量还是挺猛的 心率130-150力量能提升15% 腿推很猛 力量上限和有氧耐力提升虽然不如反苯 但不会像反苯那样如果本身运动心率偏快上完力量会严重心率紊乱 需要严格监测血压区间和运动间隔锻炼会很麻烦 算力运动上明显不如DRI和反苯 Letcode提速7%左右 反苯偏低心率55-65可以稳定提速16％ https://t.co/u5RYAwPoS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_1942953007672336385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvbBd12WIAE0gU-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942953007672336385"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1942953018283999258",
+        "created_at": "2025-07-09T14:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942953018283999258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5RYAwPoS0",
+              "end": 182,
+              "expanded_url": "https://x.com/RainduRhinns/status/1942953018283999258/photo/1",
+              "media_key": "3_1942953007672336385",
+              "start": 159,
+              "url": "https://t.co/u5RYAwPoS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942953018283999258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苯基吡拉西坦上重量还是挺猛的 心率130-150力量能提升15% 腿推很猛 力量上限和有氧耐力提升虽然不如反苯 但不会像反苯那样如果本身运动心率偏快上完力量会严重心率紊乱 需要严格监测血压区间和运动间隔锻炼会很麻烦 算力运动上明显不如DRI和反苯 Letcode提速7%左右 反苯偏低心率55-65可以稳定提速16％ https://t.co/u5RYAwPoS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 613,
+          "like_count": 2436,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 394
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

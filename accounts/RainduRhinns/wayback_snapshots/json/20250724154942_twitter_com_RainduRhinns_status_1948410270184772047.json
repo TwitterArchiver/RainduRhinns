@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948410256771497984"
+      ]
+    },
+    "author_id": "1811843582229381123",
+    "conversation_id": "1948410270184772047",
+    "created_at": "2025-07-24T15:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T16:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948410270184772047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M52w4CDpdB",
+          "end": 88,
+          "expanded_url": "https://x.com/RainduRhinns/status/1948410270184772047/photo/1",
+          "media_key": "3_1948410256771497984",
+          "start": 65,
+          "url": "https://t.co/M52w4CDpdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948410270184772047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好消息是干出味觉了坏消息致幻剂影响空间能力对所有需要空间想能力的智力竞技都是绝对负作用好消息是如果空间想像能力强将获得手动过山车 https://t.co/M52w4CDpdB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1948410256771497984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwokzi-XwAAn1nr.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948410256771497984"
+          ]
+        },
+        "author_id": "1811843582229381123",
+        "conversation_id": "1948410270184772047",
+        "created_at": "2025-07-24T15:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948410270184772047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M52w4CDpdB",
+              "end": 88,
+              "expanded_url": "https://x.com/RainduRhinns/status/1948410270184772047/photo/1",
+              "media_key": "3_1948410256771497984",
+              "start": 65,
+              "url": "https://t.co/M52w4CDpdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948410270184772047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好消息是干出味觉了坏消息致幻剂影响空间能力对所有需要空间想能力的智力竞技都是绝对负作用好消息是如果空间想像能力强将获得手动过山车 https://t.co/M52w4CDpdB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 623,
+          "like_count": 2551,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 454
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

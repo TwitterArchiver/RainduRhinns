@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1953787463727538185",
+    "created_at": "2025-08-08T11:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T12:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953787463727538185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vvv8964/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/vvv8964/status/1953778150686806100",
+          "start": 5,
+          "url": "https://t.co/WZtVALAwOZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953787463727538185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953778150686806100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赵紫阳懂 https://t.co/WZtVALAwOZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1953787463727538185",
+        "created_at": "2025-08-08T11:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953787463727538185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vvv8964/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/vvv8964/status/1953778150686806100",
+              "start": 5,
+              "url": "https://t.co/WZtVALAwOZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953787463727538185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953778150686806100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赵紫阳懂 https://t.co/WZtVALAwOZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1953778150686806100",
+        "created_at": "2025-08-08T11:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T12:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953778150686806100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guhh65534615/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/guhh65534615/status/1953731228961509427",
+              "start": 11,
+              "url": "https://t.co/iin69LFtGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953778150686806100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953731228961509427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉习近平好可爱谁懂 https://t.co/iin69LFtGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 655,
+          "like_count": 2690,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 604
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Vancouver, British Columbia",
+        "name": "VVV",
+        "pinned_tweet_id": "1899626980380995781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949730171650801664/3UKlCQb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 308,
+          "like_count": 2038,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2849
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

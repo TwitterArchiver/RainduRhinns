@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2013863529070371049",
+    "created_at": "2026-01-21T06:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013863529070371049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3he2_ka1r0/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/3he2_ka1r0/status/2013834378430845083",
+          "start": 9,
+          "url": "https://t.co/nqRslQDBWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013863529070371049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013834378430845083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“死于极乐之日” https://t.co/nqRslQDBWd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2013863529070371049",
+        "created_at": "2026-01-21T06:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013863529070371049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3he2_ka1r0/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/3he2_ka1r0/status/2013834378430845083",
+              "start": 9,
+              "url": "https://t.co/nqRslQDBWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013863529070371049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013834378430845083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“死于极乐之日” https://t.co/nqRslQDBWd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2013834378430845083",
+        "created_at": "2026-01-21T04:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013834378430845083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013834378430845083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底是谁教的pea+maoi联用安非他酮的🙄🙄还要鼻吸我的天哪，到底是谁教的破玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDNEbs"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 877,
+          "like_count": 3697,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1914
+        },
+        "url": "https://t.co/bbS8wDNEbs",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2006743967904489953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 418,
+          "like_count": 78858,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 3280
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

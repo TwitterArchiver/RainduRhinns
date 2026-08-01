@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1940766565252976992",
+    "created_at": "2025-07-06T09:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T10:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941787801864839271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1096707065928536064",
+          "start": 0,
+          "username": "OTHERPEOPL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941787801864839271",
+    "in_reply_to_user_id": "1096707065928536064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940766565252976992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTHERPEOPL 想看你当伪娘"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5351,
+        "height": 720,
+        "media_key": "13_1940766488086134784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940766488086134784/img/HHYK2TGoVbVWEbZD.jpg",
+        "public_metrics": {
+          "view_count": 1328
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940766488086134784/vid/avc1/480x270/klpehc93bx2NN1HU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940766488086134784/vid/avc1/640x360/7P4grDbdbMB1l2WW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940766488086134784/vid/avc1/1280x720/1AM0jjW7mLRBH2dR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940766488086134784/pl/R7U-CSxWttSlQMV2.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1940766565252976992",
+        "created_at": "2025-07-06T09:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T10:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941787801864839271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1096707065928536064",
+              "start": 0,
+              "username": "OTHERPEOPL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941787801864839271",
+        "in_reply_to_user_id": "1096707065928536064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940766565252976992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTHERPEOPL 想看你当伪娘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940766488086134784"
+          ]
+        },
+        "author_id": "1096707065928536064",
+        "conversation_id": "1940766565252976992",
+        "created_at": "2025-07-03T13:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940766565252976992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9ncqS4gjJ",
+              "end": 34,
+              "expanded_url": "https://x.com/OTHERPEOPL/status/1940766565252976992/video/1",
+              "media_key": "13_1940766488086134784",
+              "start": 11,
+              "url": "https://t.co/c9ncqS4gjJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940766565252976992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4264,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我不如一个伪娘😡😡😡 https://t.co/c9ncqS4gjJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "想和小男孩谈恋爱bot 性压抑国男 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 602,
+          "like_count": 2359,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 371
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-16T09:45:15.000Z",
+        "description": "喜欢高的正常人。",
+        "id": "1096707065928536064",
+        "location": "淮安",
+        "name": "卑微小舟",
+        "pinned_tweet_id": "1639578098151874561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642876390281469953/HeSt_D8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9091,
+          "following_count": 593,
+          "like_count": 315,
+          "listed_count": 63,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "username": "OTHERPEOPL",
+        "verified": false
+      }
+    ]
+  }
+}

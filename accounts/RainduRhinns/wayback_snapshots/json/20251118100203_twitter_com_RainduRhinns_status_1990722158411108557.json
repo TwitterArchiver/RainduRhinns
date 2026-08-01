@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1990722158411108557",
+    "created_at": "2025-11-18T10:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990722158411108557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "209574461",
+          "start": 3,
+          "username": "bertogliolab"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Science China Life Sciences -",
+          "display_url": "doi.org/10.1007/s11427…",
+          "end": 118,
+          "expanded_url": "https://doi.org/10.1007/s11427-025-3105-2",
+          "images": [
+            {
+              "height": 1104,
+              "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=orig",
+              "width": 816
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 95,
+          "status": 200,
+          "title": "Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders",
+          "unwound_url": "https://link.springer.com/article/10.1007/s11427-025-3105-2?error=cookies_not_supported&code=0230bd02-0b54-48ab-be16-6af3c61dbe0c",
+          "url": "https://t.co/xbiZl8RmeN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990722158411108557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990719964123189258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bertogliolab: Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders\nhttps://t.co/xbiZl8RmeN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1990722158411108557",
+        "created_at": "2025-11-18T10:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990722158411108557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "209574461",
+              "start": 3,
+              "username": "bertogliolab"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Science China Life Sciences -",
+              "display_url": "doi.org/10.1007/s11427…",
+              "end": 118,
+              "expanded_url": "https://doi.org/10.1007/s11427-025-3105-2",
+              "images": [
+                {
+                  "height": 1104,
+                  "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=orig",
+                  "width": 816
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders",
+              "unwound_url": "https://link.springer.com/article/10.1007/s11427-025-3105-2?error=cookies_not_supported&code=0230bd02-0b54-48ab-be16-6af3c61dbe0c",
+              "url": "https://t.co/xbiZl8RmeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990722158411108557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990719964123189258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bertogliolab: Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders\nhttps://t.co/xbiZl8RmeN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "209574461",
+        "conversation_id": "1990719964123189258",
+        "created_at": "2025-11-18T09:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990719964123189258"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Psychedelic",
+              "probability": 0.5664,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Science China Life Sciences -",
+              "display_url": "doi.org/10.1007/s11427…",
+              "end": 100,
+              "expanded_url": "https://doi.org/10.1007/s11427-025-3105-2",
+              "images": [
+                {
+                  "height": 1104,
+                  "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=orig",
+                  "width": 816
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990720014064713728/m0Slurlh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders",
+              "unwound_url": "https://link.springer.com/article/10.1007/s11427-025-3105-2?error=cookies_not_supported&code=0230bd02-0b54-48ab-be16-6af3c61dbe0c",
+              "url": "https://t.co/xbiZl8RmeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990719964123189258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Psychedelic therapy: a paradigm shift in treating neuropsychiatric disorders\nhttps://t.co/xbiZl8RmeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 833,
+          "like_count": 3216,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1466
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-29T13:12:43.000Z",
+        "description": "Catch the latest updates on aversive learning & memory, anxiety, fear, stress, and effects of psychedelics and cannabinoids from our rodent lab and others!",
+        "id": "209574461",
+        "location": "Florianopolis, SC, Brazil",
+        "name": "Bertoglio lab (FMC/UFSC)",
+        "pinned_tweet_id": "1930192923095646422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1247225737/Plus-maze_300_dpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 718,
+          "like_count": 3536,
+          "listed_count": 16,
+          "media_count": 102,
+          "tweet_count": 6960
+        },
+        "username": "bertogliolab",
+        "verified": false
+      }
+    ]
+  }
+}

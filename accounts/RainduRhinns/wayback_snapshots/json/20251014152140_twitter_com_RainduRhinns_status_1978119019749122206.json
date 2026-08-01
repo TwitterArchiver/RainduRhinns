@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1978094997367918911",
+    "created_at": "2025-10-14T15:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T16:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978119019749122206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "522147771",
+          "start": 0,
+          "username": "N_N_DPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978119019749122206",
+    "in_reply_to_user_id": "522147771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978094997367918911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N_N_DPT 跟0号胶囊像不了一点，像AET和TA吲哚丙胺家族还差不多，5-MeOAMT物质的对映体（S）开发不知道为何有很大空白 而且（S） AMT实际上就隐藏在LSD的结构中，它是通过对映体寻找介于环化色胺和苯丙胺之间的物质的重要入口"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1978094987502858240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Oa6SYWsAAHt-f.jpg",
+        "width": 573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1978094997367918911",
+        "created_at": "2025-10-14T15:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978119019749122206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "522147771",
+              "start": 0,
+              "username": "N_N_DPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978119019749122206",
+        "in_reply_to_user_id": "522147771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978094997367918911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N_N_DPT 跟0号胶囊像不了一点，像AET和TA吲哚丙胺家族还差不多，5-MeOAMT物质的对映体（S）开发不知道为何有很大空白 而且（S） AMT实际上就隐藏在LSD的结构中，它是通过对映体寻找介于环化色胺和苯丙胺之间的物质的重要入口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978094987502858240"
+          ]
+        },
+        "author_id": "522147771",
+        "conversation_id": "1978094997367918911",
+        "created_at": "2025-10-14T13:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T14:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978094997367918911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UY4B4ynVcd",
+              "end": 164,
+              "expanded_url": "https://x.com/N_N_DPT/status/1978094997367918911/photo/1",
+              "media_key": "3_1978094987502858240",
+              "start": 141,
+              "url": "https://t.co/UY4B4ynVcd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978094997367918911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 458,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "5-meo-amt竟然公开贩卖\n这和卖摇头玩有什么区别\n该物质坠机几率大，5mg都甚至引起血清素综合征，这个是带5位数甲氧基的amt，劲更大\n骨架是苯丙胺的骨架，继承了催情和致幻，很像0号胶囊\n5-MeO-AMT在中国于2021年被列入\n非药用类麻醉药品和精神药品管制品种增补目录 https://t.co/UY4B4ynVcd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 761,
+          "like_count": 3008,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1253
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 2352,
+          "like_count": 807,
+          "listed_count": 5,
+          "media_count": 177,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

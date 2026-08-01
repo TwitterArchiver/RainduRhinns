@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1998357576485146969",
+    "created_at": "2025-12-09T11:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T12:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998357576485146969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raindurhinns/s…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/raindurhinns/status/1998054199456907526",
+          "start": 99,
+          "url": "https://t.co/AQoFdOeUC0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998357576485146969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998054199456907526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "IC-26-Methiodone真是太美妙了…它的体感峰值比美沙酮多很多次 不仅时间更长峰值来的也更温柔更缓释 没有容易反弹的兴奋感 长时间体感的平均强度更高 绝对是海洛因的最佳代替品 我爱不释手 https://t.co/AQoFdOeUC0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998357576485146969",
+        "created_at": "2025-12-09T11:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998357576485146969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raindurhinns/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/raindurhinns/status/1998054199456907526",
+              "start": 99,
+              "url": "https://t.co/AQoFdOeUC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998357576485146969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998054199456907526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "IC-26-Methiodone真是太美妙了…它的体感峰值比美沙酮多很多次 不仅时间更长峰值来的也更温柔更缓释 没有容易反弹的兴奋感 长时间体感的平均强度更高 绝对是海洛因的最佳代替品 我爱不释手 https://t.co/AQoFdOeUC0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1998054199456907526",
+        "created_at": "2025-12-08T15:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998054199456907526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998054199456907526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回避型依恋听起来很像我和吗啡们的关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 848,
+          "like_count": 3365,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1576
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

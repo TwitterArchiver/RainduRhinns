@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2046951945165037991",
+    "created_at": "2026-04-23T06:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047204337336926351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1924482734396997632",
+          "start": 0,
+          "username": "_vvni_"
+        },
+        {
+          "end": 20,
+          "id": "2043994337126563840",
+          "start": 8,
+          "username": "Lomyral8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047204337336926351",
+    "in_reply_to_user_id": "1924482734396997632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047010221176852803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vvni_ @Lomyral8964 我每次用色胺都会有明显的像大麻那样的又腻又饿的感觉，而且会感到全身的消化器官都在动像晕车的感觉尽管吃了昂丹，但是我吃度洛西汀snri什么的会没食欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2046951945165037991",
+        "created_at": "2026-04-23T06:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047204337336926351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1924482734396997632",
+              "start": 0,
+              "username": "_vvni_"
+            },
+            {
+              "end": 20,
+              "id": "2043994337126563840",
+              "start": 8,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047204337336926351",
+        "in_reply_to_user_id": "1924482734396997632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047010221176852803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vvni_ @Lomyral8964 我每次用色胺都会有明显的像大麻那样的又腻又饿的感觉，而且会感到全身的消化器官都在动像晕车的感觉尽管吃了昂丹，但是我吃度洛西汀snri什么的会没食欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924482734396997632",
+        "conversation_id": "2046951945165037991",
+        "created_at": "2026-04-22T17:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047010221176852803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 26,
+              "id": "2043994337126563840",
+              "start": 14,
+              "username": "Lomyral8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047010221176852803",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046965174788407597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns @Lomyral8964 血清素一高真的还能有任何食欲吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 今天届到正太了吗bot 炫压抑国男PhD 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 107,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/lhqChle3lX"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2009678167712358901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 893,
+          "like_count": 4179,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/lhqChle3lX",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-19T15:11:13.000Z",
+        "description": "一般路过",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/christina40514",
+                "end": 23,
+                "expanded_url": "https://ngl.link/christina40514",
+                "start": 0,
+                "url": "https://t.co/VZuVq6aHcM"
+              }
+            ]
+          }
+        },
+        "id": "1924482734396997632",
+        "location": "被窝",
+        "name": "Vvni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 329,
+          "like_count": 37791,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/VZuVq6aHcM",
+        "username": "_vvni_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T10:06:53.000Z",
+        "description": "大号@Lomyral。enby，he/they。互关寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "Lomyral"
+              }
+            ]
+          }
+        },
+        "id": "2043994337126563840",
+        "name": "Larymol",
+        "pinned_tweet_id": "2046873757164438002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043994610247368704/9oRpXu3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 89,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 45
+        },
+        "username": "Lomyral8964",
+        "verified": false
+      }
+    ]
+  }
+}

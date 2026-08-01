@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1988592638216564959",
+    "created_at": "2025-11-13T17:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T18:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989015704880968178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989015704880968178",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988592638216564959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 1200mg普瑞跟600mg有什么区别吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1988592638216564959",
+        "created_at": "2025-11-13T17:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989015704880968178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989015704880968178",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988592638216564959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 1200mg普瑞跟600mg有什么区别吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1988592638216564959",
+        "created_at": "2025-11-12T13:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T14:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988592638216564959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988592638216564959",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1086,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真你妈狂乱的鸡尾酒了。普瑞巴林1200mg，巴氯芬20mg，氟桂利嗪10mg，硝苯地平10mg。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 800,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1411
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 729,
+          "like_count": 11554,
+          "listed_count": 4,
+          "media_count": 167,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "1954142102939382188",
+    "created_at": "2025-08-09T11:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T12:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954145507162591495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954145507162591495",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954142102939382188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara 鼻吸或者雾化，不建议喷瓶容易被鼻毛和鼻腔液阻挡一些，可以吸之前和后用盐水喷一下鼻子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "1954142102939382188",
+        "created_at": "2025-08-09T11:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954145507162591495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954145507162591495",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954142102939382188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 鼻吸或者雾化，不建议喷瓶容易被鼻毛和鼻腔液阻挡一些，可以吸之前和后用盐水喷一下鼻子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1954142102939382188",
+        "created_at": "2025-08-09T11:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T12:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954142102939382188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954142102939382188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以dmt应该吸鼻子里还是塞屁股里呢...\n吸鼻子里方便，而且更像传统意义上的吸毒。但是对我来说应该会很痛苦，我有鼻炎最近也经常流鼻血。\n塞屁股里劲更大，但是好麻烦我没买胶囊...要不用糯米纸替代胶囊吧哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人",
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1950649018427830305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 656,
+          "like_count": 2704,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 620
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "L-星团",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 287,
+          "like_count": 2228,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1010
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}
