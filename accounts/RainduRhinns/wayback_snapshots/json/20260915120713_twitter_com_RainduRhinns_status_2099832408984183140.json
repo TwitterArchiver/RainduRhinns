@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1811843582229381123",
+    "conversation_id": "2099832408984183140",
+    "created_at": "2026-09-15T12:07:13.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099832408984183140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prechaska/stat…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/prechaska/status/2094066815148470654",
+          "start": 28,
+          "url": "https://t.co/WLz6nOYBYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099832408984183140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094066815148470654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主播太忙已有职转生 平时药效中才想起来打开推特 感动中 https://t.co/WLz6nOYBYS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811843582229381123",
+        "conversation_id": "2099832408984183140",
+        "created_at": "2026-09-15T12:07:13.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099832408984183140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prechaska/stat…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/prechaska/status/2094066815148470654",
+              "start": 28,
+              "url": "https://t.co/WLz6nOYBYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099832408984183140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094066815148470654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主播太忙已有职转生 平时药效中才想起来打开推特 感动中 https://t.co/WLz6nOYBYS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2094066815148470654",
+        "created_at": "2026-08-30T14:16:49.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094066815148470654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094066815148470654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人知道Rhinnschneevall去哪儿了吗，好久没在推上见到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨Gay top 超级正太控请小男孩和我玩）炫压抑国男PhD转型男同博主失败中 促智药爱好者 业余的药物使用/神经科学/医学人类学/神经药理学/法医学内容博客 psychedelics lover 致幻剂使用和研究爱好者 #Drugtwt 有提问箱↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099832408984183140",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "2055874505030111627",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 875,
+          "like_count": 4478,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 2571
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099739175243468836",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 193,
+          "like_count": 5627,
+          "listed_count": 1,
+          "media_count": 194,
+          "tweet_count": 2342
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
